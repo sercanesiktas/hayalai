@@ -1,0 +1,3 @@
+prompts.csv linguist-generated=true
+promptlar/*.md linguist-documentation=true
+uretim/*.php linguist-vendored=true
