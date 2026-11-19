@@ -14,7 +14,7 @@ Cinematic editorial poster. The person from the reference photo, same face, same
 
 ## Romantic Sunset Beach Silhouette
 
-> Görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Sahil sahnesi üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 A romantic and peaceful silhouette of a {argument name="subject" default="couple sitting closely together"} on a wooden bench, nestled under a large beach umbrella. They are positioned on a sandy shore, looking out toward a calm ocean as the sun dips toward the horizon. The sky is a stunning gradient of warm oranges, soft pinks, and deep purples, with the {argument name="lighting" default="golden light of the setting sun"} reflecting brilliantly off the gentle waves. In the distance, the faint outline of a coastline with rugged cliffs and distant lights adds a sense of place to the serene atmosphere. The overall mood is intimate and tranquil.
@@ -53,7 +53,7 @@ Create a high-fashion editorial portrait of a young womenn from the reference im
 
 ## Sunlit Ladder Lifestyle Shot
 
-> Fotogerçekçi, sinematik görsel üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, sinematik fotoğraf üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Ultra-realistic 8K photorealistic cinematic editorial image, 4:5. A young woman sitting on top of a red step ladder outdoors under a vivid blue sky with scattered white clouds. Full-body framing, subject clearly visible including legs and shoes. Pose: seated on ladder, body upright. Orientation: facing LEFT. Head tilt: slightly tilted upward. Gaze: upward. Expression: calm, relaxed, eyes closed or softly shut.
@@ -66,7 +66,7 @@ Camera angle: slightly low angle looking up. Maintain original composition and f
 
 ## Surreal Cosmetic Ballroom Advertisement
 
-> Lüks görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Lüks fantastik sahne üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 An elegant, high-end advertisement for "{argument name="brand name" default="AM Cosmetics"}" showcases a colossal, {argument name="lipstick color" default="rose-pink"} lipstick as the centerpiece of a palatial, silver-toned ballroom. The lipstick tube is encrusted with brilliant, shimmering diamonds on its base and sits atop a plush, circular velvet ottoman. A woman in a sparkling, floor-length silver evening gown leans gracefully against the oversized cosmetic, holding a standard-sized version of the same lipstick.
@@ -91,7 +91,7 @@ A close-up, high-fashion portrait of a {argument name="subject" default="woman w
 
 ## Avant-Garde Luxury Editorial Advertisement
 
-> Fotogerçekçi, sinematik moda çekimi üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, sinematik fotoğraf üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 High-fashion editorial advertisement for a luxury brand named "LUXORA". A {argument name="subject" default="sophisticated woman with a sleek ponytail"} poses elegantly while seated inside the frame of a {argument name="prop" default="massive, oversized black tennis racket that serves as a chair"}. She wears a {argument name="outfit" default="floor-length, avant-garde velvet gown in deep navy blue with sharp, cream-colored pleated accents"}. The background is a minimalist, high-gloss champagne gold studio with the word "LUXORA" embossed in large, metallic gold typography. In the foreground, a diamond-encrusted gold star brooch sits on the reflective floor. Lighting is soft, cinematic, and expensive-looking, emphasizing textures of velvet, carbon fiber, and polished gold. 8k resolution, photorealistic, Vogue aesthetic.
@@ -99,7 +99,7 @@ High-fashion editorial advertisement for a luxury brand named "LUXORA". A {argum
 
 ## Crimson Tech-wear Aesthetic Portrait
 
-> Sinematik, fütüristik YouTube küçük resmi üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Sinematik, fütüristik portre üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 A cinematic, high-energy digital art piece in a {argument name="color palette" default="monochromatic crimson red color palette"}. Centered is a {argument name="subject" default="young male model"} with a sharp, intense expression, wearing a stylish, oversized red streetwear outfit including a cropped jacket and cargo pants with long, flowing fabric ribbons caught in motion. He is surrounded by multiple floating, translucent UI screens displaying the interface of an X (formerly Twitter) profile. The screens feature the handle "{argument name="handle" default="@OzairAI"}," a verified blue checkmark, profile bio text about AI influencing, and a feed of posts showing "PROMPT" art thumbnails. In the background, a large neon glowing X logo sits on a wall with dark, metallic circuit-board textures. The ground is a red industrial metal grate. The lighting is dramatic, with high contrast, glowing red neon accents, and a shallow depth of field with blurred UI elements in the foreground. High-resolution, 8k, futuristic tech-wear aesthetic.
@@ -115,7 +115,7 @@ A vertical cinematic montage poster in the style of {argument name="style" defau
 
 ## Luxury Watch Magazine Advertisement
 
-> Fotogerçekçi, minimal ürün fotoğrafı üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, minimal portre üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 A high-end, vertical magazine advertisement features a split-panel design, combining a professional lifestyle portrait with a detailed product catalog for a luxury watch brand named '{argument name="brand name" default="ROX"}.' On the left, a large, warm-toned photograph shows a handsome young man in a {argument name="outfit" default="navy blazer and charcoal turtleneck"}, smiling as he leans over a desk with a fountain pen and notebook, clearly displaying a ROX watch on his wrist. To the right, a sleek white sidebar titled 'THE ROX COLLECTION' is structured like a menu, featuring three distinct watch models stacked vertically: a silver 'Aethelred Classic' with a leather strap, a black 'Solis Diver' with a rubber strap, and a rose gold 'Luna Chronograph' with a gold mesh bracelet. Below each product image are precise text descriptions detailing materials, case size, movement, and water resistance, all written in clean, legible fonts. The entire composition is framed by elegant serif branding at the very top reading '{argument name="headline" default="ROX: TIMELESS ELEGANCE"},' a tagline at the bottom stating 'ROX THE ART OF TIME,' and a final line of smaller text listing the website and collection details, all rendered with sharp focus and ultra-photorealistic detail.
@@ -131,7 +131,7 @@ A detailed poster featuring a muscular young man walking with confidence towards
 
 ## Classic Fine Art Charcoal Drawing Prompt
 
-> Elle çizilmiş, lüks görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Elle çizilmiş, lüks kadın figürlü görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 A beautiful, vertical {argument name="medium" default="charcoal drawing"} of a {argument name="subject" default="young woman tenderly cradling her infant child"}. The style is {argument name="art style" default="classic fine art"} with expressive, soft charcoal strokes and rich smudged textures on textured cream-colored paper. The mother has her eyes gently closed, resting her head against the baby's, while the baby gazes up at her with a soft smile. High-contrast lighting creates deep shadows and bright highlights, emphasizing the emotional bond and the intricate details of the hair and knit clothing. Elegant, timeless, and hand-drawn aesthetic.
@@ -147,7 +147,7 @@ A high-energy, vertical sports advertisement poster featuring a {argument name="
 
 ## Neo-Noir Editorial Collage
 
-> Fotogerçekçi, sinematik yemek görseli üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, sinematik kolaj üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 A 2x2 grid of cinematic, hyper-realistic editorial portraits of a {argument name="subject" default="young women"}(keep the facial features unchanged as uploaded image)with a sharp jawline and dark, textured hair. The aesthetic is {argument name="style" default="Neo-Noir dark fantasy"}, blending high-fashion streetwear with surreal, symbolic elements. The color palette is strictly limited to {argument name="colors" default="deep crimson, obsidian black, and crisp white"}.
@@ -195,7 +195,7 @@ A powerful, athletic woman sitting confidently on a concrete gym bench. She is l
 
 ## Fitness Campaign Studio Poster
 
-> Fotogerçekçi, sinematik logo üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, sinematik afiş üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Ultra-realistic high-end fitness campaign poster featuring a {argument name="subject" default="young man"} (use my face), sharp jawline, confident intense expression, slightly sweaty skin with cinematic highlights. He is seated casually between {argument name="equipment" default="two oversized matte-black hex dumbbells (150 KG)"}, one arm resting on the weight, body slightly angled, legs extended in a relaxed but powerful pose.
@@ -215,7 +215,7 @@ Composition: low-angle perspective to enhance dominance, centered framing, high 
 
 ## Cinematic Gothic Winter Portrait
 
-> Fotogerçekçi, sinematik moda çekimi üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, sinematik portre üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Ultra-realistic cinematic low-angle portrait of a {argument name="subject" default="stoic young man"}, strong masculine features, sharp jawline, light mustache and short beard, slightly messy medium-length dark brown hair swept naturally by cold wind, wearing round dark vintage sunglasses, a {argument name="clothing" default="heavy black wool overcoat"} layered over a black turtleneck sweater. He stands confidently under a cold overcast winter sky filled with {argument name="atmosphere" default="dense grey fog and soft atmospheric haze"}. Snowflakes are falling heavily across the frame, creating depth and dramatic foreground blur. In the background, several black ravens are flying mid-air with soft motion blur and bokeh effect, adding a mysterious gothic atmosphere. Moody dark aesthetic, desaturated color grading, muted grey-black palette, high contrast shadows, cinematic tension, subtle dramatic rim lighting on face and coat edges, soft diffused natural light from cloudy sky, filmic composition, powerful fashion editorial style, luxury dark academia vibe, mysterious and elegant expression, ultra-detailed skin texture, realistic beard details, fabric texture highly visible, shallow depth of field, shot on 35mm film, grainy texture, volumetric fog, masterpiece composition, hyper realistic, award-winning portrait photography, 8K ultra HD, photorealistic, cinematic masterpiece.
@@ -234,7 +234,7 @@ A full-body fashion editorial featuring a {argument name="subject" default="conf
 
 ## L'Officiel Magazine Editorial Portrait
 
-> Lüks moda çekimi üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Lüks portre üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 {
@@ -278,7 +278,7 @@ A full-body fashion editorial featuring a {argument name="subject" default="conf
 
 ## Editorial Magazine Cover Portrait
 
-> Fotogerçekçi, lüks moda çekimi üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, lüks portre üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Create a hyper-realistic, high-contrast, black and white portrait of a strikingly handsome man for a {argument name="magazine" default="Lyntila"} magazine cover. The subject has dark, slightly tousled, wavy hair and a neatly trimmed, subtle beard and mustache. Use 100% same face and hair style as in uploaded image. His expression is intense and direct, with a pensive, smoldering gaze fixed right at the camera. He is positioned in a medium-close-up shot, dominating the frame. He is wearing a {argument name="outfit" default="crisp, white, long-sleeved dress shirt"}, unbuttoned slightly at the collar, emphasizing a classy, relaxed style. His left arm is bent, with his hand delicately resting on his jawline/chin. A prominent luxury stainless steel chronograph watch with a metal link bracelet is clearly visible on his wrist, catching the light. The lighting is dramatic and professional, utilizing hard studio light from the side to create deep, sculpted shadows that highlight his sharp jawline, cheekbones, and the texture of his hair and shirt fabric (a high-contrast, classic film noir/editorial aesthetic).
@@ -319,7 +319,7 @@ A creative prompt for visualizing a garment in a state of slow-motion unraveling
 
 ## Nike Dragon of the Year Campaign
 
-> Fotogerçekçi, sinematik afiş üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, sinematik fantastik yaratık üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Ultra-realistic cinematic poster of a young man (use uploaded face), styled as a futuristic streetwear athlete, promoting exclusive {argument name="brand" default="Nike"} “{argument name="shoe theme" default="Dragon of the Year"}” sneakers. Subject standing confidently in a powerful low-angle shot, intense gaze, sharp jawline, slightly messy textured hair.
@@ -344,7 +344,7 @@ Style: hyper-detailed, 8K, ultra sharp, fashion editorial meets fantasy, premium
 
 ## Surreal desert athletic campaign
 
-> Sinematik, minimal manzara üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Sinematik, minimal fantastik sahne üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 A surreal, ultra-detailed athletic campaign image featuring a powerful young female athlete mid-air above {argument name="landscape" default="vast desert dunes at sunset"}. Her body is arched in a graceful yet explosive leap, as if defying gravity. She wears a {argument name="top" default="sand-toned Nike sports bra"} with minimal branding and lightweight flowing training pants that ripple like fabric caught in windstorms. Her sneakers are rugged yet futuristic Nike trail runners with dust-reactive glowing amber accents. A massive wave of golden sand and wind energy rises behind her, forming abstract spirals and particle trails that follow her motion. The sky is dramatic with deep orange, crimson, and violet gradients fading into twilight. Lighting is cinematic and warm, highlighting muscle definition and fabric movement. Large floating text reads “{argument name="slogan" default="Rise Above"}” in carved stone-metal typography, partially dissolved into sand particles. {argument name="brand" default="Nike Swoosh"} appears etched into a rock formation in the distance.
@@ -360,7 +360,7 @@ A commercial-style prompt for a luxury sports ad featuring a football player in 
 
 ## Street-Art Inspired Urban Portrait
 
-> Fotogerçekçi, minimal afiş üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, minimal portre üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Bold street-art inspired portrait of a {argument name="subject" default="young man with sharp facial features and short dark hair"}, 3/4 angle (slightly turned toward the camera), looking toward the camera with his head slightly tilted upward, confident yet thoughtful expression, wearing a {argument name="clothing" default="hoodie"} and minimal accessories, clean upper-body framing with no environment distractions, surrounded by dynamic graffiti elements, spray paint textures, scribbles, arrows and motion lines, layered stencil technique with paint drips and rough edges, color palette of {argument name="colors" default="black, off-white, burnt orange and subtle blue accents"}, strong contrast and urban energy, realistic face preserved under stylized overlays, gritty poster design with raw texture and depth, ultra-detailed face, sharp focus, high-resolution, no photorealism, illustration style only
@@ -368,7 +368,7 @@ Bold street-art inspired portrait of a {argument name="subject" default="young m
 
 ## Arctic Glacier Ice Sculpture Prompt
 
-> Fotogerçekçi, sinematik afiş üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, sinematik erkek figürlü görsel üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 {
@@ -394,7 +394,7 @@ Bold street-art inspired portrait of a {argument name="subject" default="young m
 
 ## Cinematic Luxury Watch Advertisement Prompt
 
-> Sinematik, minimal mimari görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Sinematik, minimal fotoğraf üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Cinematic {argument name="product" default="luxury watch"} advertisement, oversized timepiece floating mid-air like architecture, model reaching toward it like a monument, giant word "{argument name="text" default="TIME"}" behind in bold gold typography, {argument name="background" default="deep black studio background"}, reflective marble floor, luxury watch campaign aesthetic, ultra-clean layout, editorial magazine styling, 1:1
@@ -419,7 +419,7 @@ Cinematic {argument name="product" default="luxury watch"} advertisement, oversi
 
 ## Pop-Art Graffiti Portrait
 
-> Fotogerçekçi, sinematik moda çekimi üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, sinematik portre üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 A striking pop-art graffiti portrait of {argument name="subject" default="an American white man with sharp jawline and defined facial features, approximately 20 years old"}, standing confidently with both hands in pockets, wearing a fitted black three-piece suit with a dark tie. The subject is rendered in a semi-realistic painterly style against {argument name="background style" default="an explosive background of hot pink, neon yellow, electric orange, and cyan graffiti brushstrokes layered like street art"}. Large bold luxury monogram symbols and abstract floral patterns are scattered across the background in dark green and black, half-hidden behind paint splashes. The overall composition feels like a high-fashion street art canvas — raw energy meets elite luxury. Paint drips run down the lower half. The figure stands centered, slightly desaturated compared to the vivid chaotic background, creating strong visual contrast. Vertical 9:13 format. Ultra photorealistic, 8K, no text overlays, cinematic color grading.
@@ -427,7 +427,7 @@ A striking pop-art graffiti portrait of {argument name="subject" default="an Ame
 
 ## Cinematic Symmetrical Motion Portrait
 
-> Fotogerçekçi, sinematik moda çekimi üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, sinematik portre üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 {
@@ -505,7 +505,7 @@ A cinematic, close-up action shot of a determined {argument name="rider gender" 
 
 ## Surreal Canvas Art Edition Prompts
 
-> Retro illüstrasyon üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Retro fantastik sahne üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Prompt for Pic 1:
@@ -517,7 +517,7 @@ Prompt For Pic 2:
 
 ## Cinematic Desert Horse Rider
 
-> Sinematik moda çekimi üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Sinematik hayvan görseli üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 A high-fashion cinematic prompt for a woman in a couture gown galloping on a horse across desert dunes at sunset.
@@ -525,7 +525,7 @@ A high-fashion cinematic prompt for a woman in a couture gown galloping on a hor
 
 ## Vintage Monochrome Illustration Prompt
 
-> Retro afiş üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Retro illüstrasyon üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 vintage monochrome illustration, black and white only, high contrast shadows, retro print style, subtle paper texture, grain effect, old poster aesthetic
@@ -563,7 +563,7 @@ The subject’s face must perfectly match the attached reference image only for 
 
 ## Underwater Chinese Ink Dreamscape Portrait
 
-> Sinematik manzara üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
+> Sinematik portre üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 A stunning, highly realistic portrait of a {argument name="subject" default="woman"} based on the original model (the facial structure, hairstyle, and person must be exactly 100% identical to the reference image — no changes allowed) submerged in an ethereal underwater dreamscape infused with traditional Chinese ink painting aesthetics. A cinematic, surreal portrait of a young Asian woman suspended gracefully in crystal-clear water, her body caught in a moment of weightless elegance. Her long black hair flows and spirals around her like living calligraphy brushstrokes, intertwining with streams of black ink that bleed and bloom through the water in mesmerizing organic patterns. Ancient Chinese ink paintings come alive around her—{argument name="ink elements" default="majestic dragons, koi fish, blooming lotus flowers, and misty mountain landscapes"} materialize from the swirling ink, some rendered in traditional monochrome, others bursting with touches of vermillion red and imperial gold. These illustrations seem to dance and breathe, wrapping around her form like protective spirits. Her eyes are open, gazing directly at the viewer with an expression of serene power and ancient knowing—a goddess caught between worlds. Her lips are painted in classic Chinese opera red, a striking contrast against her porcelain skin. Delicate ink marks flow across her body like living tattoos—poetry fragments, phoenix feathers, and peony petals painted directly onto her skin by invisible brushes. She wears a flowing hanfu-inspired garment in sheer white silk that billows and undulates in the water like clouds, revealing glimpses of her silhouette beneath. Golden hairpins and jade ornaments drift weightlessly around her head, suspended in liquid time. Red silk ribbons spiral upward from her wrists and ankles, creating dynamic leading lines through the composition. Bioluminescent particles float around her like scattered stardust, adding points of cyan and soft pink light that illuminate her features from unexpected angles. Air bubbles rise slowly past her face, each one containing tiny reflections of the ink artwork surrounding her. The color palette blends traditional ink wash tones—deep blacks, subtle grays, and pure whites—with unexpected accents of cinnabar red, turquoise, and molten gold. The overall mood is hauntingly beautiful, mythologically powerful, and impossibly dreamlike. Photographed with underwater photography techniques, ultra-high resolution, dramatic chiaroscuro lighting from above creating god-rays through the water surface, with selective focus keeping her face and expression razor-sharp while the ink formations create painterly soft edges throughout the frame.{argument name="aspect ratio" default="9:16"}
@@ -571,7 +571,7 @@ A stunning, highly realistic portrait of a {argument name="subject" default="wom
 
 ## Grand Doorway Chiaroscuro Portrait
 
-> Sinematik mimari görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Sinematik portre üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 { "scene": { "subject": "A woman standing in the center of a grand, dark doorway, looking back over her shoulder toward the camera.", "attire": "{argument name="clothing" default="Yellow long-sleeved button-down shirt, dark blue skinny jeans, barefoot"}.", "environment": "{argument name="environment" default="Contrast between a dimly lit, ornate interior with antique gold-trimmed furniture and a bright, sunlit outdoor balcony seen through an archway"}.", "composition": "Symmetrical framing, leading lines through the doorway, full-body shot." }, "technical_settings": { "camera": "{argument name="camera" default="Sony A7R IV, 35mm lens"}", "aperture": "f/2.8 for sharp focus on subject with slight environmental depth", "lighting": "Chiaroscuro effect, silhouette-style interior with strong natural backlight from the archway, volumetric light hitting the subject's profile.", "color_palette": "Deep shadows, moody blacks, ochre yellow, and natural daylight highlights.", "details": "High-resolution, 8K, cinematic film grain, realistic skin textures, intricate wrought iron details above the door." } }
@@ -579,7 +579,7 @@ A stunning, highly realistic portrait of a {argument name="subject" default="wom
 
 ## Rustic Rural India Portrait
 
-> Fotogerçekçi, sinematik mimari görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, sinematik portre üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 PROMPT_DATA = {
@@ -686,7 +686,7 @@ ultra realistic cinematic luxury fashion portrait recreating the exact compositi
 
 ## Surreal Absurdist Digital Painting
 
-> Sinematik, fütüristik manzara üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Sinematik, fütüristik fantastik sahne üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Surreal Absurdist Digital Painting:
@@ -706,7 +706,7 @@ Chunky, imperfect hand-drawn typography dominates the layout, reading "{argument
 
 ## Double Exposure City Portrait
 
-> Fotogerçekçi, sinematik mimari görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, sinematik portre üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 A cinematic double exposure portrait of a {argument name="subject" default="hollywood actress"} in profile, her hair in a overlaid with a {argument name="scene" default="busy city street scene with tall buildings"}, {argument name="colors" default="warm orange and teal tones"}, soft bokeh lights in the background, high detail, realistic lighting, vertical composition, photorealistic style.
@@ -714,7 +714,7 @@ A cinematic double exposure portrait of a {argument name="subject" default="holl
 
 ## Cinematic Male Celebrity Portrait
 
-> Sinematik moda çekimi üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Sinematik portre üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 A highly detailed cinematic portrait of {argument name="subject name" default="Shah Rukh Khan"}, a handsome Indian man in his late 40s to early 50s, with sharp facial features, light stubble, and a confident subtle smile showing teeth. He has dark black medium-length hair styled in a sleek, slightly messy ponytail with a few strands falling over his forehead. He is wearing {argument name="accessories" default="small rectangular silver-framed sunglasses"} and a fitted black turtleneck sweater. He is standing in a three-quarter profile view, leaning casually against a large modern glass building, looking over his shoulder directly toward the viewer. His reflection is clearly visible on the glossy glass surface behind him. Soft natural daylight with cool urban reflections, moody and stylish atmosphere, sharp focus, realistic photography, 8k resolution, {argument name="style" default="fashion portrait style"}, cinematic lighting.
@@ -722,7 +722,7 @@ A highly detailed cinematic portrait of {argument name="subject name" default="S
 
 ## Double Exposure Somber City Silhouette
 
-> Fotogerçekçi, sinematik mimari görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, sinematik şehir ve sokak sahnesi üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 A high-contrast double exposure photograph. The primary silhouette is the {argument name="silhouette subject" default="back of a man standing still"}, facing away from the camera. Inside his silhouette, a secondary scene is revealed: {argument name="internal scene" default="a narrow, war-torn city street at sunset"}. The street is lined with crumbling, hollowed-out concrete apartment buildings and scattered rubble. A smaller, lone figure walks down the center of the cracked road toward a bright, glowing sun on the horizon. The {argument name="color palette" default="color palette is dominated by warm ambers, burnt oranges, and deep shadows"}, creating a somber yet hopeful atmosphere. Hyper-realistic textures, cinematic lighting, 8k resolution.
@@ -730,7 +730,7 @@ A high-contrast double exposure photograph. The primary silhouette is the {argum
 
 ## Conceptual Fire and Water Portrait
 
-> Fotogerçekçi, sinematik afiş üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, sinematik portre üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 A surreal portrait of a {argument name="subject" default="young man with closed eyes"}, centered composition, calm expression, dark hair slightly messy. The {argument name="left side effect" default="left side of his face and body dissolves into splashing water with droplets frozen mid-air"}, while the {argument name="right side effect" default="right side transforms into vivid flames with glowing embers and fire particles"}. Strong contrast between cool tones (water side) and warm tones (fire side). Dramatic lighting, cinematic style, hyper-realistic details, high resolution, soft neutral background, symmetrical composition, conceptual art representing duality (fire vs water, chaos vs calm). Ultra-detailed skin texture, sharp focus, 8K, professional poster design.
@@ -781,7 +781,7 @@ Create an anime movie poster like a hero cut of this character. Touch tangle, lo
 
 ## Dramatic Double Exposure Sports Portrait
 
-> Sinematik, minimal afiş üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Sinematik, minimal portre üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 A dramatic double exposure portrait of a professional football player, large side-profile face in black and white with intense expression, combined with a smaller full-body action shot of the same player running in a red jersey, dynamic motion, dust and smoke particles blending the layers, high contrast lighting, textured grain, minimal clean background, editorial sports poster style, ultra-detailed, sharp focus, cinematic composition, 8K resolution.
@@ -821,7 +821,7 @@ Dramatic chiaroscuro oil-painting texture of a biomechanical skull embedded in c
 
 ## Monochrome Typographic Cat Illustration
 
-> Minimal, lüks afiş üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Minimal, lüks hayvan görseli üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 An artistic monochrome typographic illustration where the single word "{argument name="word" default="CAT"}" appears only once and becomes a stretching domestic cat, low in front with hindquarters slightly raised and the tail extending backward in a graceful arc. Do not repeat the word and do not add any other text. The single word must be elongated and sculpted into a fluid feline posture, with one section forming the head and front shoulders, another forming the long curved spine, and the final section extending into the tail. The image should feel elegant, flexible, and unmistakably feline. Prioritize silhouette first, anatomy second, readability third. Pure black only on white, lots of empty space, minimal poster composition. No floor scene, no fur texture, no room interior, no whiskers detail, no realism, no color. 
@@ -831,7 +831,7 @@ An artistic monochrome typographic illustration where the single word "{argument
 
 ## Dramatic Silhouette on Golden Pyramid Stage
 
-> Sinematik görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Sinematik kadın figürlü görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 A dramatic wide shot of a female silhouette standing in front of a glowing, tiered golden pyramid stage. The stage emits a fiery, amber light with crackling energy effects. Sharp, vertical blue laser beams cut through the dark atmosphere from above. The floor is a polished, black reflective surface creating a perfect mirror image of the scene. Cinematic lighting, high contrast, ethereal and mysterious atmosphere.
@@ -900,7 +900,7 @@ Mood reference: official visuals from Louis Vuitton / Bottega Veneta / Celine.
 
 ## Nano Banana Pro prompt for Khachaturian's Spartacus
 
-> Görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Fantastik sahne üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 {argument name="composer" default="Khachaturian"}
@@ -913,7 +913,7 @@ Fantasy series in the style of Final Fantasy
 
 ## Retro Minimalist Balloon Dog Illustration
 
-> Minimal, retro afiş üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Minimal, retro hayvan görseli üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 retro minimalist illustration of a balloon dog made from glossy pink and white swirl patterned balloons, centered on a solid cobalt blue background, simple flat design with clean lines, subtle shading and soft ambient lighting, high contrast color palette, poster-style composition
@@ -1085,7 +1085,7 @@ Rental Heir's 'Wa' Number Accident
 
 ## Soft Watercolor Illustration Style Art Prompt for Gemini Nano Banana Pro 2.0
 
-> Sinematik, minimal moda çekimi üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
+> Sinematik, minimal illüstrasyon üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Use the uploaded image as reference, A blend of high-end illustrative realism with delicate ink lines and soft watercolor strokes. Highly detailed depictions of faces with porcelain skin texture, delicate blush, and expressive sparkling eyes. Dynamic compositions of close-up portraits. Crisp white negative space backgrounds overlaid with architectural outlines, geometric construction grids, and technical drawing elements. Flowing strands of hair and fabric edges dissolve into abstract, transparent shards of color and paint splatters. A soft pastel palette (soft blues, warm yellows, pale pinks, light grays) with controlled saturation. An elegant balance between precise sketch lines and loose, atmospheric paint effects. A cinematic editorial illustration aesthetic with a modern fashion art feel, dreamy yet sharp, minimalist yet rich in detail. High-resolution, vertical portrait, 4k quality.
@@ -1141,7 +1141,7 @@ Masterpiece-level political caricature illustration, hyper-expressive and satiri
 
 ## Old Money Aesthetic Cinematic Portrait
 
-> Sinematik, minimal moda çekimi üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Sinematik, minimal portre üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 A cinematic magazine-style portrait of a handsome man in side profile, wearing a {argument name="hat color" default="brown"} felt fedora hat and a {argument name="suit color" default="cream-colored"} suit jacket. He has short dark hair, light skin, and a well-groomed beard. The lighting is soft and directional, highlighting the contours of his face with subtle shadows for a dramatic, high-fashion look. The background is minimal and light gray, creating a clean studio aesthetic.
@@ -1277,7 +1277,7 @@ An illustration of a funny little {argument name="creature" default="leprechaun"
 
 ## Enka CD Jacket Design with Nano Banana 2
 
-> Sinematik logo üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
+> Sinematik görsel üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Please design an "Enka CD jacket" released by the person shown in the reference image, using them as the same individual.
@@ -1338,7 +1338,7 @@ All sales information typically seen on commercial CD packages is prohibited.
 
 ## Coffee's Journey Board prompt for Nano Banana 2
 
-> Sinematik, minimal mimari görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Sinematik, minimal illüstrasyon üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 A coffee's journey board from {argument name="origin" default="[ORIGIN]"} to cup {argument name="variety process roaster" default="[VARIETY / PROCESS / ROASTER]"}.
@@ -1352,7 +1352,7 @@ Title block: "[COFFEE NAME] [FARM], [REGION], [ALTITUDE]M, [PROCESS], [ROAST PRO
 
 ## Neo-Baroque Engraved Pop Portrait
 
-> Fotogerçekçi, sinematik afiş üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, sinematik portre üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 close-up headshot of the attached person in a neo-baroque engraved pop portrait style. Use ultra-detailed pen-engraving and etched linework across the skin, hair, clothing, and accessories, mixed with hyper-realistic facial structure. Add oversized round tinted sunglasses in vivid hot pink, luxurious gold detailing, rich ornamental clothing textures, and a dark nearly black background with subtle patterned depth. Use a bold palette of pink, magenta, gold, teal, navy, cream, and white for strong contrast. The image should feel editorial, regal, eccentric, and slightly humorous. Place the person’s name '{argument name="name" default="ADD NAME HERE"}' behind the head in large modern Impact-style bold typography, with colors that complement the portrait and remain clearly readable. Highly detailed, sharp, premium, cinematic, poster-like composition
@@ -1384,7 +1384,7 @@ Create decorative text based on the word "{argument name="word" default=""}". Wr
 
 ## High-end stylized digital painting portrait prompt
 
-> Sinematik, minimal afiş üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
+> Sinematik, minimal portre üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Create a high-end stylized digital painting / illustrated poster portrait of the same man. The face must remain 100% identical to the reference photo, preserve exact facial structure, proportions, skin tone, features, age, hairstyle, and identity. Do not modify or beautify the face.
@@ -1406,7 +1406,7 @@ A modern cinematic poster featuring five stylish models standing in a row, each 
 
 ## Double Exposure Portrait with Tree Branches and Landscape
 
-> Sinematik, minimal afiş üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
+> Sinematik, minimal manzara üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 double exposure portrait of the character(reference image) in side profile looking left, blending into bare tree branches, surreal artistic composition, inside the silhouette a peaceful lake landscape with mountains and mist, a small character(of the same reference image) in a standing on mossy rocks holding a curved tree trunk, dreamy atmosphere, soft natural light, minimal white background, ethereal and poetic mood, fine art photography, ultra detailed, cinematic lighting, high resolution, poster design.
@@ -1414,7 +1414,7 @@ double exposure portrait of the character(reference image) in side profile looki
 
 ## Ultra-Premium Cinematic 3D Brand Advertisement Prompt for Nano Banana Pro
 
-> Sinematik, minimal logo üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Sinematik, minimal 3B sahne üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Create a breathtaking ultra-premium cinematic 3D brand advertisement masterpiece in Nano Banana Pro style, hyper-detailed and perfectly polished.
@@ -1442,7 +1442,7 @@ Make a hyper-realistic cinematic movie poster of a powerful young female sorcere
 
 ## Prompt for stylized urban portrait with reference image fidelity
 
-> Minimal afiş üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
+> Minimal portre üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Use the provided reference image strictly for the subject’s face and identity. Only translate the face into the new illustration style while maintaining accurate facial features.
@@ -1500,7 +1500,7 @@ blurry deformed ugly bad anatomy extra limbs low quality text watermark cartoon 
 
 ## Detailed X-ray Transparent Art of Roses Prompt
 
-> Lüks, stüdyo ışıklı görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Lüks, stüdyo ışıklı sahne üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 meta:
@@ -1627,7 +1627,7 @@ xray_rendering:
 
 ## Subway Ad Poster Prompt for Character Image Generation (Portfolio Style)
 
-> Fotogerçekçi, sinematik logo üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, sinematik afiş üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 (photorealistic:1.6), (raw photograph:1.5), highly detailed, cinematic lighting, 8k resolution, incredibly rich details.
@@ -1686,7 +1686,7 @@ Quality tags:
 
 ## Lionel Messi Divine Portrait Prompt
 
-> Fotogerçekçi, sinematik afiş üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, sinematik portre üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Ultra-realistic cinematic portrait of {argument name="subject name" default="Lionel Messi"} looking upward with a glowing golden halo behind his head, divine light radiating like the sun, dramatic lighting, sparks and glowing particles in the background, intense expression, detailed skin texture, sharp focus, epic sports poster style, dark cosmic background, volumetric lighting, 8k, HDR, masterpiece, highly detailed, symmetrical composition, god-like aura, golden color grading, studio lighting, depth of field
@@ -1694,7 +1694,7 @@ Ultra-realistic cinematic portrait of {argument name="subject name" default="Lio
 
 ## Scrapbook style collage poster for product branding
 
-> Lüks logo üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Lüks afiş üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 [{argument name="Brand Name" default="BRAND NAME"}]
@@ -1752,7 +1752,7 @@ Bottom-right watermark: K(@ ChillaiKalan) ,
 
 ## Monochrome propaganda-style portrait prompt for Nano Banana Pro
 
-> Fotogerçekçi, sinematik afiş üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, sinematik portre üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 High-contrast digital portrait of a young man looking upward with determination and confidence. Hyper-realistic monochrome face with strong cheekbones and detailed skin pores. Background divided into bold textured blocks of red and black with rough paint strokes and distressed paper textures. Dramatic lighting highlighting facial contours and expression. Inspired by vintage propaganda poster aesthetics with modern cinematic polish. Sharp focus, powerful mood, editorial artwork, 4K.
@@ -1786,7 +1786,7 @@ A high-resolution digital photo collage birthday poster on a teal background wit
 
 ## Cinematic Scene for Happy Women's Day
 
-> Fotogerçekçi, sinematik görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, sinematik sahne üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Ultra-realistic cinematic scene of a joyful woman standing in an open plaza releasing dozens of purple, gold, and white balloons into the sky forming the words “Happy Women’s Day”, bright sunlight, confetti floating in the air, vibrant festive atmosphere, editorial photography, 8k detail.
@@ -1794,7 +1794,7 @@ Ultra-realistic cinematic scene of a joyful woman standing in an open plaza rele
 
 ## Dynamic Perspective Flat Vector Illustration
 
-> Minimal logo üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Minimal illüstrasyon üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 [MAIN SUBJECT / THEME], explosive dynamic action pose, extreme perspective, dramatic foreshortening, a huge foreground element thrust toward the viewer, foreground element extremely large while the body rapidly shrinks into the distance, very strong near-big far-small scale relationship, wide-angle view, diagonal composition creating intense motion and visual tension, modern flat vector illustration, bold graphic design, geometric simplified forms, clean sharp vector edges, flat solid color blocks, no gradients, no texture, minimal linework, limited color palette with no more than three main colors, strong color blocking with high contrast, stylized graphic background shapes made of layered flat geometric forms, motion lines emphasizing speed and impact, contemporary editorial advertising illustration style, high-impact graphic poster aesthetic, no text, no typography, no letters, no logo
@@ -1802,7 +1802,7 @@ Ultra-realistic cinematic scene of a joyful woman standing in an open plaza rele
 
 ## Dramatic Digital Painting Portrait of Two Subjects
 
-> Sinematik afiş üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Sinematik portre üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 A dramatic digital painting portrait composition featuring two powerful subjects in a bold graphic art style. The scene uses a high-contrast palette dominated by black, white, deep red, and vibrant yellow paint strokes forming an expressive abstract background. On the left, a young woman is shown from the shoulders up, looking slightly upward with a strong, determined expression. Her face is rendered in monochrome grayscale with smooth yet painterly shading, emphasizing sharp cheekbones, defined lips, and reflective eyes gazing toward the sky. Her medium-length hair flows naturally around her face with soft strands catching subtle highlights. The lighting is cinematic and directional from above, creating dramatic shadows under the jawline and nose, giving the portrait a heroic and inspirational mood. On the right side, a young athletic man stands in a three-quarter body view wearing a fitted dark t-shirt and jeans. His physique is muscular and natural, with visible arm definition. He also looks upward with a calm but resolute expression, symbolizing ambition and determination. His face and body are rendered in grayscale realism with bold brush textures, while the background explodes with dynamic vertical paint streaks and abstract strokes of red, yellow, and black. The brushwork appears energetic and expressive, resembling modern poster art or street-style digital illustration. The composition balances realism and painterly abstraction, with sharp facial detail contrasted against rough expressive background strokes. Ultra-high detail, cinematic lighting, dramatic contrast, textured brush strokes, modern digital painting, heroic portrait style, inspirational mood, high resolution, 8k quality, sharp focus, studio-quality rendering.
@@ -1810,7 +1810,7 @@ A dramatic digital painting portrait composition featuring two powerful subjects
 
 ## Action Hero Walking Away from Explosion Prompt (Image-to-Image)
 
-> Fotogerçekçi, sinematik görsel üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, sinematik erkek figürlü görsel üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Ultra-realistic cinematic wide shot, 35mm anamorphic lens, f/2.8, 8K resolution. Use uploaded face as reference-100% identical facial features, bone structure, natural skin tone, and expression. No modifications, brightening, smoothing, or distortion. A man walks confidently in slow-motion away from a massive fireball explosion behind him, never looking back. He wears a tailored black three-piece suit with loosened tie, white dress shirt with rolled sleeves, polished oxford shoes. Hair windswept, expression cool and fearless. Background: industrial warehouse complex engulfed in orange and yellow flames, debris flying through air, smoke billowing upward. Golden hour lighting from explosion creates dramatic rim light and long shadows. Sparks and embers float past camera. Hyper-detailed fabric textures, suit wrinkles, skin micro-details, ash particles. Epic action-hero mood with warm cinematic color grading, high contrast, Michael Bay aesthetic. No text, no watermarks. Image size 9:16 acpact ratio
@@ -1818,7 +1818,7 @@ Ultra-realistic cinematic wide shot, 35mm anamorphic lens, f/2.8, 8K resolution.
 
 ## Dramatic Grayscale Portrait with Abstract Background
 
-> Sinematik, minimal afiş üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Sinematik, minimal portre üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Ultra-detailed, high-contrast digital portrait of a young man looking slightly upward with a determined and thoughtful expression. Realistic grayscale face with sharp facial features, textured skin, short dark hair, and light stubble. Dramatic cinematic lighting with strong shadows emphasizing facial contours and jawline. Background split into bold abstract brush textures with vibrant {argument name="background color 1" default="red"} on one side and bright {argument name="background color 2" default="yellow"} on the other, creating a powerful, modern poster aesthetic. Painterly strokes, gritty artistic style, high detail, sharp focus, cinematic composition, editorial art, modern political or motivational poster style, 4K quality, dramatic contrast, minimal clothing visible, centered composition, intense mood.
@@ -1838,7 +1838,7 @@ Grand Muse Descends
 
 ## Urban Fantasy Summoning Scene with Liquid Sharks
 
-> Sinematik, fütüristik moda çekimi üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Sinematik, fütüristik şehir ve sokak sahnesi üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 A high-energy urban fantasy photograph of a person in streetwear standing in the center of a room. The person is wearing a denim jacket, wide-leg baggy dark jeans, a patterned bucket hat tilted down covering their face, and bright yellow sneakers. They are surrounded by a massive, swirling vortex of glowing blue water and electricity. Emerging from the water are several giant, aggressive Great White sharks made of liquid energy and glowing blue light, with sharp teeth and bioluminescent details. The lighting is cinematic, with the main subject cast in shadows while the vibrant neon blue glow of the water-sharks illuminates the room. High-quality digital art style, hyper-detailed liquid splashes, 8k resolution.
@@ -1852,7 +1852,7 @@ A high-energy urban fantasy photograph of a person in streetwear standing in the
 
 ## Cinematic Night Scene on Subway Platform
 
-> Sinematik görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Sinematik sahne üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 A dark, cinematic scene inside a moving train station or subway platform at night. a woman is standing in the same position on the platform, her body slightly turned away but her face looking directly toward the camera. she has long, wavy blonde bob hair gently moving in the wind. she is wearing a long dark trench coat. the train is passing fast behind her, creating strong motion blur. the wind from the moving train softly moves her hair and the fabric of her trench coat. in her hands, she is holding a bouquet of flowers. her expression feels calm, reflective, and slightly melancholic. the atmosphere is moody and poetic. low light, deep shadows, muted colors, cinematic realism. slow emotional moment, film grain, quiet intensity. --p gqqu8fy pi2kw4yi
@@ -1860,7 +1860,7 @@ A dark, cinematic scene inside a moving train station or subway platform at nigh
 
 ## Cinematic Portrait with Static CRT Television
 
-> Fotogerçekçi, sinematik afiş üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, sinematik portre üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Cinematic portrait of a women leaning his head on a vintage yellow CRT television showing static noise, intense gaze into the camera, dramatic orange sunset background, moody lighting, high contrast shadows, editorial fashion photography style, ultra realistic skin texture with orange oval sunglasses, warm color grading, shallow depth of field, film still look, 85mm lens, studio lighting, dark patterned shirt, cinematic composition, modern poster design, 4k, ultra detailed.
@@ -1868,7 +1868,7 @@ Cinematic portrait of a women leaning his head on a vintage yellow CRT televisio
 
 ## 7-Shot Cinematic Campaign Sequence Prompt
 
-> Sinematik görsel üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
+> Sinematik karakter görseli üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Create a 7-shot cinematic campaign sequence, and ensure the product is present in the 5th and final scenes.
@@ -1876,7 +1876,7 @@ Create a 7-shot cinematic campaign sequence, and ensure the product is present i
 
 ## Tiny Medieval Knight vs. Towering Pink Birthday Cake
 
-> Minimal, retro yemek görseli üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Minimal, retro illüstrasyon üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 a tiny fierce medieval knight aggressively battling a towering pink birthday cake with a sword, frosting explosions everywhere, ironic juxtaposition, heroic battle pose vs silly dessert, whimsical trendy illustration style, bold shapes, playful color palette, modern editorial illustration, slightly retro 70s graphic design influence, clean vector-like lines, vibrant colors, soft grain texture, centered composition, high detail, fun and humorous tone.
@@ -1884,7 +1884,7 @@ a tiny fierce medieval knight aggressively battling a towering pink birthday cak
 
 ## Vintage Engraving of Donald Trump as a Gangster
 
-> Sinematik, retro bilgi grafiği üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Sinematik, retro illüstrasyon üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Ultra-detailed vintage engraved illustration of Donald Trump in a dark tailored three-piece suit with a tie and pocket watch chain, wearing black leather gloves while lighting a cigarette with a metal lighter. His expression is serious and contemplative, head slightly tilted downward as the flame illuminates his face. The background features intricate steampunk-style mechanical diagrams, antique clockwork gears, and celestial navigation charts forming a complex circular pattern behind him. Dramatic chiaroscuro lighting, golden sepia tones, highly textured cross-hatching engraving style, Victorian-era etching aesthetic, extremely detailed line work, cinematic contrast, moody atmosphere, 8k detail, masterpiece illustration.
@@ -1931,7 +1931,7 @@ A Cinematic fashion portrait of an elegant young woman in a beautiful veteran dr
 
 ## Ana de Armas Festival Candid Shot Prompt
 
-> Fotogerçekçi logo üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi fotoğraf üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Photorealistic candid shot of a lively outdoor night party or music festival crowd, energetic young people densely packed together, front and center Ana de Armas in her late 20s with long straight hair, radiant golden tan skin, dramatic glossy makeup, bold eyeliner, wearing a tight white sleeveless ruched mini dress / tank top dress with thin straps, large gold hoop earrings, layered gold necklaces, multiple chunky gold bracelets and bangles, posing seductively over her shoulder, looking directly at the camera with a flirty smile, one hand holding her phone high for a selfie, body slightly angled, legs crossed subtly, surrounded by excited friends pressing in close — a tall smiling guy in a beige trucker cap with deer logo, another guy in a dark pinstripe suit, girls in summer outfits, everyone holding up phones to take photos, colorful wristbands and festival vibes, warm golden hour / evening ambient lighting with bokeh city lights and crowd glow in the background, dynamic composition, high detail skin texture, sharp focus, Canon EOS R5, 50mm lens, natural candid photography style, vibrant and fun atmosphere --ar 2:3 --v 6 --q 2 --stylize 250
@@ -1991,7 +1991,7 @@ A music festival poster. Psychedelic colors and abstract patterns are combined, 
 
 ## Monochromatic Editorial Portrait of a Stylish Man
 
-> Mimari görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Portre üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 {
@@ -2114,7 +2114,7 @@ A music festival poster. Psychedelic colors and abstract patterns are combined, 
 
 ## Elegant Graphic Design Birthday Collage
 
-> Fotogerçekçi, lüks portre üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, lüks kolaj üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 A high-resolution graphic design collage featuring a tilted, three-panel white photo strip of smiling young woman  [Use the uploaded image as reference], she wears a red sweater and thick beige knit scarf, shot with bright studio lighting. The strip features a young woman with dark curly hair in three different playful poses. The photo strip overlaps jagged red and yellow torn-paper graphics against a slate-gray background that features faint, oversized monochromatic portrait of the woman. Vertical white text reading "HAPPY BIRTHDAY {argument name="name" default="[NAME]"}" with dotted red and yellow lines borders the left edge. The mood is joyful and celebratory, seamlessly blending photorealistic photography with sharp vector graphic elements. Vertical portrait, 4k.
@@ -2146,7 +2146,7 @@ An oil painting portrait of a young girl [Use the uploaded image as reference] i
 
 ## Ultra-Realistic Vertical Panorama of Swiss Alps with Mythological Hint
 
-> Fotogerçekçi, sinematik manzara üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, sinematik sahne üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Ultra-realistic vertical panorama, ratio 1:4, Swiss alpine setting in late winter. A lone male traveler in his 30s walks along an ancient stone-and-dirt mule road that snakes upward through a mountain valley. Minimalist cold-weather outfit (dark technical jacket, wool beanie, fitted hiking pants) and a small backpack, realistic fabric textures and frost on seams. LEFT side: dense, shadowy spruce forest heavy with fresh snow, branches sagging, thin mist drifting between trunks. RIGHT side: a wide alpine meadow blanketed in smooth untouched snow with subtle wind-carved ripples, scattered boulders capped with ice. Far in the distance, near the top of the frame, a mysterious medieval stone castle perched on a cliff ridge (Swiss fortress vibe), partially rim-lit, stones weathered, icicles hanging from battlements. Sky: pale winter clouds with a break of warm sunrise light from the right, golden rays cutting through cold air, long blue shadows on snow, visible breath in the air. Subtly integrated “world serpent” (Jörmungandr-style) as environmental geology: its tail forms a faint snowdrift spiral in the meadow, its massive body implied by a barely raised, serpent-like ridge line weaving beneath the forest snow, occasional scale-like texture in the frost pattern - never crossing the traveler’s path, only hinted by natural shapes and shadow contours. Strong emphasis on natural textures: gritty stones in the road, compacted footprints, ice crystals, bark detail, snow granularity, distant atmospheric perspective, cinematic lighting, extreme depth and scale, no fantasy glow, no CGI look, no text, no watermark.
@@ -2162,7 +2162,7 @@ Image of the entrance stairs of the Tokyo Metropolitan Government Building (Vers
 
 ## Shipwreck Twilight Scene
 
-> Fotogerçekçi, sinematik görsel üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, sinematik sahne üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Masterpiece, best quality, ultra detailed, photorealistic photograph. Shot from a dynamic low-angle perspective, the scene is dominated by a man from photo in close-up. He stands in three quarter profile on a rocky beach at twilight, his face clearly visible as he gazes upward at the wreck of a massive, rusted ship beached against a cliffside.
@@ -2172,7 +2172,7 @@ The immense shipwreck, with its battered hull and twisted metal, looms in the ba
 
 ## High-Contrast Abstract Mixed Media Portrait Prompt
 
-> Minimal afiş üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Minimal portre üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Create a high-contrast artistic portrait of a woman’s side profile in black and white, eyes closed, glossy lips slightly parted, dramatic lighting, minimal white background, bold abstract black paint splashes and ink brush strokes blending into her hair and face, vibrant streaks of cyan, magenta, yellow, and blue paint slashed across her cheek and nose, textured paint splatter details, modern mixed media aesthetic,fine art illustration style, sharp edges with dynamic motion strokes, high detail, ultra-clean composition, poster-ready design, 8k resolution, contemporary abstract portrait aesthetic
@@ -2180,7 +2180,7 @@ Create a high-contrast artistic portrait of a woman’s side profile in black an
 
 ## Photorealistic Portrait with Ukiyo-e and Industrial Fusion
 
-> Fotogerçekçi mimari görsel üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi portre üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Model the image after the attached image of a woman. A profile portrait. Left-facing profile with a cool, intelligent expression. Bust-up composition.
@@ -2204,7 +2204,7 @@ Lighting features dramatic shadows with strong contrast. Hard light from the lef
 
 ## Distressed License Plate Sign
 
-> Görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Kolaj üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 A horizontal, rectangular metal sign created out of cut up license plates displays the words "{argument name="sign text" default="ENJOY THE NOW"}" in large, raised letters. Each letter is on a different colored background, resembling a collage of license plates. The sign has a distressed, rusty appearance around the edges and a slightly weathered texture overall. It is hanging on a distressed wooden wall.
@@ -2212,7 +2212,7 @@ A horizontal, rectangular metal sign created out of cut up license plates displa
 
 ## Cinematic Venom Symbiote Action Scene
 
-> Fotogerçekçi, sinematik afiş üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, sinematik sahne üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 16K ultra-realistic cinematic movie scene of the same young man (keep his real facial features and proportions exactly as in the reference photo, no changes to his face). He is in a dynamic action pose, slightly crouched forward as if ready to leap or attack, one knee bent, one hand pressing firmly on the ground, the other reaching out with intense motion. From his back, a Venom-like symbiote bursts outward, forming huge menacing tendrils and a snarling monstrous face rising above his shoulder. The dark industrial warehouse setting is filled with mist and drifting smoke, with sharp light beams slicing through the fog. Camera angle is low and slightly tilted for dramatic tension and high-energy impact. Add warm highlights, motion blur, lens flares, and subtle film-grain for a Hollywood action-poster vibe. Generate the face using the uploaded reference image with accurate likeness.
@@ -2220,7 +2220,7 @@ A horizontal, rectangular metal sign created out of cut up license plates displa
 
 ## Dramatic Digital Painting Portrait Prompt
 
-> Minimal logo üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
+> Minimal portre üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Create a dramatic digital painting style portrait of a young woman (based on a reference image) looking upward with a strong, determined expression.The artwork should feel bold and textured, with energetic brush strokes and a limited color palette of black, white, red, and yellow. The background is split vertically with abstract red and yellow paint streaks, creating a powerful and intense mood. Focus on ambition and confidence in her gaze, capturing strength and resilience in her facial expression. The design should be clean with no text, no slogan, and no logo anywhere in the frame. The composition should feel motivational and poster-ready, high detail, 8K resolution, image aspect ratio 4:5.
@@ -2228,7 +2228,7 @@ Create a dramatic digital painting style portrait of a young woman (based on a r
 
 ## Comparing Nano Banana Pro and 2 with a Profile Flyer Prompt
 
-> Profil görseli üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
+> Afiş üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Attach the image from the profile section and say, "{argument name="creation content" default="Create a flyer to promote the person in this account"}"
@@ -2236,7 +2236,7 @@ Attach the image from the profile section and say, "{argument name="creation con
 
 ## 18th Century Woman Blowing Bubblegum
 
-> Elle çizilmiş portre üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Elle çizilmiş kadın figürlü görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 An oil painting portrait of a woman in 18th-century attire, with an elaborate powdered wig and a green dress, is depicted blowing a pink bubblegum bubble. The background is a soft, painterly green with hints of roses. Pink text overlaying the bottom half of the image reads "{argument name="overlay text" default="I WANT TO BE WHERE THE PEOPLE AREN'T"}" in a bold, brushstroke font.
@@ -2252,7 +2252,7 @@ An architectural blueprint of {argument name="building name" default="BUILDING_N
 
 ## 3D Miniature New York City Diorama
 
-> Fotogerçekçi, sinematik mimari görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, sinematik 3B sahne üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 "A street-style map of New York City placed on a dark textured tabletop, with a photorealistic miniature version of New York City emerging from it the Statue of Liberty, the Empire State Building, the Brooklyn Bridge, a lush green Central Park, clusters of glowing neon skyscrapers, yellow taxis and silver subway trains, and a detailed street grid base with "{argument name="city name" default="NEW YORK"}" typography. All elements grow from the map like a 3D urban diorama. Studio soft lighting, cinematic depth, 2:3 format."
@@ -2268,7 +2268,7 @@ A luxury travel magazine. Theme: Early autumn travel. Feature: Pilgrimage to sac
 
 ## High-End Digital Painting Portrait
 
-> Sinematik, minimal afiş üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
+> Sinematik, minimal portre üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Create a high-end stylized artistic portrait of the same person in a modern digital painting / illustrated poster style. The face must remain 100% identical to the reference photo — preserve exact facial structure, proportions, skin tone, facial features, age, hairstyle, and identity. No modification, beautification, reshaping, or enhancement of the face is allowed. Absolute identity accuracy required.
@@ -2509,7 +2509,7 @@ Skin Texture:
 
 ## Panoramic Cityscape in Qingming Festival Scroll Style (8:1 Aspect Ratio)
 
-> İllüstrasyon üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Şehir ve sokak sahnesi üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 In the style of 'Along the River During the Qingming Festival,' draw a genre painting of a modern [{argument name="city" default="city"}], 8:1 aspect ratio, 2K.
@@ -2517,7 +2517,7 @@ In the style of 'Along the River During the Qingming Festival,' draw a genre pai
 
 ## Detailed Illustration Prompt for Street Scene
 
-> İllüstrasyon üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
+> Şehir ve sokak sahnesi üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 You are a professional illustrator.
@@ -2545,7 +2545,7 @@ Released 😆
 
 ## Cinematic Tokyo Street at Night
 
-> Sinematik, fütüristik görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Sinematik, fütüristik şehir ve sokak sahnesi üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Tokyo street at night, neon signs reflecting on wet pavement, cinematic
@@ -2561,7 +2561,7 @@ make a design with synthetic cubism of the {argument name="museum name" default=
 
 ## Four-Panel Aerial Circus Composition
 
-> Sinematik, minimal görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Sinematik, minimal kadın figürlü görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 A single square image divided into four equal square panels, perfect 2x2 grid composition, each panel shows one different aerial circus discipline performed by the same elegant athletic woman with long dark hair, wearing a sparkling black-and-gold aerial costume, dramatic stage lighting, dark theatrical background with subtle smoke and spotlights, high detail, cinematic style, vertical 1:1 aspect ratio overall
@@ -2573,7 +2573,7 @@ Bottom-right panel: woman doing aerial hoop/rope hybrid (aerial roop), dynamic s
 
 ## Hyperrealistic Chocolate Ice Cream Commercial Prompt
 
-> Fotogerçekçi, sinematik yemek görseli üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, sinematik moda çekimi üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Hyperrealistic full-length promotional photo of a giant dark chocolate ice cream in a waffle cone, immersed in a swirl of glossy chocolate cream, top of the ice cream covered with oversized chocolate chunks, cocoa dust and shards scattering chaotically in a creamy storm, ice cream falling downward with glossy deep brown textures, background New York Times Square glowing in night neon lights, confident western woman in a stylish black evening dress standing slightly behind the falling ice cream, looking up with an excited smile, hair flowing in the motion, soft neon reflections on her face, holding the waffle cone elegantly like a luxury dessert advertisement, cinematic lighting, high-fashion commercial vibe, shot on Camera Sony A9 --ar 2:3 --stylize 300
@@ -2581,7 +2581,7 @@ Hyperrealistic full-length promotional photo of a giant dark chocolate ice cream
 
 ## Architectural Blueprint Style Portrait
 
-> Fotogerçekçi, minimal bilgi grafiği üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, minimal mimari görsel üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 {
@@ -2637,7 +2637,7 @@ Shot on a Hasselblad 907X 50C with an XCD 90mm f/2.5 lens, aperture f/2.8 shallo
 
 ## Cinematic Conceptual Portrait with Radial Motion Blur
 
-> Sinematik moda çekimi üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Sinematik portre üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 cinematic conceptual portrait of a young woman standing still inside a rushing urban crowd, extreme radial motion blur, frozen identity effect, dynamic speed distortion, intense light burst from behind, strong central composition, graphic cinematic framing, psychological tension, existential solitude in the city, emotional isolation narrative, bold warm color field, surreal realism, experimental fashion editorial style.
@@ -2673,7 +2673,7 @@ A breathtaking vertical 9:16 Instagram portrait shot on a Sony A7R V at f/2.8, 1
 
 ## Watercolor Illustration of a Magical Garden at Midnight
 
-> Elle çizilmiş, lüks illüstrasyon üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Elle çizilmiş, lüks fantastik sahne üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Scene:
@@ -2698,7 +2698,7 @@ Secondary Text: In the top right corner, add the text: "[TEXT]". Use a small, so
 
 ## Candid Halloween Costume Party Photograph
 
-> Görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotoğraf üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 {
@@ -2719,7 +2719,7 @@ A dramatic cinematic poster-style portrait of two epic fantasy warriors standing
 
 ## Cinematic Disintegration Portrait with Energy Aura
 
-> Fotogerçekçi, sinematik moda çekimi üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, sinematik portre üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Transform this image [Upload Your Image] into a 64K DSLR shot resolution of an a ultra-hyperrealistic, cinematic 64K portrait with ultra high-contrast dramatic lighting and a photo-real digital painting aesthetic-use face reference exactly. The man (same face as the uploaded image) is shown in a full-body side profile facing right, his face and short, dark hair & a well-groomed beard copied perfectly with no alterations He wears modern casual streetwear: a light grey crewneck t-shirt,
@@ -2751,7 +2751,7 @@ atmosphere. Octane render & Unreal Engine
 
 ## Editorial Caricature Illustration of a Man
 
-> Minimal, stüdyo ışıklı portre üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Minimal, stüdyo ışıklı illüstrasyon üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 {
@@ -2804,7 +2804,7 @@ The lighting is {argument name="lighting type" default="[Lighting Type: e.g., Sh
 
 ## Watercolor Illustration of a Cozy Seaside Harbor Village
 
-> Elle çizilmiş, lüks illüstrasyon üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Elle çizilmiş, lüks sahil sahnesi üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Scene:
@@ -2834,7 +2834,7 @@ A vertical birthday poster collage. The background features four stacked horizon
 
 ## Dramatic Digital Painting Portrait with Limited Palette
 
-> Minimal logo üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
+> Minimal portre üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Create a dramatic digital painting style portrait of a young male a reference image without glasses looking upward with a strong, determined expression. The artwork should feel bold and textured, with energetic brush strokes and a limited color palette of black, white, red, and yellow. The background is split vertically with abstract red and yellow paint streaks, giving a powerful and intense mood. Focus on ambition and confidence in the player’s gaze, with a clean design that has no text, no slogan, and no logo anywhere in the frame. The composition should feel motivational and poster ready, high detail, 8K resolution, image aspect ratio 4:5.
@@ -2842,7 +2842,7 @@ Create a dramatic digital painting style portrait of a young male a reference im
 
 ## Forrest Gump & Jenny Analog Photobooth Collage
 
-> Sinematik görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Sinematik kolaj üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 "Create an Analog Photobooth Collage of high-definition, in black and white (warm, grainy), messy overlapping photostrips scattered across a bed or table, freeform collage. The background must be slightly out of focus. The atmosphere is energetic, fun, spontaneous, emotional. The characters in the photos must be Forrest Gump and Jenny Curran from the movie Forrest Gump (1994). The expressions that they need to have in the different photos: laughing uncontrollably, sticking tongues out, covering each other's mouths, dramatic playful expressions, messy spontaneous kisses, forehead-to-forehead laughter and playfully biting each other's cheek. The poses must be: close, chaotic kissing frames, faces squished together, leaning into each other laughing, hands on each other's cheeks, goofy movement blur, fun, intimate and unfiltered moments. analog grain, soft blur, subtle noise. The photos need imperfections like dust speckles, tiny scratches, flash hotspots, slight motion blur and uneven exposure.  The collage layout must be 8–14 photobooth shots scattered messily, overlapping, rotated in all directions, central photostrips remain sharp, outer edges slightly blurred. Presentation: looks like Forrest and Jenny dumped all their photobooth memories on a bed"
@@ -2850,7 +2850,7 @@ Create a dramatic digital painting style portrait of a young male a reference im
 
 ## Godzilla in Tokyo Skytree District, 70s Style
 
-> Sinematik, fütüristik görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Sinematik, fütüristik fantastik yaratık üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Please create a realistic photo in the style of a sci-fi monster movie, low angle, of a giant, 70s-style Japanese Godzilla standing on a wide national road with three lanes on one side, in the high-rise district of Tokyo where the Tokyo Skytree is visible, under a cloudy, hazy sky. Godzilla is glaring directly at the camera. Aspect ratio 16:9.
@@ -2858,7 +2858,7 @@ Please create a realistic photo in the style of a sci-fi monster movie, low angl
 
 ## Cyberpunk Japanese Band Live Performance
 
-> Fotogerçekçi, fütüristik bilgi grafiği üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, fütüristik karakter görseli üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Quality: Photograph. Live-action film.
@@ -2876,7 +2876,7 @@ Pause: The band is belting out.
 
 ## Retro Line Art Storefront Illustration Generator Template
 
-> Minimal, retro logo üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Minimal, retro illüstrasyon üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 [BRAND NAME] | [SUBJECT_TOGGLE]. Act as a Lead Graphic Designer.
@@ -2914,7 +2914,7 @@ Flat 2D vector, 8k resolution, monochrome aesthetic, centered composition.
 
 ## Asimov Visionary Split-Scene Concept Art Prompt
 
-> Fotogerçekçi, sinematik arayüz tasarımı üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, sinematik sahne üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Do this for Asimov:   1. The Analysis:  
@@ -3015,7 +3015,7 @@ quiet luxury, sophisticated style.
 
 ## Red Gel-Lit Film Contact Sheet (9-Panel Collage)
 
-> Minimal portre üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Minimal kolaj üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 {
@@ -3217,7 +3217,7 @@ quiet luxury, sophisticated style.
 
 ## Cinematic Black and White Photo of Woman with Guitar and Pigeons
 
-> Sinematik, minimal görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Sinematik, minimal kadın figürlü görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 {
@@ -3290,7 +3290,7 @@ quiet luxury, sophisticated style.
 
 ## Photo to Soft Anime Wedding Illustration
 
-> Minimal, lüks afiş üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
+> Minimal, lüks çift fotoğrafı üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 {
@@ -3389,7 +3389,7 @@ No watermark, no typography, no blur, no distortion, no cropped limbs, no extra 
 
 ## Samurai Sniper Dynamic Battle Scene Prompt
 
-> Sinematik illüstrasyon üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Sinematik sahne üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Masterpiece quality, theatrical anime-scale dynamic battle scene. A samurai character is the main subject (preserving a traditional samurai feel, optionally blended with subtle modern gear elements). Prone firing pose (low-profile/propped close to the roof surface), body flattened to the tiles, elbows braced for stability. Cheek pressed to the stock while peering through the scope, one eye narrowed, an intense focused stare and clenched teeth conveying tension and determination.
@@ -3419,7 +3419,7 @@ Vertical cinematic poster composition, 9:16 aspect ratio, no text.
 
 ## Kusarigama Warrior Dynamic Battle Scene Prompt
 
-> Sinematik afiş üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Sinematik sahne üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Masterpiece quality, theatrical anime-scale dynamic battle scene. A Japanese-style warrior is the main subject. Intense low-angle perspective with exaggerated depth; extreme perspective and bold framing with the weapon thrusting forward as if breaking through the screen.
@@ -3433,7 +3433,7 @@ Vertical cinematic poster composition, 9:16 aspect ratio, no text.
 
 ## Samurai Swordsman Dynamic Battle Scene Prompt
 
-> Sinematik afiş üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Sinematik sahne üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Masterpiece quality, theatrical animation-scale dynamic battle scene, Japanese-style swordsman (samurai) character, intense low-angle perspective with exaggerated depth, bold framing where the blade thrusts forward as if piercing through the screen.
@@ -3458,7 +3458,7 @@ poster of {argument name="personality" default="PERSONALITY"}| standing on hill 
 
 ## Futuristic Branded Drone Product Poster
 
-> Minimal, fütüristik logo üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Minimal, fütüristik afiş üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Professional studio product poster of a futuristic branded drone copter, centered hero composition. The drone is the dominant subject, highly detailed industrial design, aerodynamic arms, premium materials, subtle surface texture, realistic reflections.
@@ -3602,7 +3602,7 @@ TEXT & LABEL
 
 ## Digital Painterly Portrait with Street Art Feel
 
-> Sinematik, minimal afiş üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Sinematik, minimal portre üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 A bold, high contrast digital portrait of a young man in side profile, facing left. The style is expressive and painterly, with dynamic brush strokes and paint splashes flowing from the head and shoulders, creating a sense of motion and energy. Strong black shadows define the face, with sharp highlights for depth and drama. The background is a solid vibrant {argument name="background color" default="yellow"}, minimal and striking. Accents of deep blue and black paint strokes wrap around the subject, giving a modern street art and sports poster feel. Cinematic lighting, high detail, gritty texture, confident and focused expression, contemporary illustration style, ultra sharp, poster quality.
@@ -3720,7 +3720,7 @@ Minimalist black silhouette illustration in the classic style of Naji al-Ali's H
 
 ## Stunning 8K Outdoor Photo Prompt
 
-> Fotogerçekçi, sinematik manzara üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, sinematik fotoğraf üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 A stunning 8k outdoor photo of a woman standing on a cliff edge overlooking a vast, misty mountain range at sunrise. She is wearing a flowing, deep emerald green dress that contrasts sharply with the pale gold and blue tones of the sky. The lighting is dramatic, with strong rim lighting outlining her silhouette and soft, volumetric light filling the scene. The composition uses the rule of thirds, placing the woman slightly off-center for maximum impact. The image should have hyper-realistic detail, cinematic color grading, and a shallow depth of field to emphasize the subject against the epic landscape. Shot on a high-end medium format camera.
@@ -3728,7 +3728,7 @@ A stunning 8k outdoor photo of a woman standing on a cliff edge overlooking a va
 
 ## Red Bull Commercial Grid Collage Prompt (JSON)
 
-> Fotogerçekçi, minimal görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, minimal kolaj üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 {
@@ -3822,7 +3822,7 @@ Create Abstract liquid typography using this prompt 👇
 
 ## Natural Language Prompt for Spider-Man Folded-Paper Blueprint
 
-> Fotogerçekçi, minimal mimari görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, minimal erkek figürlü görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 A hyper-detailed folded-paper blueprint of SpiderMan where the character is constructed from precise geometric folds and crease lines, overlaid with subtle blueprint markings, measurement lines, and paper annotations. Minimal color palette, off-white paper with faint ink lines. Studio lighting, crisp shadows, architectural art style, photorealistic paper detail.
@@ -3838,7 +3838,7 @@ Maintain the texture without changing the art style. Crop and apply the {argumen
 
 ## Vector Illustration for Five Gods of Wealth Red Packet Cover
 
-> Sinematik, minimal afiş üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Sinematik, minimal illüstrasyon üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Vector illustration, abstract lines and curved lines, line drawing, composed of soft color blocks, minimalism, line design superimposed with multiple irregular curved color blocks forming the silhouette of the Five Gods of Wealth, full-body heavy color close-up, wealth rolling in, blessings, longevity, happiness, ethereal, natural, texture, decoration, surrealism, featuring avant-garde art, stylish font main title with tiny English text “{argument name="english accent" default="fashion china"}” as an embellishment, master composition, minimalist poster, high-definition image quality, master work, award-winning poster. Pure white background, {argument name="color scheme" default="Dopamine color scheme"}, movie poster, blockbuster effect, elegant and generous, strong visual impact
@@ -4020,7 +4020,7 @@ A 10-year-old Palestinian boy inspired by Naji al-Ali's Handala character, stand
 
 ## Surreal Cinematic Fantasy Portrait with Fire and Ice
 
-> Fotogerçekçi, sinematik afiş üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, sinematik portre üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 A surreal cinematic fantasy portrait of a man's face (uploaded face as reference) emerging from a frozen forest, his skin dusted with snow and glowing embers. One luminous golden eye glowing with mystical energy, ultra-detailed iris. Warm firelight and cold blue ice colliding across his face, snow particles floating in the air. A small cloaked figure standina beside his face inside the forest, adding scale and mystery. Dramatic contrast between fire and ice, ethereal atmosphere, fantasy realism, ultra-sharp facial details, volumetric lighting, shallow depth of field, magical glow, cinematic color grading, hyper-realistic textures, 8K resolution, epic dark fantasy art, movie poster quality
@@ -4028,7 +4028,7 @@ A surreal cinematic fantasy portrait of a man's face (uploaded face as reference
 
 ## Neo-Noir Fashion Portrait with High Contrast
 
-> Sinematik, lüks afiş üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Sinematik, lüks moda çekimi üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Create a striking neo-noir fashion portrait of a man dressed in a sharp black three-piece suit, white dress shirt, and slim black tie, carrying a {argument name="prop item" default="gun"} in the hands. He faces slightly downward and to the side, head tilted with a brooding, introspective expression. His presence feels controlled, distant, and powerful—like a stylish anti-hero caught between worlds. He has medium-length wavy dark hair falling loosely around his temples, a well-groomed beard, and wears round black sunglasses that completely conceal his eyes, amplifying mystery and authority. His posture is relaxed yet deliberate, conveying confidence without effort. The subject is rendered in dramatic black and white, while the background is a rich, textured {argument name="background color" default="crimson red"}, creating intense contrast and visual impact. The red backdrop feels symbolic and emotional, evoking danger, passion, rebellion, and cinematic tension. Lighting is moody and directional, sculpting facial features and suit fabric with subtle highlights and deep shadows. Fine film grain and painterly texture add an editorial, poster-like quality. The image feels like a luxury fashion campaign, noir graphic novel cover, or arthouse film poster. Use aspect ratio 4:5.
@@ -4036,7 +4036,7 @@ Create a striking neo-noir fashion portrait of a man dressed in a sharp black th
 
 ## Surreal Cinematic Macaron Megastructure Video Prompt
 
-> Fotogerçekçi, sinematik yemek görseli üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, sinematik fantastik sahne üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 A surreal hyper-realistic cinematic video of a colossal macaron megastructure under construction, envisioned as a futuristic architectural spire made entirely of oversized pastel macarons. Each macaron tier functions like a rotating skyscraper floor, subtly spiraling upward as the structure grows. Crisp glossy shells with sculptural ruffled edges and softly glowing cream fillings ooze slightly in slow motion, catching the light.
@@ -4054,7 +4054,7 @@ Settings:
 
 ## High Fashion Magazine Pictorial in Times Square
 
-> Minimal afiş üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Minimal moda çekimi üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 A high fashion magazine pictorial of a young blonde American woman in her early 20s standing still and looking at the camera, gently turning her head in the center, surrounded by blurry silhouettes of people walking past in New York Times Square. She has a calm, stoic expression and is wearing a black minimalist outfit. The background shows the vibrant lights and billboards of Times Square, slightly abstract and bright, emphasizing the contrast between motion blur and her static presence. Editing style, film composition, pure art photography, soft magazine texture, high resolution. --stylize 200 --raw
@@ -4090,7 +4090,7 @@ Let's make Nano Banana design a poster!
 
 ## Black and White Street Photography Decisive Moment
 
-> Minimal mimari görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Minimal şehir ve sokak sahnesi üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 {
@@ -4155,7 +4155,7 @@ Let's make Nano Banana design a poster!
 
 ## Cosmic Chessboard Checkmate Scene
 
-> Sinematik görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Sinematik sahne üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 “Eternity’s Checkmate, a massive cosmic chessboard floating in deep outer space, final move frozen in time, a radiant cracked king chess piece emitting starlight energy, a mysterious hooded cosmic entity formed from galaxies and nebula dust reaching forward to deliver checkmate, shattered chess pieces transforming into constellations, swirling colorful nebula clouds, deep space background with stars, cinematic wide-angle view, dramatic volumetric lighting, ultra detailed, epic scale, surreal symbolism, sharp focus, high dynamic range, dark blue and gold color scheme, professional digital art, 8k, masterpiece quality.”
@@ -4182,7 +4182,7 @@ Instruction to renderer: Use the uploaded photo as the primary source and only r
 
 ## Naturalist Field Journal Ecosystem Scene
 
-> Fotogerçekçi, elle çizilmiş bilgi grafiği üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, elle çizilmiş sahne üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Epic 3D scene: a weathered field journal lies open on a naturalist's camp table, its pages erupting into the ecosystems they document. Hand-drawn botanical illustrations push upward into living specimens : {argument name="plant 1" default="[PLANT 1]"} unfurls actual petals, {argument name="plant 2" default="[PLANT 2]"} releases pollen that drifts across the spread. Pinned insect diagrams detach and take flight. Watercolor landscapes inflate into traversable terrain. Margin notes become tiny expedition camps. Pressed flowers resurrect in time-lapse bloom. A specimen jar on the page contains an actual swimming creature. Field sketches of {argument name="animal" default="[ANIMAL]"} step off the paper, leaving graphite footprints. Coffee-stained pages become amber pools. Canvas tent visible beyond, lantern light mixing with fireflies, the smell of pine and old paper, 8K, photorealistic documentary aesthetic.
@@ -4280,7 +4280,7 @@ I’ve designed this prompt to be poster-ready and professionally polished. Just
 
 ## Master Prompt for Caricature Art of Music Legends
 
-> Minimal afiş üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Minimal illüstrasyon üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 A vibrant, editorial-style caricature illustration of a music legend, capturing them in a moment of high-energy performance. The style should be bold and dynamic, utilizing exaggerated features and expressive lines to convey movement and emotion. The color palette is highly saturated and contrasting, reminiscent of classic rock posters but with a modern, glossy finish. The background is abstract or minimal, focusing all attention on the performer. The lighting is theatrical, with strong spotlights and stage effects. The final image should look like a high-quality, stylized magazine feature.
@@ -4297,7 +4297,7 @@ The eyes look fierce, emotional, and determined, with slightly messy hair. Use t
 
 ## Poetry Diorama Generation System Prompt
 
-> Mimari görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> 3B sahne üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 you are a world class visual artist and viral content generator tasked with creating high-concept diorama for poems. For every input, you will find their 4 most famous works, analyze the core identity, the defining artifacts, the atmosphere, characters and the underlying narrative of the subject. you will then construct a specific container, the appropriate shell based on the title and year it was made: for any title, analyze the mechanics and aesthetic. visualize a hollowed-out item. the interior is a diorama of a famous level. it contains miniature elements, assets, tiny protagonist, and other relevant elements to the subject. lighting & style should be appropriate for the title. Output 2x2 grid, each with a diorama of each poem
@@ -4305,7 +4305,7 @@ you are a world class visual artist and viral content generator tasked with crea
 
 ## Surreal Fantasy Portrait Prompt (Fire and Ice)
 
-> Fotogerçekçi, sinematik afiş üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, sinematik portre üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 A surreal cinematic fantasy portrait of a woman’s face emerging from a frozen forest, her skin dusted with snow and glowing embers. One luminous golden eye glowing with mystical energy, ultra-detailed iris. Warm firelight and cold blue ice colliding across her face, snow particles floating in the air. A small cloaked figure standing beside her face inside the forest, adding scale and mystery. Dramatic contrast between fire and ice, ethereal atmosphere, fantasy realism, ultra-sharp facial details, volumetric lighting, shallow depth of field, magical glow, cinematic color grading, hyper-realistic textures, 8K resolution, epic dark fantasy art, movie poster quality.
@@ -4313,7 +4313,7 @@ A surreal cinematic fantasy portrait of a woman’s face emerging from a frozen 
 
 ## Playful Portrait with Foreground Text and Gradient Background
 
-> Minimal, stüdyo ışıklı 3B sahne üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Minimal, stüdyo ışıklı portre üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 {
@@ -4609,7 +4609,7 @@ Ultra-realistic 8K cinematic poster-style photograph ASPECT RATIO: 3:4 vertical 
 
 ## Editorial-Style Marketing Banner for Premium Tech
 
-> Lüks görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Lüks fotoğraf üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Wide-format marketing banner for a premium tech brand.
@@ -4622,7 +4622,7 @@ designed to feel like a magazine spread, not an ad.
 
 ## Hyper-Realistic Zootopia Cosplay Portrait with Identity Lock
 
-> Fotogerçekçi, sinematik afiş üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, sinematik portre üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 "A hyper-realistic cinematic cosplay portrait of the SAME PERSON (face identity unchanged, real skin texture), standing back-to-back with an anthropomorphic fox in a live-action Zootopia-inspired scene.
@@ -4674,7 +4674,7 @@ Hyper-realistic cinematic portrait of a woman portrayed as a celestial archivist
 
 ## Dramatic Cinematic Portrait of a Rugged Young Man
 
-> Fotogerçekçi, sinematik afiş üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, sinematik portre üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 A dramatic cinematic portrait of a rugged young man with light stubble, wearing a dark padded jacket, standing in a smoky atmosphere filled with glowing ember sparks floating through the air. He looks slightly upward with a serious, introspective expression. Low-key lighting with strong contrast: warm orange firelight illuminating one side of his face and cool blue-gray shadows on the other. Shallow depth of field, soft haze, volumetric lighting, floating particles, cinematic color grading, ultra-realistic skin texture, sharp facial details, dark background, movie-poster aesthetic, high realism, 8K resolution.
@@ -4698,7 +4698,7 @@ foreground rusted train tracks, discarded spray cans, concrete debris, weeds bet
 
 ## Dramatic Cinematic Portrait with Contrasting Lighting
 
-> Fotogerçekçi, sinematik moda çekimi üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, sinematik portre üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Ultra-realistic cinematic medium close-up portrait of the reference person, slightly turned to the side while looking toward the camera. Wearing a black turtleneck and dark jacket, modern and minimalist fashion style. Deep blue background with a smooth gradient, combined with contrasting magenta and blue lighting. Strong blue light coming from one side and magenta light from the opposite side, both colors reflecting clearly on the face and skin, creating a dramatic color contrast. High-end editorial lighting, sharp focus, realistic skin texture, cinematic mood, shallow depth of field.
@@ -4706,7 +4706,7 @@ Ultra-realistic cinematic medium close-up portrait of the reference person, slig
 
 ## Ancestral Tribal Gaze Portrait Prompt (Facial Lock)
 
-> Fotogerçekçi, sinematik afiş üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, sinematik portre üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 "A dramatic ultra-realistic portrait of a woman shown in extreme close-up, only half of her face visible. Her skin is painted with bold tribal markings in deep red, navy blue, and muted earth tones, layered with rough textures and symbolic patterns. One striking light-blue eye is sharply in focus, conveying strength, resilience, and quiet intensity. She wears weathered fabric and woven textiles around her head, with frayed edges and smallwooden beads, suggesting ancient or nomadic culture. Cinematic lighting with soft shadows, shallow depth of field, dark neutral background, hyper-detailed skin texture, painterly realism, 8K quality, editorial poster style, moody and powerful atmosphere."
@@ -4726,7 +4726,7 @@ Style the image as a powerful editorial poster — timeless, moody, and emotiona
 
 ## 3x3 Visual Storyboard for Product Branding
 
-> Minimal, lüks logo üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
+> Minimal, lüks çizgi roman karesi üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 A clean 3x3 [{argument name="aspect ratio" default="ratio"}] storyboard grid, composed of nine equally sized [{argument name="aspect ratio" default="ratio"}] frames, with an overall aspect ratio of [4:5].
@@ -4848,7 +4848,7 @@ Bottom Panel: A highly detailed interior view of a retro diner counter, featurin
 
 ## Ultra-Realistic Portrait with Tribal Markings and Painterly Realism
 
-> Fotogerçekçi, sinematik afiş üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, sinematik portre üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 A dramatic ultra-realistic portrait of a woman shown in extreme close-up, only half of her face visible. Her skin is painted with bold tribal markings in deep red, navy blue, and muted earth tones, layered with rough textures and symbolic patterns. One striking light-blue eye is sharply in focus, conveying strength, resilience, and quiet intensity. She wears weathered fabric and woven textiles around her head, with frayed edges and smallwooden beads, suggesting ancient or nomadic culture. Cinematic lighting with soft shadows, shallow depth of field, dark neutral background, hyper-detailed skin texture, painterly realism, 8K quality, editorial poster style, moody and powerful atmosphere.
@@ -4856,7 +4856,7 @@ A dramatic ultra-realistic portrait of a woman shown in extreme close-up, only h
 
 ## Cinematic Triptych Portrait in a Night City Setting
 
-> Fotogerçekçi, sinematik moda çekimi üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, sinematik portre üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 use the uploaded photo as the exact identity reference. keep the same person, same face, same facial features, same proportions and natural expression, create a photorealistic cinematic triptych portrait (three-frame composition in one image).
@@ -4874,7 +4874,7 @@ A single {argument name="object" default="[OBJECT]"} suspended in space, frozen 
 
 ## Surreal Macro Portrait with Porcelain Restoration Theme
 
-> Fotogerçekçi, sinematik bilgi grafiği üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, sinematik portre üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 {
@@ -4930,7 +4930,7 @@ A single {argument name="object" default="[OBJECT]"} suspended in space, frozen 
 
 ## Pop Star Concert Photography
 
-> Fotogerçekçi, sinematik görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, sinematik fotoğraf üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 {
@@ -4997,7 +4997,7 @@ In the style of the cover of the women's fashion magazine CanCam
 
 ## Cinematic Close-up Portrait Prompt of Winter Sports Athlete
 
-> Fotogerçekçi, sinematik afiş üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, sinematik portre üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 A hyper-realistic cinematic close-up portrait of a female winter sports athlete, side profile, wearing snow goggles and a helmet, intense focused expression. Frost, ice crystals, and snow particles on the goggles and face, cold breath visible. {argument name="color grading" default="Blue-teal and orange"} cinematic color grading, dramatic soft lighting with shallow depth of field. Ultra-detailed skin texture, sharp eye focus reflected in the goggles, moody winter atmosphere, snowfall inforeground, high contrast, professional sports poster look, 8K, HDR, photorealistic, cinematic photography, extreme detail, studio quality.
@@ -5005,7 +5005,7 @@ A hyper-realistic cinematic close-up portrait of a female winter sports athlete,
 
 ## Cinematic Portrait in a Luxury Cinema Lobby
 
-> Sinematik, lüks afiş üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
+> Sinematik, lüks portre üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 {
@@ -5124,7 +5124,7 @@ I tried creating a "Weekly Magazine" style using the magazine cover prompt
 
 ## Surreal Cinematic Digital Illustration Prompt
 
-> Sinematik, minimal illüstrasyon üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
+> Sinematik, minimal fantastik sahne üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Transform the uploaded image into a high-impact digital illustration using the image as a strict facial reference. Face Match (Strict): Face match must remain 100% exact — identical facial structure, proportions, jawline, cheekbones, nose shape, lips, beard density(if available in reference image) and trim, skin texture, hairline, hairstyle, and overall identity. Do not beautify, stylize, or alter facial features. Subject & Pose: A young Eastern European man is shown in a clean side-profile pose (not extreme profile), facing toward the right side of the frame. His head is slightly raised, chin gently lifted, conveying confidence, ambition, and forward vision. Expression is calm and self-assured. Clothing & Styling: The subject wears formal, modern clothing — a tailored dark blazer over a crisp shirt, minimal and elegant, reinforcing a professional and ambitious persona. No distracting accessories. Key Visual Element: He wears bold orange reflective sunglasses as the focal point. The lenses reflect a detailed modern cityscape with skyscrapers, urban roads, and green trees, symbolizing vision, ambition, and future goals. Color & Illustration Style: The face and clothing are rendered in muted grayscale tones, with realistic texture translated into a refined digital illustration style. Surrounding the subject are expressive abstract paint strokes and splashes in neon green and electric blue, adding energy and contrast without covering facial details. Background & Lighting: The background is dark and dramatic, layered with deep grey tones, subtle texture, and painterly motion. Cinematic lighting creates strong subject separation, clean highlights, and controlled shadows. Overall Aesthetic: Modern, cinematic, surreal digital illustration with a 2/3 photoreal-illustration balance and 1/3 abstract expression, poster-quality, high contrast, premium look. Aspect Ratio: 4:5
@@ -5132,7 +5132,7 @@ Transform the uploaded image into a high-impact digital illustration using the i
 
 ## Surreal Minimalist Ferrari Print Ad
 
-> Fotogerçekçi, minimal logo üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, minimal araç görseli üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 FERRARI
@@ -5169,7 +5169,7 @@ Dramatic raking light, tilt-shift depth of field, 8K, UE5, cinematic lighting. T
 
 ## Epic Chinese Fantasy Zodiac Deities Prompt (12 Characters)
 
-> Fotogerçekçi, sinematik illüstrasyon üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, sinematik karakter görseli üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Real human body + spiritual light phantom behind
@@ -5221,7 +5221,7 @@ Dramatic raking light, tilt-shift depth of field, 8K, UE5, cinematic lighting. T
 
 ## Sanrio Tarot Card Risograph Simulation
 
-> Portre üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Karakter görseli üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Create a single Major Arcana tarot card featuring one randomly selected official Sanrio character from this list: Hello Kitty, My Melody, Kuromi, Cinnamoroll, Pompompurin, Keroppi, Badtz-Maru, Little Twin Stars (Kiki & Lala), Chococat, Tuxedo Sam, Gudetama, Aggretsuko, Hangyodon, Dear Daniel, or Usahana. CRITICAL: The character MUST be assigned a randomly chosen zodiac theme AND a randomly chosen Major Arcana card (The Fool, The Magician, The High Priestess, The Empress, The Emperor, The Hierophant, The Lovers, The Chariot, Strength, The Hermit, Wheel of Fortune, Justice, The Hanged Man, Death, Temperance, The Devil, The Tower, The Star, The Moon, The Sun, Judgement, The World) - both assignments are non-negotiable and mandatory. The zodiac symbolism must be woven into the tarot card's meaning and visual metaphors. Render in traditional tarot card proportions (2.75:4.75 ratio, portrait orientation) with an ornate decorative border featuring Art Nouveau-inspired flowing lines, celestial motifs, and geometric patterns that reference both the zodiac sign and tarot symbolism. The character must be depicted with 100% canonical accuracy maintaining exact official Sanrio proportions and features, positioned centrally as the card's main subject in a pose that embodies the tarot card's archetypal meaning. The entire composition must be a high-quality risograph print simulation featuring authentic soy-based ink grain texture that mimics absorption on uncoated 80-120gsm paper stock, stochastic dot stippling using randomized diffusion dither patterns (not regular halftone grids), fine sand-like noise within all color fills simulating Grain Touch screening mode, organic ink density variations creating tonal shifts without smooth gradients, slight dot gain effect at color boundaries, and spot color separation logic with translucent ink layering behavior rather than CMYK process colors. Colors must be bold, flat, vibrant, and fully saturated (80-100% chroma) with maximum brightness, utilizing fluorescent ink vibrancy where appropriate and showing no fading, desaturation, or washed-out pastels. The border design should use a maximum of 3-4 spot colors plus black, with the character surrounded by a thick uniform black outline (3-4pt stroke weight). Background within the border should be cream/off-white (#FFF8E7) to simulate aged tarot card stock. The output must be 3000×5200px resolution in sRGB, containing absolutely no text labels, character names, tarot card titles, zodiac symbols (♈♉♊♋♌♍♎♏♐♑♒♓), Roman numerals, descriptive typography, or dimensional effects like drop shadows.
@@ -5320,7 +5320,7 @@ Create a single Major Arcana tarot card featuring one randomly selected official
 
 ## Parameterized Ice Cream Dessert Advertising Poster Prompt
 
-> Fotogerçekçi, sinematik logo üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, sinematik afiş üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Flavor theme: 【{argument name="flavor theme" default="Strawberry"}】. Ultra-premium dessert advertising poster, hyper-realistic and intensely mouth-watering. A tall crystal sundae glass centered, filled with a rich creamy dessert inspired by the flavor theme, paired with multiple distinct complementary ingredients from the same flavor profile and color palette, clearly different in form, texture, or preparation, even when the flavor theme itself is visually obvious; for visually ambiguous or dairy-based flavors, include clearly recognizable solid garnish elements derived from the flavor itself. Ice cream scoops appear dense, cold, and creamy with soft melting edges. Flavor-matched liquid splashes originate clearly from inside the glass, bursting upward and outward from the dessert itself, thick, glossy, and gravity-driven, flowing in irregular ribbons and droplets, coating the rim and inner walls of the glass in slow motion. Fruits or accents appear juicy with visible moisture, some placed in the foreground for depth. Seamless infinite studio background in a refined mid-to-dark tone, clean and texture-free, softly lit with subtle tonal gradients, color-matched to the flavor theme. Cinematic lighting, shallow depth of field, high-end commercial aesthetic, indulgent yet refined, hyper-detailed, 8k quality. No text, no logo, no watermark, no packaging, no frame, no CGI or cartoon look.
@@ -5388,7 +5388,7 @@ Flavor theme: 【{argument name="flavor theme" default="Strawberry"}】. Ultra-p
 
 ## 2000s Scrapbook Collage Illustration
 
-> Minimal, retro portre üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Minimal, retro kolaj üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 A vibrant 2000s scrapbook-style collage featuring the same young man in multiple cutout poses. One portrait is centered and large, showing him wearing round glasses and a black hoodie, making a finger-heart gesture toward the camera. Other cutouts show him squatting with a vintage instant camera, and another blowing a pink bubblegum bubble.  
@@ -5400,7 +5400,7 @@ The overall aesthetic is nostalgic, cheerful, and youthful — inspired by early
 
 ## 2000s Scrapbook Collage Image Prompt
 
-> Minimal, retro portre üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Minimal, retro kolaj üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 A vibrant 2000s scrapbook-style collage featuring the same young man in multiple cutout poses. One portrait is centered and large, showing him wearing round glasses and a black hoodie, making a finger-heart gesture toward the camera. Other cutouts show him squatting with a vintage instant camera, and another blowing a pink bubblegum bubble.
@@ -5412,7 +5412,7 @@ The overall aesthetic is nostalgic, cheerful, and youthful — inspired by early
 
 ## Romantic Cinematic Triptych with Shared Earphones
 
-> Fotogerçekçi, sinematik görsel üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, sinematik çift fotoğrafı üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 {
@@ -5577,7 +5577,7 @@ The overall aesthetic is nostalgic, cheerful, and youthful — inspired by early
 
 ## Elon Musk Typographic Split Portrait
 
-> Stüdyo ışıklı afiş üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Stüdyo ışıklı portre üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 {
@@ -5658,7 +5658,7 @@ The overall aesthetic is nostalgic, cheerful, and youthful — inspired by early
 
 ## Blaxploitation Comic Art 'I Got 5 On It' Prompt
 
-> Sinematik, retro afiş üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Sinematik, retro illüstrasyon üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 A highly stylized, hyper-exaggerated Comic caricature in the vein of 70s Blaxploitation movie posters. The hip-hop duo Luniz are depicted as larger-than-life, over-the-top 70s pimp archetypes inside a gritty, neon-lit strip club. One member, wearing an exaggerated wide-lapel velvet suit and massive gold chains, has a comically oversized hand placed on the hip of a stylized go-go dancer in retro attire. A bold, jagged comic book speech bubble erupts from his mouth containing the heavy block text: "{argument name="speech bubble text" default="I GOT 5 ON IT"}". The other member stands beside him, laughing with a stack of cash. The scene features thick outlines, heavy black inking, vibrant flat colors, and a prominent halftone dot texture. Lighting is high-contrast and dramatic, using a deep color palette of burnt orange, mustard yellow, deep purple, and electric blue neon hues. The background is crowded with stylized patrons, abstract neon signs like "{argument name="neon sign text" default="THE LOONY JOINT"}", and heavy smoke. Cel-shaded, graphic novel illustration, cinematic composition, highly detailed caricature action scene.
@@ -5674,7 +5674,7 @@ High-end 3D advertising poster for {argument name="product name" default="[INSER
 
 ## Cinematic Vertical Movie Poster Prompt (Multi-Role)
 
-> Fotogerçekçi, sinematik logo üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, sinematik afiş üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Use the same face from the reference image without changing facial features 
@@ -5742,7 +5742,7 @@ Asymmetric grid poster design
 
 ## Music Curation: Audio-Visual Dioramas for Pink Floyd Fans
 
-> Fotogerçekçi, fütüristik mimari görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, fütüristik 3B sahne üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Do this for {argument name="input band" default="Pink Floyd"}: Input Variable: [INSERT BAND/ALBUM] (e.g., Pink Floyd, Daft Punk, Nirvana)
@@ -5870,7 +5870,7 @@ Standing just behind the sculpture is Dwayne "The Rock" Johnson, captured mid-po
 
 ## Fine-Art Silhouette with Glowing Dragon Tattoo
 
-> Minimal, lüks mimari görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Minimal, lüks fantastik yaratık üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 {
@@ -5919,7 +5919,7 @@ Standing just behind the sculpture is Dwayne "The Rock" Johnson, captured mid-po
 
 ## 3x3 Black and White Photo Collage
 
-> Minimal portre üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
+> Minimal kolaj üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 {
@@ -5936,7 +5936,7 @@ Standing just behind the sculpture is Dwayne "The Rock" Johnson, captured mid-po
 
 ## Urban Grunge Digital Advertisement
 
-> Stüdyo ışıklı moda çekimi üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Stüdyo ışıklı şehir ve sokak sahnesi üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 {
@@ -6063,7 +6063,7 @@ Top-left: “FRESH JUICE” + “[FLAVOR_TAGLINE]”. Right: circular “30% OFF
 
 ## Dexter Morgan Cinematic Portrait with Banana Prop Prompt
 
-> Fotogerçekçi, sinematik afiş üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, sinematik portre üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 {
@@ -6112,7 +6112,7 @@ Top-left: “FRESH JUICE” + “[FLAVOR_TAGLINE]”. Right: circular “30% OFF
 
 ## High-End Sports Graphic Poster Template
 
-> Lüks logo üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Lüks afiş üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 [PERSON NAME].
@@ -6202,7 +6202,7 @@ Put the issue number and today's date in the corner along with a barcode and a p
 
 ## Election Poster Style Prompt
 
-> Çizgi roman karesi üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
+> Afiş üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Please create an election poster style illustration
@@ -6239,7 +6239,7 @@ Atmosphere like a VHS jacket.
 
 ## Asymmetrical Dark Luxury Beauty Editorial Spread
 
-> Lüks moda çekimi üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Lüks fotoğraf üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Asymmetrical editorial spread, 4:5 ratio.
@@ -6261,7 +6261,7 @@ Style keywords: Opulent beauty, velvet, glossy lips, high fashion, dramatic ligh
 
 ## Cinematic Still-Life of Paper Celebrity Figure in Rain
 
-> Sinematik görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Sinematik şehir ve sokak sahnesi üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 A cinematic still-life photograph set on a busy city street in the evening, rain falling gently.
@@ -6278,7 +6278,7 @@ Ultra-detailed paper texture, high contrast, intimate and whimsical mood, poetic
 
 ## Defiant Woman Lighting Cigarette with Burning Photo
 
-> Fotogerçekçi mimari görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi kadın figürlü görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 {
@@ -6337,7 +6337,7 @@ Ultra-detailed paper texture, high contrast, intimate and whimsical mood, poetic
 
 ## GTA Loading Screen Style Urban Chic Illustration
 
-> Moda çekimi üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Şehir ve sokak sahnesi üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 {
@@ -6377,7 +6377,7 @@ Ultra-detailed paper texture, high contrast, intimate and whimsical mood, poetic
 
 ## Spectacular Aerial View of Laojun Mountain Temple in Winter
 
-> Sinematik mimari görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Sinematik manzara üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Spectacular aerial view, winter Laojun Mountain Golden Summit Taoist temple complex. The mountain peaks are covered with thick white snow, emerging above a vast sea of clouds. In the blue hour twilight, the architecture and walkways light up with brilliant golden warm light, creating a strong contrast with the cold-toned ice and snow environment, resembling a celestial palace, a paradise on earth.
@@ -6385,7 +6385,7 @@ Spectacular aerial view, winter Laojun Mountain Golden Summit Taoist temple comp
 
 ## British Vogue Cover Style High-End Gentleman Portrait Prompt
 
-> Lüks moda çekimi üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
+> Lüks portre üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Ultimate Integrated Prompt - 'British Vogue' Fashion Magazine Cover Edition
@@ -6587,7 +6587,7 @@ Retro American Pinup style, Airport Cafe, {argument name="time of day" default="
 
 ## Child-like Crayon and Colored Pencil City Drawing
 
-> Minimal görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Minimal şehir ve sokak sahnesi üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 A clean and colorful drawing of a {argument name="city" default="city"} drawn with crayons and colored pencils. It depicts iconic landmarks, trees, and a bright sky. The style is slightly more refined than a typical child's drawing, featuring clean yet playful lines, uneven perspective, and charming imperfection. At the top of the page, the word "CITY" is written in large, multi-colored crayon letters that match the city's atmosphere. The background is textured white paper, 1080x1080 pixels.
@@ -6595,7 +6595,7 @@ A clean and colorful drawing of a {argument name="city" default="city"} drawn wi
 
 ## 1-Object Print Ad Generation Framework
 
-> Lüks görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Lüks fantastik sahne üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 1-Object Print Ad
@@ -6609,7 +6609,7 @@ Drop ONE product ({argument name="product example 1" default="iPhone"}, {argumen
 
 ## Ronaldo Futuristic Exoskeleton Portrait Prompt
 
-> Fotogerçekçi, sinematik afiş üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, sinematik portre üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Ultra-realistic cinematic portrait of a {argument name="subject name" default="Ronaldo"} standing confidently in the center, wearing a modern outfit combined with futuristic exoskeleton armor on arms and legs. The armor is bulky, industrial, and battle-worn, with solid white and metallic gray tones, visible mechanical joints, scratches, and realistic texture. It 's massive, oversized industrial mechanical power gauntlets and heavy robotic leg armor boots. 
@@ -6696,7 +6696,7 @@ Design keywords: fashion lookbook, quiet luxury, tone-on-tone, editorial layout,
 
 ## Vogue Cover Style Minimalist Portrait
 
-> Minimal, fütüristik moda çekimi üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
+> Minimal, fütüristik portre üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Create a minimal editorial portrait of a stylish Smiling woman with (same face as reference) against a bright white backdrop framed by soft vignette edges. wearing oversized black sunglasses with orange lenses, a neon blue hoodie, and small gold earrings. Bright studio lighting, minimal light background. Modern fashion editorial photography, clean and vibrant style. Vogue cover style. Rim lighting outlines his face for an 8K studio-quality, HDR minimalist aesthetic."
@@ -6831,7 +6831,7 @@ Create a high-resolution square (1:1) food poster of ({argument name="meal name"
 
 ## High-Contrast Noir Portrait Collage with Color Shifts
 
-> Sinematik, minimal afiş üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Sinematik, minimal kolaj üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 {
@@ -6880,7 +6880,7 @@ Drop ONE brand/product name, get:
 
 ## Character Silhouette Narrative Generator
 
-> Sinematik, minimal 3B sahne üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Sinematik, minimal karakter görseli üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 “A bold silhouette of {argument name="character or person" default="[CHARACTER / PERSON]"} stands centered on the page. Inside the silhouette exists a miniature bas-relief narrative world, carved from layered material.
@@ -6899,7 +6899,7 @@ Composition rules: All narrative detail stays inside the silhouette. Ultra-detai
 
 ## Luxury Black and Gold Korean Brand Identity Collage
 
-> Lüks, stüdyo ışıklı logo üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Lüks, stüdyo ışıklı kolaj üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Luxury brand identity presentation, premium product branding collage, central hero with orbital panels arrangement, black and gold aesthetic, brand touchpoints showcase. Center: A Korean woman in a modernized black silk hanbok, gold embroidery, jeweled norigae. Orbital panels: Close-ups of hanbok details (silk texture, embroidery), gold jewelry (hairpins, rings), packaging (black lacquer box, gold foil lettering), cosmetics (cushion compact, lipstick), lifestyle shots (woman in hanbok at a traditional Korean tea ceremony, calligraphy demonstration), brand logo (stylized Korean script), pattern detail (geometric bojagi). Black background, gold accents, traditional Korean patterns. High-end commercial product photography, studio lighting, Hasselblad X2D, 85mm f/1.2. Style: heritage meets modern, sophisticated, black and gold aesthetic.. A stylish handwritten signature {argument name="signature name" default="Willy"} is elegantly and small letters placed at the Bottom Right corner.
@@ -6915,7 +6915,7 @@ Ultra-realistic lifestyle product poster in a clean studio. Solid vibrant royal-
 
 ## Fireworks Forming a Subject Silhouette
 
-> Fotogerçekçi, sinematik görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, sinematik şehir ve sokak sahnesi üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Fireworks form the shape of {argument name="subject" default="[SUBJECT]"} in the night sky above a waterfront city. The design is inspired by the colors, proportions, and silhouette of {argument name="subject 2" default="[SUBJECT]"}, clearly readable and visually striking against the dark sky. Long-exposure, photorealistic fireworks photography with smoke trails, city skyline silhouette, and colorful reflections on the water. Cinematic composition, sharp detail, ultra-high-resolution 4K.
@@ -6923,7 +6923,7 @@ Fireworks form the shape of {argument name="subject" default="[SUBJECT]"} in the
 
 ## Miniature World in a Liquid Stroke Template
 
-> Fotogerçekçi, minimal ürün fotoğrafı üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, minimal 3B sahne üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 A {argument name="macro medium" default="[MACRO MEDIUM - e.g., stream of liquid gold, plume of smoke, silk ribbon]"}, captured mid-motion, forming a dynamic {argument name="shape" default="[SHAPE - e.g., arc, spiral, wave]"} from the lower left to the upper right. Suspended within the [TEXTURE/MATERIAL] lives a miniature world of [MICRO SUBJECT - e.g., a city, a historical event, an ecosystem], rendered as highly detailed structures sculpted entirely from the [MACRO MEDIUM] itself.
@@ -6949,7 +6949,7 @@ A high-fashion editorial studio poster featuring the same young female model sho
 
 ## New Year's Postcard Prompt for Nano Banana Pro
 
-> Minimal görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Minimal karakter görseli üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Happy New Year Kadomatsu Kimono Black-haired long-haired glasses elf nano_banana_pro New Year postcard creation 2026 t2i
@@ -6957,7 +6957,7 @@ Happy New Year Kadomatsu Kimono Black-haired long-haired glasses elf nano_banana
 
 ## Gucci Campaign Subway Platform Fashion Prompt
 
-> Fotogerçekçi, lüks logo üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, lüks moda çekimi üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 photorealistic professional fashion photograph masterpiece, elegant young woman seated at small metal cafe table on urban subway platform, wearing black tweed boucle jacket with gold buttons, black top and long midi skirt, multi-strand pearl necklace, silver pointed high heels, legs crossed hands in lap neutral serene expression sleek low bun hair, black Gucci leather drawstring bucket bag with gold chain and logo on table next to white espresso cup and saucer, blurred high-speed metro train passing in background with motion blur, cool diffused natural daylight even soft lighting specular highlights on metals and pearls, surreal luxurious contrast in public transit setting, centered composition medium shot eye-level, shallow depth of field sharp focus on subject, high detail 8K UHD, editorial vogue style, trending on artstation –ar 2:3 –stylize 500 –v 6
@@ -7035,7 +7035,7 @@ photorealistic professional fashion photograph masterpiece, elegant young woman 
 
 ## Luxury 3D Metallic New Year Wishes Artwork
 
-> Fotogerçekçi, sinematik afiş üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, sinematik 3B sahne üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 {
@@ -7074,7 +7074,7 @@ Theme: {argument name="theme" default="Movie poster style"}
 
 ## Commercial Studio Hero Shot with Giant Pikachu
 
-> Fotogerçekçi, minimal afiş üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, minimal hayvan görseli üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 [SCENE]
@@ -7125,7 +7125,7 @@ finish = polished commercial grade
 
 ## Giant Pikachu Studio Portrait Identity Lock Prompt
 
-> Fotogerçekçi, minimal afiş üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, minimal portre üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 A stylish young man (1000% same person) standing confidently beside a giant, fluffy Pikachu in a bright monochromatic yellow studio setup. He wears a yellow hoodie, beige cargo shorts, white sneakers, and minimal accessories, creating a clean, coordinated aesthetic. A small orange kitten sits adorably at Pikachu’s feet, adding cuteness to the scene. Smooth soft lighting, high-end studio photography, {argument name="lens focal length" default="85mm"} lens, shallow depth of field,  look. ultra-realistic textures, vibrant colors, clean background, professionally composed hero-shot poster style. Crisp details, warm atmosphere, polished commercial.
@@ -7133,7 +7133,7 @@ A stylish young man (1000% same person) standing confidently beside a giant, flu
 
 ## Generating City-Scale Self-Portrait Advertising
 
-> Minimal afiş üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Minimal portre üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 All the large advertising billboards in the city are "close-ups of my own face"
@@ -7181,7 +7181,7 @@ Composition rules: All architectural detail remains strictly inside the ribbon s
 
 ## Sorceress Emerging from Obsidian Mirror
 
-> Fotogerçekçi, sinematik arayüz tasarımı üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, sinematik fantastik sahne üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 A mysterious sorceress emerging from a cracked obsidian mirror, shards reflecting an ethereal nebula. The mirror's frame is intricately carved with celestial symbols. The sorceress is in mid-gesture, casting a spell, wearing a flowing {argument name="gown color" default="amethyst"} gown, silver filigree armor, and a horned headdress, with a serene yet commanding expression. Her hands glow with arcane energy. Ethereal stardust and dramatic cosmic lighting surround her. Ultra-realistic, cinematic depth of field, sharp focus, dynamic action, magical power. Text at the bottom reads "Awakening the Ancients."
@@ -7215,7 +7215,7 @@ I entrusted the new album jacket font to it, and it designed the original image 
 
 ## Gothic Ethereal Portrait in Snowy Forest
 
-> Sinematik, lüks afiş üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Sinematik, lüks manzara üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 A woman with a mysterious Gothic Ethereal appearance.
@@ -7376,7 +7376,7 @@ RENDER QUALITY: 8K Ultra Photoreal
 
 ## 64K Cinematic Punk Portrait Image Transformation
 
-> Sinematik, elle çizilmiş afiş üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
+> Sinematik, elle çizilmiş portre üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Transform this image [Upload Your Image] into a 64K DSLR shot resolution of cinematic, ultra-detailed portrait of a rebellious, punk-inspired woman (same face as the uploaded image) standing confidently against a rough, cracked concrete wall. A weathered “WANTED” poster is partially visible behind her head, adding a gritty, outlaw atmosphere. She is leaning back casually with her arms crossed, projecting a mischievous, dangerous confidence. She has very pale, porcelain skin and striking light-colored eyes, enhanced with bold, smudged eye makeup-one eye accented with dark eyeliner and the other with a bluish shadow. A small heart-shaped face marking sits just beneath one eye. Her lips are painted a deep red, forming a playful yet sinister smirk. Her platinum-blonde hair is styled into high twin pigtails, with the ends dyed in contrasting pastel tones-one side faded pink and the other teal blue. Loose strands frame her face, adding a messy, chaotic charm. She wears a distressed, torn, fitted white T-shirt with faded red sleeves and a grungy printed slogan across the chest. The shirt appears worn and dirty, with frayed edges and holes, emphasizing a raw, post-apocalyptic or urban-crime aesthetic. Leather straps and suspenders rest over her shoulders. Her arms are decorated with tattoos in bold, sketchy lettering and symbols, and she wears chunky metal bracelets and cuffs on her wrists. A thick metallic choker encircles her neck. Around her waist is a
@@ -7388,7 +7388,7 @@ Camera & Style Tags: Ultra-hyperrealistic, cinematic portrait, shallow depth of 
 
 ## New Year's Osechi Dish Advertisement Key Visual Generation Prompt
 
-> Fotogerçekçi, lüks afiş üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, lüks yemek görseli üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Character Name: [Set {argument name="character name" default="character name"} here]
@@ -7481,7 +7481,7 @@ Visual contrast between the grand, rough land texture and the delicate human act
 
 ## Cinematic Portrait of a Confident Young Man in an Urban Setting
 
-> Fotogerçekçi, sinematik afiş üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, sinematik portre üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 {
@@ -7547,7 +7547,7 @@ Above him in the scene, bold stylized typography displays "{argument name="year"
 
 ## New Year 2026 Postcard and Studio Portrait Prompts
 
-> Fotogerçekçi, sinematik moda çekimi üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, sinematik portre üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Prompt 1:
@@ -7568,7 +7568,7 @@ No visible text or branding. Editorial-quality realism."
 
 ## Chinese New Year Portrait with Red Knitwear and Minimalist Studio Look
 
-> Minimal, retro moda çekimi üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Minimal, retro portre üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 I. Theme and Emotion
@@ -7637,7 +7637,7 @@ IX. Constraints
 
 ## Golden New Year 2026 Celebration Portrait Prompt
 
-> Sinematik, lüks moda çekimi üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
+> Sinematik, lüks portre üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 A stunning, cinematic New Year's Day {argument name="year" default="2026"} celebration scene. The protagonist is the woman in the reference image (facial features and characteristics must be perfectly maintained). She is wearing a luxurious champagne gold sequined Qipao with Deco decorative patterns. She stands joyfully in a 1920s luxury ballroom. In the center of the background is a giant, glowing 3D sculptural installation of the number “2026,” flanked by golden banners reading “Happy New Year” and “New Year's Vigor.” Golden confetti and glitter are falling from the ceiling. Lighting: Spotlights focus on the woman and the “2026” sign, rich golden tones, top-tier commercial fashion photography style. Aspect ratio 9:16, 8k resolution.
@@ -7674,7 +7674,7 @@ Fireworks spelling [{argument name="text" default="TEXT"}] in glowing spark trai
 
 ## New Year's Card Generation with Character Synchronization and Typography
 
-> Görsel üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
+> Karakter görseli üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 **Task:**
@@ -7714,7 +7714,7 @@ Nano Banana Pro must **strictly adhere** to the "art style" and "proportion" of 
 
 ## New Year 2026 Cinematic Photo with Text Overlay
 
-> Sinematik manzara üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
+> Sinematik fotoğraf üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 {
@@ -7758,7 +7758,7 @@ Style: Ultra-high resolution night view photograph, cinematic lighting. Generate
 
 ## Stained Glass Window Art Prompt
 
-> Fotogerçekçi görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi sahne üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Masterpiece-level stained glass window in ancient castle: {argument name="main scene" default="[Subject Scene/Character]"}, 90-degree frontal view. Created as an exquisite stained glass window in an ancient castle. Ultra-fine translucent stained glass etching with exceptional smooth, flowing, and graceful line work. [Subject Positioning Description]. Surrounding the main scene are ornate decorative elements - {argument name="decorative elements" default="[Decorative Elements Description]"} that complement the theme. Delicate black lead lines separating precisely colored glass pieces. Soft sunlight creates ethereal, luminous glow. Palette: {argument name="palette" default="Turquoise, Deep Blue, Mint Green, White, with delicate gold dust"}. [Detail Description]. Light transmission creates radial patterns. Window frame with carved ornamental details. Ultra-detailed craftsmanship, museum masterpiece quality. 2K resolution, hyper-realistic glass texture rendering.
@@ -7788,7 +7788,7 @@ Seamless mapping design elements, fonts, colours, spacing and grid.
 
 ## Four Seasons Puzzle for 2026 New Year Greeting
 
-> Sinematik manzara üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
+> Sinematik karakter görseli üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 A 2x2 four-panel composition photograph, showcasing the same female protagonist in four different seasonal fantasy scenes, personally assembling a New Year's magic puzzle.
@@ -7802,7 +7802,7 @@ A 2x2 four-panel composition photograph, showcasing the same female protagonist 
 
 ## Santa Claus Fireworks over City Skyline
 
-> Fotogerçekçi, sinematik görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, sinematik şehir ve sokak sahnesi üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Fireworks form the shape of Santa Claus in the night sky above a waterfront city. The design is inspired by the colors, proportions, and silhouette of Santa Claus, clearly readable and visually striking against the dark sky. Long-exposure, photorealistic fireworks photography with smoke trails, city skyline silhouette, and colorful reflections on the water. Cinematic composition, sharp detail, ultra-high-resolution 4K.
@@ -7810,7 +7810,7 @@ Fireworks form the shape of Santa Claus in the night sky above a waterfront city
 
 ## Photorealistic Long-Exposure Fireworks over a City Skyline
 
-> Fotogerçekçi, sinematik görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, sinematik şehir ve sokak sahnesi üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Fireworks draw the shape of {argument name="subject" default="SUBJECT"} in the night sky over a waterfront city. The design is inspired by the colors, proportions, and silhouette of {argument name="subject" default="SUBJECT"}, vividly emerging against the dark night sky, creating a strong visual impact. A photorealistic fireworks photograph taken with long exposure, capturing the trails of smoke, the silhouette of the city skyline, and the colorful reflections on the water surface. Cinematic composition, sharp details, ultra-high resolution 4K.
@@ -7818,7 +7818,7 @@ Fireworks draw the shape of {argument name="subject" default="SUBJECT"} in the n
 
 ## Christmas Vertigo: Surreal Avant-Garde Mrs. Claus
 
-> Fotogerçekçi, sinematik moda çekimi üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, sinematik fantastik sahne üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 {
@@ -7962,7 +7962,7 @@ layers:
 
 ## Magazine Cover Style Cityscape
 
-> Sinematik, fütüristik moda çekimi üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
+> Sinematik, fütüristik şehir ve sokak sahnesi üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 A high-fashion, cinematic magazine cover featuring a dramatic, stylized photograph of {argument name="city" default="New York City"} at night. The image should be ultra-sharp, with deep shadows and neon highlights, capturing the energy of the city. Overlay a bold, white, sans-serif masthead: "{argument name="magazine name" default="URBAN LUXE"}" and a cover line: "The {argument name="cover story" default="Future of Metropolis"}". Aspect Ratio 4:5. Cinematic lighting, 8k, highly detailed.
@@ -8016,7 +8016,7 @@ A high-quality 3D isometric miniature diorama poster of "Anna Karenina," rendere
 
 ## Advertising Visual Prompt: Sports Car Model Exploration
 
-> Afiş üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Araç görseli üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 {
@@ -8139,7 +8139,7 @@ A high-quality 3D isometric miniature diorama poster of "Anna Karenina," rendere
 
 ## Paparazzi Collage Master Meta-Prompt (9-Grid Street Style)
 
-> Sinematik moda çekimi üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Sinematik kolaj üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 # Role: Paparazzi Collage Master
@@ -8218,7 +8218,7 @@ Please read the above [Parameter Settings], and combine [Image Structure] and [W
 
 ## Minimal Cinematic New Year 2026 Portrait
 
-> Fotogerçekçi, sinematik logo üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, sinematik portre üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 {
@@ -8238,7 +8238,7 @@ Please read the above [Parameter Settings], and combine [Image Structure] and [W
 
 ## Romantic Cinematic New Year 2026 Beach Night Scene
 
-> Fotogerçekçi, sinematik logo üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, sinematik sahil sahnesi üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 {
@@ -8258,7 +8258,7 @@ Please read the above [Parameter Settings], and combine [Image Structure] and [W
 
 ## Photorealistic Fireworks Display Prompt for Dreamina AI
 
-> Fotogerçekçi, sinematik görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, sinematik şehir ve sokak sahnesi üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Fireworks form the shape of {argument name="subject" default="[SUBJECT]"} in the night sky above a waterfront city. The design is inspired by the colors, proportions, and silhouette of {argument name="subject" default="[SUBJECT]"}, clearly readable and visually striking against the dark sky. Long-exposure, photorealistic fireworks photography with smoke trails, city skyline silhouette, and colorful reflections on the water. Cinematic composition, sharp detail, ultra-high-resolution 4K.
@@ -8314,7 +8314,7 @@ High-definition, elegant, and well-organized visual for a New Year's card.
 
 ## Dark Gothic Cinematic Illustration from Reference
 
-> Sinematik, minimal afiş üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
+> Sinematik, minimal illüstrasyon üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 {
@@ -8399,7 +8399,7 @@ Mixed-media collage posters
 
 ## Noir Detective Evidence Board Visualization
 
-> Fotogerçekçi görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi şehir ve sokak sahnesi üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 A detective's evidence board investigating {argument name="subject or mystery" default="[SUBJECT/MYSTERY]"}. Cork surface covered with pinned items: polaroid photographs with handwritten dates, a street map with circled locations, newspaper clippings with highlighted passages, sticky notes with theories and question marks, and printed documents with redacted black bars. Red string connects related evidence across the board, creating a web of connections. Thumbtacks in primary colors. A single bare bulb casts dramatic shadows. Coffee ring stains on some papers. The atmosphere is obsessive, late-night, noir—someone has been piecing this together for months. A few pins have fallen, suggesting frantic recent activity.
@@ -8462,7 +8462,7 @@ An advertising visual that looks genuinely sellable but transcends reality—whe
 
 ## Triptych Collage of Vintage American Cars
 
-> Fotogerçekçi, sinematik mimari görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, sinematik kolaj üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 {
@@ -8515,7 +8515,7 @@ Style: Ultra-high-resolution night photo, cinematic lighting. Generate it strict
 
 ## Abstract Realism Street Mural with Identity Preservation
 
-> Sinematik, elle çizilmiş afiş üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
+> Sinematik, elle çizilmiş şehir ve sokak sahnesi üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 {

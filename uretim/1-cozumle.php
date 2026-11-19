@@ -100,8 +100,9 @@ while (($r = fgetcsv($giris, 0, ',', '"', '')) !== false) {
     // Alan etiketi (hukuk, güvenlik...) denendi ama yanlış çıkıyordu:
     // "Ethereum Developer" metninde "smart contract" geçtiği için hukuk
     // sayılmıştı. Yalnızca görev cümlesi kullanılıyor.
-    $okunacak = $baslik . ' ' . mb_substr($x['prompt'], 0, 2000);
-    $cumle = $tur === 'image' ? turkceTanim($okunacak) . ' üretir' : metinGorevi($okunacak);
+    $cumle = $tur === 'image'
+        ? turkceTanim($baslik, '', $x['prompt']) . ' üretir'
+        : metinGorevi($baslik, $x['prompt']);
 
     $aciklama = ilkHarfBuyuk($cumle) . '.'
         . ($tur === 'image'

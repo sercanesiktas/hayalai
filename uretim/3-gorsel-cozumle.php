@@ -111,8 +111,9 @@ foreach ($dosyalar as $dosya) {
         // çalışıyor, sıfırdan üretimle denenemez
         $referansli = ! empty($x['needReferenceImages']);
 
-        $okunacak = $baslik . ' ' . ((string) ($x['description'] ?? '')) . ' ' . mb_substr($metin, 0, 1500);
-        $tanim = turkceTanim($okunacak);
+        $ozet = (string) ($x['description'] ?? '');
+        $okunacak = $baslik . ' ' . $ozet . ' ' . mb_substr($metin, 0, 1500);
+        $tanim = turkceTanim($baslik, $ozet, $metin);
 
         // Kaynak dosya adı etiket olarak kullanılmıyor: kaynakta gruplama
         // tutarsız ("Ancient Egyptian Print Illustration" app-web-design.json

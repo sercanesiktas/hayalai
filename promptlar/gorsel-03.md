@@ -55,7 +55,7 @@ Gathering energy while picking up trash.
 
 ## Detective Evidence Board Generation
 
-> Görsel üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
+> Şehir ve sokak sahnesi üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 "A detective's evidence board investigating \\{argument name="subject/mystery" default="[SUBJECT/MYSTERY]"}\\\. Cork surface covered with pinned items: polaroid photographs with handwritten dates, a street map with circled locations, newspaper clippings with highlighted passages, sticky notes with theories and question marks, and printed documents with redacted black bars. Red string connects related evidence across the board, creating a web of connections. Thumbtacks in primary colors. A single bare bulb casts dramatic shadows. Coffee ring stains on some papers. The atmosphere is obsessive, late-night, noir—someone has been piecing this together for months. A few pins have fallen, suggesting frantic recent activity."
@@ -71,7 +71,7 @@ Gathering energy while picking up trash.
 
 ## Gemini Nano Banana Pro 3.0 Stranger Things Edition Prompt
 
-> Retro görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Retro karakter görseli üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 You are a storyteller for the Gemini Nano Banana Pro 3.0, specializing in the aesthetic and narrative style of 'Stranger Things'. Write a short story about a {argument name="character name" default="young boy"} named {argument name="boy's name" default="Mike"} who, while exploring the woods near his suburban home in the 1980s, discovers a mysterious {argument name="object" default="glowing orb"} that hums with an otherworldly energy. The discovery must lead to the first encounter with a supernatural element, setting the tone for a thrilling adventure.
@@ -79,7 +79,7 @@ You are a storyteller for the Gemini Nano Banana Pro 3.0, specializing in the ae
 
 ## Glass Shard Character Embedding Prompt (Comparison)
 
-> Görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Karakter görseli üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Depict separate figures in each individual shard of flying broken glass
@@ -136,7 +136,7 @@ Panel arrangement should not be uniform but irregular or free-form, while mainta
 
 ## Multi-Step Comic Generation with MJ and Nano Banana Pro
 
-> İllüstrasyon üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
+> Karakter görseli üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Step 1: Generate a satisfactory base image:
@@ -159,7 +159,7 @@ make a manga page with {argument name="character 1" default="[your character]"} 
 
 ## Eraser Gun Style Prompt for Nano Banana Pro (Fighting Pose Stage)
 
-> Görsel üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
+> Fantastik yaratık üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 subject: >
@@ -237,7 +237,7 @@ I constructed a prompt for NanobananaPro that draws manga nicely!
 
 ## Medieval Illuminated Manuscript of The Matrix Characters
 
-> Görsel üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
+> Karakter görseli üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 A medieval illuminated manuscript depicting the subject in the uploaded image. Neo is rendered as a saintly figure in heavy velvet robes, flanked by Morpheus and Trinity, who are stylized as cloaked scholars. The background is pure gold leaf and vellum, with the digital rain motif replaced by ornate, vine-like gothic borders and calligraphic text.
@@ -245,7 +245,7 @@ A medieval illuminated manuscript depicting the subject in the uploaded image. N
 
 ## Stranger Things Cinematic Scene: Steve vs. Vecna
 
-> Fotogerçekçi, sinematik görsel üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, sinematik sahne üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Ultra-realistic cinematic scene inspired by Stranger Things. Steve Harrington (from Image 1) is suspended in mid-air inside the Upside Down, his face clearly visible and emotionally broken—eyes glassy with tears, lips trembling, fear mixed with acceptance. His body is slightly contorted by an unseen psychic force, veins subtly visible, a faint trail of blood from his nose.
@@ -264,7 +264,7 @@ It will output everything, including a simple plot, dialogue, and panel division
 
 ## Psychic Woman in Underground Lab Cinematic Scene
 
-> Fotogerçekçi, sinematik portre üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, sinematik kadın figürlü görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 A cinematic photorealistic portrait of a young psychic woman inside an underground government research facility inspired by {argument name="inspiration" default="Hawkins Lab"}. Sterile concrete walls, glass observation panels, tangled cables, and industrial equipment surround her. Fluorescent ceiling lights flicker, casting cold white and red emergency lighting across the room.
@@ -280,7 +280,7 @@ Cinematic lighting, strong rim light, dramatic shadows, sharp focus on face and 
 
 ## Character Inner Monologue Comic Prompt (Japanese)
 
-> Çizgi roman karesi üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
+> Karakter görseli üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 # User Input (Rewrite and submit this)
@@ -327,7 +327,7 @@ From left to right:
 
 ## Character Rehabilitation Scene Generation Prompt
 
-> Görsel üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
+> Karakter görseli üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Please generate an image using this character.
@@ -346,7 +346,7 @@ Make a comic book page
 
 ## Character Hospital Scene Generation Prompt
 
-> Minimal görsel üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
+> Minimal karakter görseli üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Please generate an image using this character.
@@ -367,7 +367,7 @@ I have Opal create the prompt for the manga composition, and then I use Nano Ban
 
 ## Game/Book Diorama Concept Generator
 
-> Mimari görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> 3B sahne üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 <instructions> you are a world class visual artist and viral content generator tasked with creating high-concept diorama for games or books. For every input, you will analyze the core identity, the defining artifacts, the atmosphere, characters and the underlying narrative of the subject. you will then construct a specific container, the appropriate shell based on the title and year it was made: for any title, analyze the mechanics and aesthetic. visualize a hollowed-out item. the interior is a diorama of a famous level or scene. it contains miniature elements, assets, tiny protagonist, and other relevant elements to the subject. lighting & style should be appropriate for the title </instructions>
@@ -391,7 +391,7 @@ a 2 x 1 grid, a hand-carved alpine chalet mechanism (cuckoo-clock adjacent but n
 
 ## Four-Panel Emotion Grid Generator (Joy, Anger, Sadness, Fun)
 
-> Portre üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
+> Karakter görseli üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Using the uploaded reference image, generate a four-panel composition (upper-left, upper-right, lower-left, lower-right).
@@ -414,7 +414,7 @@ A casual selfie-style shot. She looks playful and energetic, laughing or making 
 
 ## Multi-Angle Scene Generation Prompt (Oshi no Ko Style)
 
-> Görsel üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
+> Sahne üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Read the motif depicted in the attached image, generate multi-angle shots, and create four scenes divided into a 2x2 grid.
@@ -424,7 +424,7 @@ Read the motif depicted in the attached image, generate multi-angle shots, and c
 
 ## Cinematic Action Scene Identity Preservation Prompt
 
-> Fotogerçekçi, sinematik görsel üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, sinematik sahne üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Use the uploaded image only to accurately reconstruct the subject’s face. Preserve exact facial identity, proportions, skin texture, pores, beard detail, eye shape, and realism. Do not reuse pose, lighting, or composition from the upload.
@@ -537,7 +537,7 @@ Also, place a large "VS" in the center to compare the two compositions.
 
 ## Cinematic Contact Sheet Generation from Reference Image
 
-> Sinematik görsel üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
+> Sinematik kolaj üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Study the uploaded image carefully and fully internalize the scene: the subject’s appearance, clothing, posture, emotional state, and the surrounding environment. Treat this moment as a single frozen point in time.
@@ -610,7 +610,7 @@ Right: Please write the continuation.
 
 ## Sequential Sci-Fi Bounty Hunter Story Grid
 
-> Fotogerçekçi, sinematik afiş üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, sinematik karakter görseli üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 "A single cohesive square image divided into a clean 2x2 grid with thin black borders, telling a sequential sci-fi space drama story of a tough female bounty hunter capturing and delivering her bounty at a galactic outpost. Character consistency (exact same in every panel): Bounty Hunter: Mid-30s athletic woman with short cropped silver hair, scarred cheek, wearing rugged black leather jacket with glowing neon accents, tactical pants, heavy boots, blaster holster on thigh, stern determined expression, cybernetic left arm with glowing circuits. Bounty: Male alien humanoid criminal (tentacle beard, blue skin, restrained with glowing energy cuffs), disheveled prisoner outfit, defeated glare. Environment consistency: Gritty galactic outpost spaceport at dusk—dusty landing pads, neon-lit cantina signs in alien languages, hovering drones, distant starry sky with twin moons, scattered cargo crates, worn metal walkways, atmospheric haze with floating dust particles. Style: Cinematic sci-fi drama like Blade Runner meets The Mandalorian, highly detailed photorealistic rendering, dramatic volumetric lighting with neon blues/purples/oranges, lens flares from ship engines, subtle film grain, epic widescreen composition vibes. Grid layout and progression (top-left → top-right → bottom-left → bottom-right): Panel 1 (wide establishing shot): Bounty hunter standing confidently in the outpost's dusty detention area, looking at a holographic bounty poster, alien bounty shows a menacing looking alien. Panel 2 (medium action shot): She walks with down the outpost, high-tech watch logs the bouny job just took, passersby (aliens and humans) glancing warily, hovering advertisement drones overhead. Panel 3 (three-quarter tracking shot): Hunter walking toward her parked sleek black bounty hunter spaceship (angular design with glowing engine vents), ramp lowering automatically as she approach, outpost towers and landing lights in background. Panel 4 (dynamic low-angle heroic shot): Inside the ship's cockpit from behind—hunter strapping in at pilot controls, starting engines with holographic displays activating and thrusters glowing bright blue, bounty secured in rear holding cell visible through glass, ship beginning liftoff as outpost recedes below, stars ahead. Aspect ratio 1:1 for perfect square grid, ultra-detailed cinematic masterpiece, best quality, dramatic sci-fi lighting and atmosphere."
@@ -628,7 +628,7 @@ Nano Monkey's Adventure Series
 
 ## Kamehameha-Style Energy Wave Generation Prompts (Charge and Release)
 
-> Görsel üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
+> Karakter görseli üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 ◆Charging Pose Prompt
@@ -676,7 +676,7 @@ Please make the background of the second panel a cluttered shelf with items like
 
 ## Cinematic 3x3 Grid Photo Series
 
-> Fotogerçekçi, sinematik görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, sinematik fotoğraf üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 A cinematic 3×3 grid presenting multiple camera angles of the same female subject outdoors at dusk. A young woman wearing a patterned black shirt stands beside a car on a rural road, surrounded by open fields and distant hills. Each frame shows a distinct shot: extreme close-up, medium shot, over-the-shoulder, wide shot, high-angle top-down, low-angle, profile, three-quarter rear view, and full back view. Natural blue-hour lighting, soft sky gradients, realistic colors, shallow depth of field, cinematic framing. Consistent subject appearance across all frames, film-still aesthetic, professional cinematography reference sheet style, ultra-realistic photography.
@@ -731,7 +731,7 @@ A cinematic 3×3 grid presenting multiple camera angles of the same female subje
 
 ## 2x2 Grid Prompt for Preceding Events
 
-> Görsel üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
+> Kolaj üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 In a 2x2 grid, show the events leading up to this scene. Think 5 hours, 3 hours, 2 hours and 1 hour earlier. Small text annotation in the bottom of each grid section.
@@ -767,7 +767,7 @@ The character should be an expert cook, easily progressing through the steps.
 
 ## Cinematic Wide-Shot with Dog Fur Car
 
-> Sinematik mimari görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Sinematik araç görseli üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 A cinematic wide-shot of a city street. Shops line the street, one right next to the other. The camera shot has the shops centered in the frame. Old red brick buildings. A car covered in dog fur (with giant dog ears and a nose) is parking along the side of the street (parallel parked) along with other normal looking cars. Cinematic color grading and lighting.
@@ -792,7 +792,7 @@ Create an image of the Gundam located at latitude {argument name="latitude" defa
 
 ## Cinematic Action Scene: Explosion Behind High-Speed Car
 
-> Fotogerçekçi, sinematik mimari görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, sinematik araç görseli üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 {
@@ -854,7 +854,7 @@ Create an image of the Gundam located at latitude {argument name="latitude" defa
 
 ## Forensic Surrealist Photography Prompt for Liminal Breakroom Incident
 
-> Görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Fantastik sahne üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 ╔════════════════════════════════════════════════════════════════╗
@@ -958,7 +958,7 @@ Create an image of the Gundam located at latitude {argument name="latitude" defa
 
 ## Image-to-Image Transformation: Arm Wrestling with Popeye
 
-> Fotogerçekçi görsel üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi fotoğraf üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Transform this photo into a high-stakes arm wrestling match. Keep the subject's face and expression exactly as they are, sitting at a wooden table, straining with effort.
@@ -977,7 +977,7 @@ Show me 1 day later, 1 year later, 10 years later, and 30 years later in a 4-gri
 
 ## 2x2 Grid Scene Progression
 
-> Minimal görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Minimal sahne üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 In a 2x2 grid, show the events leading up to this scene. Think 5 hours, 3 hours, 2 hours and 1 hour earlier.
@@ -1018,7 +1018,7 @@ Include the input image at the beginning of "A single everyday photo taken with 
 
 ## Split-Screen Cinematic Shot for Time Travel Comparison
 
-> Sinematik görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Sinematik fotoğraf üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Horizontal split-screen cinematic shot...
@@ -1026,7 +1026,7 @@ Horizontal split-screen cinematic shot...
 
 ## Cinematic Storytelling Scene Generation Prompt
 
-> Sinematik görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Sinematik sahne üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Cinematic storytelling scene of {argument name="characters" default="characters"} in {argument name="setting" default="setting"}. Wide establishing shot + emotional mid-shot + intense detail close-up. Moody lighting, film-grain texture, dramatic contrast, narrative-driven framing, Hollywood-grade depth and atmosphere.
@@ -1034,7 +1034,7 @@ Cinematic storytelling scene of {argument name="characters" default="characters"
 
 ## Contextual Image Generation Prompt
 
-> Minimal görsel üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
+> Minimal sahne üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Show me 5 minutes earlier so I can see why he’s upset.
@@ -1042,7 +1042,7 @@ Show me 5 minutes earlier so I can see why he’s upset.
 
 ## Split-Screen Cinematic Time Travel Prompt
 
-> Fotogerçekçi, sinematik moda çekimi üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
+> Sinematik, retro sahne üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 A realistic split-screen cinematic shot of {argument name="Scene" default="Scene"}, showing the same {argument name="Gender" default="Gender"} appearing in two different eras: {argument name="Era A" default="Era_A"} on the left and {argument name="Era B" default="Era_B"} on the right.
@@ -1075,7 +1075,7 @@ Aspect_Ratio: {argument name="example aspect ratio" default="4:7"}
 
 ## Subject Replacement Prompt (Image-to-Image)
 
-> Görsel üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
+> Karakter görseli üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Replace the subject in @img2 with the subject in @img1.
@@ -1083,7 +1083,7 @@ Replace the subject in @img2 with the subject in @img1.
 
 ## Kawaii Stylebook Collage with Polaroid Effect
 
-> Görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Kolaj üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Stylebook, Collage, strong stickers, Polaroid, many photos of the same person with various expressions
@@ -1091,7 +1091,7 @@ Stylebook, Collage, strong stickers, Polaroid, many photos of the same person wi
 
 ## Enhanced Cinematic Noir Worm's-Eye View
 
-> Sinematik görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Sinematik hayvan görseli üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Subject & Wardrobe: A striking Asian female with a razor-sharp jet-black pixie cut (textured with pomade, asymmetrical fringe grazing her right brow), sporting matte-black oversized cat-eye sunglasses (acetate frames with micro-scratches). Her fingers are adorned with 5 silver rings: a skull signet, a serpent coil, a geometric cube, a band with etched runes, and a cracked obsidian stone. She wears a crimson vinyl bomber jacket (high-gloss, ribbed cuffs), collar popped, catching the backlight like liquid fire. Beneath, a sleeveless mesh top reveals a dragon tattoo creeping up her forearm. 
@@ -1113,7 +1113,7 @@ Mood & Narrative: Neo-noir tension — a high-stakes underground gamb
 
 ## Split-Screen Time Travel Scene
 
-> Fotogerçekçi, sinematik moda çekimi üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, sinematik sahne üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 A horizontal split-screen cinematic shot of {argument name="Scene" default="Lalchowk, kashmir india"}, seamlessly blending two different eras: {argument name="Era A" default="1920s"} on the left and {argument name="Era B" default="present day"} on the right (default: about 100 years ago vs. present day).
@@ -1129,7 +1129,7 @@ Make sure the scene is not just a simple left/right comparison but a dynamic tim
 
 ## Cosmic Catastrophe Blackout Scene
 
-> Fotogerçekçi, sinematik görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, sinematik sahne üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Earth in broad daylight—but suddenly everything goes completely pitch black for exactly one second, as if the sun itself blinked. People on streets freeze mid-step, their outlines barely visible in the instantaneous darkness. Birds hang motionless in the sky, wings suspended as though reality paused. Rivers and lakes turn perfectly smooth and reflective like black glass mirrors, capturing faint silhouettes. Around the distant horizon, a thin red glow lingers—soft, eerie, unnatural—hinting at something cosmic and catastrophic. Render in hyper-real 16K detail, doomsday visual style, natural camera physics, atmospheric scattering, zero CGI appearance. Photoreal shadows, micro-texture on skin and surfaces, subtle grain, slight lens distortion, chilling documentary realism. Ultra-cinematic, ultra-detailed, surreal but grounded in reality.
@@ -1137,7 +1137,7 @@ Earth in broad daylight—but suddenly everything goes completely pitch black fo
 
 ## Two-Step Power Release Transformation Prompt (Japanese)
 
-> Görsel üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
+> Karakter görseli üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 [Awakening Pose Prompt]
@@ -1210,7 +1210,7 @@ Stipple art style, Pointillism render, Black and white engraving, Atmospheric go
 
 ## Realistic Phone Photo with Horror Twist
 
-> Retro görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Retro fotoğraf üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 {
@@ -1289,7 +1289,7 @@ Stipple art style, Pointillism render, Black and white engraving, Atmospheric go
 
 ## Gritty Post-Apocalyptic Survivor Scene
 
-> Fotogerçekçi, sinematik mimari görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, sinematik sahne üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 A gritty post-apocalyptic scene featuring three armed survivors walking down an abandoned, decayed city street. The central character is a determined woman with long dark hair, wearing tactical gear, cargo pants, and combat boots, carrying a pistol and rifle magazines on her vest. On her left is a bearded man with a tactical backpack and military clothing. On her right is a rugged man in a denim jacket holding a shotgun. The environment is ruined and overgrown with debris, broken cars, and damaged buildings under a cloudy, grey sky. Cinematic, dramatic lighting, realistic textures, intense atmosphere.
@@ -1297,7 +1297,7 @@ A gritty post-apocalyptic scene featuring three armed survivors walking down an 
 
 ## Royal Cartographer Fantasy World Map Prompt (Detailed Scenario)
 
-> Elle çizilmiş manzara üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
+> Elle çizilmiş fantastik sahne üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 You are a legendary Royal Cartographer.
@@ -1352,7 +1352,7 @@ Draw decorations symbolizing the Four Great Spirits of this world (Fire, Water, 
 
 ## Times Square Time-Blend Split-Screen
 
-> Fotogerçekçi, sinematik moda çekimi üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, sinematik mimari görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 A horizontal split-screen cinematic shot of {argument name="Scene" default="Times Square, New York"}, seamlessly blending two different eras: {argument name="Era A" default="1880s"} on the left and {argument name="Era B" default="present day"} on the right (default: about 100 years ago vs. present day).
@@ -1378,7 +1378,7 @@ Mix 'noise' such as "{argument name="noise 1" default="garbage house"}" and "{ar
 
 ## Tokyo Time-Blend Split-Screen
 
-> Fotogerçekçi, sinematik afiş üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, sinematik şehir ve sokak sahnesi üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Horizontal split-screen cinematic wide shot of {argument name="city" default="Tokyo city"} seamlessly blending two eras: {argument name="era 1" default="1920s"} on the left and {argument name="era 2" default="present day"} on the right, merging organically in the center with transitional materials and interactions between people from both times.,
@@ -1429,7 +1429,7 @@ Bright arcade-style lighting, funny dust clouds, high-speed cartoonish motion.
 
 ## Mixed Media Cinematic Café Scene
 
-> Fotogerçekçi, sinematik illüstrasyon üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, sinematik sahne üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 The setting is an ultra-realistic, editorial-quality photograph capturing a busy breakfast café at mid-morning—sunlight spilling through tall windows, steam rising from espresso cups, soft clatter of plates, and an overall warm, bustling atmosphere. In the immediate foreground sits an anime-styled man with vivid blue hair, rendered with perfectly integrated cel-shading, crisp line art, and subtle specular lighting, yet placed with photographic depth-of-field so he feels physically present within the space. At the next table in the mid-ground, one of the patrons appears as a pencil-sketch figure, drawn in delicate graphite with visible cross-hatching and textured paper grain, seamlessly embedded into the real environment as if occupying a parallel medium. In the distant background, another customer is portrayed in full claymation style, shaped from hand-molded colored clay with visible fingerprints, matte surfaces, and slight frame-by-frame imperfections that suggest stop-motion movement. The entire scene blends these three visual languages into one cohesive cinematic image with rich ambient lighting, shallow depth-of-field transitions, and hyper-detailed café textures. No text overlays.
@@ -1437,7 +1437,7 @@ The setting is an ultra-realistic, editorial-quality photograph capturing a busy
 
 ## Aerial View of a Film Set
 
-> Görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Sahne üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Generate an image of a film set, an aerial high-angle shot of one scene on the set, with annotations indicating the film set is: {argument name="film title" default="If Going to Work Were a Play"}
@@ -1453,7 +1453,7 @@ While maintaining the character in the attached image, rewrite it in the style o
 
 ## Messed Up Psycho Image with Speech Bubble
 
-> Görsel üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
+> Karakter görseli üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Create an image of a crazy psycho with speech bubble that says “heading out?” Make the entire image extremely detailed but make it really messed up and weird af.
@@ -1469,7 +1469,7 @@ overlay this with insane schizophrenic conspiracy scribbles, red ink, doodles, r
 
 ## Generate Scene Five Minutes Earlier
 
-> Görsel üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
+> Sahne üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Show me 5 minutes earlier so I can see why he’s upset.
@@ -1557,7 +1557,7 @@ High-contrast black and white portrait of {argument name="subject" default="[a d
 
 ## Hyper-Realistic Flash Selfie Crime Scene Prompt (JSON format)
 
-> Fotogerçekçi, sinematik moda çekimi üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, sinematik selfie fotoğrafı üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 {
@@ -1623,7 +1623,7 @@ High-contrast black and white portrait of {argument name="subject" default="[a d
 
 ## Super Robot Wars Style Witch Rejecting Friday
 
-> Görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Fantastik yaratık üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Let's play with Nano Banana Pro 
@@ -1714,7 +1714,7 @@ Catchphrase: "{argument name="catchphrase" default="Friday is not a holiday"}"
 
 ## 1x3 Grid Phone Motion Edit JSON Prompt
 
-> Görsel üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotoğraf üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 {
@@ -1834,7 +1834,7 @@ Catchphrase: "{argument name="catchphrase" default="Friday is not a holiday"}"
 
 ## Gritty Western Gunslinger Scene Prompt
 
-> Fotogerçekçi, sinematik manzara üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, sinematik sahne üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 A lone gunslinger on horseback rides through a dusty frontier town at golden hour. Sunlight cuts across the street, casting long shadows from wooden saloons, broken fences, and old telegraph poles. The gunslinger wears a weathered leather coat, a tilted cowboy hat, and a holstered revolver glinting in the sun. His face is rugged with dirt, sweat, and subtle scars. Dust swirls around the horse’s hooves as wind rolls through the town, lifting loose papers and dry hay. In the background: mountains fading into haze, a saloon door swinging, crows circling overhead. Hyper-detailed textures — cracked leather, rough wood grain, dust particles shining in sunlight. The mood is tense, cinematic, and quiet: the calm before a gunfight. Ultra-realistic 8K western aesthetic, gritty tone, deep contrast, golden lighting.
@@ -1842,7 +1842,7 @@ A lone gunslinger on horseback rides through a dusty frontier town at golden hou
 
 ## Amusement Park Prompt Template for Character Placement
 
-> İllüstrasyon üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
+> Karakter görseli üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 ~ Is "{argument name="your character" default="your character"}" at a theme park!? ~
@@ -1987,7 +1987,7 @@ A lone gunslinger on horseback rides through a dusty frontier town at golden hou
 
 ## Cinematic Last of Us Campfire Scene
 
-> Fotogerçekçi, sinematik manzara üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, sinematik sahne üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Ellie and Joel from The Last of Us web series sit by a dying campfire in a ruined forest clearing at dusk. Joel leans back against a broken tree trunk, rifle resting beside him, watching Ellie tune her worn-out guitar. Firelight flickers across their tired faces, mixing with the cold blue twilight. Overgrown cars and collapsed highway signs fade into the background. Atmosphere is gritty, emotional, cinematic. Soft drifting ash, subtle lens flare, sharp textures, moody shadows, 8K realism.
@@ -1995,7 +1995,7 @@ Ellie and Joel from The Last of Us web series sit by a dying campfire in a ruine
 
 ## Dramatic Cinematic Train Rescue Scene Prompt
 
-> Fotogerçekçi, sinematik görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, sinematik sahne üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 {
@@ -2035,7 +2035,7 @@ Ellie and Joel from The Last of Us web series sit by a dying campfire in a ruine
 
 ## 9-Panel Episode Continuation Prompt
 
-> Minimal görsel üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
+> Minimal karakter görseli üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Describe the continuation of these characters' story in a 9-panel grid.
@@ -2043,7 +2043,7 @@ Describe the continuation of these characters' story in a 9-panel grid.
 
 ## Epic Frozen Cliff Warrior Scene
 
-> Fotogerçekçi, sinematik manzara üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, sinematik sahne üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 A lone warrior stands at the edge of a frozen cliff as the first storm of winter approaches — icy winds tearing through his cloak, snow swirling violently around him. The sky is a dark steel-grey, heavy with an unstoppable blizzard rolling in like a wall of white fury. Frost clings to his beard, his armor, his breath visible in the freezing air. The landscape below is a vast frozen valley with shattered trees, frozen rivers, and distant mountains disappearing into the storm. Ultra-realistic textures: every snowflake sharp, every gust of wind visible, every crack of ice detailed. Dramatic lighting: cold blue highlights, deep shadows, glowing white reflections off the ice. Atmospheric, epic, heavy mood — the world preparing for something powerful and inevitable. Cinematic realism at its peak.
@@ -2051,7 +2051,7 @@ A lone warrior stands at the edge of a frozen cliff as the first storm of winter
 
 ## PNG Girl in Unusual Places Prompt
 
-> Minimal görsel üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
+> Minimal kadın figürlü görsel üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Show her sitting in four different (unusual) places.
@@ -2059,7 +2059,7 @@ Show her sitting in four different (unusual) places.
 
 ## Vertical film strip collage of an Asian woman in a snowy Hokkaido setting
 
-> Sinematik portre üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Sinematik kolaj üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 A vertical movie film strip collage of 3 images showing the same beautiful young Asian woman in a snowy winter setting. [Image 1]: Close-up, she is blowing warm air into her hands, wearing white gloves. [Image 2]: Portrait shot, she is smiling sweetly at the camera, head tilted. [Image 3]: Medium shot, she is standing in front of wooden log cabins covered in snow. She is wearing a bright blue woolen coat, a thick white scarf, and a white fuzzy beret. Background is a blurry winter village in Hokkaido. Style of Japanese romance movie "Love Letter", soft focus, overexposed brightness, fresh and cure aesthetic, 35mm film photography, high resolution. --ar 3:4 --niji 6
@@ -2096,7 +2096,7 @@ The defeat
 
 ## Cinematic Night Rooftop Scene with Hologram
 
-> Fotogerçekçi, sinematik görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, sinematik sahne üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 A cinematic night rooftop scene with city lights. A man reaches out toward a glowing holographic woman made of light. 
@@ -2140,7 +2140,7 @@ A business where you put a winning brand mark on a child's losing ice cream stic
 
 ## Children's Book Illustration Style Prompt for Character Drawing
 
-> Minimal illüstrasyon üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Minimal karakter görseli üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 DRAWING a drawing of {argument name="character" default="[Character]"}, crayon on white paper, in the style of a children's book illustration – simple, cute, and full-color, with {argument name="glitter color" default="[two glitter accent colors]"} glitter accents and high detail.
@@ -2148,7 +2148,7 @@ DRAWING a drawing of {argument name="character" default="[Character]"}, crayon o
 
 ## Persona 5-inspired pop-art anime poster for a custom chuunibyou character
 
-> Minimal, fütüristik çizgi roman karesi üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Minimal, fütüristik afiş üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Generate a visually explosive and trendy pop-art anime illustration. The main character of the image is "{argument name="character" default="an over-the-top chuunibyou knight"}", and the overall style should reference Persona 5 and street graffiti visuals, turning the character into an extremely flamboyant, extremely flat, ultra-cool anime figure.
@@ -2177,7 +2177,7 @@ Also, please erase the chopsticks held in the right hand.
 
 ## Cinematic AI Video Keyframe Generation Prompt
 
-> Sinematik çizgi roman karesi üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
+> Sinematik sahne üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 <role>
@@ -2224,7 +2224,7 @@ Choose and explain your filmmaking approach (must include):
 
 ## Character Design Expression Style Guide Prompt
 
-> Görsel üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
+> Karakter görseli üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Make a character design expression style guide of image
@@ -2232,7 +2232,7 @@ Make a character design expression style guide of image
 
 ## Rorona-style fixed character prompt for Nano Banana Pro / Gemini
 
-> Minimal, lüks görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Minimal, lüks karakter görseli üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Rorona-style girl, {argument name="age range" default="18-20 years old"},  
@@ -2250,7 +2250,7 @@ consistent character, same face every frame,
 
 ## Saint and demon dual-character prompt for Nano Banana Pro
 
-> Sinematik görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Sinematik karakter görseli üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 "{argument name="situation title" default="The Saint and the Demon"}"
@@ -2262,7 +2262,7 @@ Demon: {argument name="demon style" default="social game-style rendering, cinema
 
 ## Cinematic rainy urban scene JSON prompt
 
-> Sinematik görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Sinematik şehir ve sokak sahnesi üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 {
@@ -2415,7 +2415,7 @@ A traditional Chinese Gongbi ink and color painting on aged, textured rice paper
 
 ## Realistic character design sheet from a photo
 
-> Sinematik illüstrasyon üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
+> Sinematik karakter görseli üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Please create a detailed character design sheet of the person in this photo. It will be used in a live-action movie, so be careful not to make it look like anime-style artwork. Be sure to structure it with the following three character elements:
@@ -2428,7 +2428,7 @@ Once it is created, remove the original image of the person.
 
 ## Action scene from reference photos and sketch
 
-> Retro, elle çizilmiş mimari görsel üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
+> Retro, elle çizilmiş sahne üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Use the man photo as if he is slipping off the building edge, the woman is reaching out, match the sketch pose and composition precisely, use {argument name="city_style_en" default="NYC"} as the style reference for the scene. High-quality action shot from the 1990s.
@@ -2436,7 +2436,7 @@ Use the man photo as if he is slipping off the building edge, the woman is reach
 
 ## Simple action movie scene
 
-> Sinematik, minimal görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Sinematik, minimal sahne üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Make an action movie scene.
@@ -2452,7 +2452,7 @@ Generate a 4‑panel comic about the hardships of an embedded engineer.
 
 ## Silksong 4-panel comic from uploaded character
 
-> Çizgi roman karesi üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
+> Karakter görseli üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Using the character from the uploaded image, explain the game {argument name="game_title" default="Silksong"} in a 4‑panel comic. The aspect ratio should be 9:16.
@@ -2468,7 +2468,7 @@ Let’s create a 4-panel manga with Nano Banana Pro: “{argument name="title_en
 
 ## Color comic of a character getting energized by barbecue
 
-> Görsel üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
+> Karakter görseli üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Please create a color comic in which this character eats yakiniku (grilled meat) and becomes energized. The story is up to you. Number each panel.
@@ -2505,7 +2505,7 @@ Generate a four-panel manga in a typical Japanese anime style. The image is a ve
 
 ## Anthropomorphized apple and banana couple
 
-> Görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Çift fotoğrafı üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 A married couple not as humans, but as an anthropomorphized apple and banana.
@@ -2521,7 +2521,7 @@ Create a Japanese 4-panel gag manga showing this young Japanese woman, “{argum
 
 ## POV from a light gray rabbit
 
-> Minimal görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Minimal hayvan görseli üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Light gray rabbit's point-of-view shot
@@ -2696,7 +2696,7 @@ From gestures and textures, depict the “peak of micro-emotion.”
 
 ## Girl cornered by three male students
 
-> Çizgi roman karesi üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Kadın figürlü görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 A girl who looks troubled as she is being talked to by three male students and is being driven back against a wall.
@@ -2704,7 +2704,7 @@ A girl who looks troubled as she is being talked to by three male students and i
 
 ## Nine-character group scene in living room background
 
-> Görsel üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
+> Karakter görseli üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Please stitch the file I just attached into a 3×3 grid to make a horizontally long file. After merging, resize it so that the long side is {argument name="long_side_px_en" default="1400"} pixels while keeping the aspect ratio. Set the quality to 100% (maximum quality) and output as a JPG.
@@ -2770,7 +2770,7 @@ From all our past interactions so far, pick an episode that really represents my
 
 ## Character on Japanese train platform with matched lighting
 
-> Görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Karakter görseli üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 A character standing on a {argument name="location_en" default="Japanese train platform"}, with lighting perfectly matched to the environment, at {argument name="resolution_en" default="2K"} resolution.
@@ -2778,7 +2778,7 @@ A character standing on a {argument name="location_en" default="Japanese train p
 
 ## Moody cinematic Paris car scene
 
-> Sinematik, retro görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Sinematik, retro araç görseli üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 A moody, atmospheric movie still. Late night in Paris, rain pouring. Inside a retro Citroën, a man in a wet trench coat looks calmly at the viewer. The lighting is a mix of cold blue with the warm amber and neon glow of a cafe outside the windshield. Introspective mood.
@@ -2870,7 +2870,7 @@ Please translate this manga into Japanese and turn it into an image.
 
 ## Advanced Anime Character Pose Control
 
-> Elle çizilmiş illüstrasyon üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
+> Elle çizilmiş karakter görseli üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 take the {argument name="characters" default="anime man and woman"} in the first image and put them in the {argument name="pose source" default="poses of the stick man in blue and stick woman in red"}. erase the {argument name="removal" default="stick figures"}
@@ -2894,7 +2894,7 @@ Editorial fashion photograph of a young man with {argument name="hair style" def
 
 ## Luxury Product Still Life Campaign
 
-> Retro, lüks afiş üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Retro, lüks ürün fotoğrafı üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 [Product and Campaign Info]
@@ -2916,7 +2916,7 @@ Editorial fashion photograph of a young man with {argument name="hair style" def
 
 ## Tight Red Cap Fashion CloseUp
 
-> Fotogerçekçi, sinematik logo üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, sinematik moda çekimi üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Ultra-realistic fashion beauty crop of a female model wearing the reference {argument name="headwear" default="red baseball cap"} and matching {argument name="apparel" default="red hoodie"}. Framing: Tight portrait crop from nose to forehead, cap and eyes filling the frame. Focus: The embroidered logo perfectly centered above the model’s eyes, stitching detail and thread depth clearly visible. Pose: Model gripping the hoodie collar softly with both hands, creating subtle fabric folds. Lighting: Soft frontal studio light with faint shadow sculpting on cheekbones and under the cap. Background: Minimal warm studio backdrop, ivory-to-beige gradient. Mood: Bold, confident, fashion-house campaign energy. Finish: Ultra-sharp fabric detail, cinematic realism, shallow depth of field, no text, no branding overlays.
@@ -2944,7 +2944,7 @@ Setting and Lighting: The background is a clean, seamless, off-white studio wall
 
 ## Rust Silk Dress Picnic Editorial
 
-> Yemek görseli üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotoğraf üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Create a {argument name="lighting" default="warm late-afternoon"} fashion editorial built around an abundant picnic spread in a {argument name="location" default="quiet grassy field"} bordered by distant trees. Layer oversized cream and taupe blankets loosely across the grass, rumpled rather than perfectly arranged. An adult woman lies comfortably on her stomach across the center of the blankets, body extending horizontally through the frame. She props herself on both forearms with one hand lightly supporting her chin. Bend both lower legs upward behind her at slightly different angles for a relaxed, spontaneous silhouette. She looks directly toward the camera with calm confidence. Dress her in a {argument name="dress style" default="fitted rust-red silk midi dress"} with a muted botanical print, narrow straps, a softly shaped neckline and a high side slit that allows the fabric to fall naturally around the bent leg. Keep the silhouette close through the waist and hips rather than loose or bohemian. Add layered delicate gold necklaces, bracelets and anklets. Style her hair in a loose low updo with soft curls escaping around the face. Build a substantial picnic around her without making it pristine: an open wicker hamper, small metal serving bowls containing colorful savory dishes, bread, fruit, herbs, drinking cups, folded textiles and a woven basket of dried flowers. Keep the food clustered mostly across the foreground and sides, clearly separate from her body. Shoot vertically from slightly above blanket height with her face sharp and the foreground spread creating depth. Use soft golden natural light, subdued greens, warm rust, cream, silver and wicker tones, gentle film grain and modest depth of field. The final image should feel abundant, languid and quietly glamorous, like an afternoon that has stretched much longer than intended.
@@ -2976,7 +2976,7 @@ Elegant {argument name="color" default="Black"} {argument name="material" defaul
 
 ## Luxury Chocolate Ad Still Life
 
-> Lüks görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Lüks fotoğraf üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 A bright, stylized still life and a conceptual photograph from an advertisement for {argument name="product" default="premium chocolate"} on a {argument name="background color" default="delicate, pastel pink background"}. In the center is a luxurious dark chocolate bar wrapped in gold foil, slightly unwrapped to reveal glossy chocolate lying on a small pink velvet cushion. It is surrounded by a custom-made multi-tiered glass tray system descending from the top left. On the topmost tier there are whole cocoa beans, on the middle - pieces of roasted almonds, and on the bottom - small pieces of chocolate that fall into an elegant pink porcelain bowl. Various chocolate ingredients are laid out on the pink surface around the bar: right in front of the bar, on a delicate pink napkin, there is a large round plate filled with chocolate truffles. There is a small gold spoon and fork next to it. On the right is a tall cylindrical pink container with a golden label of the chocolate brand. There is an inscription on the lid: "{argument name="main text" default="LUXURY CHOCOLATE IS A PREMIUM CHOICE"}." On the side: "HANDMADE CHOCOLATE, 150 g" with large letters "LUX". Around the main plate are three separate pink plates with ingredients: a plate with whole cocoa beans (far left), a small central plate with pieces of caramel and a long plate with roasted almonds (far right). There are several pieces of chocolate and truffles scattered on the surface of the table, and five small truffles are neatly arranged on the rightmost plate. There are many text elements on and around the image: Top right: "LUXURY TASTE", typed in a clean white font. On the left (vertically): "Contact- 1 (800) 555 2020", On the handset (vertically): "Focus on creativity in photography and video." At the bottom of the center: "LUXE VISION". Logos in the form of three intertwining circles are located at the top left and bottom left. The soft but clear lighting highlights the texture of the chocolate and ingredients, and the overall composition is carefully chosen to show the transformation of raw cocoa into refined, ready-to-eat chocolate
@@ -2984,7 +2984,7 @@ A bright, stylized still life and a conceptual photograph from an advertisement 
 
 ## Surreal Beauty Product Hair Roller
 
-> Fotogerçekçi, minimal ürün fotoğrafı üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, minimal fantastik sahne üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Studio product photo shot from behind of a person with {argument name="hair color" default="light brown"} wavy/curled hair styled into large voluminous curls, viewed from the back of the head down to the shoulders. Multiple identical product tubes — {argument name="product" default="product from uploaded photo"} — are inserted into the hair like oversized velcro rollers/curlers, tucked between the curls at various angles all across the head, roughly 3-4 tubes visible, creating a playful surreal "product as hair roller" concept. The person wears a solid {argument name="shirt color" default="green"} collared top/shirt with a popped collar. Background is a flat, solid muted olive-green studio backdrop matching the tonal palette of the outfit. Even, soft studio lighting with minimal shadows, clean commercial beauty-photography look, slightly desaturated warm color grading. Composition is centered and vertical, tight crop from mid-shoulders up, no face visible — only the back of the head and hair. Photorealistic, high-end beauty/cosmetics advertising style, aspect ratio 3:4.
@@ -3032,7 +3032,7 @@ Ultra-realistic summer skincare product photography of a bronzing drop bottle na
 
 ## Nano Banana Pro Product Collage
 
-> Minimal, lüks ürün fotoğrafı üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
+> Minimal, lüks kolaj üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Three-panel collage product photography of {argument name="product" default="luxury item"}. Left panel: extreme close-up macro shot of a young woman's eye area wearing the product, showing intricate texture and craftsmanship detail, natural skin tone, shallow depth of field, warm directional lighting. Top-right panel: clean studio product shot of the item alone resting on a flat surface at a three-quarter angle, seamless light gray background, soft even studio lighting with subtle shadow, sharp focus showcasing full design and material detail. Bottom-right panel: close-up beauty portrait of a young woman model wearing the product, direct or slightly angled gaze at camera, neutral warm-toned background, soft flattering studio lighting, editorial fashion photography aesthetic. Consistent silver/metallic tone and lighting mood across all three panels, high-resolution commercial photography, thin black divider lines between panels
@@ -3048,7 +3048,7 @@ A single, continuous, and complete mobile e-commerce detail page for an ergonomi
 
 ## Stylized Collectible Toy Packaging
 
-> Lüks ürün maketi (mockup) üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Lüks karakter görseli üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Transform the {argument name="subject" default="character"} into a stylized collectible toy with glossy plastic textures, exaggerated features, miniature accessories, and premium blister-pack retail packaging with a cardboard backer.
@@ -3072,7 +3072,7 @@ Luxury skincare product advertisement featuring a {argument name="product" defau
 
 ## 3D Model to Photorealistic Product Render
 
-> Fotogerçekçi, minimal ürün fotoğrafı üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, minimal 3B sahne üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Create a studio-quality photo realistic render of the exact modern table design and structure from the first image. Apply the {argument name="material" default="rich jarrah timber material"} from the second image to all the grey legs and the teal tabletop sections, ensuring the natural wood grain runs longitudinally along the length of the legs exactly as shown in the second image. Change the dark blue structural beams, curved supports, and conical connectors to {argument name="finish" default="brushed stainless steel"} with a subtle metallic sheen. Use professional studio lighting with soft key lights and gentle highlights that make the table the clear hero of the scene, set against a clean {argument name="background" default="neutral light-gray background"}. Preserve the precise three-quarter viewpoint, proportions, and faceted geometry of the original table design.
@@ -3080,7 +3080,7 @@ Create a studio-quality photo realistic render of the exact modern table design 
 
 ## Luxury Product Cluster Master Prompt
 
-> Lüks ürün fotoğrafı üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
+> Lüks 3B sahne üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Extreme close-up, highly detailed Blender + Octane render of the attached product images arranged as a {argument name="composition style" default="dense, overlapping 3D floating cluster"}. Use the exact products shown in the attached photos preserve their true colors, materials, logos, labels, textures, and proportions exactly as photographed. Do not invent, substitute, or generically reinterpret any product; render them as faithful 3D versions of the attached references.
@@ -3100,7 +3100,7 @@ Camera: macro lens look, shallow depth of field, extreme close-up framing, photo
 
 ## Casual Denim Studio Portrait
 
-> Moda çekimi üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Portre üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 A full-body studio portrait of a {argument name="subject" default="beautiful woman with long, wavy brown hair"}, posing confidently against a {argument name="background" default="solid gray background"}. She is wearing a {argument name="outfit" default="chic casual denim outfit, featuring a strapless light-blue denim corset top and matching wide-leg blue jeans with a prominent ripped knee detail"}. She is wearing stylish black high-heeled sandals. One foot is resting on the floor, while the other leg is casually raised with her foot placed on a classic round wooden stool.
@@ -3140,7 +3140,7 @@ A full-length studio portrait of a {argument name="subject" default="young man w
 
 ## Luxury Skincare Commercial Photography
 
-> Fotogerçekçi, sinematik görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, sinematik fotoğraf üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Ultra-realistic luxury skincare commercial. A {argument name="model description" default="beautiful female model"} with naturally glowing, healthy skin holds an {argument name="product" default="elegant premium skincare cream jar"} beside her face while looking confidently at the camera. Minimal {argument name="studio color" default="white and beige"} luxury studio with soft daylight, clean aesthetic, subtle marble textures, fresh green botanical accents, smooth skin texture without over-retouching, premium beauty photography, cinematic lighting, soft shadows, shallow depth of field, luxury cosmetic branding, editorial beauty campaign, photorealistic, ultra-detailed, 8K, high-end commercial quality.
@@ -3182,7 +3182,7 @@ Premium rose-colored bottle with gold cap placed on layered marble podium, surro
 
 ## Themed Knolling Flat-Lay Grid
 
-> Retro görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Retro fotoğraf üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 2x2 grid, do this for 4 AI inferred themes and shapes Anchor: A perfectly organized top-down knolling flat-lay of every object associated with {argument name="theme" default="a Surfer / a Baker / Tokyo / the 1980s"} ::4 Macro Shape: Objects arranged so their collective outline forms the silhouette of {argument name="silhouette" default="a wave / a chef's hat / Mount Fuji"} — order within, meaning at the edge. Infer 20–30 fitting items ::5 Composition: Strict 90° grid alignment, even spacing, generous margin ::3 Material Physics: Real objects, soft studio shadows, consistent matte finish ::2 Illumination: Flat overhead softbox, no glare ::2 Render Stack: Knolling photography, organized-neatly aesthetic, product flat-lay ::1 Negative: [tilted objects, overlap, mess, motion blur, duplicate items, off-theme objects] :: -1
@@ -3206,7 +3206,7 @@ Elegant {argument name="bottle color" default="yellow"} skincare bottle with cry
 
 ## Vacuum Sealed Toy Photography
 
-> Ürün fotoğrafı üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Karakter görseli üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 a rectangular shaped vacuum sealed transparent plastic bag, studio product shot, filled tightly with {argument name="object" default="soft squishy neoprene kitten-shaped toys"}, on a {argument name="background" default="solid black background"}, some kitten toys clearly visible and pressed against the plastic while others are distorted and squished deeper inside the bag, subtle reflections and highlights on the plastic surface, high detail, sharp focus, dramatic softbox lighting emphasizing textures and depth
@@ -3222,7 +3222,7 @@ Ultra-realistic street fashion portrait of a young woman with {argument name="ha
 
 ## Luxury Golden Tea Cup Mountain Stream
 
-> Fotogerçekçi, sinematik logo üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, sinematik manzara üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 An ultra-premium cinematic advertisement for {argument name="brand" default="Nano Banana Pro"}. A luxurious golden tea cup sits elegantly beneath a flowing river-fed water tap in a pristine mountain stream. Crystal-clear water pours into the cup in slow motion, creating mesmerizing splashes and sparkling droplets. The {argument name="logo" default="Nano Banana Pro logo"} is subtly engraved on the cup, glowing with a warm golden light. Surrounded by smooth river stones, lush greenery, and misty morning atmosphere. Dramatic cinematic lighting, volumetric sun rays, hyper-realistic water physics, macro details, luxury product-commercial style, shallow depth of field, 8K HDR, photorealistic textures, high-end brand campaign, slow-motion splash effects, reflections on polished metal, award-winning advertising photography, cinematic color grading, masterpiece quality, ultra-detailed.
@@ -3238,7 +3238,7 @@ A premium {argument name="confectionery" default="golden toffee"} suspended in m
 
 ## Luxury Mirror Selfie Portrait
 
-> Lüks portre üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
+> Lüks selfie fotoğrafı üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Use uploaded reference face exactly, zero modification) FACE LOCK — ZERO MODIFICATION POLICY. Face must remain 100% identical. ASPECT RATIO • 3:4. STYLE: Ultra-Modern Mobile Photography. SCENE: Mirror selfie in a luxury walk-in closet. OUTFIT: {argument name="dress" default="Satin emerald green slip dress"}. PROP: Holding a {argument name="phone" default="Titanium iPhone 17 Pro Max"} with triple-lens detail visible. POSE: Standing in front of a mirror, subtle smile, one hand on the hip. LIGHTING: normal, BACKGROUND: Designer bags and soft-lit shelves. CAMERA: Mobile photography style, sharp focus. IMAGE QUALITY: 8K, realistic skin.
@@ -3255,7 +3255,7 @@ Aspect ratio {argument name="aspect ratio" default="3:4"}
 
 ## Realistic Asian Woman Loungewear Portrait
 
-> Lüks manzara üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Lüks portre üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Create a highly realistic close-up portrait of a beautiful young Asian woman with bright porcelain-white skin and perfectly symmetrical facial features. She is standing outdoors in a home setting, such as a front porch, house yard, or garden area. Her body is posed slightly sideways while her head turns toward the camera. She has a calm, soft, and gentle expression. Outfit: Wearing a matching {argument name="clothing style" default="sleepwear/loungewear set"}. Cream-colored crop top with {argument name="pattern" default="cherry fruit patterns"}. Short sleeves featuring delicate white lace wave trim on the sleeve edges. V-neck collar with a small elegant red ribbon detail on the chest. Dark red high-waisted shorts with an elastic waistband. Small red ribbon at the center of the waistband. White lace wave trim detail along the hem of the shorts. Accessories: Elegant gold necklace with a small pendant displaying the name "{argument name="name" default="Fitri"}". Small stud earrings. Makeup: Natural makeup look. Naturally glowing skin with visible skin texture and subtle pores. Thick, neatly groomed natural eyebrows. Thick, dramatic curled eyelashes. Rosy pink lips that appear juicy, plump, and hydrated. Hair: Long, deep black hair. Extremely smooth, silky, and healthy shine. Styled in a single ponytail. Curly waves at the lower section of the ponytail. Slightly messy volume at the top. Loose strands of hair falling naturally across the forehead and sides of the face. Background: Black iron fence visible behind her. Outside the fence, a road and green rice fields can be seen. Mountains visible in the distance. Bright clear blue sky. A tree positioned beside her, only partially visible within the frame. Lighting: Natural morning sunlight. Soft bright illumination on the face. Fresh, vibrant color palette with bright tones, rich greens, and vivid blues. Photography Style: Half-body portrait. Close-up composition. Ultra-realistic photography. High detail and lifelike skin texture. Natural depth of field. Lively, realistic background. Professional portrait photography. Sharp focus on the face. 9:16 vertical aspect ratio. Photorealistic, ultra-detailed, high-resolution, realistic lighting, realistic shadows, realistic colors. Important: Do not alter the woman's facial identity or facial structure. Preserve her original face exactly while applying the described hairstyle, outfit, makeup, pose, lighting, and environment.
@@ -3305,7 +3305,7 @@ A full-length, straight-on studio photograph of the smiling {argument name="subj
 
 ## Edible Product Transformation
 
-> Fotogerçekçi, minimal yemek görseli üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, minimal görsel üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Hyper realistic edible version of uploaded product,preserve exact original shape, proportions and silhouette, product fully intact and uncut, surface transformed into soft matte mousse texture, natural sponge-like edible detailing, no glossy or shiny finish, subtle velvet spray coating, straight front view, eye-level camera angle, camera positioned directly in front of the product, centered symmetrical composition
@@ -3314,7 +3314,7 @@ natural soft daylight coming from a nearby window, realistic gentle shadows, pla
 
 ## Hyper-Realistic Character Keychain
 
-> Fotogerçekçi, sinematik ürün fotoğrafı üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, sinematik karakter görseli üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Create a {argument name="character theme" default="anime, video game, movie,..."} inspired keychain , clean white background, product photography style. soft studio lighting
@@ -3322,7 +3322,7 @@ Create a {argument name="character theme" default="anime, video game, movie,..."
 
 ## Kashmiri Samawar Luxury Photography
 
-> Fotogerçekçi, sinematik ürün fotoğrafı üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, sinematik fotoğraf üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Ultra detailed luxury product photography of an {argument name="product" default="elegant traditional Kashmiri samawar"}, handcrafted engraved copper body with intricate floral carvings, rich warm metallic reflections, authentic Kashmiri heritage aesthetic, placed on a carved walnut wood table, surrounded by {argument name="color tones" default="soft saffron tones"}, steaming {argument name="atmosphere" default="noon chai atmosphere"}, cinematic winter ambiance, cozy Kashmir interior, glowing lantern light, ultra realistic textures, premium artisan craftsmanship, shallow depth of field, high end commercial product shot, symmetrical composition, soft volumetric lighting, cultural luxury branding aesthetic, 8K hyper realistic, beautifully styled for Nano Banana AI, elegant steam rising naturally, rich maroon and gold color palette, cozy snow season mood, masterpiece photography style.
@@ -3330,7 +3330,7 @@ Ultra detailed luxury product photography of an {argument name="product" default
 
 ## Premium Dessert Commercial Layout
 
-> Fotogerçekçi, sinematik ürün fotoğrafı üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, sinematik yemek görseli üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 {"master_prompt": {"global_settings": {"resolution": "8K UHD", "aspect_ratio": "3:4 vertical", "image_quality": "ultra high detail, hyper-realistic, AI-enhanced commercial product photography", "focus": "sharp foreground, cinematic depth of field", "lighting": "studio-grade dramatic lighting with glowing highlights", "background_style": "smooth gradient with bokeh particles and floating droplets", "color_palette": "warm caramel, chocolate brown, golden orange", "motion": "frozen mid-air splash and floating elements"}, "Module_1_Image_1_Style": {"subject": "two waffle cones filled with glossy caramel cream", "composition": "two cones crossing diagonally in mid-air, forming an X-like pose", "cones": {"material": "crispy waffle cone", "texture": "deep grid pattern, golden baked surface, visible crisp edges", "shape": "long tapered cones, slightly angled toward each other"}, "filling": {"type": "thick caramel cream", "appearance": "smooth, glossy, swirled peak on top", "color": "deep caramel brown with reflective highlights"}, "liquid_effects": {"caramel_splash": "dynamic caramel splash erupting behind and around cones", "droplets": "numerous suspended caramel droplets of varying sizes"}, "background": {"color": "bright glowing orange", "effects": "soft bokeh circles, spark-like highlights"}, "mood": "energetic, indulgent, premium dessert advertisement"}, "Module_2_Image_2_Style": {"subject": "chocolate-coated wafer rolls with hazelnut filling", "composition": "multiple wafer rolls crossing and floating diagonally in mid-air", "wafer_rolls": {"outer_coating": "milk chocolate with crunchy nut-studded texture", "surface_detail": "uneven nut clusters embedded in chocolate coating", "interior": "visible hollow wafer with creamy chocolate center"}, "additional_elements": {"chocolate_blocks": "rectangular chocolate pieces with embossed letter 'B'", "nuts": "halved hazelnuts and small nut fragments floating around", "chocolate_splash": "fluid chocolate splash flowing behind wafer rolls"}, "background": {"color": "dark warm brown gradient", "effects": "floating particles, depth-enhancing blur"}, "lighting": {"style": "warm directional lighting", "highlights": "glossy reflections on chocolate surfaces"}, "mood": "rich, bold, indulgent chocolate-focused commercial aesthetic"}, "Module_3_Image_3_Style": {"subject": "cookie-coated ice cream dessert with chocolate cup top", "composition": "single dessert angled diagonally, centered, surrounded by motion", "dessert_body": {"coating": "creamy white ice cream layer with embedded dark cookie bits", "texture": "smooth cream contrasted with rough cookie fragments"}, "top_element": {"chocolate_cup": "dark chocolate cylindrical cup", "filling": "light caramel cream piped in a smooth spiral"}, "liquid_motion": {"cream_swirls": "thick creamy ribbons wrapping around the dessert", "droplets": "floating cream droplets and cookie crumbs"}, "background": {"color": "soft caramel-beige gradient", "effects": "fine floating particles, subtle glow"}, "lighting": {"style": "soft yet dramatic studio lighting", "focus": "high clarity on textures and cream flow"}, "mood": "smooth, luxurious, creamy dessert showcase"}}}
@@ -3370,7 +3370,7 @@ A professional prompt for generating realistic, elegant {argument name="product 
 
 ## Realistic Skincare Advertisement Photography
 
-> Fotogerçekçi, minimal görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, minimal fotoğraf üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Ultra realistic skincare advertisement photo of a beautiful {argument name="subject" default="Sydney sweeney"} applying {argument name="product" default="green herbal face wash foam"} on her cheeks with both hands, eyes closed, soft smile, glowing smooth skin, black tied-back hair, wrapped in a {argument name="towel color" default="light green"} towel, luxury modern bathroom with green aesthetic tiles and indoor plants, fresh natural morning light through window, clean spa atmosphere, premium cosmetic commercial photography, detailed skin texture, glossy hydration effect, centered product tube on marble counter in foreground, minimal elegant composition, soft shadows, pastel green and white color palette, shallow depth of field, high-end beauty campaign, DSLR quality, ultra sharp, photorealistic, 8k, natural makeup, calming wellness vibe.
@@ -3386,7 +3386,7 @@ Ultra-realistic 16k macro beauty photography, profile view of {argument name="su
 
 ## Minimalist Water Commercial Photography
 
-> Fotogerçekçi, minimal ürün fotoğrafı üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, minimal fotoğraf üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Minimalist commercial ad featuring oversized {argument name="brand" default="SNOW"} Water Bottle, ultra-clean luxury design. A young woman in an all-white outfit leans casually against the giant transparent SNOW bottle, relaxed confident pose, eyes closed, also holding the same SNOW water bottle in her hand. Crystal clear water visible inside the bottle with premium condensation droplets, sleek modern label design with icy blue accents. Soft gradient icy-blue background with large bold white “SNOW” text behind. Glossy reflective floor, soft studio lighting, modern high-end product photography, clean hydration aesthetic, ultra realistic reflections and shadows, minimal Scandinavian-inspired composition.
@@ -3426,7 +3426,7 @@ A structured prompt for a full-body studio portrait. The subject is a young woma
 
 ## Luxury Makeup Palette Advertisement
 
-> Lüks görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Lüks kadın figürlü görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 A professional advertisement for "{argument name="brand" default="AM Cosmetics"}" featuring the {argument name="palette" default="Eye Journey Palette"} from The Midnight Gala Collection. The central focus is a woman with long, wavy brown hair showcasing a vibrant, multi-colored eyeshadow look with shades of emerald green, deep blue, and shimmering gold. Surrounding her are open makeup palettes displaying 18 pigmented shades, scattered eyeshadow powder, and gold-handled brushes. The aesthetic is luxurious, set against a {argument name="background" default="white marble background"} with elegant gold accents and text detailing the palette’s matte, shimmer, metallic, and glitter finishes.
@@ -3480,7 +3480,7 @@ Camera: Sony A7R V, 50mm f/1.4 lens, 8K sharpness, natural skin and fabric textu
 
 ## Ultra-Realistic Boutique Mirror Selfie
 
-> Fotogerçekçi moda çekimi üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi selfie fotoğrafı üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 {
@@ -3570,7 +3570,7 @@ Camera: Sony A7R V, 50mm f/1.4 lens, 8K sharpness, natural skin and fabric textu
 
 ## Vintage European Scooter Ride
 
-> Fotogerçekçi, sinematik moda çekimi üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, sinematik şehir ve sokak sahnesi üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 A cinematic lifestyle shot of a well-dressed man riding a vintage cream-colored scooter through a {argument name="location" default="historic European street"}. He wears {argument name="clothing" default="a tailored black suit, white shirt, and black tie"}, with polished dress shoes, giving a confident and elegant look. The setting features old stone buildings, a cobblestone road, and a classic fountain, with a grand cathedral softly blurred in the background. {argument name="lighting" default="Golden hour lighting"} casts warm tones and soft shadows, creating a timeless, romantic atmosphere. Slight motion blur on the surroundings, shallow depth of field, 50mm lens, f/1.8, ultra-realistic detail, luxury travel aesthetic, editorial fashion photography, 8K.
@@ -3602,7 +3602,7 @@ Ultra-realistic top-down product photography of a neatly folded V-neck t-shirt p
 
 ## Photorealistic Car Transformation
 
-> Fotogerçekçi, minimal görsel üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, minimal araç görseli üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 turn this into a photorealism of a {argument name="car type" default="clean car"}, make all decals and stickers on the car real and meaningful, car on a {argument name="background" default="white background"}
@@ -3610,7 +3610,7 @@ turn this into a photorealism of a {argument name="car type" default="clean car"
 
 ## Explosive Dragon Fruit Juice Photography
 
-> Fotogerçekçi, fütüristik ürün fotoğrafı üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, fütüristik fantastik yaratık üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 In mid-air, a {argument name="fruit" default="dragon fruit"} splits explosively, scattering vibrant magenta pulp and tiny black seeds, with a "{argument name="brand" default="Minute Maid Dragon Fruit Juice"}" bottle blasting out from the core. Styled as hyperrealistic product photography, Sony A7s clarity, sharp HD. Background is {argument name="background color" default="neon pink-magenta"}.
@@ -3618,7 +3618,7 @@ In mid-air, a {argument name="fruit" default="dragon fruit"} splits explosively,
 
 ## Luxury Chronograph Macro Design
 
-> Fotogerçekçi, lüks görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, lüks fotoğraf üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 "{argument name="subject" default="Chronograph"} with {argument name="strap" default="leather strap"}. Studio macro, overhead spotlight, escapement close-up. {argument name="background" default="Dark matte background"}. Shallow depth of field. Photorealistic."
@@ -3634,7 +3634,7 @@ A {argument name=\"bottle color\" default=\"bright yellow-orange\"} bottle with 
 
 ## Editorial Macro Mug Design
 
-> Fotogerçekçi, minimal görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, minimal fotoğraf üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 {argument name="product" default="Ceramic mug"}, side lit, {argument name="atmosphere" default="steam rising"}, {argument name="surface" default="dark linen surface"}, editorial macro, no text, photorealistic
@@ -3652,7 +3652,7 @@ Transparent floating soap bubbles fill the air, reflecting light with subtle rai
 
 ## Knolling Style Flat-Lay Prompt with Labeled Disassembled Parts
 
-> Fotogerçekçi, minimal logo üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, minimal fotoğraf üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Ultra-realistic 8K overhead product photograph in precise knolling composition, straight top-down 90-degree view of the object from the provided reference image completely taken apart into {argument name="number of components" default="8 to 12"} essential components, each piece arranged with exact spacing in a disciplined grid or balanced radial layout on a minimalist matte gray or natural wood tabletop, flawless alignment, zero overlap, no unrelated props, soft diffused multi-light setup with gentle controlled shadows, neutral true-to-life color, edge-to-edge sharpness, highly authentic material rendering including brushed metal, molded plastic, rubberized grips, exposed circuit boards, screws and small hardware, every component outlined with a thin white rectangular frame and paired with a concise English sans-serif label placed adjacent to the part without obscuring it, annotations crisp, readable, understated, technical editorial aesthetic, no watermark, no logo, no clutter
@@ -3660,7 +3660,7 @@ Ultra-realistic 8K overhead product photograph in precise knolling composition, 
 
 ## High-Quality Photo of Elegant Chinese Woman in Luxury Car
 
-> Minimal, lüks mimari görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Minimal, lüks araç görseli üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 A high-quality photographic image featuring an elegant, young Chinese woman with a refined appearance, seated in the driver's seat of a silver-gray luxury sedan.
@@ -3694,7 +3694,7 @@ The overall composition is balanced, the colors are bright, the details are rich
 
 ## Mecha Girl figure concept generated by Nano Banana Pro
 
-> Görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Kadın figürlü görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 KNIGHT MECHA GIRL
@@ -3753,7 +3753,7 @@ Ultra-realistic premium product shot of a body wash bottle (Incense Oud Body Was
 
 ## Hyper-realistic Macro Photo of Pineapple in Juice
 
-> Fotogerçekçi, sinematik görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, sinematik fotoğraf üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 A hyper-realistic, cinematic macro photograph, vertical composition (9:16 aspect ratio). At the center of the frame is a single, large, perfect pineapple, standing upright with its full crown of vibrant green leaves, in a deep golden-yellow, viscous pool of pineapple juice. This central pineapple is very lightly and subtly dusted with fine pink powder (e.g., pitaya powder or pink confectioner's sugar), a minimal dusting especially around its leafy crown and textured skin, and is slick with intricate, visible condensation water droplets. Delicate, wispy white steam rises from the top and around the pineapple's leafy crown, creating a dramatic interaction with the dark, moody, textured background. The pineapple juice pool is set on a dark, textured slate surface. Around the pool, a natural, textured frame is created by scattered smaller, cut pineapple chunks and slices, delicate pink flowers, and additional scattered pink powder. All these elements surround the central pineapple. The lighting is dramatic and sidelit, precisely highlighting every single scale of the pineapple, leaf edge, water droplet, and the subtle, minimal trace of pink powder, and smoke tendril. The entire scene has a strong sense of depth and cinematic drama, tightly focused on the central pineapple.
@@ -3803,7 +3803,7 @@ Low-angle fashion campaign photograph of a confident model holding a large {argu
 
 ## Dinosaur Park Gift Shop Merchandise Display
 
-> Fotogerçekçi, minimal logo üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, minimal ürün fotoğrafı üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 hyper-realistic product photography of a beautifully arranged merchandise table inside a dinosaur park gift shop, the entire display is themed around **{argument name="park name" default="Jurassic World"}**, every item prominently features the park name and logo, neatly displayed products include folded t-shirts, baseball caps, drinking glasses, ceramic mugs, plush mini dinosaur toys, keychains, posters, stickers and badges, all branded with consistent colorful **{argument name="park name 2" default="Jurassic World"}** design, vibrant and appealing arrangement, soft warm retail lighting with gentle highlights and shadows, ultra detailed fabric textures, glossy ceramic, plush fur and printed details, clean and inviting store atmosphere, masterpiece, sharp focus, 8k
@@ -3825,7 +3825,7 @@ Ultra-realistic, hyper-detailed textures, professional food advertising photogra
 
 ## High-Contrast Mountain Dew Can Product Shot
 
-> Fotogerçekçi, sinematik logo üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, sinematik ürün fotoğrafı üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 {"header":{"resolution":"8K_UHD","renderEngine":"Hyper-Realistic AI-Modified","aspectRatio":"3:4","postProcessing":["extreme-micro-detail","zero-noise","clean-gradients"]},"sceneComposition":{"primarySubject":{"model":"Mountain Dew Aluminum Can","transform":{"position":"Center","tilt":"Slightly Backward","lean":"Subtle Diagonal"},"surface":{"material":"Metallic Matte/Gloss Hybrid","overlay":"Dense condensation droplets","branding":"Logo fully sharp, legible, and centered"}},"fx_dynamics":{"liquidBurst":{"color":"Neon Green","behavior":"Explosive upward/outward eruption","source":"Behind can","geometry":"Symmetrical crown-like burst","particles":"Hundreds of frozen mid-air droplets"}},"assets":[{"type":"Ice Cubes","properties":["Transparent","Sharp-edged","Refractive"],"distribution":"Floating at varying Z-depths"},{"type":"Limes","states":["Wedges showing pulp texture","Whole fruit with pebble-grain peel"]}],"lightingAndEnv":{"style":"Cinematic Studio / High-Contrast","highlights":"Specular icy-white","background":{"fill":"Deep Emerald Green Gradient","bokeh":"Soft green glowing particles","focus":"Shallow depth of field (Subject: Sharp, BG: Soft)"}}}}
@@ -3892,7 +3892,7 @@ High-end commercial beauty product photography of a {argument name="product" def
 
 ## Realistic Size Range Fashion Lineup
 
-> Minimal, lüks yemek görseli üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Minimal, lüks moda çekimi üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 {
@@ -3944,7 +3944,7 @@ High-end commercial beauty product photography of a {argument name="product" def
 
 ## Nano Banana 2 Prompt for Character Collaboration Menu
 
-> Logo üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
+> Karakter görseli üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 [Character Settings]
@@ -3971,7 +3971,7 @@ Horizontal spread layout (character x menu introduction on the left page, food p
 
 ## KNIGHT MECHA GIRL Figure Concept
 
-> Görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Kadın figürlü görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 KNIGHT MECHA GIRL
@@ -4070,7 +4070,7 @@ Eco-Friendly Skincare Product “Minimalist skincare bottle made of frosted glas
 
 ## Commercial Perfume Photography Prompt for Nano Banana Pro
 
-> Fotogerçekçi, minimal ürün fotoğrafı üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, minimal fotoğraf üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Ultra-realistic commercial product photography of a “{argument name="perfume name" default="Mystic Eau De Parfum"}” perfume bottle filled with translucent violet liquid, the round glass bottle centered and placed on a soft pastel surface with the metallic cap set beside it, surrounded by a minimal architectural setup of smooth lavender and white geometric arches and stepped platforms, delicate purple lilac flowers arranged around and above the scene adding a natural botanical touch, a subtle mist spray visible in the air near the bottle suggesting fragrance diffusion, monochromatic purple color palette with soft gradients in the background, clean studio environment with elegant symmetry, soft diffused lighting creating gentle shadows and smooth reflections on the glass surface, balanced composition with the product as the focal point and background elements slightly softened, high-end beauty advertising aesthetic emphasizing elegance and calm luxury, high detail, realistic textures, professional photography, high resolution, sharp focus.
@@ -4078,7 +4078,7 @@ Ultra-realistic commercial product photography of a “{argument name="perfume n
 
 ## Nano Banana 2 Grid Photo Generation Prompt
 
-> Görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotoğraf üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Please create a 3x3 grid of product promotion photos.
@@ -4149,7 +4149,7 @@ Premium skincare product shot of a white collagen cream jar with metallic lid on
 
 ## Product Advertisement Prompts for Nano Banana Pro on Gemini
 
-> Fotogerçekçi, sinematik ürün fotoğrafı üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, sinematik yemek görseli üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Protein Shake (Banana + Almond)
@@ -4167,7 +4167,7 @@ Vibrant red energy drink can bursting open with juicy pomegranate seeds and slic
 
 ## Cinematic Macro Photograph of a Strawberry in Syrup
 
-> Sinematik görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Sinematik fotoğraf üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Scene Description: A high-resolution, cinematic, macro, vertical photograph (9:16 aspect ratio). A single, large, perfect red strawberry stands perfectly upright at the center of a rich, deep red pool of viscous strawberry syrup. This central strawberry is heavily dusted with fine, powdered pink berry residue, particularly around its intact green leafy hull, and is slick with intricate, visible condensation water droplets, giving it a cool, textured appearance.
@@ -4229,7 +4229,7 @@ Extremely detailed textures of whipped cream, fruit, and liquid, commercial cosm
 
 ## Premium Advertising Campaign Photograph
 
-> Lüks logo üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Lüks fotoğraf üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 A premium advertising campaign photograph featuring a beautiful western woman slightly behind the KitKat sponge logo, both hands elegantly presenting the product toward camera, premium brand campaign composition.
@@ -4268,7 +4268,7 @@ A premium advertising campaign photograph featuring a beautiful western woman sl
 
 ## Hyper-realistic Product Ad Photography
 
-> Fotogerçekçi, minimal ürün fotoğrafı üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, minimal fotoğraf üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 3–4 identical units of the product floating in mid-air, surrounded by fresh {argument name="ingredient type" default="fruit/vegetable"} and sliced pieces that the product is made from, ingredients suspended around the product, dynamic balanced composition, ultra-clean pure white background, no gradients, no color cast, soft studio lighting, realistic soft shadows beneath floating objects, glossy packaging reflections, juicy ingredient textures, premium skincare editorial style, hyper-realistic product photography, macro detail, sharp focus, commercial advertising quality, minimal composition, 8k, 1:1
@@ -4276,7 +4276,7 @@ A premium advertising campaign photograph featuring a beautiful western woman sl
 
 ## Macro Photograph of Luxury Watch
 
-> Sinematik, minimal görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Sinematik, minimal fotoğraf üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 A macro photograph of an expensive, luxury wristwatch, the '{argument name="watch model" default="WASI – W Eclipse Edition"}'. The watch has a prominent two-tone case made of brushed titanium and polished rose gold with angular, complex lines. The crown, also in rose gold, has a micro-engraved 'W' emblem. The watch is placed in a three-quarter view, angled towards the right, on a highly reflective black marble surface with prominent white veining, which shows a partial reflection of the watch and its band.
@@ -4287,7 +4287,7 @@ A macro photograph of an expensive, luxury wristwatch, the '{argument name="watc
 
 ## Nano Banana Pro Product Photography Prompt
 
-> Fotogerçekçi, minimal arayüz tasarımı üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, minimal ürün fotoğrafı üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 {
@@ -4371,7 +4371,7 @@ Ultra-realistic skincare advertising photography featuring a frosted citrus glas
 
 ## Industrial Design Concept Prompt
 
-> Lüks logo üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Lüks mimari görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 [BRAND NAME]: The core identity.
@@ -4423,7 +4423,7 @@ Goal: Generate a premium industrial design concept on a PURE WHITE background.
 
 ## Minimalist Luxury Watch Editorial Prompt for Nano Banana 2
 
-> Fotogerçekçi, minimal portre üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, minimal fotoğraf üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 {
@@ -4489,7 +4489,7 @@ Create an original ultra-luxury beauty packshot for BAGEL LABS featuring a premi
 
 ## Nano Banana 2 prompt for creating figures and 3D models
 
-> Fotogerçekçi, minimal arayüz tasarımı üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, minimal 3B sahne üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Masterpiece, best quality, (product photography:1.6), macro lens, 8k resolution, (photorealistic:1.5).
@@ -4518,7 +4518,7 @@ Soft, professional studio lighting illuminates the figure from above.
 
 ## Nano Banana 2 prompt for creating packaged figures
 
-> Logo üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
+> Ürün fotoğrafı üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 (masterpiece, best quality, product photography, full shot, wide view),
@@ -4611,7 +4611,7 @@ Photorealistic high-end skincare product photography of a blue cosmetic cream ja
 
 ## Surreal Baroque Still Life Perfume Ad Prompt
 
-> Fotogerçekçi, sinematik ürün fotoğrafı üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, sinematik fantastik sahne üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Surreal baroque still life perfume advertisement, a turquoise bottle of floral perfume with ornate botanical label and gold cap floating above a rustic wooden table, surrounded by symbolic objects suspended in midair: a silver chalice with white jasmine flowers, a halved fig, a split pomegranate with falling seeds, dried roses, an antique hourglass tipped on its side, and a realistic human skull. Dramatic dark stormy clouds background, moody renaissance lighting, Dutch golden age still life composition, hyper-real textures, cinematic shadows, soft volumetric light, luxury fragrance campaign photography, extremely detailed, 8k, shallow depth of field, editorial product photography.
@@ -4619,7 +4619,7 @@ Surreal baroque still life perfume advertisement, a turquoise bottle of floral p
 
 ## Character-Themed Wireless Earbuds Product Shot
 
-> Minimal, lüks logo üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
+> Minimal, lüks ürün fotoğrafı üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Masterpiece, best quality, product photography, tech accessory showcase, split screen composition, clean design.
@@ -4664,7 +4664,7 @@ Minimalist product photography of a glass bottle of fresh milk labeled "Maww" wi
 
 ## Luxury Perfume Bottle Editorial Image Prompt
 
-> Lüks, stüdyo ışıklı görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Lüks, stüdyo ışıklı fotoğraf üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 A luxury perfume bottle with an ornate glass faceted design, sitting on a reflective marble surface surrounded by soft, misty floral elements — rose petals, jasmine sprigs, and delicate blooms drifting in a golden haze. The bottle catches warm amber light, refracting prismatic glints across the scene. Wisps of mist curl gently around the base, blending into a soft bokeh floral backdrop. The composition is intimate and elegant, with the bottle as the commanding centerpiece., in a luxurious style, viewed from a 45-degree, soft-studio lighting, with a misty-floral vibe, accented by warm-golden, featuring warm-tones, amber-gold-cream, with reflective-surface, prismatic-glass effects, in the style of bang-olufsen-aesthetic,cosmetics-editorial
@@ -4690,7 +4690,7 @@ Ultra-realistic luxury skincare product photography featuring a glass cosmetic j
 
 ## Ultra-realistic Cinematic Product Photograph of Perfume Bottle
 
-> Fotogerçekçi, sinematik logo üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, sinematik ürün fotoğrafı üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Ultra-realistic 8K cinematic product photograph of a glossy black oval perfume bottle with a gold cap and gold geometric logo reading “IN SKIN SECRETS”, captured mid-air while falling beside rugged layered rock formations in a warm cave environment, the bottle tilted downward with the spray nozzle pointing toward the ground releasing a fine mist of perfume forming a visible spray trail, small dust and rock particles floating around to emphasize motion, dramatic warm amber lighting reflecting on the glossy bottle surface, textured rocky background softly blurred with shallow depth of field, luxury fragrance advertisement style, high contrast, ultra-detailed textures, vertical 3:4 composition.
@@ -4790,7 +4790,7 @@ Ultra-realistic beverage product photography of a slim aluminum can with condens
 
 ## Luxury Sneaker Advertisement Photography
 
-> Sinematik, minimal logo üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Sinematik, minimal fotoğraf üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 {
@@ -4860,7 +4860,7 @@ Ultra-realistic beverage product photography of a slim aluminum can with condens
 
 ## Luxury Skincare Product Photography Prompt
 
-> Fotogerçekçi, minimal ürün fotoğrafı üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, sinematik ürün fotoğrafı üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Ultra-realistic luxury skincare product advertising photography featuring a frosted {argument name="bottle color" default="red"} glass bottle labeled “Glow Recipe – Strawberry BHA Pore-Smooth Blur Drops – Serum (30 ml / 1 fl oz)” floating slightly tilted in mid-air. The bottle has a smooth matte-frosted finish with a soft rounded cap integrated into the base. A dynamic splash of crystal-clear water flows across and behind the bottle, frozen mid-motion with suspended droplets and fluid curves wrapping around the product. Fresh whole strawberries with vibrant red skin, visible seeds, and green leaves float around the bottle, partially intersecting the water splash to emphasize freshness and ingredient inspiration. The background is a clean soft pastel {argument name="background color" default="pink"} studio backdrop that enhances the red tones of the bottle and fruit. Lighting is bright studio lighting with crisp highlights on the water surface and subtle reflections on the frosted glass texture. 
@@ -4870,7 +4870,7 @@ The composition is energetic and refreshing with a fruit-infused skincare aesthe
 
 ## Ultra-Premium Luxury Perfume Advertisement
 
-> Fotogerçekçi, minimal moda çekimi üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, minimal fotoğraf üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 {
@@ -5061,7 +5061,7 @@ photography.
 
 ## Luxury Product Campaign Grid
 
-> Sinematik, minimal görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Sinematik, minimal fantastik sahne üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 {
@@ -5192,7 +5192,7 @@ photography.
 
 ## Futuristic Tech Product Advertisement Set
 
-> Fotogerçekçi, sinematik 3B sahne üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, sinematik görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Ultra-realistic gaming mouse floating above a desk, surrounded by glowing golden energy rings and flying electronic components, dramatic cinematic lighting, futuristic tech aesthetic, detailed mousepad and cables on wooden desk, sparks and particles in the air, high-speed motion effect, premium product advertising, hyper-detailed textures, depth of field, 8K, studio lighting.
@@ -5218,7 +5218,7 @@ style combining real photography and sketch illustration, premium branding feel,
 
 ## Strict Identity Activewear Grid Generation
 
-> Minimal moda çekimi üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
+> Minimal kadın figürlü görsel üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 {
@@ -5343,7 +5343,7 @@ style combining real photography and sketch illustration, premium branding feel,
 
 ## Luxury Food Editorial with Heart-Shaped Bagels
 
-> Minimal, lüks yemek görseli üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
+> Minimal, lüks fotoğraf üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 {
@@ -5469,7 +5469,7 @@ style combining real photography and sketch illustration, premium branding feel,
 
 ## Ultra-Luxury Cinematic Floral Photography Prompt (JSON Format)
 
-> Sinematik, lüks görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Sinematik, lüks fotoğraf üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 {
@@ -5527,7 +5527,7 @@ style combining real photography and sketch illustration, premium branding feel,
 
 ## Exploded View Grilled Chicken Taco Product Photography
 
-> Fotogerçekçi, minimal bilgi grafiği üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, minimal ürün fotoğrafı üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Motion Prompt: The taco begins a slow, smooth rotation while its layers gently separate one by one, maintaining perfect alignment, spacing, and scale. Each ingredient floats apart with precise, controlled motion. The movement is clean and fluid, with no extra effects or distractions.
@@ -5735,7 +5735,7 @@ Luxury perfume bottle centered on a minimal beige background, clear rectangular 
 
 ## Hyper-Realistic Product Render with Holochrome Gradients
 
-> Fotogerçekçi, lüks görsel üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, lüks fotoğraf üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Create a hyper-realistic 8K product render of {argument name="product name" default="[INSERT YOUR PRODUCT HERE]"}
@@ -5765,7 +5765,7 @@ Style reference: Industrial Design meets luxury hardware photography.
 
 ## High-Speed Commercial Luxury Burger Photography
 
-> Fotogerçekçi, sinematik logo üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, sinematik fotoğraf üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 {
@@ -5814,7 +5814,7 @@ Style reference: Industrial Design meets luxury hardware photography.
 
 ## Luxury Mango Shake Splash Photography Prompt
 
-> Fotogerçekçi, minimal görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, minimal fotoğraf üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 {
@@ -5861,7 +5861,7 @@ Style reference: Industrial Design meets luxury hardware photography.
 
 ## 3D Commercial Shot of Cherry Juice Bottle
 
-> Fotogerçekçi, sinematik ürün fotoğrafı üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, sinematik 3B sahne üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 {
@@ -5910,7 +5910,7 @@ Ultra-luxurious skincare product photography, AQUAVÉR premium natural beauty li
 
 ## Luxury High-Speed Shake Commercial Photography Prompt
 
-> Minimal, lüks görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Minimal, lüks fotoğraf üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 {
@@ -5957,7 +5957,7 @@ Ultra-luxurious skincare product photography, AQUAVÉR premium natural beauty li
 
 ## Citrus Skincare Product Macro Photography Prompt
 
-> Fotogerçekçi, minimal görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, minimal fotoğraf üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Ultra-realistic premium skincare serum bottle (dark green glass with dropper), golden liquid inside, placed on sunlit marble surface with fresh orange slices around, natural citrus vibe, water splash frozen mid-air, detailed droplets and reflections, soft natural sunlight with sharp shadows, minimal aesthetic, macro photography, high detail textures, glossy glass reflections, fresh and vibrant color tones, luxury skincare advertising, 8K, perfect composition.
@@ -6018,7 +6018,7 @@ Veo 3.1 :- Turn the uploaded product into a hyper realistic edible cake, preserv
 
 ## Luxury Fashion Campaign Prompts (2 Prompts)
 
-> Sinematik, minimal ürün fotoğrafı üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Sinematik, minimal moda çekimi üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Prompt 1:
@@ -6095,7 +6095,7 @@ Ultra-realistic luxury cosmetic product photography in a dramatic monochromatic 
 
 ## Subject-to-Enamel Pin Conversion
 
-> Minimal görsel üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
+> Minimal fotoğraf üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Turn just the subject into a gold enamel pin. It's a minimal photo of the pin on a desk, no other items.
@@ -6175,7 +6175,7 @@ The objects are arranged in a clean, organized group composition (knolling or is
 
 ## Ultra-Premium Jewelry Product Photography Prompt
 
-> Minimal, lüks logo üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
+> Minimal, lüks ürün fotoğrafı üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Ultra-premium conceptual jewelry product photography with romantic symbolism.
@@ -6313,7 +6313,7 @@ A vibrant orange glass dropper bottle of "pop beauty EXTRA LIT-B SHOT exfoliatin
 
 ## Stylized Wicker Caricature Figurine
 
-> Fotogerçekçi, stüdyo ışıklı görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, stüdyo ışıklı karakter görseli üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 A highly detailed stylized caricature figurine of a person made entirely from woven wicker / rattan material, big head and small body proportions, hyper-realistic texture with intricate basket weave patterns forming facial features, hair, and clothing. The figure stands on a small woven base placed on a wooden table. Background is a warm wooden wall with subtle brand logos or props. Studio lighting, soft shadows, shallow depth of field, ultra-detailed, 8K resolution, sharp focus, photorealistic, artistic craftsmanship, handcrafted sculpture look.
@@ -6321,7 +6321,7 @@ A highly detailed stylized caricature figurine of a person made entirely from wo
 
 ## Banana Milk Commercial Ad
 
-> Fotogerçekçi, lüks görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, lüks fotoğraf üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Premium banana milk drink bottle surrounded by swirling milk splash, floating bananas and berries, dynamic liquid motion, creamy textures, bright yellow background, high-speed splash photography, glossy product lighting, ultra-realistic, commercial food ad style, sharp focus, 8K.
@@ -6329,7 +6329,7 @@ Premium banana milk drink bottle surrounded by swirling milk splash, floating ba
 
 ## Luxury Home Fragrance Commercial Photography (JSON Format)
 
-> Fotogerçekçi, lüks mimari görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, lüks fotoğraf üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 {
@@ -6433,7 +6433,7 @@ Luxury beauty editorial shot of an amber glass vitamin serum bottle slightly til
 
 ## Hyper-Realistic Dessert Commercial Photography (JSON Format)
 
-> Fotogerçekçi, sinematik ürün fotoğrafı üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, sinematik yemek görseli üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 {
@@ -6506,7 +6506,7 @@ Luxury beauty editorial shot of an amber glass vitamin serum bottle slightly til
 
 ## Luxury Skincare Commercial Photography: Lumière Nectar
 
-> Fotogerçekçi, lüks görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, lüks fotoğraf üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 {
@@ -6582,7 +6582,7 @@ Luxury beauty editorial shot of an amber glass vitamin serum bottle slightly til
 
 ## Luxury Skincare Commercial Photography: Glow Elixir
 
-> Fotogerçekçi, minimal ürün fotoğrafı üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, minimal fotoğraf üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 {
@@ -6865,7 +6865,7 @@ Ultra-realistic high-contrast beverage product photography of a red aluminum sod
 
 ## Ultra-Cinematic Luxury Artisan Soap Product Photography
 
-> Fotogerçekçi, sinematik logo üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, sinematik ürün fotoğrafı üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 {
@@ -6940,7 +6940,7 @@ Create a hyper-realistic flat lay composition where the uploaded logo is formed 
 
 ## Luxury Macro Commercial Render of a Velvet Red Rose
 
-> Fotogerçekçi, sinematik görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, sinematik fotoğraf üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 {
@@ -7016,7 +7016,7 @@ Create a hyper-realistic flat lay composition where the uploaded logo is formed 
 
 ## Diecast Toy Model Generation Prompt
 
-> Fotogerçekçi, minimal görsel üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, minimal karakter görseli üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Generate a 1:24 scale diecast toy model of this exact vehicle. Modifications: Replace the license plate with a simple white plate that says '{argument name="car name" default="[INSERT CAR NAME]"}'. Make the car look like a high-quality toy with glossy paint, visible panel gaps, and plastic tires. Setting: Place it on a wooden table in a modern family living room. Props: Next to the car, place an empty retail box with a clear plastic window. The box should feature '{argument name="brand name" default="[INSERT BRAND]"}' branding and logos. Lighting & Camera: Use soft, warm afternoon sunlight filtering through blinds. The background should be blurred (bokeh) to focus entirely on the toy. Low angle, close-up macro shot
@@ -7024,7 +7024,7 @@ Generate a 1:24 scale diecast toy model of this exact vehicle. Modifications: Re
 
 ## Luxury Fragrance Advertising Photography Prompt
 
-> Fotogerçekçi, sinematik görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, sinematik fotoğraf üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 {
@@ -7092,7 +7092,7 @@ Generate a 1:24 scale diecast toy model of this exact vehicle. Modifications: Re
 
 ## Giant Pharmaceutical Capsule with White House Miniature
 
-> Fotogerçekçi, lüks manzara üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, lüks 3B sahne üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 A high-quality, 3D digital render of a giant pharmaceutical capsule standing vertically. The top half is solid navy blue with a glossy finish, featuring the American flag and the word "America" written in elegant gold serif typography. The bottom half is made of clear, transparent glass, containing a highly detailed miniature 3D model of the white House resting on a base of blue water and tiny landscaped greenery. The capsule has a thin gold metallic ring separating the two halves. Studio lighting, soft bokeh background, hyper-realistic textures, 8k resolution.
@@ -7173,7 +7173,7 @@ Hyper-realistic luxury skincare product photography of a premium golden Vitamin 
 
 ## 3D Product Render of Gummy Vitamin Jars (4 Variations)
 
-> Fotogerçekçi, sinematik ürün fotoğrafı üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, sinematik 3B sahne üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Ultra-realistic 3D product render of a pink gummy vitamin jar labeled “{argument name="Label 1" default="lik"}”, placed on a round pastel pink pedestal. The jar is open and filled with glossy strawberry-shaped gummies. A fresh strawberry rests beside the jar and a small cluster of blueberries sits on the platform. Soft peach-to-pink gradient background, minimal aesthetic, soft studio lighting, subtle shadows, high detail, clean typography, premium supplement branding, centered composition, 85mm lens look, shallow depth of field, commercial product photography, 8K resolution.
@@ -7209,7 +7209,7 @@ IMAGE: A cylindrical cosmetic bottle stands centered and vertically upright in t
 
 ## Luxury Skincare Diorama in a Perfume Bottle
 
-> Lüks moda çekimi üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Lüks 3B sahne üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Luxury skincare serum diorama
@@ -7240,7 +7240,7 @@ Image 2: Exploded-view visualization showing internal components separated verti
 
 ## Sprite Can Advertising Macro Shot
 
-> Sinematik logo üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Sinematik oyun görseli üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 {
@@ -7307,7 +7307,7 @@ Image 2: Exploded-view visualization showing internal components separated verti
 
 ## Hyper-Realistic Miniature Product Ad Prompt
 
-> Fotogerçekçi, minimal ürün maketi (mockup) üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, minimal 3B sahne üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 macro photograph, minimalist advertising style, a hyper-realistic miniature {argument name="product" default="[PRODUCT]"} crafted from {argument name="material" default="[MATERIAL]"}, delicately poised between a person's thumb and forefinger against a seamless, matte {argument name="background color" default="[BG_COLOR]"} cyclorama under professional Top-Down_Spotlight that casts subtle, soft shadows, with the impeccably groomed hand accentuating the object's intricate contours while the composition remains perfectly centered with a shallow depth of field to highlight its exquisite craftsmanship
@@ -7323,7 +7323,7 @@ change image1 so the rings have the positioning of image 2.  you're just moving 
 
 ## Macro Hero Shot of Optical Cast Glass Object with Caustics
 
-> Fotogerçekçi, minimal mimari görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, minimal görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Task: Ultra-close macro hero shot of a {argument name="subject" default="SUBJECT"} as premium optical cast glass with diagonal light-band shadows, stronger rainbow caustics, and clean readable high-detail areas (no refraction “mush”). Subject is FULLY visible and NOT cropped. The subject is placed on the surface or floating in the air at a low altitude above the surface.
@@ -7346,7 +7346,7 @@ Ultra-realistic commercial product photography of a pastel {argument name="soda 
 
 ## Underwater Luxury Skincare Product Ad
 
-> Fotogerçekçi, sinematik ürün fotoğrafı üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, sinematik görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Ultra-realistic underwater luxury skincare advertisement.
@@ -7366,7 +7366,7 @@ Make the model wear the VR Headset (do not change the style of the VR Headset) h
 
 ## Luxury Reed Diffuser Product Photography Prompt
 
-> Fotogerçekçi, sinematik logo üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, sinematik ürün fotoğrafı üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Ultra-realistic premium product photography of a deep obsidian glass reed diffuser bottle labeled “MIDNIGHT OUD – Signature Reserve – NOIRÉ” in refined metallic gold serif lettering. The bottle features a tall, softly rounded square silhouette with beveled edges and a high-gloss mirror finish. A subtle embossed gold crest logo is positioned near the upper center, adding an understated luxury detail. Slim matte charcoal diffuser reeds rise elegantly from the neck.
@@ -7408,7 +7408,7 @@ High-end Valentine’s Day perfume advertisement, crystal perfume bottle placed 
 
 ## Corrugated Cardboard Fruit Packaging Concept Prompt
 
-> Fotogerçekçi, sinematik logo üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, sinematik ürün fotoğrafı üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 A high-quality professional product photography of a creative structural packaging design for {argument name="fruit name" default="[Fruit Name]"}. The packaging is made of premium corrugated cardboard, intricately crafted into the literal shape of a giant stylized {argument name="shape" default="[Shape e.g. spherical, curved, elongated]"} {argument name="fruit name 2" default="[Fruit Name]"}.
@@ -7461,7 +7461,7 @@ Features clever die-cut windows that reveal the actual [Actual Product Inside] s
 
 ## Luxury Bucket Hat Product Editorial
 
-> Sinematik, minimal portre üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Sinematik, minimal fotoğraf üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Premium fictional bucket hat with a softly structured crown.

@@ -6,7 +6,7 @@
 
 ## Composer
 
-> Yaratıcı metin yazar. ChatGPT, Gemini veya Claude gibi sohbet asistanlarına yapıştırıp kullanırsın. Prompt metni İngilizce. Hazır katalog promptu.
+> Metin yazar. ChatGPT, Gemini veya Claude gibi sohbet asistanlarına yapıştırıp kullanırsın. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 I want you to act as a composer. I will provide the lyrics to a song and you will create music for it. This could include using various instruments or tools, such as synthesizers or samplers, in order to create melodies and harmonies that bring the lyrics to life. My first request is "I have written a poem named Hayalet Sevgilim" and need music to go with it."""
@@ -30,7 +30,7 @@ I want you to act as a classical music composer. You will create an original mus
 
 ## Song Recommender
 
-> Metin yazar. ChatGPT, Gemini veya Claude gibi sohbet asistanlarına yapıştırıp kullanırsın. Prompt metni İngilizce. Hazır katalog promptu.
+> Öneri ve tavsiye verir. ChatGPT, Gemini veya Claude gibi sohbet asistanlarına yapıştırıp kullanırsın. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 I want you to act as a song recommender. I will provide you with a song and you will create a playlist of 10 songs that are similar to the given song. And you will provide a playlist name and description for the playlist. Do not choose songs that are same name or artist. Do not write any explanations or other words, just reply with the playlist name, description and the songs. My first song is "Other Lives - Epic".
@@ -46,7 +46,7 @@ I want you to act as a acoustic guitar composer. I will provide you of an initia
 
 ## Music Video Designer
 
-> Verilen konuda uzman gibi cevap verir. ChatGPT, Gemini veya Claude gibi sohbet asistanlarına yapıştırıp kullanırsın. Prompt metni İngilizce. Hazır katalog promptu.
+> Video içeriği hazırlar. ChatGPT, Gemini veya Claude gibi sohbet asistanlarına yapıştırıp kullanırsın. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 I want you to act like a music video designer, propose an innovative plot, legend-making, and shiny video scenes to be recorded, it would be great if you suggest a scenario and theme for a video for big clicks on youtube and a successful pop singer
@@ -54,7 +54,7 @@ I want you to act like a music video designer, propose an innovative plot, legen
 
 ## Music Player
 
-> Veriyi ayıklayıp biçimlendirir. ChatGPT, Gemini veya Claude gibi sohbet asistanlarına yapıştırıp kullanırsın. Prompt metni İngilizce. Hazır katalog promptu.
+> Uygulama kodu yazar. ChatGPT, Gemini veya Claude gibi sohbet asistanlarına yapıştırıp kullanırsın. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Develop a web-based music player using HTML5, CSS3, and JavaScript with the Web Audio API. Create a modern interface with album art display and visualizations. Implement playlist management with drag-and-drop reordering. Add audio controls including play/pause, skip, seek, volume, and playback speed. Include shuffle and repeat modes with visual indicators. Support multiple audio formats with fallbacks. Implement a 10-band equalizer with presets. Add metadata extraction and display from audio files. Create a responsive design that works on all devices. Include keyboard shortcuts for playback control. Support background playback with media session API integration.
@@ -75,7 +75,7 @@ Samimi, insani, hafif kusurlu performans — yapay veya stok müzik hissi yok.
 
 ## Build an Advanced Music App for Android
 
-> İyileştirme önerir. ChatGPT, Gemini veya Claude gibi sohbet asistanlarına yapıştırıp kullanırsın. Prompt metni İngilizce. Hazır katalog promptu.
+> Uygulama kodu yazar. ChatGPT, Gemini veya Claude gibi sohbet asistanlarına yapıştırıp kullanırsın. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Act as a mobile app developer specializing in Android applications. Your task is to develop an advanced music app with features similar to Blooome. 
@@ -96,7 +96,7 @@ Rules:
 
 ## Darksynth Synthwave Music Composition Guide
 
-> Yaratıcı metin yazar. ChatGPT, Gemini veya Claude gibi sohbet asistanlarına yapıştırıp kullanırsın. Prompt metni İngilizce. Hazır katalog promptu.
+> Verilen konuda uzman gibi cevap verir. ChatGPT, Gemini veya Claude gibi sohbet asistanlarına yapıştırıp kullanırsın. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Style: darksynth synthwave with electronic and ambient influences, nostalgic, mysterious, hopeful, building energy, 108 BPM, moderato, driving feel, synthesizer, electric-guitar, featuring synthesizer, male and breathy vocals, polished, atmospheric, layered production, 1980s sound, lush and cinematic with analog warmth, in the key of Am, retrowave, outrun, 80s nostalgia, neon, night drive
@@ -118,7 +118,7 @@ Theme: memories of a neon-lit city that never was
 
 ## Create Satirical and Bold Song Lyrics
 
-> İnceleyip değerlendirir. ChatGPT, Gemini veya Claude gibi sohbet asistanlarına yapıştırıp kullanırsın. Prompt metni İngilizce. Hazır katalog promptu.
+> Yaratıcı metin yazar. ChatGPT, Gemini veya Claude gibi sohbet asistanlarına yapıştırıp kullanırsın. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Act as a satirical songwriter. Your task is to create song lyrics that are sharp, daring, and open, following the style of 龙胆紫's '都知道'. You will:
@@ -144,7 +144,7 @@ Rules:
 
 ## Master Podcast Producer & Sonic Storyteller
 
-> Özet çıkarır. ChatGPT, Gemini veya Claude gibi sohbet asistanlarına yapıştırıp kullanırsın. Prompt metni İngilizce. Hazır katalog promptu.
+> Yaratıcı metin yazar. ChatGPT, Gemini veya Claude gibi sohbet asistanlarına yapıştırıp kullanırsın. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 I want you to act as a Master Podcast Producer and Sonic Storyteller. I will provide you with a core topic, a target audience, and a guest profile. Your goal is to design a complete, captivating podcast episode architecture that ensures maximum audience retention.
@@ -165,7 +165,7 @@ Guest Profile: ${Guest_Profile:None (Solo Episode)}
 
 ## Voice Conversation Coach
 
-> Ürün açıklaması yazar. ChatGPT, Gemini veya Claude gibi sohbet asistanlarına yapıştırıp kullanırsın. Prompt metni İngilizce. Hazır katalog promptu.
+> Konuyu anlatır ve öğretir. ChatGPT, Gemini veya Claude gibi sohbet asistanlarına yapıştırıp kullanırsın. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Voice Conversation Coach Prompt
@@ -182,7 +182,7 @@ Begin by greeting the user and asking what scenario they'd like to practice toda
 
 ## Voice Cloning Attacks Infographic
 
-> Sosyal medya içeriği üretir. ChatGPT, Gemini veya Claude gibi sohbet asistanlarına yapıştırıp kullanırsın. Prompt metni İngilizce. Hazır katalog promptu.
+> Verilen konuda uzman gibi cevap verir. ChatGPT, Gemini veya Claude gibi sohbet asistanlarına yapıştırıp kullanırsın. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 SYSTEM:
@@ -331,7 +331,7 @@ make picture based on these
 
 ## Make AI responses sound more Human-like
 
-> Özet çıkarır. ChatGPT, Gemini veya Claude gibi sohbet asistanlarına yapıştırıp kullanırsın. Prompt metni İngilizce. Hazır katalog promptu.
+> Verilen konuda uzman gibi cevap verir. ChatGPT, Gemini veya Claude gibi sohbet asistanlarına yapıştırıp kullanırsın. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 SHOULD use clear, simple language.
@@ -381,7 +381,7 @@ Important: Review your response and ensure no em dashes
 
 ## AI voice assistant
 
-> Konuyu anlatır ve öğretir. ChatGPT, Gemini veya Claude gibi sohbet asistanlarına yapıştırıp kullanırsın. Prompt metni İngilizce. Hazır katalog promptu.
+> Verilen konuda uzman gibi cevap verir. ChatGPT, Gemini veya Claude gibi sohbet asistanlarına yapıştırıp kullanırsın. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 System Prompt: ${your_website} AI Receptionist
@@ -438,7 +438,7 @@ Closing:
 
 ## Voice Cloning Assistant
 
-> İyileştirme önerir. ChatGPT, Gemini veya Claude gibi sohbet asistanlarına yapıştırıp kullanırsın. Prompt metni İngilizce. Hazır katalog promptu.
+> Öneri ve tavsiye verir. ChatGPT, Gemini veya Claude gibi sohbet asistanlarına yapıştırıp kullanırsın. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Act as a Voice Cloning Expert. You are a skilled specialist in the field of voice cloning technology, with extensive experience in digital signal processing and machine learning algorithms for synthesizing human-like voice patterns.
@@ -471,7 +471,7 @@ Examples:
 
 ## ubuntu audio input/output,loop/virtual connection specialist
 
-> Konuyu anlatır ve öğretir. ChatGPT, Gemini veya Claude gibi sohbet asistanlarına yapıştırıp kullanırsın. Prompt metni İngilizce. Hazır katalog promptu.
+> Komut satırı ve sistem konularında yardım eder. ChatGPT, Gemini veya Claude gibi sohbet asistanlarına yapıştırıp kullanırsın. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Role & Persona
@@ -508,7 +508,7 @@ Current Task:
 
 ## Audio Routing Automation Engineer
 
-> Özet çıkarır. ChatGPT, Gemini veya Claude gibi sohbet asistanlarına yapıştırıp kullanırsın. Prompt metni İngilizce. Hazır katalog promptu.
+> Verilen konuda uzman gibi cevap verir. ChatGPT, Gemini veya Claude gibi sohbet asistanlarına yapıştırıp kullanırsın. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 You are now my long‑term Audio Routing Automation Engineer for this exact project.
@@ -587,7 +587,7 @@ Now, based on my original goal and our history, show me the full architecture, s
 
 ## Chain of Thought for Podcast Guest Analysis
 
-> Sosyal medya içeriği üretir. ChatGPT, Gemini veya Claude gibi sohbet asistanlarına yapıştırıp kullanırsın. Prompt metni İngilizce. Hazır katalog promptu.
+> Analiz yapar. ChatGPT, Gemini veya Claude gibi sohbet asistanlarına yapıştırıp kullanırsın. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Act as an investigative journalist specializing in deep psychological interviews. You are tasked with researching a guest for the "Shadow Work" podcast. Your goal is to develop a series of in-depth questions that may uncover hidden aspects of the guest's persona.
@@ -612,7 +612,7 @@ Variables:
 
 ## Performing a Popular Song at a Concert
 
-> İyileştirme önerir. ChatGPT, Gemini veya Claude gibi sohbet asistanlarına yapıştırıp kullanırsın. Prompt metni İngilizce. Hazır katalog promptu.
+> Verilen konuda uzman gibi cevap verir. ChatGPT, Gemini veya Claude gibi sohbet asistanlarına yapıştırıp kullanırsın. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Act as a professional singer preparing to perform at an open-air concert. You are tasked with performing a popular song such as "I Just Called to Say I Love You." Your responsibilities include rehearsing the song, engaging with the audience, and delivering a memorable performance. You will:

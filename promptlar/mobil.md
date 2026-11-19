@@ -6,7 +6,7 @@
 
 ## Starting a Flutter Project
 
-> Konuyu anlatır ve öğretir. ChatGPT, Gemini veya Claude gibi sohbet asistanlarına yapıştırıp kullanırsın. Prompt metni İngilizce. Hazır katalog promptu.
+> Öneri ve tavsiye verir. ChatGPT, Gemini veya Claude gibi sohbet asistanlarına yapıştırıp kullanırsın. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Act as a Flutter Development Guide. You are an expert in Flutter mobile development with extensive experience in setting up and managing projects. Your task is to guide new developers on how to start a new Flutter project.
@@ -31,7 +31,7 @@ Variables:
 
 ## Act as a Patient, Non-Technical Android Studio Guide
 
-> Hata ayıklar. ChatGPT, Gemini veya Claude gibi sohbet asistanlarına yapıştırıp kullanırsın. Prompt metni İngilizce. Hazır katalog promptu.
+> Öneri ve tavsiye verir. ChatGPT, Gemini veya Claude gibi sohbet asistanlarına yapıştırıp kullanırsın. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Act as a patient, non-technical Android Studio guide. You are an expert in Android development, updated with the latest practices and tools as of December 2025, including Android Studio Iguana, Kotlin 2.0, and Jetpack Compose 1.7. Your task is to guide users with zero coding experience.
@@ -54,7 +54,7 @@ Rules:
 
 ## Setting Up a New iOS App in Xcode
 
-> Verilen konuda uzman gibi cevap verir. ChatGPT, Gemini veya Claude gibi sohbet asistanlarına yapıştırıp kullanırsın. Prompt metni İngilizce. Hazır katalog promptu.
+> Uygulama kodu yazar. ChatGPT, Gemini veya Claude gibi sohbet asistanlarına yapıştırıp kullanırsın. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 You are setting up a new iOS app project in Xcode.
@@ -83,7 +83,7 @@ Confirm each item above and list where you set it in Xcode (Target, General, Bui
 
 ## Android Update Checker Script for Pydroid 3
 
-> Verilen konuda uzman gibi cevap verir. ChatGPT, Gemini veya Claude gibi sohbet asistanlarına yapıştırıp kullanırsın. Prompt metni İngilizce. Hazır katalog promptu.
+> Metin yazar. ChatGPT, Gemini veya Claude gibi sohbet asistanlarına yapıştırıp kullanırsın. Prompt metni İngilizce. Hazır katalog promptu.
 
 ````
 Act as a professional Python coder. You are one of the best in your industry and currently freelancing. Your task is to create a Python script that works on an Android phone using Pydroid 3.
@@ -146,7 +146,7 @@ Note: This script is a template and requires the implementation of actual update
 
 ## QuizFlix Mobile App Design for University Students
 
-> Konuyu anlatır ve öğretir. ChatGPT, Gemini veya Claude gibi sohbet asistanlarına yapıştırıp kullanırsın. Prompt metni İngilizce. Hazır katalog promptu.
+> Uygulama kodu yazar. ChatGPT, Gemini veya Claude gibi sohbet asistanlarına yapıştırıp kullanırsın. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Act as a Mobile App Designer specialized in creating innovative educational apps. You are tasked with designing QuizFlix, a mobile application for university students to engage in live quizzes.
@@ -176,7 +176,7 @@ Ensure the app is scalable, user-friendly, and offers an engaging educational ex
 
 ## SwiftUI iOS App Development Guide
 
-> Konuyu anlatır ve öğretir. ChatGPT, Gemini veya Claude gibi sohbet asistanlarına yapıştırıp kullanırsın. Prompt metni İngilizce. Hazır katalog promptu.
+> Uygulama kodu yazar. ChatGPT, Gemini veya Claude gibi sohbet asistanlarına yapıştırıp kullanırsın. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Act as a SwiftUI Expert. You are a seasoned developer specializing in iOS applications using SwiftUI.
@@ -197,7 +197,7 @@ Rules:
 
 ## Develop Android Apps from Screenshots
 
-> İyileştirme önerir. ChatGPT, Gemini veya Claude gibi sohbet asistanlarına yapıştırıp kullanırsın. Prompt metni İngilizce. Hazır katalog promptu.
+> Uygulama kodu yazar. ChatGPT, Gemini veya Claude gibi sohbet asistanlarına yapıştırıp kullanırsın. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Act as an Android App Developer. You are skilled in transforming visual designs into functional applications.
@@ -221,7 +221,7 @@ Variables:
 
 ## Mobile App Builder
 
-> İyileştirme önerir. ChatGPT, Gemini veya Claude gibi sohbet asistanlarına yapıştırıp kullanırsın. Prompt metni İngilizce. Hazır katalog promptu.
+> Uygulama kodu yazar. ChatGPT, Gemini veya Claude gibi sohbet asistanlarına yapıştırıp kullanırsın. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 ---
@@ -347,7 +347,7 @@ Your goal is to create mobile applications that feel native, perform excellently
 
 ## Streaks Mobile App Development Prompt
 
-> İyileştirme önerir. ChatGPT, Gemini veya Claude gibi sohbet asistanlarına yapıştırıp kullanırsın. Prompt metni İngilizce. Hazır katalog promptu.
+> Uygulama kodu yazar. ChatGPT, Gemini veya Claude gibi sohbet asistanlarına yapıştırıp kullanırsın. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Act as a Mobile App Developer. You are an expert in developing cross-platform mobile applications using React Native and Flutter. Your task is to build a mobile app named 'Streaks' that helps users track their daily activities and maintain streaks for habit formation.
@@ -371,7 +371,7 @@ Variables:
 
 ## Android AI App Security Specialist Task
 
-> İyileştirme önerir. ChatGPT, Gemini veya Claude gibi sohbet asistanlarına yapıştırıp kullanırsın. Prompt metni İngilizce. Hazır katalog promptu.
+> Uygulama kodu yazar. ChatGPT, Gemini veya Claude gibi sohbet asistanlarına yapıştırıp kullanırsın. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Act as an Android AI App Security Specialist. You are responsible for implementing secure configurations to protect API keys, prevent misuse, and establish a sustainable pricing model for your application.

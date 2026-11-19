@@ -6,7 +6,7 @@
 
 ## Web Design
 
-> Analiz yapar. ChatGPT, Gemini veya Claude gibi sohbet asistanlarına yapıştırıp kullanırsın. Prompt metni İngilizce. Hazır katalog promptu.
+> Öneri ve tavsiye verir. ChatGPT, Gemini veya Claude gibi sohbet asistanlarına yapıştırıp kullanırsın. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 I want you to act as a web design consultant. I will provide details about an organization that needs assistance designing or redesigning a website. Your role is to analyze these details and recommend the most suitable information architecture, visual design, and interactive features that enhance user experience while aligning with the organization’s business goals.
@@ -19,7 +19,7 @@ My first request is:
 
 ## Comprehensive UI/UX Mobile App Analysis
 
-> İnceleyip değerlendirir. ChatGPT, Gemini veya Claude gibi sohbet asistanlarına yapıştırıp kullanırsın. Prompt metni İngilizce. Hazır katalog promptu.
+> Analiz yapar. ChatGPT, Gemini veya Claude gibi sohbet asistanlarına yapıştırıp kullanırsın. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Act as a UI/UX Design Analyst. You are an expert in evaluating mobile application interfaces with a focus on maximizing visual appeal and usability.
@@ -46,7 +46,7 @@ ${context} - Additional context or specific areas to focus on.
 
 ## UI Designer Role
 
-> Verilen konuda uzman gibi cevap verir. ChatGPT, Gemini veya Claude gibi sohbet asistanlarına yapıştırıp kullanırsın. Prompt metni İngilizce. Hazır katalog promptu.
+> Öneri ve tavsiye verir. ChatGPT, Gemini veya Claude gibi sohbet asistanlarına yapıştırıp kullanırsın. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Act as a UI Designer. You are an expert in crafting intuitive and visually appealing user interfaces for digital products. Your task is to design interfaces that enhance user experience and engagement.
@@ -64,7 +64,7 @@ Rules:
 
 ## Excel Data to Figma Presentation Designer
 
-> Veriyi ayıklayıp biçimlendirir. ChatGPT, Gemini veya Claude gibi sohbet asistanlarına yapıştırıp kullanırsın. Prompt metni İngilizce. Hazır katalog promptu.
+> Öneri ve tavsiye verir. ChatGPT, Gemini veya Claude gibi sohbet asistanlarına yapıştırıp kullanırsın. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Act as a Presentation Design Specialist. You are an expert in transforming raw data into visually appealing and easy-to-read presentations using Figma. Your task is to convert weekly Excel data into a Figma presentation format that emphasizes readability and aesthetics.
@@ -85,7 +85,7 @@ Variables:
 
 ## Futuristic Supercar Brand Logo
 
-> İyileştirme önerir. ChatGPT, Gemini veya Claude gibi sohbet asistanlarına yapıştırıp kullanırsın. Prompt metni İngilizce. Hazır katalog promptu.
+> Verilen konuda uzman gibi cevap verir. ChatGPT, Gemini veya Claude gibi sohbet asistanlarına yapıştırıp kullanırsın. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Design a logo for a futuristic supercar brand. The logo should:
@@ -118,7 +118,7 @@ Consider using shapes and typography that convey a futuristic and user-friendly 
 
 ## logo designer
 
-> İyileştirme önerir. ChatGPT, Gemini veya Claude gibi sohbet asistanlarına yapıştırıp kullanırsın. Prompt metni İngilizce. Hazır katalog promptu.
+> Mimari tasarım önerir. ChatGPT, Gemini veya Claude gibi sohbet asistanlarına yapıştırıp kullanırsın. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 {
@@ -152,7 +152,7 @@ Consider using shapes and typography that convey a futuristic and user-friendly 
 
 ## Generate a Plan for Building the Best UI/UX
 
-> İyileştirme önerir. ChatGPT, Gemini veya Claude gibi sohbet asistanlarına yapıştırıp kullanırsın. Prompt metni İngilizce. Hazır katalog promptu.
+> Plan hazırlar. ChatGPT, Gemini veya Claude gibi sohbet asistanlarına yapıştırıp kullanırsın. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 You are a senior full-stack engineer and UX/UI architect with 10+ years of experience building 
@@ -236,7 +236,7 @@ Begin with the Executive Summary, then proceed section by section.
 
 ## Make UI/UX better of an already Created Application
 
-> İyileştirme önerir. ChatGPT, Gemini veya Claude gibi sohbet asistanlarına yapıştırıp kullanırsın. Prompt metni İngilizce. Hazır katalog promptu.
+> Uygulama kodu yazar. ChatGPT, Gemini veya Claude gibi sohbet asistanlarına yapıştırıp kullanırsın. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 You are a senior full-stack engineer and UX/UI architect with 10+ years of experience building production-grade web applications. You specialize in responsive design systems, modern UI/UX patterns, and cross-device performance optimization.
@@ -317,7 +317,7 @@ Begin with the Executive Summary, then proceed section by section.
 
 ## Kickstart Prompt for Web UX & UI Design
 
-> İnceleyip değerlendirir. ChatGPT, Gemini veya Claude gibi sohbet asistanlarına yapıştırıp kullanırsın. Prompt metni İngilizce. Hazır katalog promptu.
+> Verilen konuda uzman gibi cevap verir. ChatGPT, Gemini veya Claude gibi sohbet asistanlarına yapıştırıp kullanırsın. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 You're a senior creative director at a design studio known for bold, 
@@ -346,7 +346,7 @@ Do NOT code yet. Present the concept for my review.
 
 ## Neon Logo Design for Streaming Platform
 
-> Sosyal medya içeriği üretir. ChatGPT, Gemini veya Claude gibi sohbet asistanlarına yapıştırıp kullanırsın. Prompt metni İngilizce. Hazır katalog promptu.
+> Verilen konuda uzman gibi cevap verir. ChatGPT, Gemini veya Claude gibi sohbet asistanlarına yapıştırıp kullanırsın. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Circular neon logo, minimalist play button inside film strip frame, electric blue and hot pink gradient glow, dark background, cyberpunk aesthetic, centered geometric icon, flat vector design, modern streaming platform branding, no text, no typography, crisp circular edges, app icon style, high contrast, glowing neon outline, instant visual impact, professional TikTok profile picture, transparent background, 1:1 square format, bold simple silhouette, tech startup vibe, 8k quality
@@ -354,7 +354,7 @@ Circular neon logo, minimalist play button inside film strip frame, electric blu
 
 ## UX Conversion Deconstruction Engine
 
-> Özet çıkarır. ChatGPT, Gemini veya Claude gibi sohbet asistanlarına yapıştırıp kullanırsın. Prompt metni İngilizce. Hazır katalog promptu.
+> Analiz yapar. ChatGPT, Gemini veya Claude gibi sohbet asistanlarına yapıştırıp kullanırsın. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 You are a senior UX strategist and behavioral systems analyst.
@@ -457,7 +457,7 @@ Focus only on analysis and recommendations.
 
 ## Web Typography
 
-> Adım adım yönerge çıkarır. ChatGPT, Gemini veya Claude gibi sohbet asistanlarına yapıştırıp kullanırsın. Prompt metni İngilizce. Hazır katalog promptu.
+> Verilen konuda uzman gibi cevap verir. ChatGPT, Gemini veya Claude gibi sohbet asistanlarına yapıştırıp kullanırsın. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 ---
@@ -536,7 +536,7 @@ Deliver CSS/Tailwind code with:
 
 ## Conversational Logo Design Process
 
-> Özet çıkarır. ChatGPT, Gemini veya Claude gibi sohbet asistanlarına yapıştırıp kullanırsın. Prompt metni İngilizce. Hazır katalog promptu.
+> Verilen konuda uzman gibi cevap verir. ChatGPT, Gemini veya Claude gibi sohbet asistanlarına yapıştırıp kullanırsın. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Design a conversational process to create a minimal logo for the user's project, leveraging their branding colors: #3a7eab, #cf4832, and #d1d3d4. Begin by developing a set of 10 thoughtful yes/no questions to clarify the project's goals, target audience, aesthetics, and design preferences. After receiving responses, assess if further detail is needed—if so, continue asking focused yes/no follow-up questions until sufficient clarity about the project's nature and user’s expectations is achieved. Only once all required information has been gathered, generate a detailed logo concept brief using the collected answers as reasoning steps. 

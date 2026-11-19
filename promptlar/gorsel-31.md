@@ -26,7 +26,7 @@ Photorealism, high detail, the atmosphere of a genuine spring moment.
 
 ## Suburban Neighborhood Designed by Fast Food Chains
 
-> Minimal, retro mimari görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Minimal, retro şehir ve sokak sahnesi üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 A suburban neighborhood designed by Waffle House/TGI Fridays/90s Taco Bell/Denny's.
@@ -34,7 +34,7 @@ A suburban neighborhood designed by Waffle House/TGI Fridays/90s Taco Bell/Denny
 
 ## Natural Travel Lifestyle Snapshot
 
-> Sinematik, minimal moda çekimi üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Sinematik, minimal fotoğraf üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 "overall_aesthetic": "Natural Travel Lifestyle / Mediterranean Vacation Snapshot",
@@ -116,7 +116,7 @@ A suburban neighborhood designed by Waffle House/TGI Fridays/90s Taco Bell/Denny
 
 ## Lo-Fi Analog Boudoir 2x2 Grid Contact Sheet
 
-> Minimal, lüks mimari görsel üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
+> Minimal, lüks kolaj üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 {
@@ -248,7 +248,7 @@ A suburban neighborhood designed by Waffle House/TGI Fridays/90s Taco Bell/Denny
 
 ## Flash Photography Aesthetic Prompt with ControlNet
 
-> Mimari görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotoğraf üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 {
@@ -282,7 +282,7 @@ A suburban neighborhood designed by Waffle House/TGI Fridays/90s Taco Bell/Denny
 
 ## Soft Pink Home Selfie Lifestyle Prompt
 
-> Minimal portre üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Minimal selfie fotoğrafı üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 {
@@ -306,7 +306,7 @@ A suburban neighborhood designed by Waffle House/TGI Fridays/90s Taco Bell/Denny
 
 ## Epic Fantasy Sorceress Action Scene
 
-> Fotogerçekçi, sinematik görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, sinematik fantastik sahne üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 A powerful fantasy sorceress bursting through a wall of torn newspapers, dramatic action scene, mid-motion debris and paper fragments flying outward, intense green eyes, long flowing brown hair, wearing an ornate deep red and gold embroidered medieval jacket, casting a glowing golden fire spell from her outstretched hand, magical sparks illuminating her fingers, cinematic lighting, high contrast, ultra-detailed textures, dynamic perspective, shallow depth of field, dark smoky background, epic fantasy realism, 8k resolution, hyper-realistic, sharp focus, dramatic composition, volumetric dust and particles
@@ -314,7 +314,7 @@ A powerful fantasy sorceress bursting through a wall of torn newspapers, dramati
 
 ## Creative Family Studio Photograph Prompt
 
-> Fotogerçekçi, sinematik portre üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, sinematik fotoğraf üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 A photorealistic studio portrait featuring a symmetrical, nested composition against a dark charcoal background. A man with short hair and a beard, wearing a plain white t-shirt, holds a large wooden picture frame. Positioned inside his frame is a blonde woman in a white t-shirt, holding a smaller wooden frame. Inside her frame is a young blonde girl with pigtails in a white t-shirt. The image features soft studio lighting, a neutral color palette focused on whites and warm wood tones, and detailed textures like wood grain and soft cotton. Calm, cinematic atmosphere, 8k resolution, highly detailed.  4K, Vertical portrait.
@@ -343,7 +343,7 @@ A photorealistic studio portrait featuring a symmetrical, nested composition aga
 
 ## Cinematic Home Editorial Grid Prompt
 
-> Sinematik, lüks mimari görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Sinematik, lüks fotoğraf üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 {
@@ -492,7 +492,7 @@ A photorealistic studio portrait featuring a symmetrical, nested composition aga
 
 ## Kawaii Comfy Bed Portrait
 
-> Moda çekimi üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Portre üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 {
@@ -593,7 +593,7 @@ A very realistic photograph of a person sitting on a motorcycle, seen from the f
 
 ## Lo-Fi Warm Studio Motion Contact Sheet 3x3 Grid
 
-> Minimal görsel üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
+> Minimal kolaj üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 {
@@ -668,7 +668,7 @@ A very realistic photograph of a person sitting on a motorcycle, seen from the f
 
 ## Dramatic Devil Costume Portrait Prompt (JSON)
 
-> Mimari görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Portre üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 {
@@ -757,7 +757,7 @@ A very realistic photograph of a person sitting on a motorcycle, seen from the f
 
 ## Gym Bro Aesthetic Photo Analysis
 
-> Görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotoğraf üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 "prompt_analysis": {
@@ -869,7 +869,7 @@ A 30-45 second short film depicting the delicate cuteness of a woman in a cinema
 
 ## Intimate Photorealistic Party Selfie Prompt
 
-> Fotogerçekçi, sinematik portre üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, sinematik selfie fotoğrafı üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 {
@@ -915,7 +915,7 @@ A 30-45 second short film depicting the delicate cuteness of a woman in a cinema
 
 ## Luxury Automotive Editorial Photo Prompt
 
-> Lüks mimari görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Lüks fotoğraf üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 {
@@ -1028,7 +1028,7 @@ A 30-45 second short film depicting the delicate cuteness of a woman in a cinema
 
 ## Black Leggings Side Pose Mirror Selfie
 
-> Portre üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Selfie fotoğrafı üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 {
@@ -1047,7 +1047,7 @@ A 30-45 second short film depicting the delicate cuteness of a woman in a cinema
 
 ## Cinematic Evening Street Portrait Prompt
 
-> Sinematik, minimal moda çekimi üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Sinematik, minimal portre üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 {
@@ -1081,7 +1081,7 @@ A 30-45 second short film depicting the delicate cuteness of a woman in a cinema
 
 ## Batman Comedy Movie Screenshot Prompt
 
-> Sinematik görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Sinematik karakter görseli üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Screenshot from a well-known comedy movie, but it's Batman instead of the protagonist, made up to look like the main character and instantly recognizable.
@@ -1126,7 +1126,7 @@ captures a festive and elegant mood. High resolution, highly detailed, 4k, Verti
 
 ## 80s McDonald's Pole Dance Flash Photo
 
-> Fotogerçekçi, retro görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, retro fotoğraf üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 {
@@ -1235,7 +1235,7 @@ Photorealistic black and white studio portrait of a family of four in profile [U
 
 ## Entry-Level Gen Z Woman Generation
 
-> Minimal görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Minimal kadın figürlü görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 generate a 21 year old Gen Z woman sitting on her couch on a saturday
@@ -1251,7 +1251,7 @@ A photorealistic, highly detailed 4K studio portrait of a smiling young woman [U
 
 ## Golden Hour Fitness Muse
 
-> Portre üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Selfie fotoğrafı üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 {
@@ -1272,7 +1272,7 @@ A photorealistic, highly detailed 4K studio portrait of a smiling young woman [U
 
 ## Photorealistic Candid Lifestyle Photo with ControlNet
 
-> Fotogerçekçi 3B sahne üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi fotoğraf üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 "subject": "Young woman, long brown hair, wearing a yellow string bikini with blue trim and logos. Tattoos on right arm and fingers. Wearing a delicate necklace.",
@@ -1423,7 +1423,7 @@ A photorealistic, highly detailed 4K studio portrait of a smiling young woman [U
 
 ## Midnight Gothic Muse
 
-> Lüks görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Lüks kadın figürlü görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 {
@@ -1444,7 +1444,7 @@ A photorealistic, highly detailed 4K studio portrait of a smiling young woman [U
 
 ## 90s Horror McDonald's with Ghostface
 
-> Fotogerçekçi, sinematik mimari görsel üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, sinematik erkek figürlü görsel üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Create an ultra-realistic image in the horror style of the 90s. The model (man with brown hair, faithful to the provided photo) is sitting next to Ghostface in a McDonald's restaurant with a classic 90s look. Both are eating hamburgers, illuminated by soft, warm lighting in a nostalgic, retro atmosphere. Model's outfit: gray oversized T-shirt and faded wide jeans. Aesthetics: subtle film grain, cinematic tone, strong realism, and nostalgic charm. Background: slightly blurred McDonald's interior with warm tones and ambient light that evokes the 1990s era. Don't change the face. (Use the attached image)
@@ -1452,7 +1452,7 @@ Create an ultra-realistic image in the horror style of the 90s. The model (man w
 
 ## iPhone Aesthetic Prompt Generator Framework
 
-> Fotogerçekçi, retro portre üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, retro karakter görseli üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 <role>
@@ -1619,7 +1619,7 @@ An amateur street-style photo taken on an iPhone rear camera. Use the uploaded f
 
 ## Surreal Editorial Fashion Portrait (Emma Watson)
 
-> Fotogerçekçi, fütüristik yemek görseli üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, fütüristik moda çekimi üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 {
@@ -1677,7 +1677,7 @@ An amateur street-style photo taken on an iPhone rear camera. Use the uploaded f
 
 ## Hyper-Extreme Hourglass Selfie with Harsh Flash
 
-> Fotogerçekçi, minimal portre üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, minimal selfie fotoğrafı üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 {
@@ -1714,7 +1714,7 @@ An amateur street-style photo taken on an iPhone rear camera. Use the uploaded f
 
 ## Kling 3.0 video using Nano Banana Pro images
 
-> Sinematik görsel üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
+> Sinematik kadın figürlü görsel üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 A cinematic video composed of 4 cuts, depicting a woman's charm through casual conversation with friends. Seamlessly connect a medium shot of a smile, ASMR sounds of hands, a close-up of a whisper, and a lingering pull-back shot. Combine film-like texture and binaural audio to enhance immersion from both visual and auditory perspectives.
@@ -1722,7 +1722,7 @@ A cinematic video composed of 4 cuts, depicting a woman's charm through casual c
 
 ## Ultra-Realistic Winter Street Photoshoot
 
-> Fotogerçekçi, minimal mimari görsel üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, minimal şehir ve sokak sahnesi üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Shot on iPhone, winter street photoshoot, ultra-realism, natural shot: SAVE FACE FROM UPLOADED PHOTO 1:1 — do not change features, proportions, age, facial expressions and similarity even by 1%, use the uploaded photo as the ONLY face standard), plot: a man in the center of a busy winter city street makes a "reporter's" street shot, holds a compact camera/camcorder to his face, as if he is filming in response, the pose is fixed, stance U2K confident, pelvis slightly shifted to the right, shoulders relaxed, one hand holds a compact camera to the lips/chin, the other hand deep in the pocket, elbow slightly pulled back, looking straight into the lens, expression calm and bold; the angle is fixed: shooting on an iPhone from chest level, slight wide-angle (26mm feel), the hero is strictly in the center, the frame is waist-deep, the perspective is minimal, without a "corridor" into the distance, the background is dense and close; the background is strictly defined: a winter evening in the city, wet asphalt and slush, behind the hero there is a wide street with closely parked cars in two rows, on the right next to (3-5 meters) a parked dark minivan, on the left the facade of a building with brightly lit shop-windows and an entrance, above the entrance there are 2-3 small neon signs without legible words, on the sidewalk around the hero there are 10-15 people in winter clothes (some are passing by, some are standing in a group near the shop-window), all the faces of passers-by are slightly blurred so that the focus remains on the model; a street lamp, road signs, reflections of lights in the wet asphalt are visible in the frame, no long horizon, a "wall" of buildings and cars in the background, short depth; The clothes are strictly defined (u2k unisex, winter): a short glossy down jacket "metallic silver" made of nylon with a high collar, under it a white tight-fitting thermal jacket without prints, bottoms: low-rise dark gray baggy jeans with a belt, shoes: winter sneakers/boots white and gray with a massive sole, accessories: narrow rectangular glasses u2k with dark lenses, black gloves, a small black shoulder-bag with a short strap over the shoulder, in hand a black compact camera/camcorder without logos; fixed light; winter evening mixed cold street + warm shop-window light, soft contrast, no flash, no studio light, natural shadows under the nose and chin, glare from the wet road; atmosphere: lively urban winter street, city noise, people moving, the feeling of a "captured moment" in the style of the 2000s; textures: hyper-realistic skin texture, natural pores and fine details, Subtle imperfections, slight reddening of cheeks from the cold, realistic lip gloss, detailed texture of the glossy nylon down jacket, visible seams and zipper, denim with a pronounced weave and creases, wet asphalt with reflections, grainy slush, camera plastic with small scratches; camera and processing: iPhone photo look, iPhone RAW, slight dig
@@ -1730,7 +1730,7 @@ Shot on iPhone, winter street photoshoot, ultra-realism, natural shot: SAVE FACE
 
 ## Scarlet Street Serenity
 
-> Minimal görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Minimal şehir ve sokak sahnesi üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 {
@@ -1783,7 +1783,7 @@ Shot on iPhone, winter street photoshoot, ultra-realism, natural shot: SAVE FACE
 
 ## Golden Royal Glam Mirror Selfie
 
-> Moda çekimi üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Selfie fotoğrafı üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 {
@@ -1806,7 +1806,7 @@ Shot on iPhone, winter street photoshoot, ultra-realism, natural shot: SAVE FACE
 
 ## Cinematic Seaside Scene Prompt with Detailed Texture Requirements
 
-> Fotogerçekçi, sinematik görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, sinematik sahil sahnesi üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Cinematic seaside scene at sunset with a dramatic, cloud-filled sky. The palette blends cool blue-gray atmospheric tones with a soft peach glow near the horizon. The person sits sideways on a pebbled beach close to the shoreline, body oriented toward the sea, gaze directed over the water. Posture natural and relaxed, anatomically correct, no exaggerated posing. A light coastal breeze creates subtle environmental movement — gentle fabric motion and natural interaction with the surroundings. Seagulls circle in the sky, some with slight motion blur for realistic depth and spatial layering. Wardrobe is minimal and neutral: a dark basic T-shirt layered under a loose knitted cardigan, paired with relaxed straight-leg jeans. Fabrics must show realistic textile behavior — visible knit texture, natural folds, weight, gravity tension at elbows and waist, authentic denim structure and stitching details. Lighting is soft natural sunset light with realistic falloff. Subtle rim light from the horizon, balanced exposure on skin without over-smoothing. Shadows remain matte and dimensional. Shot with a photographer’s mindset — 35mm lens look, natural perspective, shallow but believable depth of field. Vintage film-inspired color science reminiscent of Kodak Portra 400: soft contrast, muted highlights, matte shadows, mild desaturation, organic film grain. Editorial framing, high photorealism, 4K resolution.
@@ -1814,7 +1814,7 @@ Cinematic seaside scene at sunset with a dramatic, cloud-filled sky. The palette
 
 ## Cozy Pink Vibes Indoor Portrait
 
-> Minimal mimari görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Minimal portre üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 {
@@ -1863,7 +1863,7 @@ Cinematic seaside scene at sunset with a dramatic, cloud-filled sky. The palette
 
 ## JSON Prompt for Beach Selfie Portrait
 
-> Portre üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Selfie fotoğrafı üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 {
@@ -1991,7 +1991,7 @@ generate a cinematic image of Keynes writing something sitting in an armchair
 
 ## Raw Unfiltered Selfie with Tan Lines and High Bust Volume
 
-> Fotogerçekçi yemek görseli üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi selfie fotoğrafı üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 {
@@ -2041,7 +2041,7 @@ generate a cinematic image of Keynes writing something sitting in an armchair
 
 ## Luxury Cafe Portrait with Bio-Fidelity and Anatomical Emphasis
 
-> Lüks mimari görsel üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
+> Lüks portre üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 (9:16). Raw iPhone 17 Pro, 35mm, f/2.2, natural bokeh, digital grain. Identity Lock Reference A: absolute facial and voluminous hair geometry inheritance. Bio-Fidelity: micro-pores, vellus hair on jawline, satin hydration. Expression Lock Reference B: lateral head tilt, soft knowing smile, right hand articulated at the jawline with realistic skin-on-skin compression. Outfit: Technical black long-sleeve bodysuit, architectural horizontal chest cutout, high-tensile rib-knit fit. Hyper-defined S-curve, 20% bust and waist-to-hip anatomical emphasis. Pose: Seated at a wooden table, left arm resting on the surface. Lighting: Soft warm indoor 3000K ambient light, natural ambient occlusion. Environment: Pixel-perfect luxury cafe; wooden table with high-fidelity raspberry pastry on a white plate, ceramic tea cup, white flowers. Background: herringbone parquet flooring, cane-back chairs, pleated shade lamp, and glass-fronted wine cabinets.
@@ -2049,7 +2049,7 @@ generate a cinematic image of Keynes writing something sitting in an armchair
 
 ## Ultra-Realistic Influencer Mirror Selfie in Private Jet Lavatory
 
-> Fotogerçekçi, sinematik portre üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, sinematik selfie fotoğrafı üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 {
@@ -2067,7 +2067,7 @@ generate a cinematic image of Keynes writing something sitting in an armchair
 
 ## Hyper-Realistic Mixed-Media Illustration Prompt
 
-> Fotogerçekçi, sinematik mimari görsel üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, sinematik illüstrasyon üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 A hyper-realistic 8k mixed-media illustration of a person in a medium shot [Use the uploaded image as reference], rendered with cinematic lighting and highly detailed textures, set against an abstract, urban-sketch style background. The character, with uploaded face as reference, features voluminous dark hair styled upwards and a well-groomed beard, wearing {argument name="sunglasses style" default="red-framed wayfarer-style"} sunglasses with dark, reflective lenses. They are dressed in a vibrant, deep red ribbed crew-neck sweater, with arms crossed over the chest, looking slightly to the right. The background is composed of fragmented, stylized cityscapes, architectural outlines, scribbles, and ink splatters in shades of grey, black, and white, with striking red accents and splashes that echo the sweater's color. The entire composition is rendered on a textured, light brown paper, giving it a tactile, artistic feel, combining elements of sketch, watercolor, and digital art.
@@ -2075,7 +2075,7 @@ A hyper-realistic 8k mixed-media illustration of a person in a medium shot [Use 
 
 ## Old Smartphone Digicam Snapshot Style Preset
 
-> Retro görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Retro fotoğraf üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 -early-2000s digicam snapshot, grainy low-res quality
@@ -2083,7 +2083,7 @@ A hyper-realistic 8k mixed-media illustration of a person in a medium shot [Use 
 
 ## Cinematic Close-Up Portrait of Alice in Wonderland
 
-> Sinematik, retro manzara üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
+> Sinematik, retro portre üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 CLOSE UP ON ALICE (Confident, Knowing Expression) 🎥 Camera Choice: • 85mm lens • Eye-level • Tight close-up (shoulders up) • Slight shallow depth of field Why? 85mm compresses background and makes it intimate and dramatic. Perfect for subtle expression. 📸 Prompt – Close Up Alice Cinematic live-action portrait of a young woman dressed as Alice in Wonderland sitting at a whimsical tea table in a forest clearing. She wears a tailored blue Victorian-style dress with white apron, subtle lace trim, and a black bow at her collar. Her blonde hair is softly styled with a black ribbon headband. Expression: confident and knowing, subtle half-smile, eyes slightly narrowed as if she understands something the others do not. Calm, composed, intelligent gaze directed toward camera. Camera: 85mm lens, eye-level framing, tight close-up from shoulders up, shallow depth of field. Lighting: soft natural forest light filtering through trees, gentle rim light outlining her hair, warm highlights on skin, realistic texture. Environment: blurred long wooden tea table behind her with vintage teacups and mismatched china barely visible in background. Style: high-budget fantasy film realism, natural skin texture, subtle makeup, realistic fabric detail, grounded Victorian aesthetic.
@@ -2091,7 +2091,7 @@ CLOSE UP ON ALICE (Confident, Knowing Expression) 🎥 Camera Choice: • 85mm l
 
 ## Outdoor Mirror Selfie in European City at Golden Hour
 
-> Fotogerçekçi moda çekimi üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi selfie fotoğrafı üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 {
@@ -2149,7 +2149,7 @@ CLOSE UP ON ALICE (Confident, Knowing Expression) 🎥 Camera Choice: • 85mm l
 
 ## Sunflower Garden Portrait with Instagram Collage Overlay
 
-> Fotogerçekçi, sinematik mimari görsel üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, sinematik kolaj üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Transform this image (UPLOAD YOUR IMAGE) into a 64K DSLR-quality shot resolution ultra-hyperrealistic cinematic bright outdoor lifestyle portrait of a young woman (same face as the uploaded image) standing in a blooming sunflower garden during golden hour.
@@ -2246,7 +2246,7 @@ Engine 5.
 
 ## Nighttime Music Festival Photography Prompt
 
-> Mimari görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotoğraf üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 {
@@ -2261,7 +2261,7 @@ Engine 5.
 
 ## Glamorous Blonde Woman in Leopard Latex with Floral Tattoos
 
-> Fotogerçekçi, sinematik moda çekimi üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, sinematik kadın figürlü görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 {
@@ -2276,7 +2276,7 @@ Engine 5.
 
 ## Lone Grey Wolf on Frozen Lake at Dawn
 
-> Görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Hayvan görseli üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 A lone grey wolf standing on a frozen lake at dawn. Breath visible in the cold air. First light breaks across the horizon behind it, casting a long warm orange glow across the blue-grey ice. The wolf's fur is backlit, individual guard hairs catching the light. Ice cracks radiate outward from its paws. Shallow depth of field, the wolf's eyes razor sharp, the distant treeline soft. Fine organic grain, cold shadows, warm highlights. 85mm, low angle, shot from ice level.
@@ -2326,7 +2326,7 @@ Ultra-realistic conceptual portrait, 50mm lens, f/1.8, 8K resolution. Use upload
 
 ## Panoramic Prompts for Nano Banana 2 (4:1 Aspect Ratio)
 
-> Fotogerçekçi, sinematik manzara üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, sinematik şehir ve sokak sahnesi üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 1、This is a 4:1 ultra-wide panoramic photo taken with a smartphone. The image shows a lush tropical jungle landscape viewed from my small wooden cabin balcony. Dense green foliage fills the frame from left to right, layered depth, natural morning light, realistic colors, high dynamic range, cinematic wide-angle lens effect, highly detailed vegetation, slight atmospheric haze in the distance, photorealistic, 4k resolution.
@@ -2335,7 +2335,7 @@ Ultra-realistic conceptual portrait, 50mm lens, f/1.8, 8K resolution. Use upload
 
 ## Detailed Japanese Prompt for Variety Show Style Image
 
-> Görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Hayvan görseli üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Please output 4 times using the following prompt:
@@ -2411,7 +2411,7 @@ Pet video, mishap, comedy, decisive moment, sense of dynamism, friendly, smartph
 
 ## Adorable Baby Red Fox Kit Image Generation Prompt
 
-> Fotogerçekçi, sinematik manzara üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, sinematik hayvan görseli üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 adorable realistic baby red fox kit sitting on mossy ground, very high angle distant bird's-eye view, looking straight up at camera with huge innocent eyes and tiny paws, fluffy orange fur, gentle sunlight filtering through trees, wide 16:9 landscape format, pastel autumn colors, dreamy soft focus background, photorealistic yet heart-meltingly cute, wildlife close-up from far above, ultra-detailed, cinematic, 8k
@@ -2431,7 +2431,7 @@ Avoid direct eye contact, intentional poses, overly dramatic posture, fashion ca
 
 ## Photorealistic Street Photography of a Woman on a Motorcycle in Europe
 
-> Fotogerçekçi, sinematik mimari görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, sinematik araç görseli üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 {
@@ -2573,7 +2573,7 @@ Street photography, realistic, high detail, cinematic lighting, 85mm lens, shall
 
 ## Forensically Accurate Digital Twin Portrait of Sabrina Carpenter
 
-> Afiş üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Portre üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 {
@@ -2648,7 +2648,7 @@ Her pose feels effortless and intimate — one hand gently lifting through her h
 
 ## Candid Gym Mirror Selfie Prompt
 
-> Portre üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Selfie fotoğrafı üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 {
@@ -2728,7 +2728,7 @@ Her pose feels effortless and intimate — one hand gently lifting through her h
 
 ## Detailed Structured Prompt for Photorealistic Image Generation on a Train
 
-> Fotogerçekçi, minimal mimari görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, minimal kadın figürlü görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 { "Camera": { "angle": "Slightly low angle", "aperture": "f/2.8", "composition_rule": "Diagonal composition", "distance": "Medium distance", "focus": "Selective focus", "framing": "Medium shot", "height": "Below eye level", "lens": "35mm", "perspective": "Normal perspective" }, "Custom Instructions": "", "Environment": { "location": "Indoor", "props": "Gold chain cyan handbag, white mobile phone charger, black travel bag", "setting_details": "Inside a modern passenger train, sitting on a dark fabric seat next to a large window." }, "Lighting": { "facial_shadows": "Minimal facial shadows due to the mask and soft lighting. Subtle, soft shadows can be seen on the right side of her face and neck, away from the window light, creating a soft contour.", "key_light": "Soft, diffused natural light from the large window on the right side of the frame.", "mood": "Calm and peaceful", "shadow_direction": "From right to left", "shadows": "Presents soft, diffused shadows with soft edges. The main light from the window casts subtle shadows on the left side of the subject's body, especially on her torso and the folds of her clothes. Soft shadows are also visible on the seat and the train interior, enhancing the sense of depth.", "style": "Natural light", "time_of_day": "Daytime" }, "Negative Prompts": [ "Blurry", "Distorted features", "Bad anatomy", "Unnatural pose", "Watermark", "Text", "Low resolution", "Cartoon style" ], "Quality Goals": [ "Photorealistic", "High detail", "Soft natural light", "Subject clear and sharp", "Realistic fabric texture", "Calm and peaceful atmosphere" ], "Style": "Realism", "Subject": { "age_bracket": "Young adult", "Body": { "accessories": "Silver necklace with small pendant, small earrings, ring, gold brooch, white mask", "body_orientation": "Three-quarter view", "hand_position": "Hands gently placed on the legs, at a medium distance from the camera.", "hold_item": "None", "leg_position": "Legs crossed at the upper thigh and extended forward, positioned closer to the camera than the torso.", "pose_details": "Leaning back on the seat, head tilted to the side, appearing to be resting or sleeping. Her body is angled towards the lens, creating a relaxed and natural posture.", "pose": "Sitting" }, "body_curves": "Slender curves, elegant silhouette. The composition highlights the well-proportioned upper body with distinct, graceful curves. The lower body features long, slender legs with smooth contours and beautiful lines.", "body_proportions": "Slender figure with well-proportioned body. The pose emphasizes the proportion of her legs relative to her torso.", "category": "Traveler", "description": "On a train, a stylish, dark-haired young woman sits comfortably in her seat, head tilted back as if sleeping.", "Face": { "expression": "Relaxed, peaceful", "eye_camera_relationship": "Not applicable as eyes are closed. Head is tilted back and away from the camera lens, in a state of rest.", "eye_color": "Not visible", "eye_contact": "None", "eye_expression": "Closed eyes convey a state of peaceful rest, contributing to the serene mood.", "eye_shape": "Not visible", "eyebrows": "Well-groomed and gently arched", "gaze": "Eyes closed", "gaze_direction": "Eyes closed", "gaze_intensity": "Calm", "makeup": "Natural and minimalist" }, "gender_presentation": "Female", "Hair": { "color": "Dark brown", "style": "Pulled back from the face, secured with a black bow" }, "physique": "Slim and slender", "skin_tone": "Fair", "Wardrobe": { "bottom": "Black mini skirt and black socks", "color": "Black", "fabric": "The jacket is tweed, the top is delicate, lightweight knitwear, the skirt is leather-like, and the socks are delicate, high-quality material.", "outerwear": "Black tweed jacket with a gold brooch", "patterns": "The jacket has a tweed texture; all other clothing is solid colored.", "style": "Elegant and chic", "texture": "The jacket is textured, the skirt is smooth and slightly glossy, the top is delicate and soft, and the socks are smooth.", "top": "Black long-sleeved fitted turtleneck top" } } }
@@ -2752,7 +2752,7 @@ General plan from a high-angle shot: a young Korean woman Blackpink Jennie sits 
 
 ## Candid Mirror Selfie with Identity Lock and High Exposure
 
-> Minimal portre üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
+> Minimal selfie fotoğrafı üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 {
@@ -2857,7 +2857,7 @@ The image should feel warm, intimate, and softly romantic — but clearly well-l
 
 ## Cinematic Golden Hour Photography of a Young Woman
 
-> Fotogerçekçi, sinematik görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, sinematik kadın figürlü görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 {
@@ -2922,7 +2922,7 @@ The image should feel warm, intimate, and softly romantic — but clearly well-l
 
 ## Soft Glow Indoor Mirror Selfie Portrait
 
-> Minimal, lüks portre üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Minimal, lüks selfie fotoğrafı üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 {
@@ -2974,7 +2974,7 @@ She sits in an easy, composed posture, leaning slightly forward while one hand r
 
 ## Raw iPhone Candid Vanity Mirror Selfie
 
-> Fotogerçekçi portre üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi selfie fotoğrafı üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 {
@@ -3051,7 +3051,7 @@ She sits in an easy, composed posture, leaning slightly forward while one hand r
 
 ## High-Angle POV Portrait with Bio-Fidelity and Technical Wear
 
-> Logo üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
+> Portre üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 (9:16). Raw iPhone 17 Pro, 24mm, f/5.6 structural depth, digital grain. Identity Lock Reference A: absolute facial/hair geometry inheritance. Bio-Fidelity: micro-pores, fine vellus hair, satin-finish hydration, natural skin-tension on décolletage. Outfit: Technical white compression-fit tank top, square architectural neckline, visible pink floral-lace technical trim; low-rise distressed blue denim; gold technical link necklace with circular logo pendant. Hyper-defined S-curve, 20% anatomical bust and waist-to-hip volume emphasis. Pose: Standing high-angle downward POV looking at self-torso. Lighting: Soft indoor ambient 3000K, natural ambient occlusion in textile layers. Environment: Pixel-perfect dark wood-grain cabinet on right margin, neutral wall background.
@@ -3067,7 +3067,7 @@ She sits in an easy, composed posture, leaning slightly forward while one hand r
 
 ## Children's Book Style Colored Pencil and Watercolor Illustration
 
-> Fotogerçekçi, minimal portre üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, minimal illüstrasyon üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Hand-drawn colored pencil illustration with clean line art and slightly rough pencil outlines [Use the uploaded image as reference], combined with soft watercolor wash textures. Bright pastel colors, lighter and more vivid tones with natural saturation. Visible pencil strokes layered with subtle watercolor gradients.
@@ -3076,7 +3076,7 @@ Warm and friendly tone, semi-cartoon realistic proportions. Simple facial featur
 
 ## High-Angle Seated Portrait with Leopard Sequined Mini-Dress
 
-> Minimal mimari görsel üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
+> Minimal portre üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 (9:16). Raw iPhone 17 Pro, 28mm high-angle POV, f/2.8, natural bokeh, digital grain. Identity Lock Image A + Glow-Up Protocol: absolute facial/hair geometry inheritance, zero-imperfection porcelain skin, zero acne/ojeras, 20% slimmed architectural jawline and cheekbone definition. Long messy-chic brunette hair. Outfit: Technical leopard-print sequined strapless mini-dress, high-tensile fit, high-specular metallic-sheen physics on sequins. Hyper-defined S-curve, 20% bust and waist-to-hip anatomical emphasis. Pose: High-angle seated perspective, lateral torso torsion, legs flexed on a white surface. Lighting: Warm indoor ambient illumination, ray-traced specular highlights on dress texture. Environment: Pixel-perfect white curved chair/surface, grey fabric accents, minimalist neutral-toned interior.
@@ -3092,7 +3092,7 @@ Warm and friendly tone, semi-cartoon realistic proportions. Simple facial featur
 
 ## Image Restoration and Upscale Prompt for Nano Banana Pro
 
-> Fotogerçekçi, sinematik illüstrasyon üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, sinematik fotoğraf üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 { "task": "image_restoration_upscale", "positive_prompt":
@@ -3104,7 +3104,7 @@ Warm and friendly tone, semi-cartoon realistic proportions. Simple facial featur
 
 ## Dreamy Cinematic Portrait under Cherry Blossoms
 
-> Fotogerçekçi, sinematik 3B sahne üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, sinematik portre üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 {
@@ -3119,7 +3119,7 @@ Warm and friendly tone, semi-cartoon realistic proportions. Simple facial featur
 
 ## Hyper-realistic Photography and Vector Illustration Blend Prompt
 
-> Fotogerçekçi, minimal profil görseli üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, minimal illüstrasyon üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Transform this image into a 64K DSLR shot resolution of ​A full-body composition featuring a real-life young woman (same face as the uploaded image) with blonde bangs and a high bun, wearing a light green and blue gradient cropped sweatshirt, denim pants, and white sneakers. Around her neck are bulky yellow and black gaming headphones. She has small pink heart decals on her cheeks. She is leaning against a plain light grey concrete wall.Directly behind her is a large, vibrant 2D vector-style graphic of her own face (same face as the uploaded image) in an anime art style. The graphic includes bold teal and yellow geometric shapes and the word "Naik" written in a thick, dark sans-serif font below it. The lighting is soft and even, highlighting the contrast between the realistic texture of her clothing and the flat, saturated colors of the digital avatar on the wall. Style: Hyper-realistic photography meets clean vector illustration. Color Palette: Mint green, sky blue, lemon yellow, and denim indigo. Fashion: Streetwear, e-girl aesthetic, high-waisted distressed denim, and DIY hair accessories. Mood: Calm, modern, and youthful. Octane render & Unreal Engine 5.
@@ -3135,7 +3135,7 @@ An ethereal 8K portrait capturing a young Asian woman surrounded by cascading pi
 
 ## Historical Social Media Feed Generation
 
-> Görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Karakter görseli üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 I was born on December 9, 1971. Investigate what happened in the world that day, search for images of the protagonists of those news stories, and create an image of an X (Twitter) feed as if those characters had posted that day. Vertical format, all writing in Spanish.
@@ -3143,7 +3143,7 @@ I was born on December 9, 1971. Investigate what happened in the world that day,
 
 ## Messy Disposable Camera Party Shot Prompt
 
-> Retro görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Retro fotoğraf üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 messy disposable-camera party shot: harsh red-eye flash, grain, blur, smudges, tilted framing, smoky club atmosphere, candid expressions, sweaty skin, shiny fabrics, champagne chaos, 90s aesthetic
@@ -3226,7 +3226,7 @@ messy disposable-camera party shot: harsh red-eye flash, grain, blur, smudges, t
 
 ## Realistic Bathroom Mirror Selfie with Correct Reflection
 
-> Portre üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Selfie fotoğrafı üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Realistic bathroom mirror selfie. Person holding a smartphone; the mirror reflection shows the phone and hand correctly reversed. The phone screen shows a messaging app with readable text: ‘Meet at 6:30?’ and a reply ‘On my way’. Natural indoor lighting, realistic reflections, no distortion.
@@ -3234,7 +3234,7 @@ Realistic bathroom mirror selfie. Person holding a smartphone; the mirror reflec
 
 ## Layered Reflection in Glass Window
 
-> Görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Kadın figürlü görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Reflection in glass window, layered composition, subject of a beautiful woman partially obscured. Fujifilm GFX100S, 80mm f/1.7 Natural diffused light Muted Portra LUT Aspect 3:4 harmony: 60% realism / 40% artistic. sRef: layered documentary imagery. Hidden tokens: glass reflection blur, layered city depth."
@@ -3242,7 +3242,7 @@ Reflection in glass window, layered composition, subject of a beautiful woman pa
 
 ## Detailed Character Prompt: Young Woman Driving a Tractor
 
-> Fotogerçekçi, minimal görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, minimal karakter görseli üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 {
@@ -3340,7 +3340,7 @@ A cinematic video composed of four cuts, themed around a cute woman painting a w
 
 ## Raw iPhone Street Photo of Woman
 
-> Fotogerçekçi görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi şehir ve sokak sahnesi üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 {
@@ -3398,7 +3398,7 @@ A cinematic video composed of four cuts, themed around a cute woman painting a w
 
 ## Hyper-Curvy Sydney Sweeney Street Photo
 
-> Fotogerçekçi görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi şehir ve sokak sahnesi üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 {
@@ -3455,7 +3455,7 @@ Aspect ratio 1:1, please make it 3x3
 
 ## 90s Retro Windbreaker Portrait with Harsh Flash (Two Prompts)
 
-> Minimal, retro afiş üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Minimal, retro portre üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 A close-up portrait of a young woman looking directly at the camera with a gentle, closed-mouth smile. She has dark, wavy shoulder-length hair and pale skin. She is wearing a bright retro 90s windbreaker zipped up, with blue, green, orange, and purple stripes and white drawstrings. The background is a beige wall adorned with taped polaroid pictures, colorful ticket stubs, and simple black marker doodles of hearts and a star. Shot with direct, harsh flash lighting that creates a hard black shadow behind her head and shoulders.
@@ -3467,7 +3467,7 @@ A candid shot of a beautiful young woman standing at an angle, looking back towa
 
 ## Exaggerated Curvy Bikini Pose with Harsh Flash at Night
 
-> Minimal görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Minimal sahil sahnesi üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 {
@@ -3503,7 +3503,7 @@ A candid shot of a beautiful young woman standing at an angle, looking back towa
 
 ## Ultra-Photorealistic Car Selfie Prompt (iPhone Style)
 
-> Fotogerçekçi, minimal portre üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, minimal selfie fotoğrafı üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 {
@@ -3565,7 +3565,7 @@ A candid shot of a beautiful young woman standing at an angle, looking back towa
 
 ## Detailed Mirror Selfie Prompt with ControlNet Constraints
 
-> Mimari görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Selfie fotoğrafı üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 {
@@ -3598,7 +3598,7 @@ A candid shot of a beautiful young woman standing at an angle, looking back towa
 
 ## Photo Edit with Fixed Face and Golden Hour Lighting
 
-> Minimal görsel üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
+> Minimal fotoğraf üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Edit this photo without changing the face a beautiful woman with fair skin lit by bright morning sunlight from a strong golden directional light source creating clear shadows on her face and hair
@@ -3606,7 +3606,7 @@ Edit this photo without changing the face a beautiful woman with fair skin lit b
 
 ## Cookie Cutter Visualization Prompt
 
-> Minimal görsel üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
+> Minimal fotoğraf üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Imagine this image was turned into a simple cookie cutter. Without showing the cookie cutter, show a photo of the homemade cookies it would make, they are on a plate. No frosting.
@@ -3614,7 +3614,7 @@ Imagine this image was turned into a simple cookie cutter. Without showing the c
 
 ## Fleeing Joe Goldberg Photo
 
-> Minimal görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Minimal fotoğraf üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 'A random photo taken by a victim fleeing Joe Goldberg in 2013.'
@@ -3622,7 +3622,7 @@ Imagine this image was turned into a simple cookie cutter. Without showing the c
 
 ## Whimsical Magical Library Digital Painting Prompt
 
-> Sinematik portre üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Sinematik fantastik sahne üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 {
@@ -3674,7 +3674,7 @@ Imagine this image was turned into a simple cookie cutter. Without showing the c
 
 ## Confident Female Golfer at Night Prompt
 
-> Görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Kadın figürlü görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 { "name": "{argument name="character name" default="Sophia Williams"}", "age_range": "Young Adult", "gender": "Female", "hair": { "color": "{argument name="hair color" default="Red"}", "style": "Curly", "length": "Medium" }, "outfit": { "top": { "type": "Crop athletic top", "color": "Blue" }, "bottom": { "type": "Fitted athletic pants", "color": "Blue" } }, "location": { "type": "Golf driving range", "time": "Night", "lighting": "Bright stadium lights", "background": "City lights visible in distance" }, "pose": { "body_position": "Standing, slightly turned", "object_held": "Golf club", "expression": "Confident and focused" }, "theme": "Fitness, confidence, and determination", "mood": "Strong, composed, and self-assured" }
@@ -3682,7 +3682,7 @@ Imagine this image was turned into a simple cookie cutter. Without showing the c
 
 ## Photorealistic Daisy Collage
 
-> Fotogerçekçi manzara üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi kolaj üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 A photorealistic 2x2 collage of a young woman with long dark hair outdoors in a green forest. Top-left: A hand with purple nails and a silver watch holding a white daisy. Top-right: a close-up of an eye gazing at a daisy, the eye with brown-green iris, and a portion of the brow and hair.. Bottom-left: shows a hand arranging a daisy near an ear, with dark hair, visible is a gold earring. Bottom-right: A smiling close-up looking at the camera with the daisy in her hair. Dominant colors are natural greens, crisp white, and warm skin tones, lit by soft natural dappled daylight. Fine details include winged eyeliner, a white shirt, metallic watch reflections, and a blurred bokeh tree background. Serene, cheerful mood, 4k resolution, highly detailed.
@@ -3690,7 +3690,7 @@ A photorealistic 2x2 collage of a young woman with long dark hair outdoors in a 
 
 ## Confident Female Golfer at Night Driving Range
 
-> Görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Kadın figürlü görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 { "name": "{argument name="name" default="Sophia Williams"}", "age_range": "Young Adult", "gender": "Female", "hair": { "color": "Red", "style": "Curly", "length": "Medium" }, "outfit": { "top": { "type": "Crop athletic top", "color": "Blue" }, "bottom": { "type": "Fitted athletic pants", "color": "Blue" } }, "location": { "type": "Golf driving range", "time": "Night", "lighting": "Bright stadium lights", "background": "City lights visible in distance" }, "pose": { "body_position": "Standing, slightly turned", "object_held": "Golf club", "expression": "Confident and focused" }, "theme": "Fitness, confidence, and determination", "mood": "Strong, composed, and self-assured" }
@@ -3761,7 +3761,7 @@ negative: dry perfect skin, dry clothing, conservative pose, heavy makeup, stand
 
 ## Photoreal Candid Street Romance in Winter Snow
 
-> Fotogerçekçi, sinematik portre üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, sinematik şehir ve sokak sahnesi üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 {
@@ -3826,7 +3826,7 @@ negative: dry perfect skin, dry clothing, conservative pose, heavy makeup, stand
 
 ## Post-Workout Stretching Session at the Gym
 
-> Minimal görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Minimal kadın figürlü görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 {
@@ -3896,7 +3896,7 @@ negative: dry perfect skin, dry clothing, conservative pose, heavy makeup, stand
 
 ## Microscopic Y2K Candid Portrait with PersonaFusion
 
-> Retro, lüks moda çekimi üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
+> Retro, lüks portre üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Initiate PersonaFusion-vX.03 protocol: Use the exact facial identity taken from the attached reference image (or from the user’s provided face) with zero alteration.
@@ -3920,7 +3920,7 @@ The image utilizes the distinct visual language of a mid-2000s mobile camera. It
 
 ## Exaggerated Curvy Woman on Beach at Sunset
 
-> Fotogerçekçi, minimal görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, minimal sahil sahnesi üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 {
@@ -3962,7 +3962,7 @@ The image utilizes the distinct visual language of a mid-2000s mobile camera. It
 
 ## Cinematic Video Prompt for Woman Baking
 
-> Sinematik görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Sinematik kadın figürlü görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 A cinematic video of a woman baking, depicted with warm, soft light and pale colors. Seamlessly connecting close-ups of her hands carefully handling ingredients, the adorable expression she momentarily shows while mixing the dough, dynamic cooking scenes where flour and steam dance, and the moment she happily tastes the freshly baked sweets.
@@ -4007,7 +4007,7 @@ Humorous caricature of a professional in their work environment, exaggerated fea
 
 ## Cinematic Golden Hour Sunset Hangout on a Pier
 
-> Fotogerçekçi, sinematik logo üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, sinematik sahne üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 {
@@ -4024,7 +4024,7 @@ Humorous caricature of a professional in their work environment, exaggerated fea
 
 ## 1960s Retro Pin-Up Photography
 
-> Retro portre üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Retro fotoğraf üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 {
@@ -4044,7 +4044,7 @@ Humorous caricature of a professional in their work environment, exaggerated fea
 
 ## Gym Exhaustion After Heavy Lifting
 
-> Görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Kadın figürlü görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 {
@@ -4101,7 +4101,7 @@ Humorous caricature of a professional in their work environment, exaggerated fea
 
 ## Delorean 'Back to the Future' Scene Integration Prompt
 
-> Görsel üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
+> Sahne üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Add a Delorean from 'Back to the Future' to this scene, coming in the same direction as the red car, without looking like a montage.
@@ -4165,7 +4165,7 @@ Add a Delorean from 'Back to the Future' to this scene, coming in the same direc
 
 ## Golden Hour Romper and Bare Foot Prompt
 
-> Görsel üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
+> Kadın figürlü görsel üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 "Use the face in the reference image as is."
@@ -4174,7 +4174,7 @@ Add a Delorean from 'Back to the Future' to this scene, coming in the same direc
 
 ## Candid Photoreal Plant Planting Scene Prompt
 
-> Fotogerçekçi, sinematik portre üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, sinematik fotoğraf üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 {
@@ -4243,7 +4243,7 @@ Add a Delorean from 'Back to the Future' to this scene, coming in the same direc
 
 ## Cinematic Futuristic Portrait Prompt
 
-> Fotogerçekçi, sinematik arayüz tasarımı üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, sinematik portre üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Cinematic futuristic portrait of a person in casual streetwear and headphones, seated on a neon-green glowing stool with Spotify emblem. Dark digital studio with holographic sound waves, floating notes, and playlist UI panels. Dramatic neon rim lighting, volumetric fog, ultra-realistic, high contrast, shallow depth of field, 35mm lens, 8K, immersive musical vibe --ar 16:9.
@@ -4251,7 +4251,7 @@ Cinematic futuristic portrait of a person in casual streetwear and headphones, s
 
 ## Warm, Nostalgic Cinematic Video of a Woman with a Teddy Bear
 
-> Sinematik, retro görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Sinematik, retro hayvan görseli üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 A warm and nostalgic cinematic video capturing a woman playing with a teddy bear. Using soft, warm-colored lighting and shallow depth of field, it expresses intimacy and cuteness through close-ups of her hands and the gesture of hugging.
@@ -4267,7 +4267,7 @@ Glitch Tamagotchi, 1990s, broken screen, corrupted text, low resolution, 8bit, C
 
 ## Luxury Hotel Lobby Portrait Prompt
 
-> Lüks mimari görsel üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
+> Lüks portre üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 {
@@ -4277,7 +4277,7 @@ Glitch Tamagotchi, 1990s, broken screen, corrupted text, low resolution, 8bit, C
 
 ## Candid Mirror Selfie with Fishnet Stockings Focus Prompt
 
-> Afiş üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Selfie fotoğrafı üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 {
@@ -4287,7 +4287,7 @@ Glitch Tamagotchi, 1990s, broken screen, corrupted text, low resolution, 8bit, C
 
 ## Real Madrid Fan Selfie with Exaggerated Figure
 
-> Minimal afiş üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
+> Minimal selfie fotoğrafı üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 {
@@ -4319,7 +4319,7 @@ Glitch Tamagotchi, 1990s, broken screen, corrupted text, low resolution, 8bit, C
 
 ## Full-Body Shot of Woman in Pink Robe with Bare Feet
 
-> Görsel üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
+> Kadın figürlü görsel üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 A full-body photograph showing the young woman from image_0.png, wearing the same pink fluffy hooded robe, sitting comfortably on a soft, cream-colored shag rug. Her bare feet are prominently visible, resting on the rug in front of her. The feet are delicate and well-cared-for, with light pink polish on the toenails, matching the earlier analysis of a 'soft aesthetic'. Her face retains the same gentle expression and features as in image_0.png, looking towards the camera. The background is the same cozy bedroom setting with the wooden shelf, various items, and the Lana Del Rey album sticker, all under warm, natural indoor lighting.",
@@ -4337,7 +4337,7 @@ A full-body photograph showing the young woman from image_0.png, wearing the sam
 
 ## Photorealistic Portrait Promoting Body Positivity
 
-> Fotogerçekçi, sinematik mimari görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, sinematik portre üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 {
@@ -4409,7 +4409,7 @@ A full-body photograph showing the young woman from image_0.png, wearing the sam
 
 ## Black and White Documentary Photo of Child in Cinema
 
-> Görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotoğraf üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Black and white documentary photograph inside an almost empty cinema hall, a single child sitting on the floor facing a glowing screen, symmetrical aisle leading lines, deep shadows in seats, projector light haze, quiet atmosphere, moderate grain, 50mm look, controlled but not polished, documentary sense of solitude in public space.
@@ -4417,7 +4417,7 @@ Black and white documentary photograph inside an almost empty cinema hall, a sin
 
 ## Detailed JSON Prompt with ControlNet for Summer Vibe Photo
 
-> Fotogerçekçi görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi fotoğraf üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 {
@@ -4458,7 +4458,7 @@ Black and white documentary photograph inside an almost empty cinema hall, a sin
 
 ## Detailed JSON Prompt for Platinum Blonde Woman Poolside
 
-> Fotogerçekçi görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi kadın figürlü görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 {
@@ -4499,7 +4499,7 @@ Black and white documentary photograph inside an almost empty cinema hall, a sin
 
 ## Dune-Inspired Epic Scene with Woman Riding a Giant Rooster
 
-> Sinematik, minimal manzara üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Sinematik, minimal kadın figürlü görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Dune-inspired epic scene; a woman with a large padded white hood riding a giant black rooster, metallic gauntlets, desert-worn palette, soft ochre haze, vast barren landscape, atmospheric dust, minimalist sci-fi mysticism, cinematic scale, realism
@@ -4507,7 +4507,7 @@ Dune-inspired epic scene; a woman with a large padded white hood riding a giant 
 
 ## Cinematic Embroidery Scene Video
 
-> Sinematik görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Sinematik sahne üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Depict a scene of embroidery creation enveloped in soft backlighting and pastel colors. Seamlessly transition from extreme close-ups of the needle and thread, through a time-lapse of the pattern expanding and delicate hand movements, to a wide shot of the completed work. A cinematic video with an intimate and lovely atmosphere, unified by shallow depth of field and film grain.
@@ -4515,7 +4515,7 @@ Depict a scene of embroidery creation enveloped in soft backlighting and pastel 
 
 ## Photorealistic Nighttime Flash Photography Prompt with ControlNet (JSON format)
 
-> Fotogerçekçi mimari görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi fotoğraf üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 {
@@ -4549,7 +4549,7 @@ Depict a scene of embroidery creation enveloped in soft backlighting and pastel 
 
 ## Highly Detailed JSON Prompt with ControlNet for Candid Lifestyle Photo
 
-> Fotogerçekçi 3B sahne üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi fotoğraf üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 {
@@ -4591,7 +4591,7 @@ Sweet and beautiful dreams for all my beautiful Subjects 🌙💕🥰🤍🩷�
 
 ## Golden Hour Tennis Lifestyle Photo
 
-> Lüks görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Lüks fotoğraf üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 {
@@ -4615,7 +4615,7 @@ Sweet and beautiful dreams for all my beautiful Subjects 🌙💕🥰🤍🩷�
 
 ## Mirror Selfie with Playful Expression and Athletic Physique
 
-> Portre üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Selfie fotoğrafı üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 {
@@ -4670,7 +4670,7 @@ Sweet and beautiful dreams for all my beautiful Subjects 🌙💕🥰🤍🩷�
 
 ## Candid Beach Bikini Photo Prompt
 
-> Retro görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Retro sahil sahnesi üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 {
@@ -4686,7 +4686,7 @@ Sweet and beautiful dreams for all my beautiful Subjects 🌙💕🥰🤍🩷�
 
 ## Ultra-Photoreal Candid Home Entry Night Scene Prompt
 
-> Fotogerçekçi, sinematik portre üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, sinematik fotoğraf üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 {
@@ -4755,7 +4755,7 @@ Sweet and beautiful dreams for all my beautiful Subjects 🌙💕🥰🤍🩷�
 
 ## Sunset Boat Scene with Exaggerated Figures in Bikinis
 
-> Logo üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Sahne üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 {
@@ -4797,7 +4797,7 @@ Sweet and beautiful dreams for all my beautiful Subjects 🌙💕🥰🤍🩷�
 
 ## Lo-Fi Digicam Editorial Grid Prompt
 
-> Minimal görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Minimal fotoğraf üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 {
@@ -4855,7 +4855,7 @@ Sweet and beautiful dreams for all my beautiful Subjects 🌙💕🥰🤍🩷�
 
 ## Introspective Man in Motion-Blurred City Crowd
 
-> Görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Şehir ve sokak sahnesi üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 A young man standing still in a busy city crowd, wearing large over-ear headphones and a scarf, looking upward thoughtfully. Surrounding people motion-blurred for emphasis, while he remains sharp. Warm sunlight on face and hair, shallow depth of field, softly blurred urban background. Emotional and introspective mood, natural color grading, 85mm lens, f/1.8, realistic photography with bokeh and golden hour lighting.
@@ -4871,7 +4871,7 @@ Ultra-realistic portrait photo of a young woman, ash-blonde/silver hair, wearing
 
 ## Pikachu Mirror Selfie
 
-> Minimal portre üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Minimal selfie fotoğrafı üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 {
@@ -4914,7 +4914,7 @@ Ultra-realistic portrait photo of a young woman, ash-blonde/silver hair, wearing
 
 ## Gamer Girl in Garage with Sports Cars
 
-> Fotogerçekçi, minimal görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, minimal araç görseli üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 {
@@ -4954,7 +4954,7 @@ Ultra-realistic portrait photo of a young woman, ash-blonde/silver hair, wearing
 
 ## Candid Teenage Boy Camping Photo Prompt
 
-> Fotogerçekçi logo üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi erkek figürlü görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 "prompt": "a smiling teenage boy with curly brown hair sitting relaxed in a blue camping chair in the woods, wearing a blue GAP sweatshirt, baggy dirty work pants, and a camo baseball cap, casual outdoor camping vibe, natural lighting, forest background with trees and leaves, candid lifestyle photo, arms spread out, friendly expression, slightly flushed cheeks, shallow depth of field, realistic photography, iphone photo style",
@@ -4970,7 +4970,7 @@ Ultra-realistic portrait photo of a young woman, ash-blonde/silver hair, wearing
 
 ## Billie Eilish Red Carpet Looks Prompt (Urdu/English)
 
-> Logo üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 [
@@ -5143,7 +5143,7 @@ The opposite side features a structured, sculpted shoulder with clean architectu
 
 ## Gym Selfie with Hyper-Defined Athletic Physique
 
-> Mimari görsel üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
+> Selfie fotoğrafı üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 (9:16). Raw iPhone 17 Pro, 24mm wide-angle, f/5.6 structural depth, sharp focus, digital grain. Identity Lock Reference A: absolute facial/hair geometry inheritance. Bio-Fidelity: micro-pores, satin-finish athletic hydration (sheen), epidermal physics on midriff and thighs. Expression Lock Reference B: lateral head angle toward mirror, V-sign hand gesture. Outfit: Black technical high-performance compression sports bra; olive-drab technical seamless rib-knit gym shorts with high-tensile compression and architectural waist-shaping. Hyper-defined athletic S-curve, 20% gluteal and midriff definition emphasis for high-fidelity fitness geometry. Pose: Seated on a technical leg press machine, lateral torso torsion, right hand articulated in a V-gesture with realistic finger physics. Lighting: Industrial overhead gym fluorescent lighting, sharp ray-traced highlights on muscular topography. Environment: Pixel-perfect gym interior, leg press machine footplate and rails, stacks of iron weight plates, weight benches, textured grey concrete floor, distant racks and equipment.
@@ -5169,7 +5169,7 @@ The opposite side features a structured, sculpted shoulder with clean architectu
 
 ## Intimate Eurasian Woman Portrait Prompt
 
-> Lüks arayüz tasarımı üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Lüks portre üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Intimate close-up portrait of a young Eurasian woman, early 20s,
@@ -5228,7 +5228,7 @@ Style keywords: portrait photography, beauty shot, close-up, Eurasian model, Par
 
 ## Platinum Blonde Jeep Selfie Prompt
 
-> Fotogerçekçi mimari görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi selfie fotoğrafı üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 {
@@ -5281,7 +5281,7 @@ Style keywords: portrait photography, beauty shot, close-up, Eurasian model, Par
 
 ## Hyper-Realistic Selfie with Tan Lines Prompt
 
-> Fotogerçekçi yemek görseli üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi selfie fotoğrafı üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 {
@@ -5333,7 +5333,7 @@ Style keywords: portrait photography, beauty shot, close-up, Eurasian model, Par
 
 ## Conceptual Land Art Photography of Woman Connected to the Sea
 
-> Bilgi grafiği üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Sahil sahnesi üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 {
@@ -5415,7 +5415,7 @@ Style keywords: portrait photography, beauty shot, close-up, Eurasian model, Par
 
 ## Extreme Hourglass Mirror Selfie Prompt
 
-> Fotogerçekçi, minimal portre üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, minimal selfie fotoğrafı üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 {
@@ -5452,7 +5452,7 @@ Style keywords: portrait photography, beauty shot, close-up, Eurasian model, Par
 
 ## Photorealistic Mirror Selfie Prompt with Bunny Ears
 
-> Fotogerçekçi, minimal logo üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, minimal selfie fotoğrafı üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 {
@@ -5591,7 +5591,7 @@ Style keywords: portrait photography, beauty shot, close-up, Eurasian model, Par
 
 ## Playful Gym Girl Mirror Selfie Prompt
 
-> Fotogerçekçi portre üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi selfie fotoğrafı üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 {
@@ -5645,7 +5645,7 @@ A cinematic portrait of a young Japanese woman standing in the middle of a bustl
 
 ## Photorealistic Whimsical Fantasy Character Template
 
-> Fotogerçekçi, sinematik görsel üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, sinematik karakter görseli üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Use the uploaded reference image as the primary character reference.
@@ -5676,7 +5676,7 @@ Nano Banana Pro 🍌
 
 ## Let's Go with Dining Emoji
 
-> Minimal görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Minimal karakter görseli üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Let's go.
@@ -5698,7 +5698,7 @@ Let's go.
 
 ## Night Party Portrait with Identity Lock Prompt
 
-> Minimal, fütüristik yemek görseli üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
+> Minimal, fütüristik portre üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 (9:16). Raw iPhone 17 Pro, 24mm wide-angle, f/2.8 aperture, natural optical bokeh, digital grain. Identity Lock Reference A: absolute facial/hair geometry inheritance. Bio-Fidelity: micro-pores, satin-finish hydration, epidermal physics on chest and shoulders. Expression Lock Reference B: eyes closed in a serene soft smile, lateral head tilt, relaxed jawline tension. Outfit: Technical black high-tensile compression-fit scoop-neck top, minimal seaming. Hyper-defined S-curve silhouette, 20% over-described bust-to-waist anatomical emphasis. Pose: Standing in a crowd, right hand articulated holding a technical aluminum beverage can with realistic finger physics, left shoulder featuring a black leather bag strap with silver hardware. Lighting: High-intensity magenta/pink directional atmospheric lighting on the subject face and torso; contrasting green neon ambient light in the background. Environment: Pixel-perfect outdoor night event, soft-focus crowd in hoodies and caps, dark tent-like structures.
@@ -5706,7 +5706,7 @@ Let's go.
 
 ## Late Night Intimate Flash Photography Lingerie Shot
 
-> Fotogerçekçi görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi fotoğraf üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 {
@@ -5765,7 +5765,7 @@ Let's go.
 
 ## Candid Mirror Selfie in Oversized T-Shirt and Underwear
 
-> Fotogerçekçi, sinematik mimari görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, sinematik selfie fotoğrafı üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 {
@@ -5850,7 +5850,7 @@ Let's go.
 
 ## Intimate Late Night iPhone Selfie in Oversized T-Shirt
 
-> Fotogerçekçi, minimal portre üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, minimal selfie fotoğrafı üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 {
@@ -5879,7 +5879,7 @@ Let's go.
 
 ## Pixar Sticker Sheet Generation Prompt
 
-> Yemek görseli üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
+> İllüstrasyon üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Create a Pixar sticker sheet based on the person in the photo. The stickers should feature various expressive reactions in a cute, cartoon-like style, keeping the hairstyle, facial features, and outfit colors similar to the reference. Each sticker must have a different mood or gesture: Laughing Smiling sweetly Blushing with heart eyes (love) Angry pout Hand on chin (thinking) Crying with big teary eyes Shocked or surprised Waving hello Sparkling with joy Holding a dessert plate.
@@ -5887,7 +5887,7 @@ Create a Pixar sticker sheet based on the person in the photo. The stickers shou
 
 ## Ultra-Realistic Spiritual Night Selfie in Makkah
 
-> Fotogerçekçi, sinematik mimari görsel üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, sinematik selfie fotoğrafı üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 {
@@ -5975,7 +5975,7 @@ Create a Pixar sticker sheet based on the person in the photo. The stickers shou
 
 ## Realistic Photography of a Woman at a Fairytale Castle
 
-> Görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Kadın figürlü görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 {
@@ -5992,7 +5992,7 @@ Create a Pixar sticker sheet based on the person in the photo. The stickers shou
 
 ## Hyper-Curvy Cowgirl in Rustic Ranch Setting
 
-> Fotogerçekçi, minimal görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, minimal kadın figürlü görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 {
@@ -6054,7 +6054,7 @@ Aspect ratio: 4:5'
 
 ## Photorealistic Summer Beach Scene
 
-> Fotogerçekçi görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi sahil sahnesi üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 {
@@ -6103,7 +6103,7 @@ Aspect ratio: 4:5'
 
 ## Sadie Sink Inspired Bottle Girl in Nightclub
 
-> Minimal, fütüristik mimari görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Minimal, fütüristik kadın figürlü görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 {
@@ -6130,7 +6130,7 @@ Aspect ratio: 4:5'
 
 ## Sadie Sink Inspired Spider-Man Cosplay Portrait
 
-> Fotogerçekçi, minimal moda çekimi üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, minimal portre üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 {
@@ -6206,7 +6206,7 @@ Aspect ratio: 4:5'
 
 ## Asian Woman in Luxury Street Photography at Night
 
-> Fotogerçekçi, sinematik portre üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, sinematik şehir ve sokak sahnesi üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 {
@@ -6298,7 +6298,7 @@ Aspect ratio: 4:5'
 
 ## Cinematic Portrait in a Busy City Street
 
-> Fotogerçekçi, sinematik moda çekimi üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, sinematik portre üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 A cinematic portrait of a young man standing still in the middle of a busy city street at golden hour, crowds rushing past him in motion blur, long exposure effect, glowing sunlight streaming between tall buildings, warm amber color grading, shallow depth of field, dramatic lighting on face, dreamy atmosphere, melancholic expression, soft haze, urban background slightly out of focus, ultra-realistic skin texture, film photography look, 85mm lens, f/1.4, high dynamic range, volumetric light, subtle grain, editorial fashion photography style
@@ -6324,7 +6324,7 @@ A cinematic portrait of a young man standing still in the middle of a busy city 
 
 ## Candid Photograph of Woman on Subway
 
-> Fotogerçekçi mimari görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi kadın figürlü görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 "prompt_structure": {
@@ -6357,7 +6357,7 @@ A cinematic portrait of a young man standing still in the middle of a busy city 
 
 ## Underwater Kiss Diptych with Digital Camera Screen
 
-> Retro görsel üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
+> Retro fotoğraf üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 {
@@ -6487,7 +6487,7 @@ Lighting is direct on-camera flash with a harsh shadow cast on the door behind h
 
 ## Cinematic Sunset Portrait Prompt
 
-> Fotogerçekçi, sinematik manzara üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, sinematik portre üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 {
@@ -6538,7 +6538,7 @@ Lighting is direct on-camera flash with a harsh shadow cast on the door behind h
 
 ## Cozy Scandinavian Cabin Selfie Portrait
 
-> Minimal, stüdyo ışıklı mimari görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Minimal, stüdyo ışıklı selfie fotoğrafı üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 {
@@ -6592,7 +6592,7 @@ Lighting is direct on-camera flash with a harsh shadow cast on the door behind h
 
 ## Hyper-Realistic Portrait of Woman in Saree on Tree Branch
 
-> Fotogerçekçi, sinematik yemek görseli üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, sinematik portre üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 “A hyper-realistic HD portrait of a beautiful young woman sitting gracefully on a tree branch, legs dangling, smiling brightly. She is wearing a yellow saree with a printed red rose design on the lower portion, and a puffy red-and-yellow shoulder blouse underneath. Soft natural makeup, dramatic winged eyeliner, brown eyes, and deep maroon lipstick. She wears a simple gold chain and simple gold earrings. Her long dark wavy hair reaches her knees, flowing in the air, with a few strands falling softly across her face. Use the exact same face from the reference image without changing any facial features. The background shows a reddish-blue sky during sunset, giving a classic, dramatic, high-contrast cinematic look. Pose her as if she is holding her hand near her forehead, looking into the distance with a graceful expression.
@@ -6664,7 +6664,7 @@ Lighting is direct on-camera flash with a harsh shadow cast on the door behind h
 
 ## Candid iPhone Photo of Ice Sculpture Installation
 
-> Görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotoğraf üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Candid iPhone-style photo of ice sculpture installation at dusk, natural motion blur from handheld shot, cool glacier blue lighting with soft pink sunset glow, opalescent ice surfaces catching final daylight, visible noise from high ISO, slightly off-center composition with authentic imperfection, people silhouettes interacting with sculptures out of focus, atmospheric winter fog rolling through scene, genuine unposed documentary aesthetic
@@ -6672,7 +6672,7 @@ Candid iPhone-style photo of ice sculpture installation at dusk, natural motion 
 
 ## Intimate Mirror Selfie in Pastel Sleepwear
 
-> Minimal portre üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Minimal selfie fotoğrafı üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 {
@@ -6753,7 +6753,7 @@ Candid iPhone-style photo of ice sculpture installation at dusk, natural motion 
 
 ## Top-View Street Scene with Motion Blur
 
-> Görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Şehir ve sokak sahnesi üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 A woman with long hair stands on the street, surrounded by people who pass her. she is looking up at them as they move around her in a motion blur. from a top view, she wears business and looks worried,in ultra 4k quality
@@ -6794,7 +6794,7 @@ Intimate indoor portrait of a couple in a softly lit bedroom setting, warm ambie
 
 ## Seasonal Transformation Grid
 
-> Sinematik görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Sinematik sahne üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 2x2 grid showing identical [{argument name="object or scene" default="OBJECT/SCENE"}] across four seasons. Top-left spring (cherry blossoms, soft pastels), top-right summer (golden light, vibrant greens), bottom-left autumn (orange leaves, warm tones), bottom-right winter (snow, blue twilight). Seamless aesthetic, same camera angle, cinematic lighting each panel.
@@ -6810,7 +6810,7 @@ A vibrant, abstract close-up of a fluid art pour, showcasing a mesmerizing patte
 
 ## Black and White Documentary Photo of Child in Boat
 
-> Portre üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotoğraf üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Black and white documentary photograph of a child lying inside a small wooden fishing boat, arms behind head, ropes scattered around, calm water horizon in background, coastal village visible in distance, overcast sky, soft diffused natural light, 35mm documentary lens, authentic rural life, realistic skin tones, subtle grain, environmental portrait, photojournalistic realism
@@ -6818,7 +6818,7 @@ Black and white documentary photograph of a child lying inside a small wooden fi
 
 ## Cozy Candlelit Bubble Bath Reel
 
-> Fotogerçekçi, sinematik görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, sinematik kadın figürlü görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 {
@@ -6889,7 +6889,7 @@ Black and white documentary photograph of a child lying inside a small wooden fi
 
 ## Japanese Konbini Portrait with Katana
 
-> Mimari görsel üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
+> Portre üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 (vertical 9:16). Raw high-fidelity photograph, iPhone 17 Pro simulation, 35mm focal length, f/2.8 aperture for realistic structural depth, authentic digital grain.
@@ -6945,7 +6945,7 @@ Shadow Physics: Natural ray-traced shadows cast by the subject onto the stool an
 
 ## Elon Musk in a Turkish City Bus (Documentary Realism)
 
-> Fotogerçekçi, sinematik mimari görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, sinematik şehir ve sokak sahnesi üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 {
@@ -6988,7 +6988,7 @@ Shadow Physics: Natural ray-traced shadows cast by the subject onto the stool an
 
 ## Zendaya Entomological Elegance Surreal Portrait
 
-> Fotogerçekçi, sinematik moda çekimi üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, sinematik portre üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 {
@@ -7045,7 +7045,7 @@ Shadow Physics: Natural ray-traced shadows cast by the subject onto the stool an
 
 ## Sensual Red Mesh Dress Mirror Selfie
 
-> Fotogerçekçi, retro portre üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, retro selfie fotoğrafı üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 {
@@ -7107,7 +7107,7 @@ Shadow Physics: Natural ray-traced shadows cast by the subject onto the stool an
 
 ## Playful Morning Lifestyle Smartphone Photo
 
-> Fotogerçekçi, minimal görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, minimal fotoğraf üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 {
@@ -7210,7 +7210,7 @@ Create a ultra-realistic HD DSLR Potrarit of A beautiful Indian woman with long,
 
 ## Detailed Image Prompt for Nano Banana Pro
 
-> Mimari görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Fantastik sahne üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 {
@@ -7249,7 +7249,7 @@ Create a ultra-realistic HD DSLR Potrarit of A beautiful Indian woman with long,
 
 ## Black and White Photobooth Couple Grid Prompt (16 Panels)
 
-> Sinematik, minimal görsel üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
+> Sinematik, minimal çift fotoğrafı üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 {
@@ -7333,7 +7333,7 @@ Create a ultra-realistic HD DSLR Potrarit of A beautiful Indian woman with long,
 
 ## Playful Yacht Selfie Prompt (Wet Platinum Blonde Hair)
 
-> Manzara üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Selfie fotoğrafı üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 {
@@ -7384,7 +7384,7 @@ Create a ultra-realistic HD DSLR Potrarit of A beautiful Indian woman with long,
 
 ## Real Madrid Jersey Hyper-Hourglass Selfie Prompt
 
-> Minimal afiş üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Minimal selfie fotoğrafı üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 {
@@ -7424,7 +7424,7 @@ Create a ultra-realistic HD DSLR Potrarit of A beautiful Indian woman with long,
 
 ## Hyper-Pronounced Hourglass Selfie Prompt
 
-> Minimal afiş üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Minimal selfie fotoğrafı üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 {
@@ -7467,7 +7467,7 @@ Create a ultra-realistic HD DSLR Potrarit of A beautiful Indian woman with long,
 
 ## 8K Photorealistic Close-Up Selfie Prompt on Ornate Couch
 
-> Fotogerçekçi, lüks portre üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, lüks selfie fotoğrafı üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 A photorealistic, intimate close-up selfie of a beautiful young woman lying comfortably on her back across an ornate, richly patterned couch in a cozy indoor home setting. The couch upholstery features intricate floral and baroque-inspired motifs in warm, muted tones, adding texture and visual depth to the background while still keeping the focus entirely on her face.
@@ -7487,7 +7487,7 @@ The overall composition emphasizes closeness and authenticity—an 8K ultra-deta
 
 ## Ultra-Realistic Flash Photo of Woman on Sofa Prompt
 
-> Fotogerçekçi görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi kadın figürlü görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 {
@@ -7609,7 +7609,7 @@ Style: realism, amateur flash photography, cosplay portrait, influencer aestheti
 
 ## Lord Shiva Hand-Holding Cinematic Scene Prompt
 
-> Fotogerçekçi, sinematik görsel üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, sinematik sahne üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Prompt 1: Upload Your Image & paste this Prompt👇
@@ -7647,7 +7647,7 @@ The image is ultra-realistic and photorealistic in 8K resolution, capturing deta
 
 ## Ski Trip Selfie Perspective Prompt
 
-> Manzara üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Selfie fotoğrafı üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 {
@@ -7700,7 +7700,7 @@ The image is ultra-realistic and photorealistic in 8K resolution, capturing deta
 
 ## Model Cleaning Mini Me Scale Figure Prompt
 
-> Minimal görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Minimal kadın figürlü görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 {
@@ -7719,7 +7719,7 @@ The image is ultra-realistic and photorealistic in 8K resolution, capturing deta
 
 ## Night Photography Prompt: Clearing Snow with Mercedes G 63 AMG
 
-> Fotogerçekçi, minimal görsel üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, minimal fotoğraf üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Hyper-realistic night photography, candid lifestyle-style shot. A young woman is clearing snow from the driveway of a luxurious modern minimalist house. He is positioned in the foreground left, leaning forward and pushing a large black scoop snow shovel filled with snow. She is wearing a vintage fleece jacket (grey body with beige/yellowish patches on the shoulders and sleeves), dark loose-fitting trousers, a baseball cap, and light-colored sneakers. Black, wet, curly hair up to the chin. Strictly maintain from the attached first photo, without distortions. The person is slightly blurred because she is in dynamic motion.
@@ -7729,7 +7729,7 @@ In the background is a modern white house with a flat roof and black trim. Built
 
 ## Candid Nightlife Party Snapshot Prompt
 
-> Görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotoğraf üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Candid party snapshot of a stylish young woman at a house party, wearing a black satin bomber jacket over a black crop top. Long straight dark hair, natural makeup, soft glow on skin. Shot with direct on-camera flash creating harsh shadows and a bright foreground subject against a dark, crowded background. Guests blurred in the background holding drinks, casual apartment setting with dim ambient lighting. In one shot she looks over her shoulder with a neutral expression; in another she smiles while holding a red plastic cup. 35mm lens, documentary nightlife photography, early 2000s party aesthetic, high contrast, grainy texture, realistic, raw, unfiltered vibe.
@@ -7737,7 +7737,7 @@ Candid party snapshot of a stylish young woman at a house party, wearing a black
 
 ## Curvy Woman in Bikini on Yacht Deck
 
-> Fotogerçekçi, lüks mimari görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, lüks kadın figürlü görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 {
@@ -7789,7 +7789,7 @@ Candid party snapshot of a stylish young woman at a house party, wearing a black
 
 ## Tiny World in Object Macro Photography
 
-> Mimari görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotoğraf üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Hyper-detailed miniature {argument name="scene" default="[SCENE - beach/forest/city/space station]"} built inside a cracked-open {argument name="container" default="[CONTAINER - lightbulb/snow globe/seashell/walnut/watch]"}. Macro photography style, tilt-shift blur on edges, warm interior lighting spilling out, impossibly detailed tiny elements. Magical realism, storybook wonder.
@@ -7797,7 +7797,7 @@ Hyper-detailed miniature {argument name="scene" default="[SCENE - beach/forest/c
 
 ## Glamour Portrait of Woman Kneeling in Beige Outfit
 
-> Fotogerçekçi moda çekimi üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi portre üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 {"meta": { "style": "ultra-realistic indoor fashion portrait", "quality": "8k high resolution, hyper-detailed, photorealistic",     "genre": "glamour lifestyle photography",     "mood": "warm, intimate, soft, subtly seductive",     "aspect_ratio": "2:3 vertical",     "camera": "Full-frame DSLR",     "lens": "85mm f/1.8 portrait lens",     "aperture": "f/2.0",     "iso": 100,     "shutter_speed": "1/200s",     "focus": "sharp focus on subject's face and upper body, soft background blur"   },   "subject": {     "description": "beautiful young adult woman with shoulder-length wavy ",     "age_range": "mid-20s",     "skin_tone": "light warm ivory with natural glow",     "body_type": "curvy, feminine physique",     "pose": "kneeling on a soft carpet indoors, legs folded to one side, torso slightly twisted toward camera, looking back over her shoulder",     "expression": "calm, confident, slightly alluring gaze directed at the viewer",     "eyes": "soft eyes with natural lashes",     "makeup": "natural glam makeup, subtle blush, nude glossy lips, softly defined brows, light contour",     "hair": "loose, voluminous waves with natural texture, slightly tousled"   },   "wardrobe": {     "outfit_type": "two-piece coordinated set",     "top": "backless beige-gold halter style top with thin straps and delicate shimmer detailing",     "bottom": "matching fitted mini skirt with gold embroidered pattern and subtle sparkle",     "fabric": "lightweight sheer mesh overlay with intricate gold embellishments",     "accessories": "pearl anklet bracelet on one ankle",     "details": "soft fabric folds, realistic stitching, gentle fabric tension across curves"   },   "environment": {     "location": "modern living room interior",     "floor": "neutral-toned carpet",     "background_elements": [       "minimalist dining table",       "dark wooden chairs",       "large windows with sheer curtains",       "neutral beige walls"     ],     "depth_of_field": "shallow depth of field with creamy bokeh background"   },   "lighting": {     "type": "natural golden hour sunlight",     "source": "window light from behind and side",     "quality": "soft, diffused, warm highlights",     "effects": "gentle rim light outlining hair and shoulders, subtle shadow gradients enhancing body contours"   },   "composition": {     "angle": "slightly low eye-level perspective",     "framing": "full-body vertical composition",     "rule_of_thirds": "subject positioned slightly off-center",     "foreground": "soft carpet texture in focus near subject’s legs",     "background_blur": "smooth cinematic bokeh"   },   "color_palette": {     "primary_colors": ["warm beige", "soft gold", "cream", "light "],     "tones": "warm cinematic tones with natural skin color accuracy",     "grading": "soft golden highlights with neutral shadows"   },   "rendering_details": {     "skin_texture": "realistic pores, soft natural sheen",
@@ -7813,7 +7813,7 @@ Ultra-photorealistic side-angle (three-quarter profile) couple portrait under vi
 
 ## Ultra-Realistic Concert Photography Prompt
 
-> Fotogerçekçi, sinematik görsel üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, sinematik fotoğraf üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 {
@@ -7915,7 +7915,7 @@ A soft-focus, cinematic portrait of a young woman with delicate facial features 
 
 ## Sydney Sweeney with Pink Feathered Wings in Studio
 
-> Sinematik, stüdyo ışıklı görsel üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
+> Sinematik, stüdyo ışıklı fotoğraf üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 {
@@ -7969,7 +7969,7 @@ A soft-focus, cinematic portrait of a young woman with delicate facial features 
 
 ## Cinematic Triptych Portrait in Night City
 
-> Fotogerçekçi, sinematik moda çekimi üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, sinematik portre üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 use the uploaded photo as the exact identity reference. keep the same person, same face, same facial features, same proportions and natural expression, create a photorealistic cinematic triptych portrait (three-frame composition in one image).
@@ -7979,7 +7979,7 @@ scene: night city, bridge over a busy road, moving cars, glowing street lights, 
 
 ## Black and White Documentary Couple in Rain (Image-to-Image)
 
-> Fotogerçekçi mimari görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi çift fotoğrafı üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 {
@@ -8033,7 +8033,7 @@ scene: night city, bridge over a busy road, moving cars, glowing street lights, 
 
 ## Valentine's Day Winter Hot Tub Selfie
 
-> Portre üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Selfie fotoğrafı üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 {
@@ -8081,7 +8081,7 @@ Cute Popmart-style 3D miniature Chinese New Year courtyard, natural candid momen
 
 ## Ultra-Photorealistic Traditional Saree Portrait
 
-> Fotogerçekçi, lüks moda çekimi üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, lüks portre üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 {
@@ -8164,7 +8164,7 @@ Cute Popmart-style 3D miniature Chinese New Year courtyard, natural candid momen
 
 ## Cinematic Sunset Portrait of East Asian Woman
 
-> Fotogerçekçi, sinematik manzara üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, sinematik portre üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Photorealistic cinematic portrait of a young East Asian woman standing outdoors at sunset, side-profile close-up, looking thoughtfully into the distance. Soft golden hour lighting illuminating one side of her face, warm orange and teal color grading. She wears a black coat and dark scarf, hair loosely tied back with soft natural strands around her face. Natural skin texture, realistic facial details, minimal makeup. Shallow depth of field with blurred landscape background, smooth bokeh, dramatic atmospheric mood, soft gradient sky transitioning from warm orange to cool green tones. Shot on 85mm lens, f/1.8, ultra-realistic, high dynamic range, cinematic composition, moody, film still aesthetic.
@@ -8172,7 +8172,7 @@ Photorealistic cinematic portrait of a young East Asian woman standing outdoors 
 
 ## Noir 90s Megacity Portrait (Identity Lock)
 
-> Retro moda çekimi üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
+> Retro portre üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Create a portrait without changing the facial features. A black and white artistic photograph of a man in a noir style. The man is sitting on a metal staircase or balcony with a cityscape in the background. He is wearing a dark shirt with an open collar, dark trousers, chunky sneakers, and sunglasses. Accessories are visible on his hands, including a bracelet. His pose is relaxed, with his gaze directed downward. The lighting is high contrast with deep shadows. The atmosphere reflects a 90s megacity, with strong film grain, street fashion aesthetics, and a grunge mood.
@@ -8181,7 +8181,7 @@ High contrast lighting, film grain, 90s street style aesthetic, gritty noir atmo
 
 ## Watercolor Cat and Valentine's Cupcake
 
-> Elle çizilmiş görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Elle çizilmiş hayvan görseli üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 A white cat with bright green eyes sits next to a large, colorful cupcake on a blue plate. The cupcake has layers of pink, orange, and yellow cake, topped with swirls of white and yellow frosting. A pink heart and a pink rose adorn the top of the frosting, along with colorful sprinkles. The background is a soft blue. The image has a painterly, watercolor style.
@@ -8189,7 +8189,7 @@ A white cat with bright green eyes sits next to a large, colorful cupcake on a b
 
 ## Intimate Lifestyle Photo of Woman Listening to Music in Bed
 
-> Fotogerçekçi mimari görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi kadın figürlü görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 {
@@ -8323,7 +8323,7 @@ aspect ratio 9:16, vertical composition optimized for mobile viewing
 
 ## 90s Vintage Flash Photography Portrait
 
-> Retro logo üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Retro portre üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 {
@@ -8368,7 +8368,7 @@ aspect ratio 9:16, vertical composition optimized for mobile viewing
 
 ## Cinematic Triptych Portrait on a Night Bridge
 
-> Fotogerçekçi, sinematik moda çekimi üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, sinematik portre üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 use the uploaded photo as the exact identity reference. keep the same person, same face, same facial features, same proportions and natural expression, create a photorealistic cinematic triptych portrait (three-frame composition in one image).
@@ -8378,7 +8378,7 @@ scene: night city, bridge over a busy road, moving cars, glowing street lights, 
 
 ## Candid Morning Coffee Scene
 
-> Görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotoğraf üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 A close-up, candid photo of a diverse couple laughing together in a cozy sunlit kitchen. They are making coffee, morning light streaming through a window with dust motes dancing in the air. Natural skin textures, shallow depth of field, warm golden hour lighting, cozy aesthetic, high-quality photography.
@@ -8386,7 +8386,7 @@ A close-up, candid photo of a diverse couple laughing together in a cozy sunlit 
 
 ## Golden Hour Coastal Lifestyle Photo
 
-> Mimari görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotoğraf üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 {
@@ -8484,7 +8484,7 @@ A stunning young woman, 18-22 years old, beautiful symmetrical face, striking bl
 
 ## Zhao Lusi Casual Editorial Look
 
-> Minimal mimari görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Minimal fotoğraf üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 {
@@ -8641,7 +8641,7 @@ Soft natural indoor lighting, subtle shadows across her face, smooth tonal trans
 
 ## Photo to Watercolor Illustration of Couple
 
-> Minimal, elle çizilmiş manzara üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
+> Minimal, elle çizilmiş çift fotoğrafı üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 {
@@ -8729,7 +8729,7 @@ Use the uploaded photos as the ONLY appearance standards: keep the faces of both
 
 ## Sadie Sink Post-Workout Exhaustion Photo Series
 
-> Görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotoğraf üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 "album_info": {
@@ -8776,7 +8776,7 @@ Use the uploaded photos as the ONLY appearance standards: keep the faces of both
 
 ## Raw Candid Portrait with Hyper-realistic Skin Texture
 
-> Fotogerçekçi mimari görsel üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi portre üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 {
@@ -8819,7 +8819,7 @@ Use the uploaded photos as the ONLY appearance standards: keep the faces of both
 
 ## Candid Kitchen Cookie Snack Prompt
 
-> Minimal mimari görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Minimal fotoğraf üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 {
@@ -8864,7 +8864,7 @@ Use the uploaded photos as the ONLY appearance standards: keep the faces of both
 
 ## Playful Tennis Court Selfie
 
-> Portre üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
+> Selfie fotoğrafı üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Use the same face from the reference image without changing facial features 
@@ -8874,7 +8874,7 @@ young western woman taking playful selfie on tennis court, sticking tongue out s
 
 ## Golden Hour Tram Lifestyle Photo Prompt
 
-> Fotogerçekçi, retro görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, retro fotoğraf üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 {
@@ -8949,7 +8949,7 @@ Cinematic portrait of a young woman standing still in the middle of a busy crowd
 
 ## Hyper-Real Wildlife Photography Close-Up Prompt
 
-> Fotogerçekçi görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi hayvan görseli üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Ultra-realistic wildlife photography close-up. Face must remain perfectly accurate. Tight composition focusing on man’s face and camera lens, lying prone with DSLR. Lion cub perched beside his head looking directly toward viewer while he smiles and maintains eye contact. Soft warm light, blurred savannah background, natural skin pores, hyper-real detail.
@@ -8973,7 +8973,7 @@ The final part connects to a warm interaction across the table, using a soft pan
 
 ## Ultra Realistic Concert Photography of Billie Eilish
 
-> Fotogerçekçi, sinematik görsel üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, sinematik fotoğraf üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 {
@@ -9059,7 +9059,7 @@ The final part connects to a warm interaction across the table, using a soft pan
 
 ## Low-Angle Summer Lifestyle Photo
 
-> Fotogerçekçi yemek görseli üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi fotoğraf üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 {
@@ -9120,7 +9120,7 @@ The final part connects to a warm interaction across the table, using a soft pan
 
 ## Coquette Aesthetic 'Get Ready With Me' Selfie
 
-> Portre üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Selfie fotoğrafı üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 {
@@ -9170,7 +9170,7 @@ The final part connects to a warm interaction across the table, using a soft pan
 
 ## Stranger Things Cast as DC Superheroes Cosplay
 
-> Görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Karakter görseli üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 [
@@ -9235,7 +9235,7 @@ The final part connects to a warm interaction across the table, using a soft pan
 
 ## Boho Mirror Selfie Golden Hour Prompt
 
-> Fotogerçekçi, minimal mimari görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, minimal selfie fotoğrafı üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 {
@@ -9282,7 +9282,7 @@ The final part connects to a warm interaction across the table, using a soft pan
 
 ## Photorealistic Highland Lake Selfie
 
-> Fotogerçekçi, lüks manzara üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, lüks selfie fotoğrafı üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Ultra-detailed photorealistic selfie of a beautiful young woman with delicate feminine features, long straight light brown hair flowing smoothly over her shoulders, and clear blue eyes softly reflecting natural daylight. She has subtle, natural makeup — light foundation with visible realistic skin texture, soft peach blush, lightly glossed lips, gently defined brows, and a natural glow. A soft, relaxed smile enhances her warm and approachable expression.
@@ -9300,7 +9300,7 @@ Natural outdoor portrait photography style with cinematic lighting, balanced exp
 
 ## Suggestive Stairwell Candid Photo
 
-> Fotogerçekçi görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi fotoğraf üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 {
@@ -9370,7 +9370,7 @@ Natural outdoor portrait photography style with cinematic lighting, balanced exp
 
 ## Low-Fi Y2K Aesthetic Portrait Prompt
 
-> Retro yemek görseli üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Retro portre üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 {
@@ -9423,7 +9423,7 @@ Make a High-quality 3D render of a cute happy Couple sitting on a giant glossy r
 
 ## 1956 Famous People Group Photo
 
-> Görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotoğraf üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Create a real picture of 10 famous people in the year 1956. Show their names above their heads. Adjust the camera quality to make it look like it was actually taken in that year.
@@ -9431,7 +9431,7 @@ Create a real picture of 10 famous people in the year 1956. Show their names abo
 
 ## Vibrant Cardinal Collage Prompt
 
-> Görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Kolaj üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 A vibrant collage depicts a cardinal bird perched on a branch. The bird's eye is sharp and alert, and its beak is pointed. The background is a riot of color, with torn pieces of paper forming lush green foliage and clusters of red berries. The overall impression is one of dynamic energy and natural beauty.
@@ -9439,7 +9439,7 @@ A vibrant collage depicts a cardinal bird perched on a branch. The bird's eye is
 
 ## Intimate Morning Selfie Portrait
 
-> Fotogerçekçi, sinematik mimari görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, sinematik selfie fotoğrafı üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 {
@@ -9510,7 +9510,7 @@ A vibrant collage depicts a cardinal bird perched on a branch. The bird's eye is
 
 ## Stranger Things Cast as Toy Story's Jessie Cosplay
 
-> Retro görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Retro karakter görseli üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 [
@@ -9563,7 +9563,7 @@ A vibrant collage depicts a cardinal bird perched on a branch. The bird's eye is
 
 ## Underwater Cinematic Couple Kiss with Identity Preservation
 
-> Fotogerçekçi, sinematik görsel üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, sinematik çift fotoğrafı üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 {
@@ -9647,7 +9647,7 @@ A vibrant collage depicts a cardinal bird perched on a branch. The bird's eye is
 
 ## Romantic Beach Couple Closeup with Identity Preservation
 
-> Sinematik görsel üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
+> Sinematik çift fotoğrafı üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 {
@@ -9729,7 +9729,7 @@ A vibrant collage depicts a cardinal bird perched on a branch. The bird's eye is
 
 ## Candid Rooftop Kiss with Direct Flash at Blue Hour
 
-> Fotogerçekçi, minimal mimari görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, minimal fotoğraf üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 {
@@ -9785,7 +9785,7 @@ A vibrant collage depicts a cardinal bird perched on a branch. The bird's eye is
 
 ## Cinematic Street Romance with Slow Shutter Effect
 
-> Fotogerçekçi, sinematik görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, sinematik şehir ve sokak sahnesi üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 {
@@ -9840,7 +9840,7 @@ A vibrant collage depicts a cardinal bird perched on a branch. The bird's eye is
 
 ## Hyper-Curvaceous Kitchen Pose
 
-> Minimal görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Minimal fotoğraf üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 {
@@ -9894,7 +9894,7 @@ A vibrant collage depicts a cardinal bird perched on a branch. The bird's eye is
 
 ## Image Transformation into Watercolor Valentine's Day Card
 
-> Elle çizilmiş görsel üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
+> Elle çizilmiş fotoğraf üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 First ask me to upload an image. Then, transform this image into a witty, cute, one-of-a-kind Valentine’s Day card. Integrate the person/people from the photo into a creative, stylized, dreamy watercolor card.
@@ -9902,7 +9902,7 @@ First ask me to upload an image. Then, transform this image into a witty, cute, 
 
 ## The Crash & The Gesture: Aggressive Street Photography
 
-> Görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Şehir ve sokak sahnesi üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 {   "image_prompt_data": {     "meta": {       "title": "The Crash & The Gesture",       "medium": "Photography",       "sub_genre": "Candid / Street Photography"     },     "technical_specs": {       "camera_gear": "iPhone / Smartphone",       "shooting_style": "Handheld, gritty, snapshot aesthetic",       "lighting_setup": "Harsh direct on-camera flash",       "environmental_light": "Chaotic orange firelight from background",       "artifacts": [         "Digital noise",         "Blown-out highlights (skin/hands)",         "Hard shadows on pavement"       ]     },     "composition": {       "framing": "Foreground-dominant",       "perspective": "Eye-level, direct engagement",       "time_of_day": "Night"     },     "subject": {       "demographics": "Woman",       "positioning": "Closest to camera, shoulders squared, body facing forward",       "action": {         "gesture": "Raising middle finger straight at lens",         "arm_position": "Slightly bent",         "vibe": "Aggressive, unfiltered, unposed"       },       "facial_expression": {         "emotion": "Annoyed, fed-up",         "specifics": [           "Lips tight",           "Brows lowered",           "Eyes locked on the camera"         ]       }     },     "background": {       "setting": "Street intersection",       "main_element": {         "object": "Lamborghini Huracán",         "color": "{argument name="car color" default="Green"}",         "condition": "Wrecked, burning, flames tearing through front end"       },       "atmosphere": [         "Thick black smoke",         "Scattered debris",         "Street signs",         "Chaotic"       ]     },     "generated_prompt_string": "A gritty, handheld iPhone photo taken at night with harsh direct on-camera flash. A woman stands in the immediate foreground, facing forward with shoulders squared, raising her middle finger aggressively at the lens. Her expression is fed-up, lips tight, brows lowered, eyes locked on the camera. The flash blows out her skin and casts hard shadows. In the background, a wrecked {argument name="car color" default="green"} Lamborghini Huracán burns at an intersection, flames tearing through the front, thick black smoke rising, surrounded by street signs and scattered debris."   } }
@@ -9977,7 +9977,7 @@ A close-up, surreal portrait of a face, focusing on the eyes and nose. The eyes 
 
 ## Low-Angle Outdoor Lifestyle Photo with Summer Vibe
 
-> Fotogerçekçi yemek görseli üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi fotoğraf üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 {
@@ -10061,7 +10061,7 @@ Cinematic close-up portrait of  Cristiano Ronaldo with a rugged jawline and mess
 
 ## Vintage Couple on Red Classic Convertible in Countryside
 
-> Fotogerçekçi, sinematik manzara üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, sinematik çift fotoğrafı üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 {
@@ -10152,7 +10152,7 @@ Cinematic close-up portrait of  Cristiano Ronaldo with a rugged jawline and mess
 
 ## Cinematic Portrait of a Woman on a Messy Bed with Graffiti Background
 
-> Sinematik, retro logo üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Sinematik, retro portre üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 A high-quality, cinematic medium close portrait of a me sitting on a messy bed. She is wearing a white t-shirt with a "{argument name="logo" default="Queen"}" logo and light blue, loose-fitting cargo pants. Her hair is styled in a messy bun, and she has a relaxed, direct gaze. The background is a vibrant wall covered with graffiti (featuring the word "{argument name="graffiti word" default="ZARA"}" in orange and blue) and numerous vintage posters of musicians and bands. The lighting is moody and dramatic. 8k, detailed, cinematic light, urban aesthetic, grunge fashion.
@@ -10160,7 +10160,7 @@ A high-quality, cinematic medium close portrait of a me sitting on a messy bed. 
 
 ## Western-Inspired Model with Muscle Car (ControlNet)
 
-> Fotogerçekçi, sinematik 3B sahne üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, sinematik araç görseli üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 {
@@ -10190,7 +10190,7 @@ A high-quality, cinematic medium close portrait of a me sitting on a messy bed. 
 
 ## Neon Pink Gas Station Portrait (Fisheye Lens)
 
-> Fütüristik mimari görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Fütüristik portre üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 {
@@ -10222,7 +10222,7 @@ A high-quality, cinematic medium close portrait of a me sitting on a messy bed. 
 
 ## Lifestyle Portrait in Car During Golden Hour
 
-> Mimari görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Portre üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 {"composition":{"framing":"casual seated portrait, vertical orientation","subject_position":"right-centered, reclined diagonally across frame","camera_angle":"slightly above eye level, angled downward","pose":"subject seated in passenger seat with knees bent toward camera, torso reclined, one hand shielding eyes from sunlight, other arm resting near lap holding bouquet","background":"car interior with visible passenger seat, door panel, window; exterior greenery visible through window","depth_of_field":"moderate, subject in sharp focus, background slightly softened by natural light and reflections"},"subject":{"gender_presentation":"female","age_range":"young adult","body_type":"slim, average height","skin_tone":"light with warm undertones","hair":{"color":" dark brown","style":"long, straight with soft natural volume","part":"center part"},"facial_expression":"warm smile, relaxed and content","gaze":"directed toward camera","makeup":{"style":"natural glam","features":"defined brows, mascara-enhanced lashes, subtle eyeliner, peachy blush, soft pink glossy lips"},"accessories":["small hoop earrings","delicate necklace","thin metallic bangles on wrist"]},"wardrobe":{"top":"white lace long-sleeve blouse with semi-sheer floral texture","bottom":"light blue high-waisted denim jeans with distressed knee detail","style":"casual chic, feminine","fabric_textures":["lace with floral pattern","denim with frayed distressing"]},"props":{"primary":"bouquet of red and pink flowers (appears to be alstroemeria) with green leaves","secondary":"beige gift box with pink ribbon partially visible under bouquet"},"lighting":{"type":"strong natural sunlight","direction":"direct side light from window (camera-left)","quality":"harsh, high contrast","shadows":"defined shadows across face and car seat; hand casting shadow over forehead","highlights":"bright highlights on cheekbones, nose bridge, hair, and bouquet petals"},"color_grading":{"tone":"warm, sunlit","contrast":"high due to direct sunlight","saturation":"vibrant reds and greens in bouquet contrasted with neutral car interior","white_balance":"warm daylight"},"technical":{"image_quality":"high resolution","sharpness":"sharp focus on facial features and bouquet","noise":"minimal","lens_characteristics":"smartphone camera look, slight wide-angle perspective","aspect_ratio":"approximately 4:5"},"aesthetic":{"style":"lifestyle influencer photography","mood":"romantic, spontaneous, joyful","setting_context":"candid moment inside parked car during golden hour","retouching":"light skin smoothing, enhanced warmth and vibrancy"}}
@@ -10238,7 +10238,7 @@ Cinematic portrait of a young person standing still in the middle of a busy crow
 
 ## Vlog Style Video Generation from Nano Banana Pro Image using Google Veo 3.1
 
-> Minimal moda çekimi üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Minimal görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Create a video-style shot facing forward. The camera is fixed at face height and placed directly in front of the subject. The subject's posture and composition indicate they are sitting.
@@ -10256,7 +10256,7 @@ BGM: A comfortable sound suitable for a vlog-style fashion atmosphere is playing
 
 ## Hyper-Curvaceous Gym Selfie Twins
 
-> Portre üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Selfie fotoğrafı üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 {
@@ -10295,7 +10295,7 @@ BGM: A comfortable sound suitable for a vlog-style fashion atmosphere is playing
 
 ## Mixed Media Portrait with Chibi Overlays
 
-> Fotogerçekçi, sinematik moda çekimi üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, sinematik portre üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 A high quality mixed media portrait of a trendy young man (using my uploaded person photo) standing on a train station platform at night. The subject is posing coolly, holding the strap of an olive backpack with one hand. He is wearing a stylish streetwear outfit with an oversized layered black hoodie, gray sweatpants, and chunky sneakers.
@@ -10378,7 +10378,7 @@ A vertical nighttime street photograph of a young man, use my reference image fa
 
 ## Wet Kitten Prompt Share
 
-> Fotogerçekçi, sinematik görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, sinematik hayvan görseli üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 A lost kitten sheltering from the rain under the eaves of an old wooden house. The kitten is small, gray, and visibly wet, with fur clinging to its body. The background features a close-up of the aged wood of the house structure, covered in patches of green moss. The scene is illuminated by soft, diffused light typical of a rainy day. The focus is sharp on the kitten's face and the texture of the wet fur, aged wood, and moss. The overall atmosphere is melancholic yet intimate. Cinematic style, high detail, photorealistic.
@@ -10451,7 +10451,7 @@ Photorealistic detail shot, ultra-high resolution 8K quality, sharp focus on sub
 
 ## Extreme Close-up Portrait with Soft Grunge and Coquette Aesthetic
 
-> Retro yemek görseli üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Retro portre üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 {
@@ -10504,7 +10504,7 @@ Photorealistic detail shot, ultra-high resolution 8K quality, sharp focus on sub
 
 ## Tattooed Woman Bikini Selfie Prompt (JSON)
 
-> Mimari görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Selfie fotoğrafı üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 {
@@ -10535,7 +10535,7 @@ Photorealistic detail shot, ultra-high resolution 8K quality, sharp focus on sub
 
 ## Gym Mirror Selfie of Two Women in Athletic Wear
 
-> Fotogerçekçi portre üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi selfie fotoğrafı üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 {
@@ -10564,7 +10564,7 @@ Photorealistic detail shot, ultra-high resolution 8K quality, sharp focus on sub
 
 ## 2000s Flash Photography Aesthetic Portrait
 
-> Mimari görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Portre üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 {
@@ -10624,7 +10624,7 @@ A photorealistic 4K image of a single cup of hot coffee placed on a wooden table
 
 ## Ultra-Photorealistic Candid Bikini Snapshot Prompt
 
-> Fotogerçekçi görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi fotoğraf üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 {
@@ -10656,7 +10656,7 @@ A photorealistic 4K image of a single cup of hot coffee placed on a wooden table
 
 ## Airplane Wing Selfie Prompt (JSON)
 
-> Fotogerçekçi, sinematik portre üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, sinematik selfie fotoğrafı üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 {
@@ -10716,7 +10716,7 @@ A photorealistic 4K image of a single cup of hot coffee placed on a wooden table
 
 ## Ultra-Realistic Image Prompt for a Mid-20s Woman in a String Bikini
 
-> Fotogerçekçi görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi kadın figürlü görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 {
@@ -10766,7 +10766,7 @@ A photorealistic 4K image of a single cup of hot coffee placed on a wooden table
 
 ## Hyper-Curvy Gym Selfie Prompt (JSON)
 
-> Fotogerçekçi portre üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi selfie fotoğrafı üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 {
@@ -10813,7 +10813,7 @@ Cinematic portrait of a young woman standing on a wooden seaside pier during a c
 
 ## Tech YouTuber Demoing Bluetooth Speaker Video Prompt
 
-> Minimal, retro görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Minimal, retro erkek figürlü görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 A young man tech YouTuber demoing a bluetooth speaker. He is sitting in front of the camera at a desk and wearing a sweatshirt and a cap. The desk is front on to the camera. The background is a dimly lit YouTuber's studio setup. The YouTuber is illuminated by a ring light. The Bluetooth speaker looks minimalistic and retro-futuristic.
@@ -10821,7 +10821,7 @@ A young man tech YouTuber demoing a bluetooth speaker. He is sitting in front of
 
 ## Detailed Squat Pose Photo in Front of Vending Machine
 
-> Fotogerçekçi afiş üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi fotoğraf üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 {
@@ -10880,7 +10880,7 @@ I'm looking forward to eating them (✽︎´ཫ`✽︎)🫶️💗
 
 ## Urban Portrait of Young Man by Brick Wall
 
-> Fotogerçekçi, sinematik mimari görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, sinematik portre üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 A natural light urban portrait of a young man standing beside a textured brick wall on a city street. He is shown in a soft side profile, looking slightly away from the camera with a calm and thoughtful expression. Short textured brown hair with a neat fade on the sides, natural skin texture with light freckles, strong eyebrows, and soft neutral lips. He wears a dark denim jacket layered over a simple grey t shirt, casual modern style.
@@ -10889,7 +10889,7 @@ Shot in a shallow depth of field with strong background blur, creating smooth bo
 
 ## Candid Bedroom Selfie of Three Freckled Girls
 
-> Fotogerçekçi, minimal portre üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, minimal selfie fotoğrafı üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 three freckled European girls in an intimate close-up selfie, low-angle perspective with their faces very close together, heads gently touching as they lean toward the smartphone camera, creating a natural slight wide-angle lens distortion that softly exaggerates their features in a playful, candid way. All three have long flowing hair in different shades—golden blonde, light chestnut brown, and soft dark blonde—falling naturally around their shoulders with a few loose strands catching the warm indoor light. Their skin shows realistic texture with visible freckles scattered across their cheeks and noses, subtle pores, soft blush tones, and a healthy natural glow without heavy makeup.
@@ -10901,7 +10901,7 @@ The background shows a cozy bedroom setting slightly out of focus—soft bedding
 
 ## Neo-Skeuomorphism Crowd Scene Prompt
 
-> İllüstrasyon üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Sahne üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 A close-up, overhead shot shows a crowd of abstract, cartoonish figures with large, expressive eyes. The figures are rendered in a variety of bold colors, including a bright blue starfish-like creature, a fuzzy black blob with a triangular nose, a vibrant orange star-shaped being, and a lime green amorphous shape. These characters are packed tightly together, creating a sense of a dense, bustling community. The background is a dark, textured black, which makes the colorful figures pop. The overall style is whimsical and slightly unsettling, with a textured, crayon-like aesthetic.
@@ -10909,7 +10909,7 @@ A close-up, overhead shot shows a crowd of abstract, cartoonish figures with lar
 
 ## Flash-Lit Jester-Girl Editorial Anime
 
-> Minimal, retro portre üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Minimal, retro illüstrasyon üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 TYPE:
@@ -10939,7 +10939,7 @@ ACTION:
 
 ## Generate Realistic Character from Fantasy Image Reference Prompt
 
-> Görsel üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
+> Karakter görseli üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Use Nano Banana Pro to generate a realistic character effect, and then use this image as a reference element for Seedance 2.0 to create a video
@@ -10947,7 +10947,7 @@ Use Nano Banana Pro to generate a realistic character effect, and then use this 
 
 ## Mirror Selfie in Red Lingerie
 
-> Fotogerçekçi mimari görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi selfie fotoğrafı üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 {
@@ -10963,7 +10963,7 @@ Use Nano Banana Pro to generate a realistic character effect, and then use this 
 
 ## Tiny Clay World Diorama Generator
 
-> Mimari görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> 3B sahne üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Tiny clay world depicting {argument name="seasonal event or daily life scene" default="DAILY LIFE SCENE"} in {argument name="culture or location" default="LOCATION"}. Features {argument name="building type" default="BUILDING TYPE"} with [ARCHITECTURAL DETAIL], [FIGURES IN TRADITIONAL DRESS], [FOOD/MARKET ELEMENT], [DECORATIVE CULTURAL ITEM], and [FLORA/FAUNA]. Diorama sits on a [THICKNESS] [MATERIAL] platform with [EDGE TREATMENT]. [VIEW ANGLE], Pixar-style clay render, cozy miniature scale, [LIGHTING DESCRIPTION], neutral background.
@@ -10971,7 +10971,7 @@ Tiny clay world depicting {argument name="seasonal event or daily life scene" de
 
 ## Candid Night Street Fashion Photograph
 
-> Afiş üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
+> Moda çekimi üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 High-angle candid night street fashion photograph, shot from an upper floor across the street, looking downward.
@@ -11058,7 +11058,7 @@ A young woman with long, wavy hair is posing outdoors in a snowy, mountainous se
 
 ## Billie Eilish Luxury Yacht Selfie
 
-> Fotogerçekçi, fütüristik logo üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, fütüristik selfie fotoğrafı üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 {
@@ -11122,7 +11122,7 @@ A young woman with long, wavy hair is posing outdoors in a snowy, mountainous se
 
 ## Ultra Close Photos of Celebrities in a Gym Setting
 
-> Fütüristik, lüks logo üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Fütüristik, lüks selfie fotoğrafı üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 [
@@ -11171,7 +11171,7 @@ A young woman with long, wavy hair is posing outdoors in a snowy, mountainous se
 
 ## Kitchen Counter Kneeling Pose
 
-> Fotogerçekçi görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi kadın figürlü görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 {
@@ -11222,7 +11222,7 @@ Photorealistic 8K cinematic image (4:5) of a person disintegrating into thick sm
 
 ## 4-Panel Analog Film Boudoir Collage
 
-> Sinematik, minimal portre üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Sinematik, minimal kolaj üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 {
@@ -11316,7 +11316,7 @@ A cinematic night-time portrait of a young woman standing outdoors, softly lit b
 
 ## Y2K Velour Tracksuit Mirror Selfie
 
-> Fotogerçekçi portre üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi selfie fotoğrafı üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 {
@@ -11371,7 +11371,7 @@ A cinematic night-time portrait of a young woman standing outdoors, softly lit b
 
 ## Candid Mall Escalator Photo
 
-> Fotogerçekçi görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi fotoğraf üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 {
@@ -11446,7 +11446,7 @@ An expressive ink-and-wash illustration of {argument name="subject" default="a m
 
 ## Cinematic Eastern Night Portrait
 
-> Sinematik moda çekimi üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Sinematik portre üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 "A cinematic night-time portrait of the same South Asian woman in the same maroon off-shoulder dress. She is standing near a window or balcony indoors, one arm raised above her head, body slightly turned sideways emphasizing natural curves. Her long wavy black hair partially covers her face, small black {argument name="facial accessory" default="bindi"} present. Expression is confident and expressive. Background shows blurred city lights with strong bokeh effect. Warm indoor lighting mixed with cool night tones, shallow depth of field, realistic textures, fashion editorial photography, high detail, cinematic color grading.",
@@ -11464,7 +11464,7 @@ An expressive ink-and-wash illustration of {argument name="subject" default="a m
 
 ## Raw Post-Workout Gym Selfie
 
-> Portre üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Selfie fotoğrafı üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 {
@@ -11503,7 +11503,7 @@ An expressive ink-and-wash illustration of {argument name="subject" default="a m
 
 ## Onion-Cutting Prompt (Text/LLM)
 
-> Görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Karakter görseli üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 “…Why did you cry?”
@@ -11517,7 +11517,7 @@ An expressive ink-and-wash illustration of {argument name="subject" default="a m
 
 ## Thrilling Roller Coaster Action Photo Prompt
 
-> Görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotoğraf üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 {
@@ -11570,7 +11570,7 @@ An expressive ink-and-wash illustration of {argument name="subject" default="a m
 
 ## Luxury Yacht Portrait with Hyper-Pronounced Hourglass Figure
 
-> Fotogerçekçi, minimal mimari görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, minimal portre üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 {
@@ -11610,7 +11610,7 @@ An expressive ink-and-wash illustration of {argument name="subject" default="a m
 
 ## Cinematic Realism Portrait in a Library Loft
 
-> Sinematik, minimal mimari görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Sinematik, minimal portre üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 {
@@ -11664,7 +11664,7 @@ An expressive ink-and-wash illustration of {argument name="subject" default="a m
 
 ## Amusement Park Date POV Prompt (Hand Reaching)
 
-> Görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Hayvan görseli üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 (1::Medium shot::), (Waist up framing), POV of a friend on a amusement park date, a beautiful character with a bright happy smile looking directly at the camera, wearing a well-fitted school uniform (showing blazer/cardigan torso clearly), ({argument name="headband type" default="fluffy plush animal ear headband"}), ({argument name="ear type" default="cute costume mouse ears or bear ears"}), extending one hand right towards the camera lens as an invitation, sunlight hitting face, strong natural lens flare, background is a simplified and softly blurred amusement park environment with bokeh lights and rides, colorful atmosphere, clear sky, highly detailed face, 8k resolution, masterpiece.
@@ -11672,7 +11672,7 @@ An expressive ink-and-wash illustration of {argument name="subject" default="a m
 
 ## Exaggerated Hourglass Figure in Grocery Aisle
 
-> Görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Kadın figürlü görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 {
@@ -11746,7 +11746,7 @@ An expressive ink-and-wash illustration of {argument name="subject" default="a m
 
 ## Photorealistic Portrait of a Blonde Woman on a Bed
 
-> Fotogerçekçi, minimal mimari görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, minimal portre üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Cute, innocent young adult blonde woman sitting comfortably on a neatly made bed, relaxed natural posture with legs gently bent, shoulders soft and at ease. Long, soft, flowing blonde hair styled in loose natural waves, silky texture, subtle shine, a few delicate strands framing her face. Clear blue eyes with a gentle sparkle, long natural lashes, delicate eyebrows, smooth fair complexion with a soft healthy glow, subtle blush on cheeks, light pink lips, minimal natural makeup enhancing her youthful features. Calm, sweet, peaceful expression conveying warmth and innocence.
@@ -11794,7 +11794,7 @@ Photorealistic, ultra-high detail, hyper-detailed skin texture with visible natu
 
 ## Mixed Media Portrait of Gen Z Teenager with Chibi Companions
 
-> Fotogerçekçi, sinematik moda çekimi üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, sinematik portre üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 High-quality mixed media portrait. A trendy Gen Z teenager (using a photo of the person I uploaded) standing on a night train station platform. The subject poses coolly, holding the strap of an olive-colored backpack with one hand. 
@@ -11971,7 +11971,7 @@ Stunning night time portrait photo
 
 ## Candid Taxi-Ride Dump Photography
 
-> Sinematik, retro mimari görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Sinematik, retro fotoğraf üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 {
@@ -12016,7 +12016,7 @@ Stunning night time portrait photo
 
 ## Mediterranean Lifestyle Travel Portrait
 
-> Minimal mimari görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Minimal portre üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 { "composition": { "framing": "three-quarter body portrait", "orientation": "vertical", "perspective": "slightly angled side-back view", "balance": "subject placed slightly right of center with architectural elements counterbalancing", "depth": "moderate depth with subject clearly separated from background", "leading_lines": "white wall edges and walkway guide the eye toward the subject" }, "subject": { "type": "single human subject", "pose": "standing, torso turned back toward camera, relaxed posture", "expression": "soft smile with playful confidence", "gaze": "directed toward camera over shoulder", "hair": "long, light brown hair with soft waves", "emotion": "carefree, cheerful, relaxed" }, "apparel": { "top": "white cropped knit top with open crochet pattern and flared sleeves", "bottom": "high-waisted blue tiered maxi skirt with soft drape", "style": "Mediterranean summer casual, bohemian-inspired" }, "accessories": { "eyewear": "black sunglasses worn on head", "bag": "dark red shoulder tote worn on back", "handheld": "disposable coffee cup", "jewelry": "minimal or not clearly visible" }, "color_palette": { "dominant_colors": ["white", "blue"], "secondary_colors": ["pink", "red", "black"], "contrast": "high contrast between bright white architecture and saturated blue accents" }, "lighting": { "type": "natural daylight", "direction": "top-right directional sunlight", "quality": "bright and crisp", "shadows": "defined shadows on wall and ground", "exposure": "high-key with strong highlights and clear detail" }, "environment": { "setting": "Mediterranean exterior", "location_type": "whitewashed residential or boutique street", "materials": ["stucco walls", "painted wood door", "stone pavement"], "context": "coastal or island village atmosphere" }, "background_details": { "architecture": "white stucco walls with vivid blue door and window frames", "natural_elements": ["pink bougainvillea flowers"], "background_activity": "quiet, no visible movement" }, "camera": { "shot_type": "lifestyle travel portrait", "lens_look": "standard focal length with mild background compression", "focus": "sharp focus on subject", "bokeh": "minimal, background mostly in focus", "resolution_feel": "clean, social-media-ready clarity" }, "artistic_style": { "genre": "travel lifestyle photography", "aesthetic": "bright, airy, summery", "editing": "vibrant blues and pinks with clean whites", "inspiration": "Greek island or Mediterranean vacation imagery" }, "textures": { "fabric": ["open-knit crochet", "lightweight flowing cotton"], "surfaces": ["smooth stucco", "painted wood", "stone walkway"], "natural": ["bougainvillea petals"] }, "mood": { "overall_feel": "lighthearted, sunny, leisurely", "seasonal_hint": "summer" }, "typography": { "text_present": false } }
@@ -12024,7 +12024,7 @@ Stunning night time portrait photo
 
 ## Cyberpunk Neon Portrait
 
-> Sinematik, minimal moda çekimi üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Sinematik, minimal portre üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Ultra-stylized cinematic portrait of a person in side profile, head tilted back, eyes closed, minimal expression. Deep red monochrome background. Black silhouette clothing blending into shadows. A glowing neon red light strip tracing across the face from nose bridge to ear, and another neon strip around the neck, creating a futuristic cyberpunk vibe. High contrast lighting, dramatic shadows, smooth skin texture, sharp facial contours. Minimalist composition, bold color palette, moody and surreal atmosphere, studio photography, ultra-high resolution, editorial fashion style, futuristic sci-fi aesthetic.
@@ -12032,7 +12032,7 @@ Ultra-stylized cinematic portrait of a person in side profile, head tilted back,
 
 ## Mixed-Media Portrait of Gen Z Teenager with Chibi Clones
 
-> Fotogerçekçi, sinematik moda çekimi üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, sinematik portre üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 A high-quality mixed-media portrait of a trendy Gen Z teenager (using my uploaded person photo) standing on a train station platform at night. The subject is posing coolly, holding the strap of their olive backpack with one hand. They are wearing a stylish Gen Z outfit (oversized streetwear, layered black hoodie, gray sweatpants, and chunky sneakers).
@@ -12046,7 +12046,7 @@ Overlay the image with vibrant, hand-drawn doodle effects: white drawn outlines 
 
 ## Detailed Indoor Lifestyle Portrait Prompt
 
-> Moda çekimi üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Portre üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 { "image_type": "photograph", "genre": "indoor lifestyle portrait", "composition": { "framing": "medium close-up", "orientation": "vertical", "subject_position": "center-right, seated at a table", "camera_angle": "slightly above eye-level", "depth_of_field": "shallow to moderate, subject sharply isolated from softly blurred background", "leading_lines": "table edge and ceiling lines subtly guide focus toward the subject", "balance": "asymmetrical, balanced by negative space and interior geometry" }, "subject": { "count": 1, "description": "young woman seated indoors in a modern public space", "pose": "leaning forward with elbow on table, chin resting on hand", "expression": "neutral to contemplative, calm and introspective", "gaze": "directed slightly off-camera to the left", "hair": { "color": "dark brown", "style": "short to medium length, softly wavy with straight fringe/bangs", "finish": "natural texture with light volume" }, "face_details": { "makeup": "natural glam with soft blush, defined brows, subtle lip color", "eyewear": "round metal-frame sunglasses with dark lenses" }, "clothing": { "top": { "type": "knit sweater or rugby-style pullover", "color": "cream base with navy blue panels and red collar accent", "details": "textured knit fabric, ribbed cuffs, embroidered red lettering on chest" } } }, "background": { "environment": "modern indoor café or bookstore-style space", "elements": [ "wooden table and seating", "open interior with high ceiling", "track lighting and recessed lights", "bookshelves or retail fixtures in distance" ], "depth": "background softly defocused to emphasize subject", "architectural_style": "minimalist, contemporary" }, "lighting": { "type": "mixed natural and artificial light", "source": "large windows combined with overhead interior lighting", "quality": "soft, even illumination", "direction": "frontal-side lighting from window direction", "highlights": "gentle highlights on cheekbones and hair", "shadows": "soft, minimal shadow falloff" }, "color_palette": { "dominant_colors": [ "cream", "navy blue", "soft gray" ], "accent_colors": [ "red", "warm wood tones" ], "color_temperature": "neutral to slightly warm" }, "technical_details": { "camera_type": "digital camera or high-end smartphone", "lens_look": "standard portrait focal length", "aperture_estimate": "f/2–f/3.5", "iso_estimate": "low ISO", "shutter_speed_estimate": "moderate, suitable for indoor ambient light", "image_sharpness": "high on facial features and clothing texture", "noise": "minimal" }, "artistic_elements": { "mood": "calm, introspective, modern", "style": "fashion-forward lifestyle portrait", "aesthetic": "clean, understated, editorial casual", "contrast": "moderate", "saturation": "natural, slightly muted" }, "post_processing": { "skin_tones": "smooth and natural", "color_grading": "balanced neutrals with soft contrast", "retouching_level": "light", "clarity": "enhanced on subject, subdue
@@ -12062,7 +12062,7 @@ A hyperrealistic 8K black and white extreme close-up portrait of a young man's f
 
 ## Gym Mirror Selfie of Two Women Post-Workout
 
-> Fotogerçekçi mimari görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi selfie fotoğrafı üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 {

@@ -6,7 +6,7 @@
 
 ## Superhero Studio Fashion Portrait
 
-> Minimal logo üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Minimal moda çekimi üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 {
@@ -58,7 +58,7 @@ Whimsical {argument name="subject" default="miniature world depiction of a royal
 
 ## Cyberpunk Floating Megacity
 
-> Fotogerçekçi, sinematik mimari görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, sinematik şehir ve sokak sahnesi üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 The Last City Above the Storm A gigantic floating {argument name="style" default="cyberpunk megacity"} suspended thousands of feet above an endless storm-covered planet, colossal waterfalls pouring off the edges into lightning clouds below, neon highways weaving between skyscrapers, {argument name="element" default="giant holographic whales"} swimming through the sky, tiny aircraft leaving glowing trails through rain and fog, cinematic dusk lighting, reflective wet metal surfaces, atmospheric perspective, ultra-detailed futuristic architecture, {argument name="palette" default="dark moody palette with electric cyan and magenta highlights"}, breathtaking scale, hyper-realistic sci-fi realism.
@@ -66,7 +66,7 @@ The Last City Above the Storm A gigantic floating {argument name="style" default
 
 ## Kawaii Chibi Sticker Sheet
 
-> Minimal, lüks 3B sahne üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
+> Minimal, lüks karakter görseli üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Ultra-cute kawaii chibi sticker sheet featuring a tiny anime girl in an {argument name="costume" default="oversized fluffy blue penguin hoodie costume"} with yellow penguin beak hood, soft plush texture, tiny yellow feet, short black bob haircut with bangs and blue hairclips, huge sparkling anime eyes, sitting pose, pastel aesthetic, clean white background, adorable emotional expressions, 3D toy-like rendering, ultra detailed fur fabric, glossy eyes, soft studio lighting, Instagram sticker pack style.
@@ -100,7 +100,7 @@ Style references: kawaii Japanese mascot stickers, Sanrio-inspired, ultra detail
 
 ## Handcrafted Paper-Cut Style Illustration
 
-> Minimal 3B sahne üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
+> Minimal illüstrasyon üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Convert this image into a soft, handcrafted paper-cut layered illustration style, inspired by papercraft diorama aesthetics. Use smooth rounded shapes, simplified cute character proportions, and minimal facial details (dot eyes, blush cheeks) to create a warm, charming look. Apply stacked paper layers with visible depth, subtle shadows between layers, and clean cut edges that resemble laser-cut cardstock.
@@ -108,7 +108,7 @@ Convert this image into a soft, handcrafted paper-cut layered illustration style
 
 ## Souls-like Snail Creature Design
 
-> Görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Fantastik yaratık üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 a {argument name="subject" default="snail"} in the style of a {argument name="game style" default="souls-like video game"}
@@ -116,7 +116,7 @@ a {argument name="subject" default="snail"} in the style of a {argument name="ga
 
 ## Surreal Camel vs Motel Scene
 
-> Görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Fantastik sahne üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 {argument name="animal" default="camel"} VS. {argument name="location" default="motel"}
@@ -124,7 +124,7 @@ a {argument name="subject" default="snail"} in the style of a {argument name="ga
 
 ## Surreal Casino vs Parrot Battle
 
-> Görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Fantastik sahne üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 {argument name="location" default="casino"} VS. {argument name="animal" default="parrot"}
@@ -132,7 +132,7 @@ a {argument name="subject" default="snail"} in the style of a {argument name="ga
 
 ## Celebrity Stormtrooper Style Portrait
 
-> Fotogerçekçi, sinematik afiş üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, sinematik portre üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 A hyper-realistic, photorealistic portrait of {argument name="subject" default="Jenna Ortega"} with a curvy and fit physique, standing at a three-quarter back angle. She is twisting her torso to look over her left shoulder directly at the camera with a gentle, playful, and inviting smile. Her hair is styled in a loose, natural updo with delicate face-framing bangs, complementing her well-groomed eyebrows and subtle lip gloss. She is wearing an extremely tight, form-fitting, {argument name="jumpsuit color" default="bright pink"} glossy latex sci-fi jumpsuit inspired by a Stormtrooper uniform. The suit features a realistic shiny synthetic finish, a high collar with black details, textured black sections on the forearms, a white waist belt, thin black thigh straps, and a gray and black mechanical holster attached to her right hip. Her hands are holding a realistic pink Stormtrooper helmet.
@@ -144,7 +144,7 @@ Technical specs: Shot with an iPhone 15 Pro Max, 24mm main lens, f/1.78, medium 
 
 ## Humanoid Mecha Robot at Night
 
-> Fotogerçekçi, sinematik logo üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, sinematik fantastik yaratık üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 {
@@ -252,7 +252,7 @@ Technical specs: Shot with an iPhone 15 Pro Max, 24mm main lens, f/1.78, medium 
 
 ## Handmade Art Style Visualizer Grid
 
-> Minimal moda çekimi üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Minimal karakter görseli üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 2x2 grid, do this for 4 hardest type of handmade art style
@@ -299,7 +299,7 @@ A mechanical {argument name="subject" default="core"} with a hollow, skeletal st
 
 ## Cyber Spiritualism Digital Monk
 
-> Fotogerçekçi, sinematik arayüz tasarımı üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, sinematik çift fotoğrafı üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 A mysterious {argument name="subject" default="futuristic monk"} sitting alone in deep meditation inside an enormous digital temple hidden beyond the internet, dark cinematic atmosphere, billions of {argument name="particles" default="glowing social media particles"}, holographic posts, reels, analytics charts, comments and engagement symbols flowing around him like a galaxy of information, giant floating neural network structures in the background, {argument name="lighting" default="glowing purple and electric blue ambient lighting"}, volumetric fog, reflective black stone floor, calm but powerful presence, hood covering most of the face, only subtle glowing eyes visible beneath shadows, futuristic wisdom aesthetic, cyber spiritualism, ultra realistic fabric textures, cinematic composition, unreal engine 5 render, octane render quality, impossible detail, deep contrast lighting, highly atmospheric, premium AI startup branding style, symmetrical composition, soft particle glow, majestic scale, tiny floating holographic UI elements around the monk’s hands, emotional and intelligent mood, trending on behance, artstation masterpiece, 8k ultra detailed.
@@ -315,7 +315,7 @@ Create a highly detailed, whimsical scene featuring a charming 3D chibi doll ins
 
 ## Perler Bead Pattern Creator
 
-> Görsel üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotoğraf üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Convert the image into a Perler bead pattern, preserving the pixel-style outlines and color distribution. Label each color area with its corresponding color code below the pattern. 1:1 image
@@ -347,7 +347,7 @@ A {argument name="subject" default="young man with medium-length wavy silver hai
 
 ## Gotham City Night Background
 
-> Fotogerçekçi, sinematik logo üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, sinematik şehir ve sokak sahnesi üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Ultra realistic cinematic {argument name="city style" default="Gotham-style city"} at night, wide angle 16:9 composition, viewed from a high rooftop perspective dense futuristic cityscape with gothic architecture, tall skyscrapers, neon signs, glowing windows, bridges and layered depth across the skyline heavy rain falling diagonally, wet surfaces reflecting light, atmospheric fog and volumetric haze creating depth lighting: dark moody scene with high contrast, deep blacks, cool blue-green color grading, subtle warm highlights from city lights sky: thick storm clouds with a soft glowing {argument name="sky signal" default="bat-shaped signal"} projected into the clouds, volumetric light beam, slightly diffused imperfect edges, realistic light scattering (not a sharp logo) composition: - bat signal positioned in upper right quadrant - dense skyline across middle - clear negative space in bottom-right foreground for a future character silhouette - visible gothic stone ledge in bottom-right corner with wet reflective surface camera: - slightly elevated cinematic angle - wide field of view - strong depth perspective (foreground, midground, background layers) style: photorealistic, hyper-detailed, Unreal Engine 5 quality, cinematic lighting, volumetric effects, high dynamic range important: no characters, no people, no superheroes visible no cartoon, no illustration, no comic style
@@ -355,7 +355,7 @@ Ultra realistic cinematic {argument name="city style" default="Gotham-style city
 
 ## Cyberpunk Airport Security Scene
 
-> Fotogerçekçi, sinematik görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, sinematik sahne üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Hyper-realistic vertical 4:5 photograph. Real-life airport security checkpoint: gray tiled floor, white-gray ceiling with fluorescent panels, rows of metal hub chairs and an X-ray machine with conveyor belt in the background. In the center is a silver-blue metal detector frame with a red countdown display showing {argument name="timer" default="30:00"}.
@@ -369,7 +369,7 @@ Camera: Shot on a camera with 1.55x anamorphic squeeze lens (equiv. 50mm), beaut
 
 ## Real-Life and Anime Character Composite
 
-> Fotogerçekçi, sinematik moda çekimi üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, sinematik karakter görseli üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 A hyper-realistic, 8k cinematic composite image blending a {argument name="real subject" default="real young man wearing urban streetwear"} with a {argument name="anime subject" default="2D anime character Yuji Itadori from Jujutsu Kaisen"}. On the left stands the real man wearing: a red baseball cap, a dark black utility jacket, extremely baggy black cargo pants with a silver keychain on the belt loop, and white sneakers with red accents. He is striking a dynamic pose with his left hand in pocket and his right hand brought up near his chin. Ensure the man's face remains 100% visible, clear, and recognizable; do not cover or obscure his face. On the right stands Yuji Itadori, wearing his dark black utility jacket, extremely baggy black cargo pants Jujutsu High uniform with and white sneakers with red accents. Yuji is mirroring the vibe with his right hand near his chin and left hand in pocket. Yuji is perfectly integrated into the real-world scene with realistic cast shadows on the ground. The background is an {argument name="location" default="industrial, modern outdoor corridor"} with flat grey walls, grey tiled flooring, a red fire equipment cabinet, and green utility signs.
@@ -379,7 +379,7 @@ Shot with a 35mm lens, sharp focus, chiaroscuro lighting, 100% my face same
 
 ## 3D Video Game Character Workout
 
-> Arayüz tasarımı üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
+> Oyun görseli üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 use the {argument name="character" default="female character"} for a {argument name="style" default="3d video game"} in a {argument name="location" default="workout studio"} where she is doing aerobics dance moves with ui elements
@@ -416,7 +416,7 @@ Emphasize the rectangular head geometry through faceted forehead planes, sharp t
 
 ## Cinematic Urban Car Meet Scene
 
-> Fotogerçekçi, sinematik moda çekimi üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, sinematik araç görseli üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Hyper-realistic vertical photograph 4:5 ratio. {argument name="location" default="Underground car meet on the third floor of a concrete multi-storey car park in Los Santos at night"}. Bare pillars covered in graffiti, exposed conduit pipes along low ceilings, tyre marks scarring the oil-stained floor. JDM and American muscle cars with wide-body kits, aggressive splitters, big wings, and vibrant pink, blue and purple underglow lighting reflecting on the concrete.
@@ -428,7 +428,7 @@ Photography style: Photorealistic, Rockstar Games visual quality, ultra-detailed
 
 ## 3D Game Character Face-off
 
-> Fotogerçekçi, sinematik arayüz tasarımı üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, sinematik oyun görseli üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Highly detailed 3D render of {argument name="characters" default="two AAA game characters in a dynamic face-off pose"}: {argument name="character descriptions" default="a muscular ancient warrior with rugged armor and a heavy spiked mace, and a stealthy ninja in dark layered attire holding a katana and chained sickle"}. Ultra-realistic anatomy, sharp textures, cinematic sculpting, and realistic fabric physics. Both characters facing each other in combat stance, full-body visible, strong silhouette contrast. Clean white minimalist background, soft studio lighting, subtle ground shadows, high contrast, ultra-sharp details, professional game concept art quality, {argument name="aspect ratio" default="16:9"}. Negative: no background scene, no extra characters, no blur, no noise, no text, no UI elements
@@ -452,7 +452,7 @@ based exactly on the pose in my photo, create a highly detailed {argument name="
 
 ## 3D Gaming Character Composition
 
-> Manzara üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
+> 3B sahne üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 use the exact composition of @walk for a highly detailed 3D gaming character of a {argument name="subject" default="buddhist monk with a buddha statue strapped to his back"} walking through a {argument name="landscape" default="indian landscape with palmtrees in the back"}. background landscape is even and does not rise towards the edges
@@ -460,7 +460,7 @@ use the exact composition of @walk for a highly detailed 3D gaming character of 
 
 ## Chibi Penguin on a Motorcycle
 
-> Fotogerçekçi, sinematik manzara üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, sinematik araç görseli üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Ultra-realistic, cinematic vertical 9:16 shot of Gugo Gaga, a small chibi-style character with short black hair and gray eyes, wearing a {argument name="character outfit" default="plush penguin onesie"} with a giant zipper detail at the neck. The character is in an extremely happy, joyful mood with eyes closed and a wide, laughing mouth. Gugo Gaga is sitting on a {argument name="vehicle" default="vintage teal and chrome cruiser motorcycle"} parked on a {argument name="setting" default="winding coastal highway"}. The lighting is soft golden hour sunset, casting a warm glow over the scene with a blurred ocean and mountain background. 8k resolution, highly detailed textures on the plush fabric and polished chrome, commercial photography style.
@@ -506,7 +506,7 @@ highly detailed {argument name="art style" default="claymation-style"} portrait 
 
 ## 16-Bit Arcade Character Generator
 
-> Retro, fütüristik oyun görseli üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
+> Retro, fütüristik karakter görseli üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 (Female Adapted) Create a 16‑bit retro arcade character portrait based on the uploaded user photo. Preserve only the subject’s face and hair likeness from the photo; do not preserve the original clothing, pose, or background. Render the subject as a stylized pixel‑hero, blending crisp retro pixel art with modern shading and chaotic arcade energy. Use a centered portrait composition with the subject facing the camera, expressing bold, playful, high‑energy arcade attitude. Skin should appear pixel‑rendered with chunky shading blocks, soft dithering, and stylized highlights. Edges should be crisp, with subtle pixel outlines and retro color‑banding. Apply a vibrant 16‑bit color palette: saturated primaries, neon accents, and high‑contrast arcade lighting. Add optional chaotic FX such as pixel sparks, glitch streaks, scanline distortions, power‑up flashes, or retro HUD particles. Randomize the following elements each time the prompt is used: Hairstyle: pixel‑punk spikes, retro 16‑bit waves, chunky pixel curls, neon‑lit arcade bob, stylized pixel‑hero sweep, or glossy pixel‑rendered long hair. Outfit: 16‑bit fighter jacket, pixel‑armor suit, neon arcade hoodie, retro hero tunic, cyber‑pixel vest, or bold color‑blocked arcade gear. Accessories: pixel visor, retro headset, glowing 16‑bit wristband, power‑up badge, LED earpiece, or none. Background: pixel grid with color bursts, retro game‑menu screen, neon scanline gradient, chaotic glitch field, or arcade cabinet glow. Include a customizable Gamer Tag displayed as a floating retro nameplate using pixel‑font or neon‑HUD lettering. Overall mood: chaotic, playful, retro‑arcade portrait with 16‑bit texture, glitch energy, and vibrant pixel‑hero personality. Avoid unwanted elements such as text, logos, distortions, or additional people. (Male Adapted) Create a 16‑bit retro arcade character portrait based on the uploaded male user photo. Preserve only the subject’s face and hair likeness from the photo; do not preserve the original clothing, pose, or background. Render the subject as a stylized male pixel‑hero, blending chunky retro pixel art with modern shading and chaotic arcade energy. Use a centered portrait composition with the subject facing the camera, expressing bold, confident, high‑energy arcade‑hero attitude. Skin should appear pixel‑rendered with blocky shading, soft dithering, and stylized highlights. Edges should be crisp, with subtle pixel outlines and retro color‑banding. Apply a vibrant 16‑bit color palette: saturated primaries, neon accents, and high‑contrast arcade lighting. Add optional chaotic FX such as pixel sparks, glitch streaks, scanline distortions, power‑up flashes, or retro HUD particles. Randomize the following elements each time the prompt is used: Hairstyle (male variations): pixel‑punk spikes, retro 16‑bit action‑hero sweep, short textured pixel crop, stylized arcade quiff, chunky pixel curls, or neon‑lit warrior hair. Outfit (male variations): 16‑bit fighter jacket, pixel‑armor chestplate, neon arcade varsity jacket, retro hero tunic, cyber‑pixel vest, or bold color‑blocked arcade hoodie. Accessories (male variations): pixel visor, retro headset, glowing 16‑bit wristband, power‑up badge, LED earpiece, or none. Background: pixel grid with color bursts, retro game‑menu screen, neon scanline gradient, chaotic glitch field, or arcade cabinet glow. Include a customizable Gamer Tag displayed as a floating retro nameplate using pixel‑font or neon‑HUD lettering. Overall mood: chaotic, playful, retro‑arcade portrait with 16‑bit texture, glitch energy, and bold male pixel‑hero personality. Avoid unwanted elements such as text, logos, distortions, or additional people.
@@ -514,7 +514,7 @@ highly detailed {argument name="art style" default="claymation-style"} portrait 
 
 ## Cyberpunk Techwear Street Shot
 
-> Sinematik, fütüristik görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Sinematik, fütüristik şehir ve sokak sahnesi üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 {
@@ -542,7 +542,7 @@ A high-detail 3D digital art piece of a {argument name="character" default="fluf
 
 ## Vortex Katana Warrior
 
-> Sinematik portre üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
+> Sinematik karakter görseli üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 A high-resolution, cinematic full-body portrait of a stylish young man standing confidently in a misty, ethereal environment. He is wearing a white button-up shirt under a black knitted sweater vest, paired with oversized baggy dark grey denim jeans and a black textured baseball cap tilted down to partially shadow his face. He holds a {argument name="weapon" default="sleek black katana"} with a {argument name="glow color" default="glowing purple aura"} emanating from the blade. Surrounding him is a massive, swirling vortex of dark, shadowy energy and ink-like smoke forming a circular frame against a bright, hazy white background. The lighting is moody and dramatic, emphasizing the sharp contrast between the dark energy and the foggy atmosphere, captured in a professional digital art style with a 4k finish, 100% my face same, I need this prompt picture, zoom in {argument name="aspect ratio" default="4:5"} man one hand in pocket,
@@ -569,7 +569,7 @@ clean pixel edges
 
 ## Futuristic Studio Portrait
 
-> Fütüristik logo üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Fütüristik portre üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 A high-resolution image of a {argument name="subject" default="young man with a bold, confident expression"} sitting on a {argument name="furniture" default="green bench"} in a {argument name="setting" default="futuristic green-lit room"}. He is wearing a black sweatshirt with 'Ozair Ai' written on it in white text, green cargo pants with white and black details, white socks with a logo, and green sneakers. He is leaning back slightly with one arm on the back of the bench, posing with confidence. The background features glowing green geometric lines and digital interfaces.
@@ -577,7 +577,7 @@ A high-resolution image of a {argument name="subject" default="young man with a 
 
 ## King Salmon vs Grizzly Bear Battle
 
-> Görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Hayvan görseli üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 {argument name="subject one" default="king salmon"} VS. {argument name="subject two" default="grizzly"}
@@ -593,7 +593,7 @@ A high-resolution image of a {argument name="subject" default="young man with a 
 
 ## Samurai vs Oviraptors
 
-> Görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Sahne üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 {argument name="protagonist" default="samurai"} VS. {argument name="antagonist" default="Oviraptors"}
@@ -649,7 +649,7 @@ photorealism, {argument name="grid layout" default="2x2"} grid of detailed {argu
 
 ## Multi-View Car Sheet
 
-> Fotogerçekçi görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi araç görseli üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 photorealism, {argument name="subject" default="car sheet"}, four-view, side view, top view, backside view, front view  
@@ -684,7 +684,7 @@ A close-up, vertical shot features a {argument name="monster description" defaul
 
 ## Cinematic Dark Fantasy Scene of Elemental Collision
 
-> Sinematik görsel üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
+> Sinematik fantastik sahne üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 A cinematic dark fantasy scene of the uploaded reference character seated in a basement at the exact point where opposite elemental forces are born from their own body. Likeness Integrity (CRITICAL) Preserve the exact identity of the uploaded character. Maintain exact proportions, eye shape, spacing, stylization, silhouette, and material identity. Do not humanize. Do not reinterpret anatomy. Do not modify facial structure. Do not add unintended accessories. Identity must remain instantly recognizable. Core Scene The character is sitting in a melancholic, emotionally heavy pose at the center of a cold unfinished basement. From one open palm, molten lava pours downward in a continuous glowing stream. From the other open palm, freezing ice and frost pour downward in a continuous crystalline stream. Both elements spill onto the basement floor and form two separate flowing rivers: one lava river, one ice river. They travel across the concrete floor in opposite directions and meet nearby in the same scene. Elemental Interaction Where the rivers meet, the collision creates violent physical contrast: steam, glowing cracks, frost bloom, blackened wet concrete, cooling rock, and frozen shards. The meeting point must feel emotionally symbolic, like two inner states colliding. Creature Creation Story (CRITICAL) The lava and ice pouring from the palms are actively creating creatures on the floor. These creatures must feel born from the flowing material itself, not placed into the scene afterward. Some creatures are still forming out of the streams. Some are fully shaped and wandering around the seated character. Lava creatures: glowing, semi-molten, ember-veined, heat-distorted silhouettes. Ice creatures: translucent, frosted, crystalline, sharp-edged, cold-vapor silhouettes. They should vary in size and animals language, all kind of animals and insects. A few lava and ice creatures are already surrounding the character in quiet loyalty or silent observation. Character Pose & Emotion The character is seated, still, introspective, emotionally exhausted. Head slightly lowered. Shoulders carrying invisible weight. Palms open and angled downward so the lava and ice pour naturally from them. The pose must feel like grief, restraint, and power at the same time. Not a triumphant spellcasting pose. Not action-hero energy. Quiet sorrow. Controlled destruction. Environment A dark basement interior with: unfinished concrete floor, aged walls, pipes and exposed structure, subtle moisture stains, minimal objects, deep negative space. The basement should feel real, sparse, and slightly abandoned. The elemental rivers become the main environmental storytelling device. Camera & Perspective Use a low cinematic perspective, slightly below the seated character's eye line. Lens: 24mm or 28mm. The camera is close enough to feel intimate but wide enough to show the rivers spreading across the floor and the creatures surrounding the character. Composition should be slightly off-center, not symmetrical. Use foreground depth with one or two blurred creatures or fragments near the lens. The seated character remains the emotional anchor. Depth of Field Primary focal plane locked on the character's face, upper torso, and both pouring palms. Nearest creatures and the river collision point can remain slightly readable. Foreground and far background fall progressively out of focus. No full-frame sharpness. Lighting Main light: a weak cool basement lamp overhead, dim and emotionally cold. Ambient: dark blue low-light atmosphere throughout the basement. Secondary light comes naturally from the lava itself, casting warm orange-red underlight onto parts of the character and nearby creatures. Ice contributes faint cold reflections and subtle blue-white edge highlights. Lighting must stay directional and cinematic, with deep shadow mass and controlled contrast. No flat lighting. Color Grade Dominant palette: dark blue, cold grey, black shadow. Accents: molten orange-red from lava, pale cyan-blue from ice. The warm and cool elements must remain clearly separated and emotionally readable. Controlled saturation, cinematic highlight roll-off, no color flooding. Atmosphere Thin basement haze. Steam rising where lava and ice meet. Cold vapor around the ice creatures. Subtle airborne dust catching the weak overhead lamp. The air should feel heavy and lonely. Mood Melancholic. Mythic but grounded. The scene should feel like inner conflict externalized into the physical world. The character is not commanding the creatures. They are simply emerging from what the character cannot hold inside. Negative Constraints No heroic battle pose. No cheerful fantasy lighting. No flat basement rendering. No symmetrical centered composition. No generic fireballs or magic aura. No full-body sharpness. No random clutter. No cute cartoon expression unless it already belongs to the character identity. Aspect Ratio ar 16:9
@@ -692,7 +692,7 @@ A cinematic dark fantasy scene of the uploaded reference character seated in a b
 
 ## Photoreal Character Reference Sheet Prompt for Nano Banana Pro
 
-> Fotogerçekçi, minimal görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, minimal karakter görseli üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Create a photoreal character reference sheet on a pure white background.
@@ -717,7 +717,7 @@ Photoreal, ultra-detailed, sharp focus, no props, no weapons, no text, no labels
 
 ## GTA 6 In-Game Footage Test Prompt
 
-> Görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Hayvan görseli üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 GTA 6 in-game footage, very detailed, very realistic. Close-up shot taken from a stationary 4k monitor. (There's a slight blurriness in the image, as it feels like it was taken handheld). A wide, bright environment. Realistic details. The character is walking on the beach with /  :dog.
@@ -725,7 +725,7 @@ GTA 6 in-game footage, very detailed, very realistic. Close-up shot taken from a
 
 ## 3D Character Sheet for Varsity Jacket Prompt
 
-> Fotogerçekçi, lüks moda çekimi üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, lüks 3B sahne üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 A photorealistic 3D character sheet of a male figure with a sharp fade haircut and a meticulously groomed beard. He is wearing a heavyweight {argument name="jacket color" default="cream-colored"} Aimé Leon Dore-style wool varsity jacket with leather sleeves and a large "NY" chenille patch. Layered with a thick gold herringbone chain. Front orthographic and three-quarter views. Soft, global illumination with high-key lighting to emphasize PBR albedo textures. Intricate mesh detail on the knit collar, realistic skin pores, rendered with high-end Subsurface Scattering.
@@ -749,7 +749,7 @@ a pole-mounted transformer in the style of a trading card game's card
 
 ## Isometric Luxury Product Showcase of a Vinyl Collectible Figure
 
-> Minimal, lüks logo üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
+> Minimal, lüks 3B sahne üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Isometric luxury product showcase of the person from the reference photo reimagined as a premium vinyl collectible figure set, stylized chibi proportions with an oversized head and refined facial likeness, displayed in an elegant collector’s window box beside the actual figure posed outside the packaging, with curated accessories reflecting the subject’s identity arranged neatly inside the box tray. Packaging with a clean title area for {argument name="name" default="[Name]"}. High-end commercial toy photography, shot on full frame with a 50mm lens at f/8, ISO 100, 1/160s. Controlled studio lighting with a large softbox key at 45° camera-left, subtle fill bounce, stripbox edge light for separation, black flags for negative fill, crisp specular control, and defined shadows with retained detail. Realistic moulded vinyl, premium cardboard, clear PET window, accurate seams and inserts, lifelike materials, precise reflections, magazine-quality retouching, soft bloom, subtle grain, clean white product backdrop, anatomically correct hands, no extra fingers, no warped anatomy, no plastic skin, no blown highlights, controlled whites, retained shadow detail, no logo, no watermark, no readable signage.
@@ -757,7 +757,7 @@ Isometric luxury product showcase of the person from the reference photo reimagi
 
 ## Action Pose Sheet for Cat
 
-> Minimal, lüks 3B sahne üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Minimal, lüks hayvan görseli üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Character turnaround sheet of the same lanky grey housecat with oversized paws, cream muzzle, amber eyes, expressive black brows, tall triangular ears, slim elastic body, red collar. Show full body front view, side view, back view, and three-quarter view in one clean composition. Keep proportions identical in every angle. Tail fully visible. Neutral standing pose, arms relaxed, readable silhouette. premium stylized 3D family-film animation, rounded appealing shapes, soft groomed fur, clean neutral studio background, no props, no text, no watermark. Character turnaround sheet of the same tiny warm-brown mouse with round ears, quick black eyes, pale belly, tiny pink nose, slim tail, and tiny blue scarf. Show full body front view, side view, back view, and three-quarter view in one clean composition. Keep scarf shape, tail length, ear size, and body proportions identical in every angle. Neutral standing pose, readable silhouette. premium stylized 3D family-film animation, clean neutral studio background, no props, no text, no watermark. Action pose sheet of the same tiny warm-brown mouse with round ears, quick black eyes, pale belly, tiny pink nose, slim tail, and tiny blue scarf. Show full-body poses in one image. Exaggerated but clean slapstick silhouette, consistent anatomy and scarf shape. premium stylized 3D family-film animation, neutral studio background, no text, no watermark. Action pose sheet of the same lanky grey housecat with oversized paws, cream muzzle, amber eyes, expressive black brows, tall triangular ears, slim elastic body, red collar. Show full-body poses in one image: sneaking low, mid-pounce, skidding stop, hanging from one paw, pancake-splat pose, triumphant pose. Exaggerated but clean slapstick silhouette, consistent anatomy, same proportions in every pose. premium stylized 3D family-film animation, neutral studio background, no text, no watermark
@@ -808,7 +808,7 @@ Generate a hyper-realistic, isometric 3D render of a Chess Set.   CRITICAL:   Yo
 
 ## Character Rebuilt from Sliced Fruits and Vegetables
 
-> Minimal 3B sahne üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
+> Minimal karakter görseli üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 create a version of this character made entirely of sliced vegetables and fruits vegetables and fruits: should match the uploaded character’s colors as closely as possible, without changing their natural look slices: slightly misaligned, with visible separation between layers structure: a small bite taken out of the top of the head, forming a clean cut surface ambience: kitchen setting, on a cutting board with scattered vegetables and a knife nearby camera: slightly top-down angle effect: tilt-shift  Likeness Preservation (CRITICAL): Maintain exact proportions, eye shape, spacing, stylization, silhouette, and material identity from the reference Do not humanize Do not reinterpret anatomy Do not modify facial structure Identity must remain perfectly intact and instantly recognizable Character Compatibility Rules: If the uploaded character is 2D, convert it into a believable realistic 3D render while preserving the original design, proportions, colors, and visual identity Do not modify facial structure  Do not add a mouth or nose if the uploaded character does not have them  👟 FOOTWEAR & ACCESSORY MATERIAL OVERRIDE (CRITICAL FIX) All parts of the character, including footwear and clothing, must follow the same fruit and vegetable slice construction. • shoes must be made entirely of stacked fruit and vegetable slices  • preserve the exact shoe shape, proportions, and design  • recreate panels, sole, and details using layered slices Material examples for shoes: • sole → dense stacked potato or root vegetable slices  • upper panels → fruit/vegetable slices arranged to match original color blocking  • edges and seams → visible slice layering and separation 📷⚠️ 0px; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px;"> IMPORTANT:  No original materials should remain (no fabric, rubber, or leather).  Everything must be converted into fruit/vegetable slice construction while keeping the original design recognizable. ar 1:1
@@ -871,7 +871,7 @@ Create a highly engaging, cute, and expressive sticker pack that feels premium a
 
 ## KNIGHT MECHA GIRL Figure Generation Prompt
 
-> Görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Kadın figürlü görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 KNIGHT MECHA GIRL
@@ -943,7 +943,7 @@ film-quality finish (not toy-like, not overly realistic)
 
 ## Ultra-Realistic Man in Angry Birds World
 
-> Fotogerçekçi, sinematik görsel üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, sinematik hayvan görseli üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Create a completely new ultra realistic Instagram vertical 4:5 image for Gemini 3 Pro Nano Banana of the same man with identical facial features inside the Angry Birds world during a dramatic escape moment. He jumps off a collapsing wooden platform as multiple TNT crates detonate behind him, red sparks and debris flying. Red is mid air flying beside him, Bomb is igniting, Chuck sprints ahead, Stella flutters above, and pigs are scattering everywhere in panic. Outfit: fitted white T-shirt, tactical brown cargo pants, and impact-ready white sneakers with red-yellow accents, all detailed and textured. Environment: broken glass, exploding stone blocks, rolling green hills blurred behind. Lighting: intense warm explosion glow from one side combined with cool sky light from the other, giving epic cinematic contrast. Feathers, dust, debris, and motion are ultra
@@ -953,7 +953,7 @@ detailed. Shot on a dynamic slightly low 28 mm lens for powerful action depth, w
 
 ## Full Armor Mecha Girl Figure Concept for Nano Banana Pro
 
-> Görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Kadın figürlü görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Full Armor Mecha Girl
@@ -963,7 +963,7 @@ FAMG-002 Belthiera
 
 ## Breaking Bad Collectible Figurine Prompt with Reference Image
 
-> İllüstrasyon üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
+> Karakter görseli üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Create a 1/7 scale commercialized figurine of the person in the picture, in a realistic style, in a cozy artisan workshop environment. The figurine is placed on a wooden workbench. The figurine has a round transparent acrylic base, with no text on the base. The content on the computer screen is the Zbrush modeling process of this figurine. Next to it is a BANDAI-style toy packaging box printed with the original artwork. The packaging features two-dimensional flat illustrations.
@@ -971,7 +971,7 @@ Create a 1/7 scale commercialized figurine of the person in the picture, in a re
 
 ## Collectible Card in Zip Bag Macro Photography Prompt
 
-> Fotogerçekçi, sinematik görsel üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, sinematik fotoğraf üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 A photorealistic hand holding a transparent zip bag containing a realistic collectible card.
@@ -983,7 +983,7 @@ Use true macro lens perspective (90mm–120mm macro lens look) with very shallow
 
 ## Technical Blueprint of an AI GPU Cluster
 
-> Fotogerçekçi, sinematik bilgi grafiği üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, sinematik 3B sahne üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 A detailed technical blueprint of a high-performance AI GPU cluster placed on a polished brass drafting table, with a photorealistic miniature AI server system self-assembling from it — multiple GPU accelerator units (sleek black and metallic modules with neon green accents) rising from the dimension lines, high-speed interconnect bridges threading through the tolerance annotations, and dense compute nodes forming from the grid layout.
@@ -1127,7 +1127,7 @@ Aspect Ratio: ar 16:9
 
 ## Cartoon Character Design Sheet with Personality
 
-> İllüstrasyon üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
+> Karakter görseli üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 create a cartoon character design sheet from this image
@@ -1181,7 +1181,7 @@ A cute 3D chibi-style cartoon sticker set featuring the same character in variou
 
 ## Bat Cowl Protocol Character Prompt
 
-> Stüdyo ışıklı 3B sahne üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
+> Stüdyo ışıklı karakter görseli üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 A high-quality 3D render of the designer toy from [Reference Image 1]. Requirement: The character must retain its exact original outfit . The Mask: Tightly fit a custom "Bat Cowl" ([Reference Image 2]) over the head.
@@ -1217,7 +1217,7 @@ No visible skin where the reference does not show it.
 
 ## Ghibli x Game of Thrones Character Prompts
 
-> Görsel üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
+> Karakter görseli üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 use the character turnaround format from [img1] to create {argument name="character name" default="[character name]"} in the same style
@@ -1227,7 +1227,7 @@ prompt: show them in a scene together, ghibli style
 
 ## Full Armor Mecha Girl model kit concept prompt
 
-> Görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Kadın figürlü görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Full Armor Mecha Girl
@@ -1241,7 +1241,7 @@ It was created using a derived prompt from 'Warrior Mecha Girl' → 'Knight Mech
 
 ## Ghibli Nezha Character Turnaround
 
-> Görsel üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
+> Karakter görseli üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 use the character turnaround format from [img1] to create {argument name="character name" default="Nezha"} in the same style
@@ -1249,7 +1249,7 @@ use the character turnaround format from [img1] to create {argument name="charac
 
 ## Pixelated Cartoon Animal Image
 
-> Minimal illüstrasyon üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Minimal hayvan görseli üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 A cartoonish ({argument name="animal name" default="Animal Name"}) in pixelated image format
@@ -1257,7 +1257,7 @@ A cartoonish ({argument name="animal name" default="Animal Name"}) in pixelated 
 
 ## Ghibli-Inspired Character Turnaround
 
-> İllüstrasyon üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
+> Karakter görseli üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 use the character turnaround format from [img1] to create {argument name="character description" default="[character name / image]"} in the same style
@@ -1273,7 +1273,7 @@ a chicken in a T-Rex costume's on the way of homecoming in the style of an 8-bit
 
 ## LMGT3-Class Car Inspired Sea Iguana
 
-> Görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Araç görseli üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 a sea iguana that is inspired by a LMGT3-class car
@@ -1281,7 +1281,7 @@ a sea iguana that is inspired by a LMGT3-class car
 
 ## Pop Surreal Kawaii Cat on Roller Skates
 
-> Minimal mimari görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Minimal hayvan görseli üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 a cat wearing roller skates, pop surreal kawaii illustration style, clean vector lines, bold flat colors, ultra cute and whimsical vibe, full-body character centered in frame, dynamic skating pose with one paw lifted, oversized expressive eyes and tiny mouth, pastel city street background with floating clouds and abstract candy-shaped buildings, soft ambient lighting with subtle gradients, high resolution vector art, crisp outline, smooth minimal shading, playful and dreamy atmosphere
@@ -1289,7 +1289,7 @@ a cat wearing roller skates, pop surreal kawaii illustration style, clean vector
 
 ## Dark Fantasy Knight Wallpaper Generation with Nano Banana 2
 
-> Fotogerçekçi, sinematik görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, sinematik fantastik sahne üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 A cinematic, full-body shot of a battle-worn knight in detailed steel plate armor walking through a tall, golden grass field. The knight is draped in heavily tattered and shredded bright red robes that flow in the wind, with a longsword in hand and a secondary blade strapped to his back. A flock of black crows circles in the hazy, overcast sky above. Soft, diffused daylight creates a moody atmosphere with visible dust motes and particles. Shot on a Sony A7R IV with an 85mm f/1.4 lens, low angle, shallow depth of field focusing on the intricate textures of the weathered armor and frayed fabric. Hyper-realistic, 8k resolution, raw photo, gritty dark fantasy aesthetic, 9 : 16.
@@ -1297,7 +1297,7 @@ A cinematic, full-body shot of a battle-worn knight in detailed steel plate armo
 
 ## Stylized Grid of Whimsical Cat Faces
 
-> İllüstrasyon üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Hayvan görseli üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 A grid of twelve stylized cat faces, arranged in four rows and three columns, fills the frame. Each cat face is distinct, featuring a unique color palette and decorative elements. The cats have large, round eyes, small noses, and prominent whiskers. Some wear floral accessories, bows, or other playful adornments on their heads. The overall style is whimsical and childlike, with bold outlines and flat colors, reminiscent of children's book illustrations or stickers. The background is a plain white, making the colorful cat faces stand out.
@@ -1305,7 +1305,7 @@ A grid of twelve stylized cat faces, arranged in four rows and three columns, fi
 
 ## Handcrafted Stone Figurine Transformation Prompt
 
-> Görsel üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
+> Karakter görseli üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 {
@@ -1342,7 +1342,7 @@ Transform the subjects into a cute anime chibi characters rendered as a clean 3D
 
 ## Image generation for Dragon Quest X: VS Calamity King
 
-> Görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Fantastik yaratık üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Dragon Quest X
@@ -1356,7 +1356,7 @@ Sage, Hermit
 
 ## Cherry Blossom Space Colony Illustration Prompt
 
-> Mimari görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> İllüstrasyon üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 High-definition, high-resolution 2.5D rendered illustration. A massive, horizontally tilted cylindrical space with a diameter of 6400 meters. The inner wall alternates between sections of green space and urban areas, and sections of glass and frames. The cherry blossoms are in full bloom in the green space, and their petals are falling. Beyond the glass, outer space is visible. White clouds drift along the inner surface of the cylinder. The innermost part of the cylinder is blocked off by a huge metal bulkhead, which is obscured by air. The distant areas appear blue and hazy due to atmospheric perspective. The image is taken from a camera angle slightly looking down toward the end of the cylinder from near its central axis.
@@ -1364,7 +1364,7 @@ High-definition, high-resolution 2.5D rendered illustration. A massive, horizont
 
 ## Samurai Mecha Girl Figure
 
-> Fotogerçekçi görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi kadın figürlü görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Samurai Mecha Girl
@@ -1413,7 +1413,7 @@ Important:
 
 ## Ryu Performing Tatsumaki Senpukyaku on a Spy in Final Fantasy Style
 
-> Görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Fantastik sahne üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Anti-Espionage Law
@@ -1433,7 +1433,7 @@ Futuristic cinematic scene of a tech engineer sitting in a modern workspace, hol
 
 ## Mecha Girl Figure Concept Prompt
 
-> Görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Kadın figürlü görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 KNIGHT MECHA GIRL
@@ -1446,7 +1446,7 @@ The shield appears to be connected to the shoulder.
 
 ## Cinematic Macro Toy Photography of a Sprinting Character
 
-> Sinematik, elle çizilmiş bilgi grafiği üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
+> Sinematik, elle çizilmiş karakter görseli üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 A cinematic macro toy-photography scene. A bean-sized version of the uploaded reference character is sprinting explosively captured at the peak stride moment of a high-speed sprint with visual effect. Character Pose: A dynamic, mid-sprint action pose with amazing visual effects captured from a three-quarter side profile. Torso: Leaning forward at a sharp angle to convey momentum. Arms: One arm is bent sharply at the elbow with the fist tucked near the chest; the other arm is extended backward, trailing behind the torso. Legs: In a full stride. The lead leg is bent forward with the knee high, while the trailing leg is fully extended back with the foot pointed. Head: Facing forward, aligned with the direction of the run. The character runs across the surface of several giant black-and-white character design pages fully covering the ground, featuring the same character. Likeness Preservation (CRITICAL): The identity of the character must remain exactly identical to the reference in both: • the miniature physical character • the character shown in the design sketches. The sketch pages must show the same character, including: • dynamic poses small sketches • head studies and shape explorations • proportion notes • accessory sketches • construction diagrams • small handwritten annotations. Maintain the exact: • head shape • eye shape and spacing • stylization • silhouette • materials and clothing design. If the character wears a balaclava, mask, helmet, or covered face, the sketches must not invent facial anatomy. No added nose. No added mouth. No visible skin where the reference does not show it. Do not humanize the character. Do not reinterpret anatomy. Subject & Action: The miniature character sprints explosively across the design pages, tearing through the sketch sheet as it runs. The character is captured at the peak stride moment of a full-speed sprint. Running pose details: • the body leans sharply forward as if accelerating • one leg is fully extended forward while the other drives powerfully backward • arms pump in opposite running motion • the torso twists slightly creating a dynamic curved spine line • the pose feels like a high-speed comic-book sprint. The character’s momentum rips through the paper, creating a jagged torn path behind it. A trail of torn paper curls and fragments with vfx follows behind the running character as if it burst out of its own design. Oversized design sheets surround the character, each page showing different stages of development of the same character. One small grey 3d print of the character is in the background as an exact copy of the uploaded image. Camera & Perspective: Captured from a medium camera distance above the desk, allowing a wider portion of the surrounding design pages to be visible. Shot with an 85mm macro lens, creating natural compression while keeping the environment readable. The camera sits slightly elevated and angled downward toward the running character. The character remains the focal point but occupies roughly one third of the frame, revealing more of the design sheets and workspace around it. The character remains slightly off-center within the spotlight. Depth of Field: Extremely shallow depth of field. The sprinting miniature character and the immediate section of the torn sketch page are razor sharp. Surrounding pages and distant elements fall into soft blur. Lighting (VERY DRAMATIC): A single narrow spotlight / flashlight beam hits the character. The beam comes from a side-front direction, creating a bright circular pool of light on the design page. Lighting characteristics: • extremely hard light • very high contrast • no ambient fill light • the surrounding elements fades into near-total darkness • sharp dramatic shadows stretch across the paper • edges of the light beam fall rapidly into black. The environment outside the spotlight should feel almost completely swallowed by darkness, as if the character has been suddenly caught under a stage light. Dust particles float through the beam. Environment & Surface Detail: Macro-level detail of the design pages: • ink texture • pencil strokes • paper fibers • subtle reflections on graphite lines. The torn paper edge reveals fibrous paper layers and curled fragments along the ripped path. Subtle Heat Burn Detail: Along parts of the torn path, the paper shows light scorching caused by extreme speed friction: • edges of some tears are slightly darkened and singed • faint burnt browning transitions into the white paper fibers • tiny ember-like glowing specks appear briefly along the freshest tear points • very subtle wisps of heat distortion or smoke rise from a few edges. The burn effect must remain minimal, believable, and physically grounded, enhancing realism without turning into flames or overpowering the scene. Color Grade: Desaturated sketch pages and environment. The character receives cool cinematic highlights from the spotlight. Moody macro photography atmosphere. Rendering Style: Photorealistic macro toy photography, emphasizing scale illusion between the tiny character and the giant design pages. Speed Energy VFX: A stylized high-speed energy trail follows behind the running character, emphasizing the explosive sprint. The trail consists of thin luminous motion streaks and glowing particles streaming backward from the character’s movement direction. Characteristics: • energy streaks originate from behind the character’s shoulders, arms, and legs • streaks extend diagonally backward, following the direction of motion • the lines are semi-transparent glowing blue light trails • small sparkling particles scatter along the trail • the effect should feel like comic-book speed energy, not smoke or fire • the VFX enhances motion but does not cover or obscure the character. The light streaks interact subtly with the environment: • faint glow reflecting on the torn paper edges • slight blue rim light on the character’s silhouette • a few glowing particles floating through the spotlight beam. The energy trail should feel fast, sharp, and directional, reinforcing the sense that the character is sprinting at extreme speed. ar 3:2
@@ -1454,7 +1454,7 @@ A cinematic macro toy-photography scene. A bean-sized version of the uploaded re
 
 ## Final Fantasy Party vs. Kraken Image Generation
 
-> Görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Fantastik sahne üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Final Fantasy
@@ -1488,7 +1488,7 @@ Quality: ultra high resolution, 8k, Octane render, Unreal Engine style, professi
 
 ## Yoichi Takahashi in Final Fantasy Style
 
-> Görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Fantastik sahne üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 {argument name="person name" default="Yoichi Takahashi"}, maintaining his appearance
@@ -1500,7 +1500,7 @@ Fantastical style
 
 ## Looney Tunes Character Transformation
 
-> İllüstrasyon üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
+> Karakter görseli üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Create a stylized 2D cartoon illustration inspired by classic Looney Tunes animation. Preserve exact facial likeness and clothing while adapting the character with oversized expressive eyes, bold outlines, and playful squash-and-stretch proportions.
@@ -1590,7 +1590,7 @@ Aspect ratio: 4:5
 
 ## Cyberpunk Biomechanical Portrait
 
-> Fotogerçekçi, sinematik 3B sahne üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, sinematik portre üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Make a cyberpunk portrait of a young woman with a partially exposed chrome skull, split face design, one side realistic human skin and the other side metallic robotic skull, reflective liquid chrome fragments floating and slicing through the face, futuristic biomechanical aesthetic, glossy metal reflections, red background, dramatic lighting, ultra detailed skin and metal textures, sharp focus, surreal sci-fi concept art, high contrast, hyperrealistic, anime-inspired cyberpunk style, 3D render look, octane render, highly polished chrome, floating metallic shards around the head, cinematic composition, 8k
@@ -1672,7 +1672,7 @@ ar 5:4
 
 ## Ninjago Characters Remastered in UE5 Style
 
-> Görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Karakter görseli üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Ninjago characters and scenes remastered in UE5 animation style
@@ -1680,7 +1680,7 @@ Ninjago characters and scenes remastered in UE5 animation style
 
 ## Exaggerated 3D Caricature Character Portrait
 
-> Fotogerçekçi, sinematik moda çekimi üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, sinematik 3B sahne üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Create an exaggerated stylized 3D caricature character portrait with strong intentional deformation and a clean, controlled surface finish. Use the person from reference photo.Preserve the subject’s identity, facial likeness, skin tone, and defining features, but reinterpret them into a bold caricatured 3D form with an elongated neck, oversized head-to-neck ratio, droopy eyelids, heavy lips, and slightly asymmetrical facial structure.Render as a human-like 3D character with smooth, studio-clean skin and intentionally designed detail, avoiding random texture or noise. Style with bold accessories such as round or oval glasses, hoop earrings, gold chains, headscarves or bandanas, and street-luxury clothing.
@@ -1694,7 +1694,7 @@ Aspect ratio 4:5.
 
 ## Sleek LCD-Face Robot Prompt
 
-> Fotogerçekçi, sinematik görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, sinematik fantastik yaratık üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 hyper-realistic close-up of a sleek modern robot with a large rectangular LCD screen as its face, high-resolution display showing **{argument name="display content" default="display content"}**, sharp crisp pixels and subtle backlight glow, matte black metallic body with subtle panel lines and brushed aluminum accents, glowing blue LED trim around the screen edges, articulated neck and shoulders with visible cables and servos, cool industrial design with faint reflections on the screen glass, dramatic cinematic studio lighting with strong rim light and soft volumetric highlights, ultra detailed screen texture, realistic LCD bloom and slight scan lines, futuristic yet grounded aesthetic, masterpiece, sharp focus
@@ -1702,7 +1702,7 @@ hyper-realistic close-up of a sleek modern robot with a large rectangular LCD sc
 
 ## Cinematic 3D Render Conversion
 
-> Sinematik logo üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
+> Sinematik 3B sahne üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Convert character into a modern cinematic 3D render with a high-fashion grade, punchy yet natural contrast, filmic color science, subtle halation/bloom, controlled highlights, realistic materials, preserve the original camera framing, no text, no logo
@@ -1710,7 +1710,7 @@ Convert character into a modern cinematic 3D render with a high-fashion grade, p
 
 ## Stylized 3D Caricature Portrait Prompt
 
-> Fotogerçekçi, sinematik moda çekimi üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, sinematik 3B sahne üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Create an exaggerated stylized 3D caricature character portrait with strong intentional deformation and a clean, controlled surface finish. Use the person from the ATTACHED REFERENCE PHOTO. Preserve the subject’s identity, facial likeness, skin tone, and defining features, but reinterpret them into a bold caricatured 3D form with an elongated neck, oversized head-to-neck ratio, droopy eyelids, heavy lips, and slightly asymmetrical facial structure.Render as a human-like 3D character with smooth, studio-clean skin and intentionally designed detail, avoiding random texture or noise. Style with bold accessories such as {argument name="accessories" default="round or oval glasses, hoop earrings, gold chains"}, headscarves or bandanas, and street-luxury clothing.
@@ -1724,7 +1724,7 @@ Aspect ratio 4:5.
 
 ## 3x3 Grid Character Consistency Prompt
 
-> Görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Minimal karakter görseli üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 In a 3×3 grid, each cell should have an aspect ratio of 2:3. Show the same character from different angles while keeping the scene consistent, with randomized poses in each cell.
@@ -1752,7 +1752,7 @@ Shot with an 85mm cinematic portrait lens, f/1.8 aperture, extremely shallow dep
 
 ## Character Reference Sheet Prompt for Nano Banana
 
-> Sinematik, minimal portre üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Sinematik, minimal karakter görseli üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 [SUBJECT] = {argument name="subject description" default="elegant attractive young woman with blonde bob hair, large almond-shaped blue eyes, narrow nose, high cheekbones and delicate angular facial structure"}
@@ -1764,7 +1764,7 @@ Make a professional character reference sheet of [SUBJECT] in [OUTPUT_STYLE] in 
 
 ## Anime Character Reference Sheet Prompt (Nano Banana 2)
 
-> Fotogerçekçi, minimal 3B sahne üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, minimal karakter görseli üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 (masterpiece, best quality, official art, character design sheet, reference sheet, settai-ga, production materials), (cel shading, flat colors, clean lines),
@@ -1802,7 +1802,7 @@ A wooden tiki statue with a carved, smiling face and intricate details is depict
 
 ## Plush Kaiju Cat Smashing Tokyo
 
-> Sinematik, fütüristik görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Sinematik, fütüristik hayvan görseli üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Massive adorable plush kaiju cat (soft velvety fur, huge round glowing eyes) towering over nighttime Tokyo, one giant paw smashing through Shibuya crossing, tiny humans fleeing, broken neon signs raining down, dramatic red emergency lighting + blue moonlight, cinematic destruction with soft toy-like fur texture contrasting hard metal & concrete debris, ultra-detailed 8k, epic scale -
@@ -1810,7 +1810,7 @@ Massive adorable plush kaiju cat (soft velvety fur, huge round glowing eyes) tow
 
 ## Chibi sticker set prompt for Nano Banana Pro
 
-> Fotogerçekçi, minimal 3B sahne üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, minimal karakter görseli üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 {
@@ -1856,7 +1856,7 @@ Massive adorable plush kaiju cat (soft velvety fur, huge round glowing eyes) tow
 
 ## Whimsical Mono-Punk Floating Miniature Diorama Generator
 
-> Retro, fütüristik mimari görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Retro, fütüristik 3B sahne üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 WHIMSICAL MONO-PUNK FLOATING MINIATURE DIORAMA PROMPT
@@ -1897,7 +1897,7 @@ MICRO_NARRATIVE (delivery arrival, festival beginning, storm approaching, carava
 
 ## Fantasy World Creation Image Prompt (Nano Banana Pro)
 
-> Görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Fantastik sahne üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Great Sorceress Barbara, Observer
@@ -1913,7 +1913,7 @@ Observer, Great Sorceress Barbara
 
 ## Procedural Whimsical Mono-Punk Floating Miniature Diorama Prompt
 
-> Retro, fütüristik mimari görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Retro, fütüristik 3B sahne üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 WHIMSICAL MONO-PUNK FLOATING MINIATURE DIORAMA PROMPT
@@ -1953,7 +1953,7 @@ CIVILIAN_ACTIVITY (market trading, fishing, cargo loading, harvesting, machine r
 
 ## Procedural Whimsical Mono-Punk Floating Diorama Generator
 
-> Retro, fütüristik mimari görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Retro, fütüristik 3B sahne üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 WHIMSICAL MONO-PUNK FLOATING MINIATURE DIORAMA PROMPT
@@ -1993,7 +1993,7 @@ CIVILIAN_ACTIVITY (market trading, fishing, cargo loading, harvesting, machine r
 
 ## Universal Random Punk Scene Generator
 
-> Retro, fütüristik görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Retro, fütüristik sahne üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Universal Random Punk Scene Generator
@@ -2105,7 +2105,7 @@ Generate  appropriate cinematic lighting and atmospheric conditions: TIME_OF_DAY
 
 ## Final Fantasy themed battle scene image generation
 
-> Görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Fantastik sahne üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Final Fantasy
@@ -2153,7 +2153,7 @@ Negative Prompt: humans, people, overcrowded scene, dense environment, too many 
 
 ## Chibi Anime Girl Sticker Sheet
 
-> İllüstrasyon üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Karakter görseli üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 A sticker sheet of a cute anime chibi girl with long brown hair and a white sweater, multiple poses and facial expressions (happy, angry, crying, sleeping), white border around each character, flat 2D vector style, high resolution, white background
@@ -2169,7 +2169,7 @@ Convert the uploaded photo into an ultra-realistic, cinematic, fully photorealis
 
 ## DSLR Character Sheet for Profiles
 
-> Portre üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Karakter görseli üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 DSLR Character Sheet on a grey back drop. With three face profiles (front, 45° and side) and four full body portrait profiles (front, 45°, side and back). Photographed with a Canon SL3 with 17-85mm lens. No text overlays. Maintain consistency. 2:3 Ratio.
@@ -2197,7 +2197,7 @@ Centered composition, minimal background, character facing camera, symmetrical p
 
 ## Pixar-Style 3D Chibi Boy Character
 
-> Sinematik, minimal logo üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Sinematik, minimal 3B sahne üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Cute stylized 3D chibi boy character standing full body, big shiny brown eyes, soft round face, fluffy messy light-brown hair, wearing an oversized green hoodie with a small logo patch, black loose pants and trendy sneakers, making a peace sign with one hand, adorable smile, Pixar-style character design, smooth skin, ultra-detailed fabric texture, soft studio lighting, clean orange background, vibrant colors, toy-like aesthetic, highly detailed 3D render, cinematic composition, 8K.
@@ -2261,7 +2261,7 @@ Adorable stylized 3D child character wearing a fluffy sweater, soft blue hair, b
 
 ## Stylized Miniature Diorama of Forest Waterfall Village
 
-> Lüks mimari görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Lüks manzara üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 SCENE: A peaceful village built along the edge of a tall forest waterfall with small shrines, wooden houses, rope bridges, and viewing platforms carved into the cliff. Tiny villagers carry baskets along stone paths while birds fly through the mist and moss grows on the rocks.  
@@ -2311,7 +2311,7 @@ single person, correct anatomy, two legs, two arms
 
 ## Giant Woman City Walk Video Prompt
 
-> Fotogerçekçi, sinematik görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, sinematik şehir ve sokak sahnesi üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 A giant young woman walking through a modern city street, towering over skyscrapers, her footsteps cracking the asphalt beneath her boots. She wears a brown leather jacket over a beige turtleneck sweater, a fitted brown skirt, ankle socks, and lace-up brown boots. Her long wavy hair flows naturally as she walks confidently. Below her, tiny cars and yellow taxis swerve around broken pavement, pedestrians scatter in shock at a crosswalk. Dust and debris rise dramatically around her feet. Cinematic perspective from low angle, dramatic scale contrast, ultra-realistic details, dynamic lighting, shallow depth of field, 8K resolution, highly detailed city environment, action scene, photorealistic, epic atmosphere.
@@ -2348,7 +2348,7 @@ Create a Lego set for {argument name="subject" default="[place, movie, image ref
 
 ## Ornate Box Diorama Prompt (Cyberpunk Pub)
 
-> Fotogerçekçi, fütüristik mimari görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, fütüristik 3B sahne üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Scene:
@@ -2424,7 +2424,7 @@ The scene is illuminated by LIGHTING. The lighting should cast appropriate micro
 
 ## Dominance portrait generation prompt (Gemini - Thinking mode)
 
-> Sinematik mimari görsel üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
+> Sinematik portre üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Create a dominance portrait of the uploaded reference character seated on a divine throne that feels engineered from their own world and design language.
@@ -2611,7 +2611,7 @@ Background
 
 ## 48-Panel Studio Expression Contact Sheet
 
-> Minimal portre üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
+> Minimal kolaj üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 {
@@ -2741,7 +2741,7 @@ create a screenshot of the overworld for this game in the same area, with one po
 
 ## Final Fantasy transformation prompt (Nano Banana Pro)
 
-> Görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Fantastik sahne üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Final Fantasy
@@ -2753,7 +2753,7 @@ VS Griever
 
 ## Generating Pokémon Zukan (Illustrated Guide) Style Art
 
-> İllüstrasyon üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
+> Karakter görseli üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Referencing this character, generate a Pokémon Zukan-style illustration. The Zukan No. is {argument name="Zukan Number" default="[Enter Zukan No.]"}. The background is white. The Zukan description text is {argument name="Description Text" default="[Enter description text]"}. Reproduce the Zukan layout and design.
@@ -2761,7 +2761,7 @@ Referencing this character, generate a Pokémon Zukan-style illustration. The Zu
 
 ## Creating LINE Stickers with Nano Banana 2
 
-> Görsel üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
+> Kadın figürlü görsel üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Referencing this character, create a cute deformation. Design 16 types of LINE stickers. Ensure a rich variety of sets by devising poses and text placements so that there are no similar stickers. The dialogue should be in Japanese with pop-style characters. The background should be white. Create a set that is easy to use in the daily conversations of a "{argument name="target" default="high school girl"}".
@@ -2789,7 +2789,7 @@ Include tiny stylized animals in natural positions. Use a clean solid {argument 
 
 ## Hyperrealistic Tattooed Elf Couple
 
-> Fotogerçekçi portre üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi çift fotoğrafı üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 hyperrealistic portrait of a beautiful, tattooed elf and warrior couple. Winter, snow, a woman holding a sword. A castle in the background. The elf woman has a tattoo, blue eyes, long white hair, and knightly armor.
@@ -2797,7 +2797,7 @@ hyperrealistic portrait of a beautiful, tattooed elf and warrior couple. Winter,
 
 ## Image Generation Prompt: Nishimura Mizuki and Leviathan
 
-> Görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Fantastik yaratık üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Person ({argument name="person" default="Nishimura Mizuki"})
@@ -2806,7 +2806,7 @@ Leviathan and others
 
 ## Image Generation Prompt: Nishimura Mizuki Fishing Leviathan
 
-> Görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Fantastik yaratık üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Person ({argument name="person" default="Nishimura Mizuki"})
@@ -2815,7 +2815,7 @@ Fishing Leviathan
 
 ## Nano Banana Pro Monster Hunter Battle Prompt
 
-> Görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Fantastik yaratık üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Background Monster Hunter tower
@@ -2835,7 +2835,7 @@ Transform the uploaded image into a stylized 3D claymation character. Soft felt 
 
 ## Disney-Pixar Style Hybrid Sloth-Dragon Creature
 
-> Sinematik 3B sahne üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Sinematik fantastik yaratık üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 {
@@ -2857,7 +2857,7 @@ Transform the uploaded image into a stylized 3D claymation character. Soft felt 
 
 ## Mech Armor Power Reveal Prompt (Likeness Preservation)
 
-> Sinematik görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Sinematik karakter görseli üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 An ultra-dominant cinematic power reveal of the character fully re-engineered in advanced mech armor, preserving the exact eye shape, spacing, facial structure, patterns, and original color palette with absolute fidelity. The helmet is open, framing the face without altering proportions. Identity remains untouched. No humanization. No anatomical reinterpretation.
@@ -2912,7 +2912,7 @@ ar 4:5
 
 ## Nano Banana Pro Rocket Launcher Action Prompt
 
-> Görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Karakter görseli üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Carrying a rocket launcher
@@ -2927,7 +2927,7 @@ Carrying a rocket launcher
 
 ## Image generation prompt for Nano Banana Pro: Zhuge Liang vs. Sima Yi in a Final Fantasy X style cosmic battle
 
-> Görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Fantastik sahne üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Zhuge Liang Kongming (human) VS Sima Yi Zhongda
@@ -3034,7 +3034,7 @@ PlayStation game case that's so full of "X-Treme" 90s marketing that you can't t
 
 ## Anthropomorphizing LLMs
 
-> Görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Karakter görseli üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Extremely anthropomorphize ChatGPT-5.2 think, Gemini 3.1 pro, Claude, and Grok, characterizing them with creative expressions and poses, and arranging them in an image.
@@ -3042,7 +3042,7 @@ Extremely anthropomorphize ChatGPT-5.2 think, Gemini 3.1 pro, Claude, and Grok, 
 
 ## Character Design Sheet for a Villainess
 
-> Görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Karakter görseli üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 In the character design sheet for a villainess, include a specific facial expression (without writing the specific sensitive word in the prompt) in the expression set, and make her say obscene lines.
@@ -3050,7 +3050,7 @@ In the character design sheet for a villainess, include a specific facial expres
 
 ## Ornate Box Diorama of a Royal Treasury Counting Room
 
-> Fotogerçekçi, sinematik mimari görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, sinematik 3B sahne üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 ORNATE BOX DIORAMA — TRI-LAYER MASTER PROMPT (HARD FRONT-RIGHT ISOMETRIC)
@@ -3127,7 +3127,7 @@ box viewed from a stable elevated front
 
 ## Final Fantasy Leviathan VS Player and Sacred Geometry
 
-> Görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Fantastik sahne üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Final Fantasy
@@ -3144,7 +3144,7 @@ Sacred Geometry and {argument name="theme 2" default="Fractal Structure"}
 
 ## Whimsical Diorama of a Fortified Desert Caravanserai
 
-> Mimari görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> 3B sahne üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 MASTER MINIATURE DIORAMA PROMPT SHELL — CONSOLIDATED VERSION
@@ -3180,7 +3180,7 @@ Elevated three-quarter aerial perspective overlooking the village center, slight
 
 ## Frozen Valley of Fallen Titans Concept Art
 
-> Sinematik görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Sinematik sahne üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 SCENE:
@@ -3191,7 +3191,7 @@ Production-ready AAA cinematic game environment concept art emphasizing monument
 
 ## Doraemon Movie Scene Generation
 
-> Sinematik görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Sinematik sahne üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Nobita's Great Adventure into the Underworld
@@ -3200,7 +3200,7 @@ VS {argument name="enemy character" default="Demonic"}
 
 ## Nano Banana Pro Prompt: Final Fantasy Leviathan vs Player (Cyberpunk)
 
-> Fütüristik görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Fütüristik fantastik sahne üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Final Fantasy
@@ -3214,7 +3214,7 @@ Make the players 9 people...
 
 ## Titan with Hokuto Hyakuretsu Ken Generation
 
-> Görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Fantastik sahne üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Make {argument name="summon beast" default="Titan"} a little smaller
@@ -3224,7 +3224,7 @@ Make it emit {argument name="attack name" default="Hokuto Hyakuretsu Ken"} with 
 
 ## Final Fantasy Bahamut VS Player Generation
 
-> Görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Fantastik sahne üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Final Fantasy
@@ -3233,7 +3233,7 @@ Final Fantasy
 
 ## Final Fantasy Ifrit Summon Generation
 
-> Görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Fantastik sahne üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Final Fantasy
@@ -3242,7 +3242,7 @@ Final Fantasy
 
 ## Final Fantasy Titan Summon Generation
 
-> Görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Fantastik sahne üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Final Fantasy
@@ -3259,7 +3259,7 @@ A cinematic close-up of a weathered retro-futuristic binocular device being held
 
 ## Crystal Spider Suit in Neo-Tokyo
 
-> Fütüristik görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Fütüristik şehir ve sokak sahnesi üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 A young woman wearing a sleek, form-fitting yellow and black crystal-clear spider suit. The material is reflective and transparent, showing a black armored exoskeleton underneath. She is perched on a rainy gargoyle overlooking a Neo-Tokyo cityscape. Neon yellow lights reflect off the wet suit. Intense atmosphere, dramatic shadows, volumetric fog, hyper-detailed textures, masterpiece quality.
@@ -3267,7 +3267,7 @@ A young woman wearing a sleek, form-fitting yellow and black crystal-clear spide
 
 ## Reimagine Photo in Minecraft Cave
 
-> İllüstrasyon üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotoğraf üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Reimagine me inside a glowing Minecraft cave, standing with one arm raised while a cubical bat hangs upside down above my hand
@@ -3275,7 +3275,7 @@ Reimagine me inside a glowing Minecraft cave, standing with one arm raised while
 
 ## Cinematic Stylized Medieval Village Festival Scene
 
-> Sinematik, minimal mimari görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Sinematik, minimal sahne üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Scene:
@@ -3290,7 +3290,7 @@ Elevated three-quarter aerial perspective overlooking the village center, slight
 
 ## Collection of Low-Poly Origami Animals
 
-> Sinematik, minimal 3B sahne üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Sinematik, minimal hayvan görseli üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 A minimalist low-poly origami duck sculpture made of folded cardboard, geometric faceted design, warm brown paper texture, sharp angular edges, large round glossy eye, small orange beak, studio lighting, soft shadow beneath, centered composition, dark navy blue gradient background, ultra-clean 3D render, high detail, cinematic lighting, depth of field, 4K resolution.
@@ -3455,7 +3455,7 @@ Sneakers appear in smooth 3D render style with glossy highlights, soft reflectio
 
 ## Image Generation Prompt: Internal Structure of a Robot
 
-> Görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Fantastik yaratık üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 An image explaining the internal structure of a robot.
@@ -3465,7 +3465,7 @@ Always keep the surface and maintain the background.
 
 ## Collectible Miniature Diorama of a Rugged Mining Settlement
 
-> Fotogerçekçi, sinematik mimari görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, sinematik 3B sahne üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 SCENE:
@@ -3485,7 +3485,7 @@ aspect ratio 4:3
 
 ## Collectible Miniature Diorama of a Developed Desert Oasis Settlement
 
-> Fotogerçekçi, sinematik mimari görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, sinematik 3B sahne üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 SCENE:
@@ -3501,7 +3501,7 @@ Overall intent: premium collectible miniature, stylized 3D marketplace presentat
 
 ## Holographic Character Generation Prompt
 
-> Görsel üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
+> Karakter görseli üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Generate {argument name="character type" default="image attached"} character made of {argument name="material type" default="transparent"} frosted hologram material from head to toe levitating on black {argument name="background texture" default="glossy"} background, {argument name="camera angle" default="eye level"} centered camera angle, 9:16 {argument name="orientation" default="vertical"} image.
@@ -3528,7 +3528,7 @@ Production-ready AAA cinematic game environment concept art designed for profess
 
 ## Cyberpunk City Block Collectible Diorama
 
-> Fotogerçekçi, minimal mimari görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, minimal 3B sahne üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 SCENE:
@@ -3544,7 +3544,7 @@ Overall intent: premium collectible miniature, stylized 3D marketplace presentat
 
 ## Dynasty Warriors: Kongming Musou Ranbu
 
-> Görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Karakter görseli üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Shin Sangoku Musou (Dynasty Warriors)
@@ -3555,7 +3555,7 @@ Musou Ranbu: Blue laser rays radiating out!
 
 ## Ancient Jungle Temple Diorama Collectible Prompt
 
-> Fotogerçekçi, minimal mimari görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, minimal 3B sahne üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 SCENE:
@@ -3580,7 +3580,7 @@ A larger alpine mountainside village composed of multiple wooden chalet lodges o
 
 ## Ancient Egyptian Ritual with Alien Entity Prompt
 
-> Görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Fantastik yaratık üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Monochrome ritualistic scene set in ancient Egypt, a ceremonial procession of ancient Egyptian people moving a massive square stone block as part of a sacred rite, bodies arranged in deliberate patterns, synchronized movements, sand disturbed like ritual markings. A gigantic alien entity presides over the scene like an ancient god. Its skin is thick and cracked like elephant hide, aged and primordial; its legs are impossibly thin and unnaturally long like a deer’s, elevating its body into an inhuman silhouette. The face is deeply unsettling, elongated and expressionless, evoking Anunnaki-like beings and forgotten star gods. The alien radiates silent authority, worshipped rather than feared. High-contrast lighting, deep shadows, sacred geometry in composition, mythological atmosphere, surreal historical ritual, solemn and ominous mood, timeless and forbidden
@@ -3588,7 +3588,7 @@ Monochrome ritualistic scene set in ancient Egypt, a ceremonial procession of an
 
 ## Generate Ghostbusters Scene with Gozer and Stay Puft
 
-> Görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Sahne üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Ghostbusters
@@ -3600,7 +3600,7 @@ in a good composition!
 
 ## Cinematic Concept Art for Ancient Abandoned Jungle City
 
-> Sinematik, minimal manzara üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Sinematik, minimal şehir ve sokak sahnesi üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 ONE-CLICK GENERIC MASTER PROMPT — ANCIENT JUNGLE MORNING
@@ -3650,7 +3650,7 @@ ready rendering quality.
 
 ## Cinematic Concept Art for Ancient Astronomical Observatory
 
-> Sinematik, minimal manzara üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Sinematik, minimal illüstrasyon üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 SHORT STRUCTURED PROMPT — CINEMATIC OBSERVATORY TEST
@@ -3692,7 +3692,7 @@ concept art readability both at full view and zoom.
 
 ## Massive Truck Launch and Landing Video Prompt
 
-> Sinematik görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Sinematik erkek figürlü görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Massive black RAM TRX–style truck realistically launches upward behind a man (as if there is an invisible ramp hidden just outside the camera frame) and aggressively lands with a powerful explosion of snow.
@@ -3702,7 +3702,7 @@ The man remains completely still. The shot ends with the truck standing on the g
 
 ## Wizard in a Box Miniature Diorama
 
-> Fotogerçekçi, sinematik mimari görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, sinematik 3B sahne üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 SUBJECT: A two-level miniature wizard library tower where the ornate open antique box itself forms the architecture, the base container acting as the full ground floor chamber with the box walls serving directly as the structural stone or wooden walls, featuring an enthusiastic wizard actively working at a magical desk with floating books and glowing runes, the scene fully integrated into the box structure and not a separate room placed inside, not a wall frame or display frame
@@ -3717,7 +3717,7 @@ ASPECT RATIO: 4:3
 
 ## Worm's-Eye Perspective Character Shot (Likeness Preservation)
 
-> Sinematik görsel üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
+> Sinematik karakter görseli üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 A cinematic worm’s-eye perspective shot of the character captured from ground level, camera almost touching the surface beneath them. Ultra-wide 14–18mm lens. The camera is angled sharply upward, making the character tower massively in frame.
@@ -3893,7 +3893,7 @@ ar 1:1
 
 ## Photorealistic Batgirl Cosplay Portrait Prompt (Exaggerated Anatomy)
 
-> Fotogerçekçi afiş üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi portre üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 {
@@ -3948,7 +3948,7 @@ ar 1:1
 
 ## Intimate Date Scene Generator for Multiple Characters
 
-> Fotogerçekçi yemek görseli üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi karakter görseli üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 close-up intimate composition of ALL REFERENCED CHARACTERS in their exact art style and exact clothes with the characters sitting across from each other in a cozy date setting that fits all character's environment. if character is an object, personify that object faithfully.
@@ -3994,7 +3994,7 @@ Clean modern studio with soft gradient backdrop and subtle floor reflections. Ci
 
 ## Changing Troll Character to Make Heart Shape
 
-> Minimal görsel üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
+> Minimal karakter görseli üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Change troll character to make the
@@ -4003,7 +4003,7 @@ heart shape with it's hands and fingers
 
 ## Macro Render of Fuzzy Bee Character with Honey Droplet
 
-> Sinematik, minimal 3B sahne üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Sinematik, minimal karakter görseli üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Ultra-detailed cinematic macro render of an adorable miniature fuzzy bee character flying mid-air, holding a glossy translucent honey droplet container with tiny curved black legs, the bee has soft golden-yellow fur with black stripes, oversized shiny black glass-like eyes, small delicate antennae, and semi-transparent wings frozen mid-flap, expressive and charming personality, stylized Pixar-quality character realism
@@ -4128,7 +4128,7 @@ macro photography look, 100mm macro lens, f/1.8 aperture, extreme detail in indi
 
 ## Surreal Miniature Egg Art Scene Prompt
 
-> Fotogerçekçi, sinematik mimari görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, sinematik 3B sahne üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 {
@@ -4222,7 +4222,7 @@ macro photography look, 100mm macro lens, f/1.8 aperture, extreme detail in indi
 
 ## Pixar-Style Giant World Character Prompt
 
-> 3B sahne üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Karakter görseli üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 ## SUBJECT & ACTION
@@ -4258,7 +4258,7 @@ Full-body 3D stylized anthropomorphic cartoon dog character wearing modern stree
 
 ## Racing Car Gauntlet Reconstruction Prompt
 
-> Görsel üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
+> Araç görseli üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Please disassemble and reconstruct the racing car in this image to create a giant gauntlet. Please make the background pure white.
@@ -4266,7 +4266,7 @@ Please disassemble and reconstruct the racing car in this image to create a gian
 
 ## Ultra-Realistic 3D Inflatable Object Render
 
-> Fotogerçekçi, minimal logo üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, minimal 3B sahne üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 "{argument name="subject" default="SUBJECT"}, ultra realistic 3D render, smooth inflated glossy plastic material, soft pillowy balloon like contours, subtle stitched panel seams and paneling, high specular highlights, clean reflections, soft contact shadows, designer collectible toy aesthetic, cute proportions, premium polished finish, floating centered, plain light gray studio background, soft diffused studio lighting, sharp focus, high resolution, 8k, 1:1, no text, no logo, no watermark.”
@@ -4398,7 +4398,7 @@ Optional style tags:
 
 ## Cinematic Concept Art of Sadie Sink as Jean Grey
 
-> Sinematik logo üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Sinematik 3B sahne üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 {
@@ -4449,7 +4449,7 @@ Optional style tags:
 
 ## Caricature Bobblehead Figurine Prompt
 
-> Fotogerçekçi, sinematik ürün fotoğrafı üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, sinematik karakter görseli üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Highly detailed caricature figurine of {argument name="subject" default="[SUBJECT]"} as a cute but intense bobblehead-style collectible statue, exaggerated oversized head with hyper-realistic facial features, deep wrinkles, fierce intense expression, slightly open mouth showing teeth, sitting relaxed in a vintage armchair, wearing {argument name="outfit" default="[OUTFIT]"}, dramatic colorful studio lighting, {argument name="background" default="[BACKGROUND]"}, modern collectible toy photography style, sharp focus, cinematic depth of field, extremely intricate sculpting details, realistic skin texture, professional product photography, 8k quality
@@ -4550,7 +4550,7 @@ Proper nouns like Nuka-Launcher and Ghoul are understood.
 
 ## Character Generation from Google Slides Shapes
 
-> Minimal görsel üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
+> Minimal karakter görseli üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Such a cute character was created from Google Slides shapes!!
@@ -4566,7 +4566,7 @@ I tried generating a maze, but I see that this kind of thing isn't possible due 
 
 ## Chibi-Style NBA Matchup
 
-> Görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Karakter görseli üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Generate a screenshot of a real NBA game where Kobe Bryant is matched up against LeBron James at the Lakers' home court. James is defending Kobe's fadeaway jumper, and Kobe is depicted as a chibi-style baby.
@@ -4574,7 +4574,7 @@ Generate a screenshot of a real NBA game where Kobe Bryant is matched up against
 
 ## Macro Shot of Miniature Sniper Scene
 
-> Fotogerçekçi manzara üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi 3B sahne üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 A hyper-realistic, 8k, high-fidelity close-up shot captured with a macro lens, showcasing a giant human hand holding a keyring against an extremely blurred background of a rugged outdoor forest range. The hand holds a rugged, olive drab paracord survival strap with a small metal dog tag reading "{argument name="dog tag text" default="DUET AI : One Shot"}". Attached is a miniature character lying in a prone firing position behind a highly detailed, tiny sniper rifle with a large scope. The character has a large head, [uploaded face as reference], and is wearing a full miniature ghillie suit (camouflage) that looks incredibly textured with tiny leaves and burlap. The miniature rifle has realistic metallic and polymer textures, bipod legs, and a tiny lens flare on the scope. Natural, dappled forest sunlight highlights the camouflage textures and the metal of the rifle.
@@ -4582,7 +4582,7 @@ A hyper-realistic, 8k, high-fidelity close-up shot captured with a macro lens, s
 
 ## Miniature Metropolis Inside a Vintage Pocket Watch
 
-> Fotogerçekçi, sinematik mimari görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, sinematik 3B sahne üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Create a hyper-realistic macro photograph depicting a sprawling miniature metropolis nestled within a vintage pocket watch for the hyper-realistic isometric 3D render of a miniature. The intricate gears and springs of the watch form the foundational architecture for the city's towering skyscrapers, [amidst glowing filament streetlights and brass walkways, with soft cinematic lighting reflecting off the polished metal surfaces.]
@@ -4590,7 +4590,7 @@ Create a hyper-realistic macro photograph depicting a sprawling miniature metrop
 
 ## Collectible Toyline Forge Engine System Prompt
 
-> Görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Karakter görseli üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Do this for {argument name="subject" default="Nikola Tesla"}<analysis> You are the Collectible Toyline Forge Engine. An AI toy designer and packaging stylist. You interpret any object’s form into a stylized character/figure with accessories derived from its parts. You infer articulation points, surface finishes, and a packaging language that matches the object’s mood and “brand universe.” </analysis>  
@@ -4608,7 +4608,7 @@ I need numbers 1 to 12 for a {argument name="theme" default="12 Zodiac Signs"} d
 
 ## Humanoid Mech Generator for Urban Life
 
-> Minimal, fütüristik illüstrasyon üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Minimal, fütüristik şehir ve sokak sahnesi üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Design a full-body humanoid mech adapted to everyday urban life. Mechanical head with a strong abstract silhouette, no human or anime facial features. Futuristic wear. Exposed mechanical limbs and joints with clean panel seams and functional details. Subtle sci-fi equipment, restrained and believable.
@@ -4620,7 +4620,7 @@ Mood: calm, confident, near-future realism.
 
 ## Split Identity Vinyl Toy Engine
 
-> Minimal ürün fotoğrafı üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Minimal karakter görseli üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Do this for a random character: <instruction> Split Identity Vinyl Toy Engine:
@@ -4646,7 +4646,7 @@ Negative: [organic gore, realism, asymmetry]::-1
 
 ## Inflatable Character Creation Prompt
 
-> İllüstrasyon üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Karakter görseli üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Create inflatable characters using this prompt
@@ -4662,7 +4662,7 @@ Create inflatable characters using this prompt
 
 ## Vast Open-World Game Environment Generator
 
-> Sinematik illüstrasyon üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Sinematik fantastik sahne üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 [THEME] = "{argument name="theme" default="Enter a theme here"}" 
@@ -4681,7 +4681,7 @@ Ensure the final image feels serene, epic and discovery-driven, clearly readable
 
 ## Hyper-realistic Action Video Generation from Image Reference
 
-> Fotogerçekçi görsel üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi fantastik yaratık üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Create a hyper-realistic action video using the uploaded image as the exact visual reference.
@@ -4726,7 +4726,7 @@ What would it look like if I made a submarine for children out of this [cardboar
 
 ## Transformative Photo Enhancement Prompt
 
-> Fotogerçekçi, sinematik görsel üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, sinematik fotoğraf üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Transform the original photo into a dramatic, photorealistic, ultra-detailed set of 4 styles characters are included , each a mid close up wide-angle shot with an extreme, dynamic camera angle complex, powerful pose in a consistent, expanded version of the original environment, with cinematic lighting, high contrast, crisp textures, and precise color grading.
@@ -4758,7 +4758,7 @@ Make a game asset sheet for an RPG fantasy game with monsters, with different le
 
 ## Hyperrealistic D&D Female Fire Mage
 
-> Fotogerçekçi, sinematik illüstrasyon üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, sinematik kadın figürlü görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 A hyperrealistic, ultra-detailed digital painting of a beautiful blonde female fantasy RPG wizard, casting a volatile magical spell, a brilliant orange fireball effect intensely illuminating her features. Volumetric, cinematic chiaroscuro lighting. Realistic anime aesthetic meets D&D fantasy styling. 8K resolution.
@@ -4795,7 +4795,7 @@ Ultra-high definition, high resolution, smooth 3D finish, professional-grade sti
 
 ## Image Style Transfer Prompt: Viking to Dragon Quest X 'Sage's Breath of God'
 
-> Görsel üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
+> Fantastik yaratık üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Take this image (photo of Viking) and make the right side look like the Dragon Quest X Sage's 'Breath of God'!
@@ -4840,7 +4840,7 @@ Take this image (photo of Viking) and make the right side look like the Dragon Q
 
 ## Image Style Transfer Prompt: Viking to Dragon Quest X 'Chamber of Vows'
 
-> Görsel üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
+> Fantastik yaratık üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Take this image (photo of Viking) and make the right side look like the 'Chamber of Vows' from Dragon Quest X!
@@ -4848,7 +4848,7 @@ Take this image (photo of Viking) and make the right side look like the 'Chamber
 
 ## JSON Prompt for Stylized 3D Character Render (Minimal Cartoon)
 
-> Minimal moda çekimi üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
+> Minimal 3B sahne üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 {
@@ -4928,7 +4928,7 @@ Take this image (photo of Viking) and make the right side look like the 'Chamber
 
 ## Ultra-Realistic Cinematic Close-up of Tribal Warrior Woman
 
-> Fotogerçekçi, sinematik oyun görseli üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, sinematik kadın figürlü görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Ultra-realistic cinematic close-up portrait of a fierce tribal warrior woman, icy blue eyes looking upward with determination, wet skin covered in rain droplets and natural freckles, detailed skin texture, soft dramatic lighting, shallow depth of field. She wears primitive tribal headgear made of {argument name="headgear materials" default="feathers, bones, stones"}, and red-blue fabric wraps, braided hair with beads and threads.Cold, moody color grading, dark blurred forest background, hyper-detailed face, 8K resolution, photorealistic, sharp focus on eyes, epic fantasy game character style, cinematic atmosphere, professional photography, volumetric light, film still look.
@@ -4944,7 +4944,7 @@ High-quality 3D cartoon character of a young boy in a hip-hop street style, full
 
 ## Ultra-Realistic Cinematic Steampunk Sci-Fi Editorial
 
-> Fotogerçekçi, sinematik görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, sinematik fotoğraf üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 {
@@ -5025,7 +5025,7 @@ High-quality 3D cartoon character of a young boy in a hip-hop street style, full
 
 ## Stylized Character Illustration Template
 
-> Minimal 3B sahne üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Minimal karakter görseli üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 “A stylized illustration of [{argument name="character type" default="CHARACTER TYPE"}] with [{argument name="distinct feature" default="DISTINCT FEATURE / ACCESSORY"}].
@@ -5056,7 +5056,7 @@ Shot on 85mm lens, f/1.8, ultra high resolution, photorealism, dramatic contrast
 
 ## Photorealistic Candid Spider-Girl Portrait
 
-> Fotogerçekçi, sinematik mimari görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, sinematik portre üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 {
@@ -5104,7 +5104,7 @@ Shot on 85mm lens, f/1.8, ultra high resolution, photorealism, dramatic contrast
 
 ## Combining image generation prompts for a fantasy card style
 
-> Görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Fantastik sahne üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Girl I created → ⑦ Battle Fantasy → combined with ⑰ Rare Card Style!
@@ -5112,7 +5112,7 @@ Girl I created → ⑦ Battle Fantasy → combined with ⑰ Rare Card Style!
 
 ## Hyper-realistic anime warrior portrait with tactical gear
 
-> Fotogerçekçi, minimal logo üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, minimal portre üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 {
@@ -5182,7 +5182,7 @@ Create a LEGO-style version of Kaneda’s motorcycle with its box, displayed on 
 
 ## Character Sheet Prompt for Nano Banana
 
-> Görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Karakter görseli üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Character sheet prompt for Nano Banana
@@ -5190,7 +5190,7 @@ Character sheet prompt for Nano Banana
 
 ## Chibi Character Operating a Cyber Window Prompt
 
-> Fütüristik arayüz tasarımı üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
+> Fütüristik karakter görseli üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 ## Overall Concept
@@ -5258,7 +5258,7 @@ keep the girl’s character and pose from Image 2; have her turn her head toward
 
 ## Pixar-Style 3D Avatar Generation Prompt
 
-> Minimal, stüdyo ışıklı profil görseli üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
+> Sinematik, minimal profil görseli üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Create a high-quality 3D avatar of the person in the uploaded image with a cheerful, expressive face. The character should have a warm smile, bright eyes, and soft facial features that feel friendly and approachable. Render in a Pixar-style aesthetic with smooth textures, subtle skin shading, and slightly exaggerated proportions for a cute, animated look. Lighting should be soft and even, creating a clean studio look with gentle shadows for depth.
@@ -5266,7 +5266,7 @@ Create a high-quality 3D avatar of the person in the uploaded image with a cheer
 
 ## Simple Floating Mage Academy Prompt
 
-> Minimal görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Minimal fantastik sahne üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 "A mage academy on a floating island"
@@ -5274,7 +5274,7 @@ Create a high-quality 3D avatar of the person in the uploaded image with a cheer
 
 ## Pixar-Style Chibi Character Prompt
 
-> Sinematik, minimal 3B sahne üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Sinematik, minimal karakter görseli üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Ultra-detailed 3D chibi-style character with a big head and expressive eyes, cute proportions, smooth stylized skin, friendly smile. The character is casually leaning against a small green off-road Jeep, holding a takeaway coffee cup. Cozy outdoor café courtyard setting with wooden tables, potted plants, warm string lights in the background. Soft golden-hour lighting, shallow depth of field, cinematic bokeh. High-quality Pixar-style 3D render, vibrant colors, clean textures, adorable yet realistic character design, professional character illustration, 8K render.
@@ -5373,7 +5373,7 @@ Ultra-detailed 3D chibi-style character with a big head and expressive eyes, cut
 
 ## Minimalist Single-Pose Character Illustration Prompt
 
-> Minimal illüstrasyon üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Minimal karakter görseli üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Illustrate [SUBJECT] in one clear, static pose. Reduce clothing and anatomy to basic forms. Use soft lighting and restrained color palette. The figure should feel modern and design-led.
@@ -5513,7 +5513,7 @@ Create a high-quality 3D virtual avatar based on the uploaded image, with a chee
 
 ## Cinematic Hamster Deadlift Video Prompt
 
-> Fotogerçekçi, sinematik görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, sinematik sahne üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Ultra-realistic cinematic gym scene featuring a small tan-and-white hamster wearing a beige baseball cap, silver over-ear headphones, and a white lifting belt.
@@ -5532,7 +5532,7 @@ Emotional tone: determination → victory.
 
 ## Character Design Prompt for Futuristic Samurai Warrior
 
-> Fütüristik görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Fütüristik karakter görseli üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Futuristic Samurai Warrior w/ Carbon-Fiber Prosthetics
@@ -5540,7 +5540,7 @@ Futuristic Samurai Warrior w/ Carbon-Fiber Prosthetics
 
 ## Short Prompt for POV Fisheye Pokemon Wildlife
 
-> Görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Hayvan görseli üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 POV Raw Fisheye Pokemon Wildlife
@@ -5556,7 +5556,7 @@ Ultra-clean high-end 3D render of {argument name="object" default="OBJECT"}, des
 
 ## Ultra-Realistic Cinematic Scene of Floating in Mid-Air
 
-> Fotogerçekçi, sinematik logo üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, sinematik sahne üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Ultra realistic cinematic scene of my floating and falling in mid air above the clouds, dynamic upside down pose with legs bent and arms slightly raised, wearing black hoodie black pants black cap sunglasses and {argument name="shoe color" default="red"} sports shoes, dramatic sense of motion, two futuristic stealth fighter jets flying very close above and below the character with motion blur and heat trails, high altitude sky with soft clouds far below, daylight cinematic lighting, sharp focus on character, wide angle shot, epic scale, realistic physics, dramatic composition, 4k quality, no text, no logo, no watermark
@@ -5564,7 +5564,7 @@ Ultra realistic cinematic scene of my floating and falling in mid air above the 
 
 ## Minimal Character Illustration Template
 
-> Minimal illüstrasyon üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Minimal karakter görseli üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Illustrate a minimal character of {argument name="character type" default="[CHARACTER TYPE]"} with simplified facial features (dots and lines only). Use flat colors, soft curves, and no textures. Neutral pose, centered, on a plain background. Cute, calm, and visually clean.
@@ -5572,7 +5572,7 @@ Illustrate a minimal character of {argument name="character type" default="[CHAR
 
 ## Massive Ancient Abandoned Alien Mining Machine Prompt
 
-> Minimal görsel üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
+> Minimal fantastik yaratık üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Massive ancient abandoned alien mining machine in the shape of a worm --ar 16:9 --raw --sref 213005887 --sw 100 --stylize 300 --v 6.1
@@ -5580,7 +5580,7 @@ Massive ancient abandoned alien mining machine in the shape of a worm --ar 16:9 
 
 ## Hyper-Realistic Military Squad Portrait
 
-> Fotogerçekçi, sinematik afiş üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, sinematik portre üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 A hyper-realistic, cinematic 9:16 portrait of a modern military squad lineup. In the middle stands, wearing tactical combat gear with a vest, headset, gloves, and a futuristic assault rifle. On the left: a rugged soldier with a beard and boonie hat, wearing heavy tactical armor. On the right: a mysterious masked operative with a skull-patterned mask and combat uniform. The three stand side by side as an elite special forces unit, set in a gritty warzone environment with sparks, smoke, and cinematic lighting. Ultra-detailed, realistic textures, game-poster style, 8K
@@ -5604,7 +5604,7 @@ A realistic RPG status screen appears in the background.
 
 ## Cinematic 3D World Emergence from Object
 
-> Fotogerçekçi, sinematik mimari görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, sinematik 3B sahne üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Cinematic 3D composition centered on a {argument name="object" default="[OBJECT]"}, frozen at the instant it releases something far bigger than itself.
@@ -5650,7 +5650,7 @@ The background is a cozy vintage photography studio filled with old cameras, fil
 
 ## Dark Fantasy Winter Creature Emerging from a Blizzard
 
-> Sinematik manzara üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Sinematik fantastik yaratık üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 A towering winter creature emerges from a blizzard shrouded forest, antler like ice horns branching from its skull, fur crusted with frost and drifting snow. Glowing pale light blue eyes cut through the whiteout. Breath crystallizes midair. 
@@ -5873,7 +5873,7 @@ A high-quality 3D render of a cute young boy riding an orange electric scooter n
 
 ## Anime Character to 3DCG Figure Prompt
 
-> İllüstrasyon üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
+> Karakter görseli üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Take the character image from the anime's official website and give it to Nano Banana Pro.
@@ -5883,7 +5883,7 @@ Instruct it to "Generate an image of a 3DCG woman wearing the hair and clothes f
 
 ## Structured Figure/Diorama Generation Prompt for Nano Banana Pro
 
-> Minimal mimari görsel üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
+> Minimal 3B sahne üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 ■ COMPOSITION_MODE: Composition and Angle
@@ -6078,7 +6078,7 @@ Background: a clean studio gradient from [COLOR 1] to [COLOR 2], evenly lit and 
 
 ## Dark Sci-Fi Action Scene with Venom-like Symbiote
 
-> Fotogerçekçi, sinematik afiş üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, sinematik sahne üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 {
@@ -6157,7 +6157,7 @@ Background: a clean studio gradient from [COLOR 1] to [COLOR 2], evenly lit and 
 
 ## Ultra-Detailed 3D Stylized Character Design Prompt
 
-> Sinematik, minimal moda çekimi üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
+> Sinematik, minimal 3B sahne üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Use Reference figuire1 Create Ultra-detailed 3D stylized character design of a cute with a Pixar/Disney-inspired look, soft rounded facial features, big expressive eyes, smooth porcelain skin, and playful proportions.
@@ -6168,7 +6168,7 @@ Rendered in ultra-high-quality 3D, soft studio lighting, smooth gradients, clean
 
 ## Cinematic fantasy silhouette art with metallic skin prompt
 
-> Sinematik, lüks görsel üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
+> Sinematik, lüks fantastik sahne üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 {
@@ -6268,7 +6268,7 @@ Cross dimensions, a {argument name="subject" default="cybernetic samurai"} stand
 
 ## Cinematic Noblewoman and Dragon Prompt
 
-> Fotogerçekçi, sinematik manzara üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, sinematik fantastik yaratık üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Cinematic full-body shot of a young noblewoman with an intricate braided hairstyle, wearing a highly detailed, silver-grey embroidered medieval gown with puff sleeves. She is standing next to a massive, realistic grey dragon with detailed scales and horns. She gently places her hand on the dragon's snout.
@@ -6391,7 +6391,7 @@ Low poly, low res textures
 
 ## Character Turnaround Sheet Generation
 
-> Minimal görsel üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
+> Minimal karakter görseli üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Please create a three-view turnaround sheet for the attached girl.
@@ -6399,7 +6399,7 @@ Please create a three-view turnaround sheet for the attached girl.
 
 ## Dramatic Character Transformation Prompt
 
-> Fotogerçekçi görsel üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi karakter görseli üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Transform the original photo into a dramatic, photorealistic, ultra-detailed set of 4 different styles characters are included , each a mid close up wide-angle shot with an extreme, dynamic camera angle with different positioned right next to the lens and appear huge.
@@ -6424,7 +6424,7 @@ No depiction of the person is requested.
 
 ## 360-Degree Equirectangular Panorama Prompt
 
-> Arayüz tasarımı üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Sahne üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 [SCENE] = {argument name="scene description" default="Troy, Anatolia, approx. 12th century BC. The moments after the Trojan Horse is pulled inside the city walls."}
@@ -6448,7 +6448,7 @@ Avoid modern elements, UI overlays, borders, frames, cropped views, fantasy styl
 
 ## Lara Croft Inspired Action Editorial Portrait
 
-> Fotogerçekçi, sinematik moda çekimi üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, sinematik portre üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 {
@@ -6476,7 +6476,7 @@ Avoid modern elements, UI overlays, borders, frames, cropped views, fantasy styl
 
 ## 2000s Character Design Prompt
 
-> Minimal görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Minimal karakter görseli üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 2000’s character design
@@ -6492,7 +6492,7 @@ Turn this portrait into a stylized 3D action figure of this person. Style: plast
 
 ## Wingman Character Fighting Pose Generation
 
-> Görsel üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
+> Karakter görseli üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Please create a fighting pose for the attached character based on the character sheet. Faithfully reproduce the character's details and coloring. Recreate the scene with a camera angle from a diagonal side view, depicting the character posing on a cliff overlooking the sea. Use a realistic photo style, and output the aspect ratio as 16:9.
@@ -6500,7 +6500,7 @@ Please create a fighting pose for the attached character based on the character 
 
 ## Cyberpunk Motorcycle Chase in Neon Megacity
 
-> Fotogerçekçi, sinematik afiş üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, sinematik araç görseli üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Two stunning cyberpunk mercenary women riding futuristic motorcycles side by side through a rainy neon-lit dystopian megacity at night, towering skyscrapers with massive holographic billboards and Japanese kanji ads, flying cars and drones overhead, heavy acid rain reflecting intense pink, blue, purple, cyan neon lights on wet streets and deep puddles, dramatic volumetric god rays from giant LED signs, cyberpunk 2077 meets Akira meets Blade Runner aesthetic,
@@ -6638,7 +6638,7 @@ Create Isometric miniature scene of an oversized DJ setup. 🍌
 
 ## Panoramic Character Concept Sheet for 17-Year-Old Japanese JK
 
-> Çizgi roman karesi üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
+> Karakter görseli üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 {
@@ -6676,7 +6676,7 @@ As a hint for the world currently being created, ask nano banana to add {argumen
 
 ## Cyberpunk POV Motorcycle Ride at Hyper-Velocity
 
-> Fotogerçekçi, sinematik görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, sinematik araç görseli üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 "Red futuristic sport motorcycle (POV perspective)",
@@ -6737,7 +6737,7 @@ Arrange the views horizontally from left to right: front view, left side profile
 
 ## Full-Body Reference Sheet for Athletic Hourglass Figure
 
-> Minimal görsel üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
+> Minimal kadın figürlü görsel üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Create a detailed and realistic full-body reference image on a plain white background, showing four views of the young adult woman in the attached image, follow this description:
@@ -6765,7 +6765,7 @@ Create a high-quality stylized 3D render of a clear, translucent glass skeleton 
 
 ## Character Emerging from Smartphone Screen (Forced Perspective)
 
-> Fotogerçekçi 3B sahne üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi karakter görseli üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 🍌 Prompt A
@@ -6795,7 +6795,7 @@ Create a miniature, full-body, isometric, realistic doll. The features of the do
 
 ## Hyper-Realistic Caricature of a Bald Man in a Jersey
 
-> Fotogerçekçi, sinematik görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, sinematik erkek figürlü görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 {
@@ -6909,7 +6909,7 @@ Design a highly realistic, miniature full-body isometric figurine of this person
 
 ## Character Expression Sheet Generation (Anime Style)
 
-> İllüstrasyon üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
+> Karakter görseli üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Create an expression variation sheet as a single image based on the character in the attached reference image.
@@ -7058,7 +7058,7 @@ The background is moderately blurred with depth of field, and the composition hi
 
 ## Anatomy Visualization Prompt Template (Great White Shark Example)
 
-> İllüstrasyon üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Sahil sahnesi üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 A digital illustration of a {argument name="subject" default="great white shark"} in {argument name="action/state" default="mid-hunting approach"}, portrayed with a network of glowing {argument name="primary color" default="cold bioluminescent blue"} lines mapping its {argument name="system type" default="sensory and predatory anatomy"}. The cartilaginous skeleton is rendered as flexible geometric framework, the lateral line system as a full-body motion detector array. The image is set against abyssal ocean black, depth pressure readings floating at the margins. The {argument name="area of interest" default="ampullae of Lorenzini, hundreds of electroreceptor pores clustered on the snout"}, are emphasized with a pulsing {argument name="accent color" default="red-orange"} glow, indicating {argument name="condition" default="active electromagnetic detection: the prey's heartbeat rendered as intercepted signal waves feeding into the shark's targeting consciousness"}. The teeth are visualized as serrated replacement queues. The style merges marine biology research documentation with military targeting system aesthetics, designed to resemble a naval analysis of nature's most refined predator, clinically respectful of four hundred million years of evolution.
@@ -7066,7 +7066,7 @@ A digital illustration of a {argument name="subject" default="great white shark"
 
 ## Generating Siblings Based on a Reference Character
 
-> İllüstrasyon üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
+> Karakter görseli üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 This is a Nano Banana Pro prompt for generating siblings of a character based on a reference illustration.
@@ -7085,7 +7085,7 @@ Sizes can also be customized, such as vertical, horizontal, or square, not just 
 
 ## Black and White Fantasy Action Weapon Prompt
 
-> Minimal görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Minimal fantastik sahne üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 1.5::black background, simple background ::, 1.8::cel shading, hard shadows, chiaroscuro ::, oversize ({argument name="weapon type" default="weapon"}), swinging a fantasy ({argument name="weapon type 2" default="weapon"}), ornate details, red weapon trail, fancy red light particles, extreme energy slash, leather halter black top,
@@ -7102,7 +7102,7 @@ Show the full body clearly from head to feet, standing naturally. Keep the pose 
 
 ## Photorealistic Battle-Damaged Mech Prompt
 
-> Fotogerçekçi, sinematik çizgi roman karesi üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, sinematik görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Photorealistic industrial military humanoid mech,
@@ -7142,7 +7142,7 @@ low detail, blurry image
 
 ## Cyberpunk POV Motorcycle Ride with Vampire Mafia Girl
 
-> Fütüristik arayüz tasarımı üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Fütüristik araç görseli üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 prompt_blueprint:
@@ -7202,7 +7202,7 @@ Negative: [Clean, new, shiny, futuristic, vibrant colors, human-scale]:: -0.5
 
 ## Isometric 3D Diorama with Living Human Texture
 
-> Fotogerçekçi, retro mimari görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, retro 3B sahne üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Concept: A hyper-realistic 3D isometric view of a {argument name="location" default="[INSERT LOCATION]"} scene on a circular base.
@@ -7230,7 +7230,7 @@ Negative Prompt: Toy, plastic, doll, action figure, clay, resin, shallow depth o
 
 ## Horror Author Universe Kinetic Sculptures Grid
 
-> Fotogerçekçi, sinematik mimari görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, sinematik 3B sahne üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 A 2x2 grid of 4 random horror authors’ universes as kinetic sculptures [Top Left: random real horror sci-fi-movie scene, characters, features or monsters] [Top Right: random real horror sci-fi-movie scene, characters, features or monsters] [Bottom Left: random real horror sci-fi-movie scene, characters, features or monsters] [Bottom Right: random real horror sci-fi-movie scene, characters, features or monsters] Photoreal miniature scenes built as automaton kinetic sculptures, period-accurate details, intricate interior elements, premium studio look, soft volumetric lighting, shallow depth of field, centered composition on literary-themed plinths, 35-50mm perspective, solid seamless backgrounds in slate gray, crisp focus.
@@ -7290,7 +7290,7 @@ Output: Photorealistic 3D Render, 8k, Highly Detailed Textures (Carbon Fiber, Br
 
 ## Warrior Woman in Chainmail Bikini Desert Scene JSON Prompt
 
-> Fotogerçekçi görsel üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi kadın figürlü görsel üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 {
@@ -7358,7 +7358,7 @@ Output: Photorealistic 3D Render, 8k, Highly Detailed Textures (Carbon Fiber, Br
 
 ## Precure Transformation Design System Prompt
 
-> İllüstrasyon üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
+> Karakter görseli üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 # Your Role
@@ -7565,7 +7565,7 @@ Ultra-high resolution, reference-accurate, cinematic 3D, sharp contrast, adaptiv
 
 ## Action Figure Transformation Prompt for Nano Banana Pro
 
-> Fotogerçekçi, minimal illüstrasyon üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, minimal karakter görseli üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 subject:
@@ -7616,7 +7616,7 @@ extras:
 
 ## Medieval Fantasy Army Camp Scene
 
-> Minimal manzara üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Minimal fantastik sahne üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 A scene in an open clearing on the edge of a dense evergreen forest. There is snow on the ground and the weather appears icy and cold. The sun is bright overhead and the air is clear, and there are rows and rows of organized military tents in the distance. A few banner flags are mounted on poles near the tent camps with the prominent feature of a {argument name="banner feature" default="wolf head"}. Another banner shows a simple red eagle. Various soldiers move above between the camp tents, tending cook fires, sharpening swords, and planning around maps. The aesthetic should feel Medieval or Renaissance, with no technology, but sophistication in the army camp organization. The composition is at the eye level of a human adult. The scene should be realistic but that of a fantasy world like Wheel of Time. --ar 9:16
@@ -7624,7 +7624,7 @@ A scene in an open clearing on the edge of a dense evergreen forest. There is sn
 
 ## Side-by-Side Fantasy Character Design Sheet
 
-> Görsel üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
+> Karakter görseli üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 based on the attached image,
@@ -7633,7 +7633,7 @@ generate a Side by side photo of a close up face, and half body character design
 
 ## Hyper-Realistic Robotic Frog Design
 
-> Fotogerçekçi, minimal logo üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, minimal fotoğraf üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 A futuristic hyper-realistic robotic frog, realistic proportions, smooth white ceramic-like armor plates with visible panel segmentation, rounded mechanical joints, compact and balanced body structure.
@@ -7654,7 +7654,7 @@ organic skin, slimy texture, dirt, scratches, rust, weathered metal, colorful pa
 
 ## Character in a Red Room Scene Prompt
 
-> Minimal görsel üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
+> Minimal karakter görseli üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 An image of the character from the reference image sitting in a room. A wide shot including the corner of the room. The room has no windows, red wallpaper and floor, only a simple red corner sofa and a red low table along the wall. The letter 'A' is written largely in white on the wallpaper.
@@ -7662,7 +7662,7 @@ An image of the character from the reference image sitting in a room. A wide sho
 
 ## Low-Poly Character Figure of Megami Device
 
-> Görsel üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
+> Karakter görseli üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Production of a low-poly image of a character figure utilizing NanoBanana, specifically a {argument name="character model" default="Megami Device"} model.
@@ -7670,7 +7670,7 @@ Production of a low-poly image of a character figure utilizing NanoBanana, speci
 
 ## Procedural Book Nook Diorama Generation Prompt
 
-> Fotogerçekçi, elle çizilmiş bilgi grafiği üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, elle çizilmiş 3B sahne üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 <instructions>    Input Variable:   [INSERT TOPIC HERE] (e.g., History of Space Exploration)
@@ -7712,7 +7712,7 @@ Generate a crowded, hyper-realistic   "Book Nook" Diorama  . Use the following l
 
 ## 3x3 Character Pose Study Grid (Sadie Sink)
 
-> Fotogerçekçi, sinematik moda çekimi üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, sinematik karakter görseli üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Ultra-high quality photorealistic 3D character render presented as a 3x3 image grid (nine frames total), featuring the SAME adult female human subject in nine different poses. Minimalist studio environment with a smooth, seamless light-gray floor and background, no props, no scenery, no text. 
@@ -7746,7 +7746,7 @@ No background scenery, no environment elements, no text, no logos, no extra char
 
 ## Character Generation in Tokimeki Memorial Style
 
-> Görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Karakter görseli üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Generate a character with Nano Banana. Tokimeki Memorial style.
@@ -7789,7 +7789,7 @@ High resolution. Sticker sheet layout, perfect 3x3 alignment.
 
 ## Generate a beautiful woman from six different angles in a single, six-panel image
 
-> Görsel üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
+> Kadın figürlü görsel üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Please create a single, six-panel image of the woman in this picture, showing her from the {argument name="viewpoints" default="top, bottom, right, left, front, and back"} viewpoints.
@@ -7809,7 +7809,7 @@ Aerial oblique shot, golden hour desert light, crisp dramatic shadows, photoreal
 
 ## Nano Banana Pro Model Prompt for Visuals
 
-> Fotogerçekçi, sinematik görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, sinematik karakter görseli üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 A beautiful, highly detailed, photorealistic image of a female cyberpunk character, neon lights, city background, cinematic lighting, 8k, hyper-detailed, intricate, sharp focus, art by {argument name="artist" default="Greg Rutkowski"}, {argument name="style" default="cyberpunk"}, {argument name="color scheme" default="blue and purple"}
@@ -7833,7 +7833,7 @@ A large, highly detailed, photorealistic image of a spacious, crowded house part
 
 ## Live-action Lara Croft fantasy casting prompt
 
-> Fotogerçekçi, sinematik görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, sinematik fantastik sahne üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Live-action fantasy casting of Lara Croft, starring {argument name="actress name" default="Ana de Armas"}, in a jungle temple, cinematic lighting, ultra-realistic, photorealistic, 8k, high detail, high quality, professional photography, action pose, full body shot, wide shot
@@ -7841,7 +7841,7 @@ Live-action fantasy casting of Lara Croft, starring {argument name="actress name
 
 ## 2D Vector Character Illustration from Reference Image
 
-> Minimal illüstrasyon üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
+> Minimal karakter görseli üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Create a full-body 2D vector-style character illustration with clean lines and smooth flat shading. Accurately study and replicate the original person’s facial structure, body proportions, skin tone, hairstyle, and expression from the uploaded reference image.
@@ -7852,7 +7852,7 @@ Output as a high-quality transparent PNG, showing only the character with no bac
 
 ## Sci-Fi Cinematic Image: Man in Cryo-Chamber
 
-> Fotogerçekçi, sinematik görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, sinematik erkek figürlü görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 {
@@ -7917,7 +7917,7 @@ A hyper-realistic, futuristic nano banana, metallic texture, neon light, dark ba
 
 ## Character Sheet for Deep-Sea Creature with Bioluminescent Skeleton
 
-> Stüdyo ışıklı görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Stüdyo ışıklı fantastik yaratık üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Character sheet showing Front, Back, and Side views of a deep-sea creature. The surface is a swirling, iridescent oil-slick with rainbow fuel-tints. Underneath the oily surface, a pulsing bioluminescent skeletal structure glows {argument name="skeleton color" default="soft blue"}. Wet, viscous texture, dark underwater studio lighting.
@@ -7925,7 +7925,7 @@ Character sheet showing Front, Back, and Side views of a deep-sea creature. The 
 
 ## 3D Isometric Atlas Scene in Firefly Style
 
-> Sinematik mimari görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Sinematik 3B sahne üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Epic 3D isometric atlas scene: a massive ancient map of {argument name="subject" default="[SUBJECT]"} erupts from an unfurled parchment scroll, filling nearly the entire frame. Ink lines ignite into living terrain: mountain ranges push upward, cities rise in vertical layers, rivers glow and flow, borders burn softly in gold. Multiple civilizations {argument name="civilization layers" default="[CIVILIZATION LAYERS]"} coexist in stacked time, their architectures phasing through one another as if time is folding. A carved timeline spirals across the map with engraved dates. All text in {argument name="language" default="[LANGUAGE]"}. Extreme scale contrast, dense micro-detail everywhere, dramatic golden-hour light, volumetric dust, cinematic depth, 8K, UE5.
@@ -7950,7 +7950,7 @@ Epic 3D isometric atlas scene: a massive ancient map of {argument name="subject"
 
 ## Glitch Storm Dragon Prompt
 
-> Sinematik görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Sinematik fantastik yaratık üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 legendary dragon emerging from glitch storm, pixel sorting distortion, RGB color split, fragmented wings, epic cinematic atmosphere, highly detailed
@@ -7968,7 +7968,7 @@ I want to emphasize the beam weapon feel more.
 
 ## Post-Apocalyptic Survivor Cinematic Realism
 
-> Sinematik görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Sinematik sahne üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 {
@@ -7991,7 +7991,7 @@ I want to emphasize the beam weapon feel more.
 
 ## Photorealistic Fantasy Scene: Fairy and Muscular Bear in Cavern
 
-> Fotogerçekçi, sinematik görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, sinematik hayvan görseli üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 {
@@ -8199,7 +8199,7 @@ Usage: Official game-level screenshots shared on social media
 
 ## Image-to-Image Workflow for RPG Maker Pixel Maps using Nano Banana
 
-> Manzara üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
+> Fantastik sahne üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Please use Image 1 as the base map to generate a pixel map for RPG Maker production. Embellish the image details and replace the forest tile materials and overall style with a more dark fantasy style (art style reference: "{argument name="reference game" default="Elden Ring"}" / "{argument name="reference game 2" default="Dark Souls"}"). Do not enlarge, shrink, or stretch the generated map; please leave any extra areas blank.

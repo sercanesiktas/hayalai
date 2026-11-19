@@ -39,11 +39,23 @@ aramak denendi: "Florist" promptunun metninde *design* geçtiği için
 tasarıma, "Chemical Reactor" gövdesinde *html* geçtiği için web'e
 düşüyordu. Başlık, promptun ne olduğunu söyleyen tek güvenilir alan.
 
-**Açıklama promptun ne yaptığını söylüyor.** İlk sürüm şablon cümle
-kuruyordu: *"'LinkedIn: Recommendation request' rolünü üstlenen prompt"*.
-Bu, adı tekrar etmekten başka bir şey değildi. Şimdi 46 kalıplı bir görev
-çıkarımı var: metin "analiz et" mi diyor, "yeniden yaz" mı, "planla" mı,
-açıklama onu söylüyor. Şablona düşen oranı %33'ten %21'e indi.
+**Açıklama promptun ne yaptığını söylüyor, ama yalnızca güvenilir alandan.**
+İlk sürüm şablon cümle kuruyordu ("'LinkedIn: Recommendation request' rolünü
+üstlenen prompt"), bu adı tekrar etmekten başka bir şey değildi. İkinci sürüm
+promptun ilk 2.000 karakterinde anahtar kelime arıyordu ve rastgele örnekte
+yaklaşık yarısı yanlıştı: "Sudoku Game" özgeçmiş hazırlayan, "NixOS Linux
+Specialist" çeviri yapan bir prompt sayılıyordu. Şimdi önce başlığa bakılıyor,
+yoksa yalnızca promptun başındaki "act as ..." rol tanımına. Bulamazsa
+tahmin etmiyor, genel cümle yazıyor. Ölçülen etkisi:
+
+| | Önce | Sonra |
+|---|---:|---:|
+| Görsel promptta konusu belirsiz açıklama | 4.138 | 1.598 |
+| Metin promptunda genel cümle ("uzman gibi cevap verir") | 442 | 797 |
+| Benzersiz açıklama sayısı | 784 | 1.155 |
+
+Metindeki genel cümle sayısı arttı çünkü artık yanlış etiket yerine
+bilmediğini söylüyor. Elle bakılan 45 örnekte yanlış oranı yaklaşık %10.
 
 **Alan etiketi kaldırıldı.** Promptun hangi sektöre ait olduğunu metinden
 çıkarmayı denedik ve kendinden emin biçimde yanlış sonuçlar verdi:
@@ -56,8 +68,10 @@ Yanlış etiket, etiketsizlikten kötüdür.
 - Açıklamalar anahtar kelimeyle çıkarılıyor, çeviri değil. Bu yüzden bazı
   promptlarda görev cümlesi yanlış olabiliyor. Yanlış bir tanım gördüysen
   issue aç.
-- Görsel promptların yaklaşık yarısının açıklaması aynı kalıpta ("fotogerçekçi
+- Görsel promptların açıklaması konu ve üslup kalıbından kuruluyor ("fotogerçekçi
   portre üretmek için hazır prompt"). Metinden çıkarılabilen ayrıntı bu kadar.
+- İngilizce dışındaki başlıklar (Çince, Arapça, Portekizce) çoğunlukla genel
+  cümleye düşüyor.
 - Müstehcen içerik süzgeci kelime taramasıdır, kalanın tamamen temiz olduğunu
   garanti etmez.
 - 65.000 baytı aşan promptlar veri setine alınmıyor.

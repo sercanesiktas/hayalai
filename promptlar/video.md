@@ -14,7 +14,7 @@ I want you to act as an expert YouTube video analyst. After I share a video link
 
 ## YT video geopolitic analysis
 
-> İnceleyip değerlendirir. ChatGPT, Gemini veya Claude gibi sohbet asistanlarına yapıştırıp kullanırsın. Prompt metni İngilizce. Hazır katalog promptu.
+> Analiz yapar. ChatGPT, Gemini veya Claude gibi sohbet asistanlarına yapıştırıp kullanırsın. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 (Deep Investigation Agent)
@@ -204,7 +204,7 @@ YT video  geopolitic analysis
 
 ## Detailed Analysis of YouTube Channels, Databases, and Profiles
 
-> Özet çıkarır. ChatGPT, Gemini veya Claude gibi sohbet asistanlarına yapıştırıp kullanırsın. Prompt metni İngilizce. Hazır katalog promptu.
+> Analiz yapar. ChatGPT, Gemini veya Claude gibi sohbet asistanlarına yapıştırıp kullanırsın. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Act as a data analysis expert. You are skilled at examining YouTube channels, website databases, and user profiles to gather insights based on specific parameters provided by the user.
@@ -237,7 +237,7 @@ Output Format:
 
 ## Viral Video Analyzer for TikTok and Xiaohongshu
 
-> İnceleyip değerlendirir. ChatGPT, Gemini veya Claude gibi sohbet asistanlarına yapıştırıp kullanırsın. Prompt metni İngilizce. Hazır katalog promptu.
+> Sosyal medya içeriği üretir. ChatGPT, Gemini veya Claude gibi sohbet asistanlarına yapıştırıp kullanırsın. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Act as a Viral Video Analyst specializing in TikTok and Xiaohongshu. Your task is to analyze viral videos to identify key factors contributing to their success.
@@ -264,7 +264,7 @@ Rules:
 
 ## Hyperrealistic Food Video Creator
 
-> Reklam metni yazar. ChatGPT, Gemini veya Claude gibi sohbet asistanlarına yapıştırıp kullanırsın. Prompt metni İngilizce. Hazır katalog promptu.
+> Video içeriği hazırlar. ChatGPT, Gemini veya Claude gibi sohbet asistanlarına yapıştırıp kullanırsın. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Act as a Professional Food Videographer. You are an expert in creating engaging and appetizing food videos.
@@ -286,7 +286,7 @@ Constraints:
 
 ## AI Video Creation Assistant
 
-> Konuyu anlatır ve öğretir. ChatGPT, Gemini veya Claude gibi sohbet asistanlarına yapıştırıp kullanırsın. Prompt metni İngilizce. Hazır katalog promptu.
+> Video içeriği hazırlar. ChatGPT, Gemini veya Claude gibi sohbet asistanlarına yapıştırıp kullanırsın. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Act as an AI Video Creation Assistant. You are an expert in video production with extensive knowledge of scriptwriting, storyboard creation, and visual aesthetics.
@@ -310,7 +310,7 @@ Variables:
 
 ## Modern Video Player with Sharp UI
 
-> İyileştirme önerir. ChatGPT, Gemini veya Claude gibi sohbet asistanlarına yapıştırıp kullanırsın. Prompt metni İngilizce. Hazır katalog promptu.
+> Uygulama kodu yazar. ChatGPT, Gemini veya Claude gibi sohbet asistanlarına yapıştırıp kullanırsın. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Act as a Web Developer. You are tasked with creating a modern video player for a website.
@@ -334,7 +334,7 @@ Rules:
 
 ## Edit a New Year's Video for Antioch Textile with Nano Banana
 
-> Verilen konuda uzman gibi cevap verir. ChatGPT, Gemini veya Claude gibi sohbet asistanlarına yapıştırıp kullanırsın. Prompt metni İngilizce. Hazır katalog promptu.
+> Video içeriği hazırlar. ChatGPT, Gemini veya Claude gibi sohbet asistanlarına yapıştırıp kullanırsın. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Act as a Video Editing Specialist. You are tasked with creating a vibrant and engaging New Year's video for Antioch Textile using Google Gemini and Nano Banana.
@@ -354,7 +354,7 @@ This will help elevate Antioch Textile's brand image and engage their audience e
 
 ## New Year Celebration Video for Antioch Textile
 
-> Sosyal medya içeriği üretir. ChatGPT, Gemini veya Claude gibi sohbet asistanlarına yapıştırıp kullanırsın. Prompt metni İngilizce. Hazır katalog promptu.
+> Video içeriği hazırlar. ChatGPT, Gemini veya Claude gibi sohbet asistanlarına yapıştırıp kullanırsın. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Act as a professional video creator. You are tasked with creating a New Year celebration video for Antioch Textile's Instagram story. Your video should:
@@ -370,7 +370,7 @@ Ensure the video is vibrant, festive, and reflects the joy of the New Year while
 
 ## Create a Video with Top Athletes
 
-> Verilen konuda uzman gibi cevap verir. ChatGPT, Gemini veya Claude gibi sohbet asistanlarına yapıştırıp kullanırsın. Prompt metni İngilizce. Hazır katalog promptu.
+> Video içeriği hazırlar. ChatGPT, Gemini veya Claude gibi sohbet asistanlarına yapıştırıp kullanırsın. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Act as a Sports Video Editor. You are skilled at editing videos to integrate users with top athletes in iconic scenes.
@@ -387,7 +387,7 @@ Inputs:
 
 ## Module Wrap-Up & Next Steps Video Generation
 
-> Özet çıkarır. ChatGPT, Gemini veya Claude gibi sohbet asistanlarına yapıştırıp kullanırsın. Prompt metni İngilizce. Hazır katalog promptu.
+> Video içeriği hazırlar. ChatGPT, Gemini veya Claude gibi sohbet asistanlarına yapıştırıp kullanırsın. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Act as a Video Generator. You are tasked with creating an engaging video summarizing the key points of Lesson 08 from the Test Automation Engineer course. This lesson is the conclusion of Module 01, focusing on the wrap-up and preparation for the next steps.
@@ -415,7 +415,7 @@ Use the following structure:
 
 ## Cinematic Ultra-Realistic Image-to-Video Prompt Engineer
 
-> Konuyu anlatır ve öğretir. ChatGPT, Gemini veya Claude gibi sohbet asistanlarına yapıştırıp kullanırsın. Prompt metni İngilizce. Hazır katalog promptu.
+> Başka promptlar üretir. ChatGPT, Gemini veya Claude gibi sohbet asistanlarına yapıştırıp kullanırsın. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 {
@@ -658,7 +658,7 @@ Use the following structure:
 
 ## Underwater Veo 3 video
 
-> Verilen konuda uzman gibi cevap verir. ChatGPT, Gemini veya Claude gibi sohbet asistanlarına yapıştırıp kullanırsın. Prompt metni İngilizce. Hazır katalog promptu.
+> Video içeriği hazırlar. ChatGPT, Gemini veya Claude gibi sohbet asistanlarına yapıştırıp kullanırsın. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Ultra-realistic 6-second cinematic underwater video: A sleek predator fish darts through a vibrant coral reef, scattering a school of colorful tropical fish. The camera follows from a low FPV angle just behind the predator, weaving smoothly between corals and rocks with dynamic, fast-paced motion. The camera occasionally tilts and rolls slightly, emphasizing speed and depth, while sunlight filters through the water, creating shimmering rays and sparkling reflections. Tiny bubbles and particles float in the water for immersive realism. Ultra-realistic textures, cinematic lighting, dramatic depth of field. Audio: bubbling water, swishing fins, subtle underwater ambience.
@@ -666,7 +666,7 @@ Ultra-realistic 6-second cinematic underwater video: A sleek predator fish darts
 
 ## prompts.chat Promotional Video using Remotion
 
-> Verilen konuda uzman gibi cevap verir. ChatGPT, Gemini veya Claude gibi sohbet asistanlarına yapıştırıp kullanırsın. Prompt metni İngilizce. Hazır katalog promptu.
+> Video içeriği hazırlar. ChatGPT, Gemini veya Claude gibi sohbet asistanlarına yapıştırıp kullanırsın. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Create a 30-second promotional video for prompts.chat                     
@@ -791,7 +791,7 @@ Key Components
 
 ## Screenplay Script with Cinematography Details
 
-> Özet çıkarır. ChatGPT, Gemini veya Claude gibi sohbet asistanlarına yapıştırıp kullanırsın. Prompt metni İngilizce. Hazır katalog promptu.
+> Yaratıcı metin yazar. ChatGPT, Gemini veya Claude gibi sohbet asistanlarına yapıştırıp kullanırsın. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Act as a screenwriter and cinematographer. You will create a screenplay for a 5-minute short film based on the following summary:
@@ -817,7 +817,7 @@ Rules:
 
 ## Romantic Rainy Scene Video
 
-> Verilen konuda uzman gibi cevap verir. ChatGPT, Gemini veya Claude gibi sohbet asistanlarına yapıştırıp kullanırsın. Prompt metni İngilizce. Hazır katalog promptu.
+> Video içeriği hazırlar. ChatGPT, Gemini veya Claude gibi sohbet asistanlarına yapıştırıp kullanırsın. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 They are standing under the rain, looking at each other romantically. Raindrops fall around them and the soft sound of rain fills the atmosphere.
@@ -825,7 +825,7 @@ They are standing under the rain, looking at each other romantically. Raindrops 
 
 ## Daiquiri Cocktail Cinematic Video
 
-> Verilen konuda uzman gibi cevap verir. ChatGPT, Gemini veya Claude gibi sohbet asistanlarına yapıştırıp kullanırsın. Prompt metni İngilizce. Hazır katalog promptu.
+> Görsel üretimi için yönerge verir. ChatGPT, Gemini veya Claude gibi sohbet asistanlarına yapıştırıp kullanırsın. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 A cinematic 9:16 vertical video of a Daiquiri  cocktail placed on a wooden bar table. The camera is positioned at a slight angle on the front of the glass. The cocktail glass is centered and the table slowly rotates 360 degrees to showcase it. Soft, warm lighting and realistic reflections on the glass. Background slightly blurred. Smooth slow zoom in. No text overlay, no people — focus only on the drink and table, crisp details and realistic liquid movement.
@@ -833,7 +833,7 @@ A cinematic 9:16 vertical video of a Daiquiri  cocktail placed on a wooden bar t
 
 ## Manhattan Cocktail Cinematic Video
 
-> Tarif verir. ChatGPT, Gemini veya Claude gibi sohbet asistanlarına yapıştırıp kullanırsın. Prompt metni İngilizce. Hazır katalog promptu.
+> Görsel üretimi için yönerge verir. ChatGPT, Gemini veya Claude gibi sohbet asistanlarına yapıştırıp kullanırsın. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 centered Manhattan cocktail hero shot, static locked camera, very subtle liquid movement, dramatic rim lighting, premium cocktail commercial look, isolated subject, simple dark gradient background, empty negative space around cocktail, 9:16 vertical, ultra realistic. no bartender, no hands, no environment clutter, product commercial style, slow motion elegance. 
@@ -848,7 +848,7 @@ Garnish: brandied cherry (or lemon twist, if preferred)
 
 ## Cinematic Video Essay Director
 
-> Yaratıcı metin yazar. ChatGPT, Gemini veya Claude gibi sohbet asistanlarına yapıştırıp kullanırsın. Prompt metni İngilizce. Hazır katalog promptu.
+> Metin yazar. ChatGPT, Gemini veya Claude gibi sohbet asistanlarına yapıştırıp kullanırsın. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 I want you to act as a Cinematic Video Essay Director and Master Storyteller. I will give you a core topic, the target audience, and the desired emotional tone. Your goal is to architect a high-retention, visually engaging video script structure.
@@ -869,7 +869,7 @@ Desired Tone: ${Desired_Tone:Mysterious, Educational, Humorous, etc.}
 
 ## image to video 360 product rotaion
 
-> Verilen konuda uzman gibi cevap verir. ChatGPT, Gemini veya Claude gibi sohbet asistanlarına yapıştırıp kullanırsın. Prompt metni İngilizce. Hazır katalog promptu.
+> Video içeriği hazırlar. ChatGPT, Gemini veya Claude gibi sohbet asistanlarına yapıştırıp kullanırsın. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 {
@@ -1110,7 +1110,7 @@ Desired Tone: ${Desired_Tone:Mysterious, Educational, Humorous, etc.}
 
 ## Video review and teacher
 
-> Özet çıkarır. ChatGPT, Gemini veya Claude gibi sohbet asistanlarına yapıştırıp kullanırsın. Prompt metni İngilizce. Hazır katalog promptu.
+> İnceleyip değerlendirir. ChatGPT, Gemini veya Claude gibi sohbet asistanlarına yapıştırıp kullanırsın. Prompt metni İngilizce. Hazır katalog promptu.
 
 ````
 You are an expert AI Engineering instructor's assistant, specialized in extracting and documenting every piece of knowledge from educational video content about AI agents, MCP (Model Context Protocol), and agentic systems.
@@ -1186,7 +1186,7 @@ End with:
 
 ## Video extractor prompt
 
-> Özet çıkarır. ChatGPT, Gemini veya Claude gibi sohbet asistanlarına yapıştırıp kullanırsın. Prompt metni İngilizce. Hazır katalog promptu.
+> Veriyi ayıklayıp biçimlendirir. ChatGPT, Gemini veya Claude gibi sohbet asistanlarına yapıştırıp kullanırsın. Prompt metni İngilizce. Hazır katalog promptu.
 
 ````
 You are an expert AI Engineering instructor's assistant, specialized in extracting and teaching every piece of knowledge from educational video content about AI agents, MCP (Model Context Protocol), and agentic systems.
@@ -1274,7 +1274,7 @@ End with:
 
 ## Video
 
-> Sosyal medya içeriği üretir. ChatGPT, Gemini veya Claude gibi sohbet asistanlarına yapıştırıp kullanırsın. Prompt metni İngilizce. Hazır katalog promptu.
+> Video içeriği hazırlar. ChatGPT, Gemini veya Claude gibi sohbet asistanlarına yapıştırıp kullanırsın. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 I want you to act like an expert who is fill with wisdom and extraordinary in his work making everything easy to understand,captivating and the best in the world.making each question I ask to stand out perfect that will calture the mind of people and they will like to follow me on tiktok and all social medial handle  I will be using
@@ -1282,7 +1282,7 @@ I want you to act like an expert who is fill with wisdom and extraordinary in hi
 
 ## The Paradoxical Soundscape: Ancient Acoustic Mysteries Video Exploration
 
-> Verilen konuda uzman gibi cevap verir. ChatGPT, Gemini veya Claude gibi sohbet asistanlarına yapıştırıp kullanırsın. Prompt metni İngilizce. Hazır katalog promptu.
+> Video içeriği hazırlar. ChatGPT, Gemini veya Claude gibi sohbet asistanlarına yapıştırıp kullanırsın. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Create a video that explores the mysterious acoustic properties of ancient Dravidian pillars. Highlight how these structures resonate like flutes, challenging modern engineering principles. The video should cover: 
@@ -1314,7 +1314,7 @@ Rules:
 
 ## YouTube Script Engine — High Retention
 
-> Özet çıkarır. ChatGPT, Gemini veya Claude gibi sohbet asistanlarına yapıştırıp kullanırsın. Prompt metni İngilizce. Hazır katalog promptu.
+> Metin yazar. ChatGPT, Gemini veya Claude gibi sohbet asistanlarına yapıştırıp kullanırsın. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 You are a YouTube content strategist specializing in viewer retention and engagement.
@@ -1364,7 +1364,7 @@ Rules:
 
 ## Institutional Video Production Expert
 
-> Verilen konuda uzman gibi cevap verir. ChatGPT, Gemini veya Claude gibi sohbet asistanlarına yapıştırıp kullanırsın. Prompt metni İngilizce. Hazır katalog promptu.
+> Video içeriği hazırlar. ChatGPT, Gemini veya Claude gibi sohbet asistanlarına yapıştırıp kullanırsın. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Act as a Video Production Expert. You specialize in creating high-quality institutional videos that effectively communicate an organization's values, mission, and achievements. Your task is to produce compelling video content for ${organizationName}. 
@@ -1481,7 +1481,7 @@ Present the results in a professional client-friendly report format.
 
 ## Action video
 
-> Verilen konuda uzman gibi cevap verir. ChatGPT, Gemini veya Claude gibi sohbet asistanlarına yapıştırıp kullanırsın. Prompt metni İngilizce. Hazır katalog promptu.
+> Video içeriği hazırlar. ChatGPT, Gemini veya Claude gibi sohbet asistanlarına yapıştırıp kullanırsın. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Create a cinematic video length 30 sec, video that's like equaliser movie danzel Washington destroyed ship
@@ -1489,7 +1489,7 @@ Create a cinematic video length 30 sec, video that's like equaliser movie danzel
 
 ## Casual Code Explanation Video Script
 
-> Özet çıkarır. ChatGPT, Gemini veya Claude gibi sohbet asistanlarına yapıştırıp kullanırsın. Prompt metni İngilizce. Hazır katalog promptu.
+> Metin yazar. ChatGPT, Gemini veya Claude gibi sohbet asistanlarına yapıştırıp kullanırsın. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Act as a friendly coding teacher. You are going to create a video to explain your code to your professor in a casual and engaging manner.
@@ -1518,7 +1518,7 @@ Example:
 
 ## 🤖 SafeKids Video Analyzer
 
-> Özet çıkarır. ChatGPT, Gemini veya Claude gibi sohbet asistanlarına yapıştırıp kullanırsın. Prompt metni İngilizce. Hazır katalog promptu.
+> Analiz yapar. ChatGPT, Gemini veya Claude gibi sohbet asistanlarına yapıştırıp kullanırsın. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Objective
@@ -1821,7 +1821,7 @@ The response must:
 
 ## Video Istruttivo sui Muscoli per Studenti
 
-> Konuyu anlatır ve öğretir. ChatGPT, Gemini veya Claude gibi sohbet asistanlarına yapıştırıp kullanırsın. Prompt metni İngilizce. Hazır katalog promptu.
+> Video içeriği hazırlar. ChatGPT, Gemini veya Claude gibi sohbet asistanlarına yapıştırıp kullanırsın. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Act as a sports instructor resembling Cristiano Ronaldo. You are tasked with creating an instructional video for students about how muscles work. The video should cover the following sections:
@@ -1845,7 +1845,7 @@ Ensure the video is engaging, with dynamic transitions between different sports 
 
 ## Video Cinematográfico IA | Agente Celestial Designs
 
-> Verilen konuda uzman gibi cevap verir. ChatGPT, Gemini veya Claude gibi sohbet asistanlarına yapıştırıp kullanırsın. Prompt metni İngilizce. Hazır katalog promptu.
+> Video içeriği hazırlar. ChatGPT, Gemini veya Claude gibi sohbet asistanlarına yapıştırıp kullanırsın. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Genera un video cinematico de calidad profesional con movimiento fluido.

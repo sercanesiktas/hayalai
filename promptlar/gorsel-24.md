@@ -70,7 +70,7 @@ Use face image of the uploaded photo with the exact facial proportions and facia
 
 ## Realism Sketch Style Superimposition
 
-> Elle çizilmiş görsel üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
+> Elle çizilmiş erkek figürlü görsel üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 the sketch make it {argument name="style" default="male hairstyle"} like the second upload image, create a {argument name="quality" default="HD ultra-realism image sketch"} from second image superimpost into first sketch style !
@@ -142,7 +142,7 @@ Loose, expressive, emotional, confident, painterly sketch feel, clearly hand-dra
 
 ## Korean Style Soft-Glam Car Selfie
 
-> Minimal, lüks çizgi roman karesi üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Minimal, lüks selfie fotoğrafı üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 A woman is posing for a close-up selfie inside a dark, sophisticated car interior. Behind her is a black textured car seat, while soft natural daylight gently streams in through the side window. The overall atmosphere is ultra-HD, aesthetic, soft-glam, clean, and natural. The bright yet gentle lighting makes her skin appear smooth, radiant, and glowing. She is seated inside a tidy, modern vehicle, with the background slightly blurred to keep the focus on her face. The camera angle is positioned slightly above eye level and tilted slightly to the right, creating an intimate, modern, and stylish selfie composition. The framing is a close-up that highlights her face, shoulders, and upper chest. She is wearing a feminine yet chic outfit. A {argument name="outfit" default="white knit cardigan with green trim"} along the collar and button edges creates a soft and lovely appearance, layered over a simple white inner top. Her accessories include elegant {argument name="jewelry" default="small pearl earrings and a delicate gold chain necklace with a small black clover-shaped pendant"}, giving her a sweet, classy, and sophisticated look. Her expression is playful, with a subtle smile on her lips. Her eyes are sharp yet adorable, creating a stylish and cute selfie vibe. Glowing Skin Makeup. Complexion. Smooth semi-matte finish that resembles flawless porcelain skin with no visible pores. Very fair skin tone. Strong highlights along the bridge and tip of the nose create a defined button-nose effect. Eye Makeup. Large, round, expressive doll-like eyes. Upper lashes are extremely long, full, and dramatically curled in a spiky manga/anime style. Lower lashes are individually defined for a dramatic appearance. Wearing {argument name="lenses" default="large light-grey circle lenses"} with a thin black limbal ring. Thin black eyeliner follows the upper lash line, extending into a subtle outward wing. Aegyosal (Under-Eye Puff). Prominent, full aegyosal beneath the eyes for a youthful and adorable appearance. A thin brown shadow beneath the aegyosal adds depth. A shimmering white highlighter in the centre enhances volume and dimension. Blush. Bright pastel pink. Applied in the Igari (drunken blush) style, beginning beneath the eyes, spreading widely across the upper cheeks, and lightly extending over the bridge of the nose. Creates a strong, sweet, naturally flushed look. Lips. Gradient lips with a full, "blurred lips" effect. Soft light pink around the outer edges, blending into a deeper strawberry red at the centre. Soft semi-matte finish with a subtle natural sheen. A well-defined Cupid's bow. Her hair is very long, light golden brown, soft, healthy, glossy, and highly realistic. It falls naturally with gentle volume, featuring delicate, luminous texture and a few soft wispy strands framing her face. The overall image should feel luxurious, aesthetic, feminine, fresh, natural, and modern, like a professionally photographed selfie. It should feature high detail, soft colours, sharp focus on the face, glowing skin
@@ -187,7 +187,7 @@ Soft natural lighting, gentle highlights, subtle ambient shadows, smooth tonal g
 
 ## Ultra-Realistic iPhone Selfie with Motion Blur
 
-> Fotogerçekçi portre üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi selfie fotoğrafı üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 { "type": "Ultra-realistic lifestyle selfie photograph", "instruction": "Do not change the woman's face. Preserve 100% facial identity, facial features, proportions, eye shape, skin tone, hair color and overall appearance exactly as the reference.", "shot": "Shot on iPhone in bright natural daylight.", "composition": { "style": "Strictly a handheld selfie taken with an extended arm. The phone itself must NOT be visible in the frame. Close-up portrait selfie. Camera positioned slightly above eye level and angled slightly downward toward the face. Natural front camera perspective with realistic selfie distortion." }, "motion": { "description": "A spontaneous candid moment captured mid-movement. At the exact moment the photo is taken, the woman quickly turns her head to the right, creating natural motion blur across her face, jawline and hair from the fast head movement. Her face remains recognizable. Her hair follows the movement with realistic motion trails and soft blur on individual strands. The body, clothing and background remain sharp. No artificial blur." }, "pose": { "description": "The woman is holding the phone with her right arm extended forward, outside the frame. Her left arm is raised behind her head with the elbow bent. Her head is caught during a quick turn, gaze slightly away from the lens rather than direct eye contact. Calm, confident expression with a natural spontaneous feeling and soft smile." }, "hair": { "description": "Medium brown hair tied up in a high messy bun. Soft strands and flyaways lifted by the movement, creating realistic motion blur on loose pieces around the face and neck." }, "clothing": { "description": "White fitted long-sleeve top made of smooth stretchy fabric. Elegant central decorative knot detail on the chest. The fabric follows the body naturally." }, "accessories": { "description": "Small gold hoop earrings. Delicate thin necklace with tiny pendant. Short square French manicure." }, "makeup": { "description": "Minimal natural makeup. Soft subtle lip color. Natural glowing skin texture with visible pores, realistic imperfections and warm golden undertones." }, "skin": { "description": "Fair skin with warm golden undertones and natural healthy glow. Realistic pores, soft natural flush on cheeks." }, "eyes": { "description": "Light brown eyes." }, "environment": { "description": "Open field with tall grass stretching into the distance. Bright daytime landscape under a clear blue sky with soft white clouds. The background remains fully readable and detailed under natural sunlight." }, "lighting": { "description": "Bright natural daylight illuminating the face and clothing. Soft golden sunlight highlights on skin and fabric. Even exposure with natural shadows. High clarity and realistic outdoor lighting." }, "photography_style": { "description": "Authentic iPhone daytime selfie. Candid" } }
@@ -195,7 +195,7 @@ Soft natural lighting, gentle highlights, subtle ambient shadows, smooth tonal g
 
 ## Realistic Korean Lifestyle Selfie Portrait
 
-> Fotogerçekçi, sinematik mimari görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, sinematik selfie fotoğrafı üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Ultra-photorealistic candid indoor selfie portrait of a beautiful young {argument name="ethnicity" default="East Asian woman"} with fair porcelain skin and delicate facial features, {argument name="hairstyle" default="short chin-length textured French bob haircut"} in deep dark brown with soft layers and messy volume, wispy bangs and loose strands naturally falling across her face partially covering one eye, thick natural eyebrows, almond-shaped dark brown eyes looking directly into the camera with a calm, dreamy expression, small straight nose, soft gradient pink lips, minimal Korean makeup with flawless skin, subtle blush and natural lashes. She rests her face gently on her left hand with her elbow supported, head slightly tilted, one bent knee in light-wash blue denim visible in the foreground. Wearing an {argument name="clothing" default="oversized charcoal-black acid-wash long-sleeve sweatshirt"} with sleeves covering part of her hand and a delicate thin silver necklace with a tiny pendant. Cozy minimalist bedroom or modern hotel room interior with warm beige walls, upholstered headboard, built-in open shelves containing neatly arranged skincare bottles and small personal items, clean uncluttered aesthetic. Soft warm diffused ambient lighting, natural indoor illumination, gentle shadows, realistic skin translucency, cinematic warm color grading. Shot on a premium smartphone front camera, 28mm equivalent lens, eye-level perspective, shallow depth of field, crisp focus on the eyes, subtle background bokeh. Editorial lifestyle photography, intimate, relaxed, effortless beauty, Korean aesthetic, highly detailed skin pores, realistic hair strands, HDR, ultra-sharp, 8K, DSLR quality, true-to-life colors, high dynamic range, cinematic composition, premium fashion magazine quality, masterpiece, award-winning photography.
@@ -204,7 +204,7 @@ Negative Prompt: low quality, blurry, soft focus, noise, grain, overexposed, und
 
 ## Chunky Cinematic Pop Culture Character
 
-> Sinematik, minimal illüstrasyon üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Sinematik, minimal karakter görseli üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Cute chunky cartoon {argument name="character" default="pop culture"} in an epic pose, full body, beautiful color palette, soft lighting, white background, soft focus romanticism, 4k, shiny eyes
@@ -212,7 +212,7 @@ Cute chunky cartoon {argument name="character" default="pop culture"} in an epic
 
 ## Candid Spring Selfie with Motion Blur
 
-> Fotogerçekçi, lüks portre üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, lüks selfie fotoğrafı üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Do not change the facial features, face shape, body proportions, or the colour, length, or texture of the hair. Preserve a 100% resemblance to the original person. Do not make the subject look younger or idealised. Do not alter the eye shape, lips, nose, or chin. Preserve the natural facial expression, skin texture, pores, and all unique individual characteristics.
@@ -254,7 +254,7 @@ Cool neutral tones with strong shadows and highlights, minimalist modern mood, d
 
 ## Sahara Desert Cinematic Portrait Prompt
 
-> Sinematik mimari görsel üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
+> Sinematik portre üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 A weathered {argument name="subject description" default="late-20s man"}. Clothing: Flowing cream-colored linen tunic, wide-leg loose-fitting desert trousers in a sandy hue, draped pashmina scarf. Footwear: Distressed leather open-toe sandals. Accessories: Silver cuff bracelets, leather satchel worn across the body, dark square-frame sunglasses. Pose: Walking away from the camera, looking back over his shoulder towards a vast landscape. Camera Setup: Nikon Z9, 70-200mm lens (shot at 150mm), f/4.0. Angle of Capture: Full body, wide shot, slightly elevated to capture the environment. Setting: {argument name="setting" default="Endless sand dunes"} under a clear blue sky. Lighting/Mood/Time of Day: {argument name="lighting" default="Harsh, direct mid-day sun"}, creating strong shadows, epic and mysterious mood. Style and Finish: Cinematic landscape portrait, extreme depth-of-field, warm desert color palette, high detail on sand texture.
@@ -264,7 +264,7 @@ Negative Prompt : Modern buildings, lush vegetation, blur, bad anatomy, extra li
 
 ## Realistic iPhone Selfie Portrait with Glass Skin
 
-> Fotogerçekçi, lüks portre üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, lüks selfie fotoğrafı üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Maintain the original facial features exactly as they are, preserving the natural 100% facial identity and perfectly balanced proportions. The appearance should be youthful and feminine, using the exact same face from “Image 1.” The skin should look radiant, luminous, and healthy with a soft pearlescent glow, featuring naturally detailed texture that creates a realistic dewy glass skin effect without looking plastic or artificial. {argument name="eye color" default="Large dark brown eyes"} should have bright, natural catchlights, complemented by thick black eyelashes curled upward, softly arched eyebrows that are natural and not overly dark, a fresh rosy blush blended delicately across the cheeks, a subtle pink tint on the tip of the nose, and soft gradient pink lips with a light glossy finish. Makeup should be seamlessly blended into the skin with no patchiness or harsh lines. The body should appear proportionate with very fair, smooth, glowing skin. The hair should be a {argument name="hair color" default="light milk-tea brown colour"}, tied back with an ivory-white hair tie visible at the back of the head, with loose strands and soft baby hairs naturally framing the forehead and face. The character has multiple piercings in the right ear (left side of the image), including the earlobe and upper helix, wearing small diamond or crystal earrings shaped like stars and flowers. Around the neck is a delicate gold or rose gold necklace with a white "{argument name="pendant shape" default="Z"}"-shaped pendant surrounded by a gold frame. The setting is inside a car, with a grey fabric or synthetic seatback visible behind the subject and a black seatbelt crossing the lower-right corner of the frame, reinforcing the confined interior space. The subject is centred in the composition, filling most of the frame while taking a selfie with her head noticeably tilted toward the right side of the image (left from the subject’s perspective), looking directly into the camera with a confident, captivating gaze. She wears a white collared shirt with the top buttons left open, revealing the neck, collarbones, and upper chest. Natural sunlight streams through the front of the car, creating strong, direct hard lighting that highlights the glow of the face, eyes, and hair, with the light likely reflected by the hand or smartphone holding the camera. The image is captured as an extreme close-up selfie using a Dutch angle that matches the head tilt, with the camera positioned at eye level or slightly above and angled downward. The composition focuses almost entirely on the face, neck, and upper chest, leaving very little of the surrounding environment visible to emphasise the skin texture, lighting, shadows, and expressive eyes. The image should have a 9:16 aspect ratio, ultra-high 8K resolution, and the realistic quality of a photo taken with the latest iPhone. Negative Prompt: low quality, worst quality (1.4), bad anatomy, deformed, ugly appearance, crossed eyes, extra limbs, missing limbs, fused fingers, extra fingers, watermark, text, signature, illustr
@@ -272,7 +272,7 @@ Maintain the original facial features exactly as they are, preserving the natura
 
 ## Luxury Skyscraper Penthouse Portrait
 
-> Fotogerçekçi, minimal mimari görsel üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, minimal portre üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Ultra-photorealistic 8K RAW DSLR portrait of the {argument name="subject" default="exact same man from the reference image"} — preserve his face with near-perfect identity, facial proportions, skin tone, hairstyle, beard, and natural expression. He is standing confidently inside an ultra-luxurious modern glass penthouse perched atop one of the world's tallest skyscrapers, positioned high above a vast sea of soft white clouds. The atmosphere feels exclusive, peaceful, and impossibly elegant. The penthouse features floor-to-ceiling crystal-clear glass walls with invisible frameless panels, polished Italian white marble flooring with subtle natural veining, warm walnut wood accents, brushed champagne-gold architectural details, and minimalist designer furniture crafted from leather and natural stone. A grand floating staircase, sculptural lighting fixtures, indoor olive trees, curated contemporary artwork, and an elegant black grand piano add refined sophistication without distracting from the subject. Behind him, an awe-inspiring sunrise bathes the skyline in rich golden-hour light. Hundreds of glass skyscrapers stretch toward the horizon, their reflective facades glowing with warm amber, soft orange, and pale pink hues. Thick clouds drift far below the building, creating the illusion that the penthouse floats above the world. The distant city gradually disappears into atmospheric haze, enhancing the immense scale and realism. He wears an {argument name="outfit" default="impeccably tailored luxury charcoal double-breasted suit"} with subtle textured fabric, a crisp white dress shirt with the top button undone, premium leather loafers, and an elegant mechanical wristwatch. His posture is relaxed yet powerful—one hand casually in his pocket while the other lightly rests against the glass wall, looking toward the sunrise with quiet confidence. His clothing reacts naturally to a gentle breeze from an open terrace. Natural sunlight pours through the glass, producing physically accurate global illumination, realistic soft shadows, subtle reflections on the polished floor, and lifelike highlights across his face. His skin shows authentic pores, fine facial hair, natural imperfections, realistic subsurface scattering, and balanced tonal transitions. Every material—glass, marble, leather, brushed metal, wood, and fabric—exhibits true-to-life textures and physically accurate reflections. Captured with a full-frame professional DSLR using an 85mm f/1.4 prime lens, shallow depth of field, HDR imaging, cinematic composition, razor-sharp focus on the face, realistic optical bokeh, high dynamic range, volumetric sunlight, atmospheric perspective, perfectly balanced exposure, editorial luxury fashion photography aesthetic, architectural photography quality, National Geographic-level realism, premium real-estate visualization quality, natural color grading, hyper-detailed, masterpiece, visually breathtaking.
@@ -298,7 +298,7 @@ Negative Prompt : Winter clothes, formal attire, blur, bad anatomy, extra limbs,
 
 ## Elegant European Street Portrait
 
-> Sinematik, minimal moda çekimi üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Sinematik, minimal portre üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 I am standing confidently on a {argument name="location" default="quiet European city street"} with my exact face and identity preserved with pixel-perfect accuracy. The atmosphere is elegant, timeless, and cinematic, inspired by luxury fashion editorials. I am standing in a relaxed, masculine pose with my torso turned slightly about 20 degrees to the left. My shoulders are broad but relaxed, creating a natural, confident posture. My left arm is bent with my left hand resting firmly on my left hip, fingers naturally curved and the elbow pointing outward. My right arm is positioned behind my lower back with the hand resting casually behind my waist, creating an asymmetrical, effortless pose. My chest is open, posture upright, and my weight is shifted mostly onto one leg while the other leg remains relaxed. My head is turned approximately 45 degrees toward the left side of the frame as I look confidently into the distance. rather than at the camera. My facial expression is calm, composed, and… I am wearing {argument name="outfit" default="high-waisted black tailored trousers with a clean front, soft pleats, and a relaxed straight-leg silhouette"}. A classic black leather belt with a polished silver rectangular buckle is visible around my waist. The monochromatic combination of black trousers and the ivory knit polo creates a timeless old-money fashion aesthetic. I am wearing classic black rectangular sunglasses with dark lenses and a refined minimalist frame. I am not wearing necklaces, bracelets, rings, hats, or additional accessories. The background features an elegant European street with historic stone buildings, large windows, architectural details, street signs, and industrial metal structures softly fading into the distance. Everything behind me remains naturally blurred with realistic depth of field while preserving the recognizable urban atmosphere. The image has a luxurious editorial feel with clean composition and timeless architecture. Lighting is soft natural daylight with gentle diffused contrast, producing flattering shadows across my face and clothing. The overall mood is sophisticated, relaxed, and cinematic. Camera angle: eye-level, vertical composition (4:5). Lens: 85mm portrait lens. Medium portrait framing from approximately mid-thigh upward. Very shallow depth of field with smooth background bokeh. Ultra-realistic luxury fashion editorial photography, RAW image, natural skin texture, highly detailed knit fabric, photorealistic lighting, premium magazine aesthetic, no HDR, no excessive sharpening, no color grading, natural contrast, ultra-detailed, realistic proportions.
@@ -306,7 +306,7 @@ I am standing confidently on a {argument name="location" default="quiet European
 
 ## Candid Luxury Ferris Wheel Portrait
 
-> Fotogerçekçi, fütüristik moda çekimi üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, fütüristik portre üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Use the same {argument name="subject" default="Korean female"} from the reference image. Preserve her facial identity exactly.
@@ -372,7 +372,7 @@ A captivating and deeply detailed medium close-up portrait featuring the beautif
 
 ## Golden Hour Car Selfie
 
-> Fotogerçekçi, sinematik portre üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, sinematik selfie fotoğrafı üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Ultra-realistic golden hour car selfie, close-up, vertical 4:5, high-end smartphone front camera, 26mm, f/1.8, ISO 40, HDR, natural skin texture, subtle film grain, 8K. A {argument name="subject" default="young woman sitting in the front passenger seat of a modern black leather car"}, wearing a seatbelt, long dark chestnut-brown wavy hair, fair skin, light blue-gray eyes, thick brows, soft winged eyeliner, glossy pink lips, {argument name="clothing" default="black spaghetti-strap top"}, silver hoop earrings, and a silver Hamsa pendant necklace. {argument name="lighting" default="Warm golden sunlight"} from the side window casts cinematic shadows across her face, clear blue sky outside, calm neutral expression, photorealistic, premium smartphone photography.
@@ -596,7 +596,7 @@ cinematic chiaroscuro color grading.
 
 ## Candid Smartphone Celebrity Portrait
 
-> Mimari görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Portre üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 A medium shot, eye-level candid smartphone photo of {argument name="celebrity" default="Hailee Steinfeld"} smiling directly into the camera. She is centered in the frame with her hair parted down the middle, falling softly below her shoulders. She has a joyful expression with a radiant, open-mouthed smile showing her teeth, wearing light, natural makeup with authentic skin microtexture, fine pores, subtle imperfections, and realistic skin tones. She is wearing a {argument name="top color" default="light-red"} long-sleeved crop top and high-waisted, tight-fitting {argument name="shorts style" default="marled white knit"} shorts. Her posture is relaxed and dynamic, with a slight hip dip to the left, both arms raised, and her hands placed under her chin to form a 'V' shape around her face. The setting is a bathroom interior featuring a closed black paneled door with a silver handle in the background. To the right, two plush towels-one yellow and one red-toned-hang on a rack. In the immediate foreground, the sharp edge of a polished granite countertop displays detailed mineral textures. The scene is illuminated by indirect natural window light blended with soft ambient lighting. Captured on a 24mm equivalent smartphone lens with modern computational HDR processing, a shallow depth of field (f/1.8), ISO 100 clarity, and extreme optical sharpness. Ultra-high-definition 8K quality focusing on realistic fabric microtextures, crisp eyes, and zero digital noise. Aspect ratio 9:16.
@@ -604,7 +604,7 @@ A medium shot, eye-level candid smartphone photo of {argument name="celebrity" d
 
 ## Natural Golden Hour Indoor Selfie
 
-> Fotogerçekçi yemek görseli üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi selfie fotoğrafı üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Preserve her original facial features exactly as they are. She has a naturally beautiful appearance with perfect facial symmetry. She should appear youthful and feminine, with a naturally full bust rather than a flat chest. A close-up indoor selfie of a young woman with a soft, sweet face, illuminated by warm natural lighting reminiscent of golden hour. The image is ultra-realistic, featuring a beautiful fair-skinned young woman with balanced facial proportions and dewy skin that appears slightly moisturized. She has naturally groomed eyebrows, long, thick, curled upper eyelashes (lash extensions), equally long, dense, curled lower lashes, black contact lenses, and a reddish ombré lip tint. Soft pink blush is visibly applied across the bridge of her nose and beneath her eyes, creating a delicate, youthful aesthetic. Her complexion is fair with a subtle rosy undertone, rendered in ultra-high 8K detail, while a camera flash adds a luminous glow to her face. The composition emphasizes her facial expression, eyes, and makeup details. She rests her chin on her bent arm, wearing a gentle, soft smile with a calm gaze directed toward the camera. A few loose strands of hair fall naturally across her face, adding a dreamy, feminine, and effortless appearance. Her hair is long, loose, thick at the roots, and slightly wavy at the ends, colored in a cool {argument name="hair color" default="ash-brown"} shade. It is styled with a side part, with one section tucked behind her ear to reveal a small silver butterfly-shaped earring. Fine wisps of hair frame her face, enhancing the candid and natural feel. Top: She wears a soft {argument name="top color" default="pastel blue"} Kashmiri embroidered kurta with three-quarter sleeves and a notched crew neckline. The kurta features intricate floral and vine embroidery in white, orange, and light pink across the chest, complemented by matching decorative embroidery along the sleeves, hem, and side slit. Warm midday sunlight streams through a nearby window, casting the shadow of the window bars onto the wall behind her. The warm light softly illuminates one side of her face, creating a golden glow that highlights the smooth texture of her skin and adds natural depth to her features. The background is a simple light cream-colored wall decorated with trailing {argument name="plant decoration" default="green heart-shaped vines"} hanging from above, creating a clean, warm, and cozy indoor atmosphere. The image is captured vertically (9:16) using a smartphone in Portrait mode from a close selfie angle, with razor-sharp focus on her face, eyes, and accessories, while the background remains softly blurred with shallow depth of field. The overall aesthetic is inspired by Korean portrait photography, highlighting natural beauty under warm golden-hour lighting with a minimal, clean indoor setting. The image is ultra-photorealistic with highly detailed skin texture, soft cinematic lighting, HDR processing, 8K resolution, and calm pastel color grading that creates a warm, elegant, and
@@ -620,7 +620,7 @@ Vertical 9:16 photographed portrait. A {argument name="subject" default="young w
 
 ## Korean Style Portrait Photography Prompt
 
-> Fotogerçekçi yemek görseli üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi portre üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Preserve her original facial features exactly as they are. She has a naturally beautiful appearance with perfect facial symmetry. She should appear youthful and feminine, with a naturally full bust rather than a flat chest.
@@ -634,7 +634,7 @@ The image is captured vertically (9:16) using a smartphone in Portrait mode from
 
 ## Historical Photo Restoration
 
-> Görsel üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotoğraf üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Restore this {argument name="photo type" default="old damaged photo"} with {argument name="output quality" default="4K details and colours"}. Keep the colours authentic to the time period and aesthetic of the photo. Do not change any details from my original photo.
@@ -650,7 +650,7 @@ These moody, atmospheric portraits capture a young woman with {argument name="ha
 
 ## Football Jersey Mirror Selfie
 
-> Sinematik portre üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Sinematik selfie fotoğrafı üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 A stunning full-body mirror selfie of a beautiful woman in a cozy modern bedroom, taking a confident photo with a {argument name="phone" default="gray iPhone"} in her right hand. She has fair skin, {argument name="hair style" default="blonde wavy hair"} styled in a half-up bun with a small white skull hair clip, loose strands framing her face, and wearing long dangling star-shaped earrings. She is wearing deep necked the {argument name="outfit" default="official Argentina national football team uniform"} cropped knit: a light blue and white vertical striped jersey with the AFA crest on the chest, short sleeves or slightly rolled, tucked slightly at the waist, paired with matching black shorts, white socks, and football boots. Toned athletic physique visible, natural daylight coming from the window, wooden bed with blue bedding and potted plants in the background, green curtains, realistic photography style, highly detailed, sharp focus, 8k quality, cinematic lighting.
@@ -666,7 +666,7 @@ Ultra-realistic beach sunset portrait of a {argument name="subject" default="bea
 
 ## Chartreuse Kurta Editorial Portrait
 
-> Retro, lüks yemek görseli üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Retro, lüks portre üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Maintain her original facial features exactly as they are, preserving her 100% authentic appearance and perfectly symmetrical face. She should look youthful and feminine, with a naturally full bust (not flat). Create a high-resolution, masterpiece-quality image with the best possible quality, perfect detailed lighting, dramatic shadows, a curvy and attractive figure, an innocent face, and a vertical 9:16 composition. Transform the image into a very close-up social media portrait of a fair-skinned white woman wearing radiant, glowing makeup with a glass skin effect. She has long, thick, curled "spider-leg" eyelashes, long and well-defined lower lashes, neatly groomed natural eyebrows, and a reddish gradient (ombre) lip tint. She is wearing a long {argument name="outfit color" default="chartreuse"} cotton kurta featuring a soft V-neckline, long sleeves with wide cuffs, and adjustable corset-style side ties finished with delicate fabric tassels, with the garment covering her hair. Her hair is long, thick, glossy ash brown, cut in multiple layers with softly curled ends, while a few loose strands naturally frame her forehead and face. She wears a very small gold heart-shaped necklace (♥️), a small black watch, long natural pink nails, and a gold ring on her ring finger. The portrait is captured as an extreme close-up from a slightly tilted, low camera angle. She has a gentle, elegant smile, one hand lightly holding her hair near her ear, and looks directly into the camera. The overall style is photogenic celebrity-style portrait photography suitable for Instagram, appearing highly realistic rather than artificial. The lighting combines a camera flash with soft natural indoor illumination, creating an even distribution of light across her face for a bright, luminous complexion. The background is slightly dark, showing a dimly lit room with pale gray walls beside a white door. The image should look as though it was taken with the latest iPhone camera, featuring ultra-realistic skin texture (without an artificial plastic appearance), razor-sharp focus, cinematic depth, 8K Ultra-HD resolution, and a premium editorial magazine portrait aesthetic. Apply a soft vintage film texture with subtle haze to emulate the look of analog film photography or a retro filter. In the bottom-left corner, include a classic white digital timestamp printed vertically reading "25年 3月11日" (March 11, 2026). Use a 9:16 aspect ratio and preserve natural skin texture throughout.
@@ -682,7 +682,7 @@ A dramatic 3:4 portrait of a {argument name="subject" default="man with a sharp 
 
 ## Cinematic Golden Hour Close-up Portrait
 
-> Fotogerçekçi, sinematik moda çekimi üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, sinematik portre üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 An ultra-realistic cinematic close-up portrait of a beautiful young woman, photographed from a three-quarter profile while gently looking back toward the camera. She has fair porcelain skin with a natural satin glow, subtle freckles across the nose, soft rosy cheeks, full natural pink lips, hazel-green almond-shaped eyes with long eyelashes, and thick, well-groomed dark eyebrows. Her dark brown hair is tied into a low bun with soft wispy curtain bangs framing her face. She wears delicate gold hoop earrings with small heart charms, a thin layered gold necklace, and a minimalist black spaghetti-strap top. The scene is illuminated by warm golden-hour sunlight streaming through a window, creating dramatic bands of light and shadow across her face and shoulder. Rich amber tones, soft falloff, and moody low-key lighting produce an intimate editorial atmosphere. The background is dark, clean, and out of focus with creamy bokeh, emphasizing the subject’s facial features. Shot on a full-frame DSLR with an 85mm f/1.4 portrait lens, shallow depth of field, razor-sharp focus on the eyes, creamy background separation, cinematic color grading, natural skin texture, subtle film grain, premium fashion editorial style, luxury beauty campaign, photorealistic, ultra-detailed, 8K resolution, HDR, soft contrast, elegant composition, high dynamic range, masterpiece quality.
@@ -698,7 +698,7 @@ A confident {argument name="subject" default="male subject"} stands perfectly ce
 
 ## Douyin Style Aesthetic Portrait
 
-> Çizgi roman karesi üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Portre üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Don't change her face original—100% authentic with perfect facial symmetry. She should have a youthful, feminine appearance. Create a captivating, intimate top-down portrait selfie inspired by the popular Douyin makeup aesthetic, featuring a {argument name="subject" default="young woman"} lying comfortably on her back in a relaxed pose that radiates femininity and grace. The image is captured directly from above in a slightly tilted bird's-eye perspective, creating a spontaneous, alluring composition focused entirely on her captivating facial features and her direct gaze into the camera. She looks at the lens with wide, sharp eyes and a calm, relaxed expression without an open smile, giving the portrait a mysterious, dramatic, and confident mood. Her makeup follows the signature Douyin doll style with enchanting gray or light-blue colored contact lenses, long, thick, wispy manga-style false lashes, highlighted aegyo-sal to make the eyes appear larger and more alluring, and perfectly brushed, precisely defined eyebrows. Intense pink blush is generously applied beneath the eyes, across the cheeks, and over the tip of the nose to create a soft, flushed complexion, while a delicate beauty mark is clearly visible on the right side of her nose tip. Her lips are full, well-defined, and finished in a {argument name="lip color" default="matte berry-pink"} shade that enhances their soft, attractive shape. She wears a fitted, short-sleeved ribbed Henley-style top in {argument name="clothing color" default="light gray"} with a wide open neckline and small front buttons. Her thick, dark chocolate-brown hair falls naturally in a loose, messy style across the pillow surrounding her head and forehead, emphasizing the relaxed atmosphere. She is lying on a cozy bed or sofa with a soft white or cream-colored pillow featuring an embossed textured pattern behind her head. Soft, diffused indoor lighting evenly illuminates her face, highlighting her velvety skin texture and intricate makeup details without harsh shadows, creating an intimate, cozy mood. Preserve her original facial features exactly without any alteration. Ultra-realistic, HD image quality, 9:16 aspect ratio.
@@ -706,7 +706,7 @@ Don't change her face original—100% authentic with perfect facial symmetry. Sh
 
 ## Selective Color Black and White Portrait
 
-> Fotogerçekçi moda çekimi üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi portre üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Hyper-realistic close-up portrait of a stunning woman in black and white, with selective color. Her skin is smooth and matte with no sweat or shine, beautifully lit in monochrome tones. The only colors present are her {argument name="eye color" default="vivid, electric blue"} eyes and {argument name="lip color" default="bold, glossy red"} lips, which stand out dramatically against the grayscale.
@@ -714,7 +714,7 @@ Hyper-realistic close-up portrait of a stunning woman in black and white, with s
 
 ## Cinematic Golden Hour Portrait Transformation
 
-> Fotogerçekçi, sinematik moda çekimi üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, sinematik portre üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Transform this image [UPLOAD YOUR IMAGE] into a 64K DSLR-quality, ultra-hyperrealistic cinematic full-body, full-length portrait of the person from the uploaded image standing confidently beside the edge of a contemporary concrete-and-stone building during the warm golden hour. Instead of leaning against the pillar, the subject is casually standing with one foot slightly forward and one hand in a pocket, naturally looking away from the camera. The composition is vertical, with the subject positioned slightly right of center. Warm sunset light creates soft highlights on the face and outfit, while long cinematic shadows add depth. The background features clean modern architecture with subtle greenery and a softly blurred urban environment. Shot with a professional 85mm lens, shallow depth of field, natural skin texture, realistic fabric details, premium fashion editorial style, luxury lifestyle aesthetic, rich warm color grading, crisp focus, HDR lighting, photorealistic, 64K masterpiece
@@ -722,7 +722,7 @@ Transform this image [UPLOAD YOUR IMAGE] into a 64K DSLR-quality, ultra-hyperrea
 
 ## Gamer Apparel Portrait
 
-> Fotogerçekçi moda çekimi üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi portre üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 A high-quality, photorealistic portrait of a confident {argument name="age" default="19 years young"} smiling directly at the camera. He is wearing a bright yellow short-sleeved t-shirt with "{argument name="shirt text" default="PUBG"}" printed in bold black letters across the chest, and black sweatpants with "{argument name="pants text" default="FREE FIRE"}" printed vertically in white on the left leg. He is wearing yellow, black, and white athletic sneakers. In his right hand, he is holding a black baseball cap with "FREE FIRE" in white text. His left hand is casually resting in his pocket, and he wears a smartwatch with an orange band on his left wrist. He is standing on a modern indoor staircase that features warm yellow LED strip lighting under the lip of each step. The background is blurred with a shallow depth of field, showing a modern building interior like a shopping mall, with a few other casually dressed young men standing and chatting on the stairs behind him. Vibrant colors, bright indoor lighting, 8k resolution. Keep original face and hairstyle 100% reference Ratio 9:16
@@ -730,7 +730,7 @@ A high-quality, photorealistic portrait of a confident {argument name="age" defa
 
 ## Redheaded Woman in Poppy Field
 
-> Sinematik, retro portre üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Sinematik, retro kadın figürlü görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 A portrait of a young woman with voluminous curly red hair and freckles sitting in a field of bright red poppies.
@@ -754,7 +754,7 @@ Style Details: The image features a dreamy, cinematic aesthetic with warm color 
 
 ## Lifestyle Smartphone Selfie with Keffiyeh
 
-> Fotogerçekçi, sinematik portre üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, sinematik selfie fotoğrafı üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Ultra-realistic 8K smartphone selfie, RAW photo, beautiful young woman with long straight {argument name="hair color" default="light brown"} hair, fair glowing skin, soft natural makeup, defined brows, long eyelashes, glossy pink lips, delicate facial features, wearing a {argument name="outfit" default="black fitted long-sleeve top"} with a traditional red-and-white keffiyeh scarf draped over her shoulders. Holding a black iPhone Pro in front of a mirror, playful expression with her tongue slightly out, relaxed pose, minimal jewelry, bright indoor lighting, {argument name="background" default="clean white vertical panel wall"} background, soft shadows, realistic skin texture, sharp focus on face, shallow depth of field, natural color grading, ultra-detailed, photorealistic, lifestyle photography, casual aesthetic, Instagram influencer style, high-end smartphone camera quality.
@@ -817,7 +817,7 @@ with reference to the uploaded image create a hyper realistic image of me wearin
 
 ## Summer Vibes Character Sign
 
-> Görsel üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
+> Karakter görseli üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 {argument name="reference" default="image_1"} Is holding a sign that says "{argument name="sign text" default="Flova CPP"}," in her left hand. She is making a peace sign with her right hand and grinning happily with teeth showing. {argument name="aesthetic" default="Extremely cute vibes. Summer energy"}. Vibrant colors. Bokeh. Subtle lens glare. Oversaturated lighting from the bright summer sun. Put her in a more casual summer outfit.
@@ -944,7 +944,7 @@ Use the exact same faces from both reference images and generate a warm intimate
 
 ## Elegant Woman in Golden Dress
 
-> Minimal, lüks mimari görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Minimal, lüks kadın figürlü görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 A stunning, high-resolution portrait of an {argument name="subject" default="elegant woman with deep, wavy dark hair and a warm, glowing complexion"}, dressed in a {argument name="dress style" default="soft, golden-yellow pleated dress with long, flowing sleeves"}. She is captured in various poses, including close-up headshots and half-body shots, showcasing a serene and confident expression with her hand gently resting near her face or neck. The background is a {argument name="environment" default="bright, airy, and sophisticated interior space featuring a large, arched window"} that lets in soft, natural light, complemented by lush indoor greenery in minimalist pots, creating a tranquil and timeless atmosphere.
@@ -960,7 +960,7 @@ Do not change her original facial features; they are already authentic and perfe
 
 ## Realistic Portrait of Woman Outdoors
 
-> Lüks manzara üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Lüks portre üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Create a high-quality, realistic portrait of a {argument name="subject" default="young, smiling woman with long, dark hair"}, elegantly posed outdoors. She is wearing a {argument name="outfit" default="white, off-the-shoulder top"} and is joyfully looking down at a modern smartphone held in her hands, with one hand gently resting near her chin. The background should feature a picturesque, scenic view of a {argument name="scenery" default="calm blue body of water"}, perhaps a sea or lake, framed by vibrant, lush blooming flowers such as pink and red bougainvillea or geraniums. The lighting should be soft and natural, emphasizing a bright, cheerful atmosphere and a pleasant, sunny day.
@@ -968,7 +968,7 @@ Create a high-quality, realistic portrait of a {argument name="subject" default=
 
 ## Ultra-realistic Lifestyle Smartphone Selfie
 
-> Fotogerçekçi, minimal moda çekimi üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, minimal selfie fotoğrafı üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Ultra-realistic smartphone selfie of a beautiful young woman with {argument name="hair color" default="long dark brown"} hair and soft curtain bangs, fair glowing skin, {argument name="eye color" default="hazel-green"} eyes with long eyelashes, natural pink matte lips, subtle blush, wearing a {argument name="outfit" default="fitted black ribbed knit short-sleeve polo dress"} with a button placket, silver hoop earrings, and a two-tone gold and silver luxury wristwatch. She is taking her own selfie from a high angle with one arm extended toward the camera. Bright golden-hour sunlight streams through large windows, creating soft highlights on her face, dramatic shadows, and a warm glow. Modern luxury interior with black-and-white geometric marble floor tiles and a white armchair in the background. Clean minimalist aesthetic, shallow depth of field, ultra-detailed skin texture, realistic hair strands, natural facial proportions, premium lifestyle photography, candid expression, editorial fashion look, soft contrast, HDR, 8K, DSLR quality, photorealistic, no watermark, no text.
@@ -976,7 +976,7 @@ Ultra-realistic smartphone selfie of a beautiful young woman with {argument name
 
 ## Graphite Pencil Sketch of South Asian Woman
 
-> Fotogerçekçi, elle çizilmiş mimari görsel üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, elle çizilmiş kadın figürlü görsel üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Use the uploaded image as the exact identity reference. Preserve the woman's face with perfect accuracy.
@@ -1000,7 +1000,7 @@ Ultra-fine, semi-realistic, painterly illustrations with a soft graphite sketch 
 
 ## Natural Amateur iPhone Selfie Portrait
 
-> Fotogerçekçi portre üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi selfie fotoğrafı üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Amateur selfie on an iPhone 16 Pro Max front-facing camera, Pinterest style for an Instagram blog. Vertical photorealistic portrait in the aesthetic of a candid social media snapshot: a {argument name="subject" default="young woman"} lying on her back in a {argument name="location" default="thick chamomile field"}. Shot in a tight medium shot from above, as if taken with a phone camera from an outstretched hand.
@@ -1062,7 +1062,7 @@ cinematic, wide-angle portrait of her sitting in a {argument name="setting" defa
 
 ## Young Woman in Pink Tank Top
 
-> Portre üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Kadın figürlü görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 feminine young woman, {argument name="hair style" default="messy blonde"} hair, {argument name="clothing" default="babypink tank top"}.
@@ -1070,7 +1070,7 @@ feminine young woman, {argument name="hair style" default="messy blonde"} hair, 
 
 ## Character Loungewear Mirror Selfie
 
-> Portre üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Selfie fotoğrafı üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Young woman with long dark hair, taking a mirror selfie in a cozy bedroom. Wearing a cute casual loungewear set: {argument name="top print" default="white oversized t-shirt with big yellow Tweety Bird cartoon print"}, and matching {argument name="pants style" default="bright yellow pajama pants with all-over Tweety Bird faces print"}. Barefoot, relaxed pose, one hand waving.
@@ -1110,7 +1110,7 @@ A dramatic, high-contrast studio portrait of a {argument name="subject descripti
 
 ## Parisian Twilight Lifestyle Portrait
 
-> Retro, fütüristik mimari görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Retro, fütüristik portre üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 A {argument name="subject" default="young male adult"} stands centered, facing the camera straight on with leveled shoulders and a deliberately posed, confident demeanor. He exhibits a subtle closed smile, his relaxed eyebrows resting above eyes that hold a steady, direct gaze. His dark brown, medium-short hair is parted slightly off-center and styled back with a glossy pomade, revealing a slightly wavy texture with volume at the roots and a distinct natural imperfection of a single loose flyaway strand falling gently over his right forehead. He wears a {argument name="outfit" default="warm beige zip sweater"}, his arms crossed relaxedly at his chest; his fully visible left hand rests on his right bicep, adorned with a silver watch, while his right hand is tucked under his left arm. He is situated outdoors in a deep, layered spatial setting where the background falls into a soft blur. Behind him in the midground, a vintage Haussmann building rises on the right with classic architectural molding and smooth but slightly textured aged matte plaster walls showing patchy warm beige-gray paint and neon reflections, while solid warm gray concrete grounds the environment. Weathered, leafless winter trees flank the left and center, and a worn black sedan and an SUV with glowing red tail lights navigate near a crosswalk with streetlights at the bottom right. Deep in the right-center background, the pristine silhouette of the Eiffel Tower is brightly illuminated against the sky. The {argument name="setting" default="serene Parisian twilight"} is infused with urban energy and a sophisticated, calm mood, dominated by a complementary palette of warm beige, sunset orange-yellow, charcoal gray, and striking accents of neon green glowing from the base of the architecture. Mixed, multiple soft light sources diffuse gently from above, providing a golden ambient fill with moderate intensity and low, flat contrast. Soft, short, and gradual gray shadows gather subtly under his chin and crossed arms, while preserved highlights catch naturally on his defined cheekbones and glossy hair. Captured as a realistic, tack-sharp digital photograph on a 35mm lens at f/2.8, 1/125s, and ISO 400, the clean, grain-free lifestyle travel aesthetic utilizes a medium depth of field and is elevated by post-processing that applies warm color grading in the highlights, lifted shadows, and enhanced neon green accents, all beautifully framed in a 4:5 aspect ratio.
@@ -1126,7 +1126,7 @@ Studio portrait photography, {argument name="subject" default="female boxer in h
 
 ## Retro Jersey Night Party Portrait
 
-> Fotogerçekçi, sinematik moda çekimi üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, sinematik portre üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Use the uploaded reference image as the exact face reference. Preserve the exact facial identity with full face lock. Ultra-realistic cinematic night portrait standing on a small apartment balcony during a house party. Wearing a {argument name="clothing" default="retro football jersey"}, one hand resting on the {argument name="setting" default="balcony railing"} while city lights blur in the background. Warm indoor lighting spills through the open balcony door where party guests remain visible inside. {argument name="film type" default="Kodak Portra"} film colors, soft haze, dreamy lens flare, analog grain, documentary fashion photography, realistic lighting, nostalgic youth aesthetic, vertical 4:5.
@@ -1166,7 +1166,7 @@ A stunning double exposure watercolor portrait art of a young woman with {argume
 
 ## Natural Glass Skin Selfie
 
-> Minimal, lüks portre üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Minimal, lüks selfie fotoğrafı üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 A close-up selfie portrait of a {argument name="subject" default="woman"} with bright natural fair skin, featuring healthy, hydrated glowing skin with a very realistic glass skin effect, especially on the cheeks, tip of the nose, forehead, and T-zone. Her face remains natural and realistic, with slight subtle breakouts and faint acne marks still softly visible so the result does not look overly smoothed or artificial. The makeup is highly detailed yet still natural and radiant: lightweight even base makeup, dewy wet finish, thin concealer, soft pink blush on the cheeks, subtle highlighter on the cheekbones and nose tip, natural pink lip gloss with a healthy plump lip effect, neatly groomed dark brown natural eyebrows, naturally curled lashes, soft and clean eye makeup, not excessive. Her face looks fresh, feminine, and elegant.
@@ -1187,7 +1187,7 @@ excessive makeup, overly blurred skin, plastic face, heavy beauty filter, dark l
 
 ## Creative Professional Studio Portrait
 
-> Fotogerçekçi, sinematik logo üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, sinematik portre üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Ultra-realistic cinematic portrait of a young {argument name="subject" default="female creative professional"} working in a modern dark-themed content creation studio. She is seated in a premium ergonomic office chair at a sleek matte-black desk, looking directly up at the camera with a calm, confident expression. She has fair skin, soft natural makeup, expressive hazel eyes, and brunette hair {argument name="hair style" default="tied in a messy bun with loose strands framing her face"}. She wears a {argument name="wardrobe" default="fitted light gray short-sleeve t-shirt and black pants"}.
@@ -1199,7 +1199,7 @@ The background includes a glowing red neon "logo" wall sign, framed photography 
 
 ## High-Contrast Monochrome Editorial Portrait
 
-> Fotogerçekçi, minimal moda çekimi üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, minimal portre üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Ultra-realistic black-and-white editorial portrait, low-angle shot, 4:5 aspect ratio. The {argument name="subject" default="man"} fills about 85-90% of the frame in a medium close-up, showing the head, neck, shoulders, upper chest, upper arms, and part of the forearms, with only a small amount of empty space above his head. A {argument name="physical description" default="handsome athletic man"} wearing a {argument name="clothing" default="plain black fitted ribbed crew-neck short-sleeve sweater"}. His arms are loosely crossed. His body is turned slightly (20°) while his head is turned slightly to the left and tilted upward, with his eyes looking off-camera toward the upper left, giving a calm, confident, thoughtful expression. Strong hard natural sunlight from the upper left illuminates the left side of his hair, forehead, eye, cheek, nose, beard, neck, shoulder, and front arm, while the right side of his face and ear fall into deep shadow, creating crisp, high-contrast facial definition. Clean plain gray sky background, no distractions. High-contrast monochrome with deep blacks, bright highlights, sharp skin texture, fine-art fashion photography, ultra-realistic, premium editorial quality.
@@ -1207,7 +1207,7 @@ Ultra-realistic black-and-white editorial portrait, low-angle shot, 4:5 aspect r
 
 ## Red Hair Woman Portrait Collage
 
-> Portre üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Kolaj üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 A vibrant photo collage features a young woman with striking, long, straight {argument name="hair color" default="red"} hair and soft bangs, showcased in {argument name="number of portraits" default="eight"} distinct, emotive portraits. Each panel in the referenced file highlights a different setting and mood, ranging from cozy indoor spaces like bedrooms and kitchens to bright, naturally lit environments. The subject displays an array of charming expressions—including joyful laughter, playful winking, thoughtful pondering with a finger to her chin, a surprised "o" mouth, and a silly tongue-out pose—while wearing a colorful variety of sweaters and casual tops. The overall aesthetic is warm, inviting, and youthful, emphasizing a playful and relatable character study through diverse daily interactions and candid-style photography.
@@ -1215,7 +1215,7 @@ A vibrant photo collage features a young woman with striking, long, straight {ar
 
 ## Cinematic Golden Hour Portrait of a Woman
 
-> Sinematik, minimal moda çekimi üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Sinematik, minimal portre üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 A stunning, high-fashioned cinematic portrait of a {argument name="subject" default="beautiful young woman"} with a flawless complexion and expressive brown eyes. Her long, rich brown hair is styled in a {argument name="hairstyle" default="voluminous, perfectly detailed high ponytail"} with soft, elegant face-framing strands catching the golden sunlight. She has soft, natural makeup with long lashes and a subtle, thoughtful expression, looking off into the distant horizon away from the camera. Her hands are delicately held together in front of her, showcasing intricately detailed shimmering silver glitter nail art and wearing thin, minimal silver rings on her fingers. She is wearing a modern, chic {argument name="clothing" default="off-white asymmetric one-shoulder top"} and a thin silver chain necklace with a small heart pendant. The background features a breathtaking, highly detailed coastal landscape, standing on a rocky cliff overlooking a vast deep-blue ocean with realistic crashing white waves. The scene is illuminated by soft, warm golden hour sunlight, creating beautiful highlights on her hair and a cinematic depth of field with a softly blurred background.
@@ -1239,7 +1239,7 @@ A hyper-realistic, dramatic studio portrait of a {argument name="subject" defaul
 
 ## Monochrome Graphite Fine-Art Sketch
 
-> Fotogerçekçi, sinematik moda çekimi üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, sinematik portre üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Ultra-detailed monochrome graphite portrait illustration, contemporary fine-art sketch aesthetic, hyper-realistic facial rendering blended with {argument name="artistic style" default="expressive loose construction lines"}, premium pencil-on-smooth-paper texture, {argument name="shading" default="soft charcoal shading, refined graphite gradients, delicate cross-hatching"}, painterly tonal transitions, crisp high-contrast lighting, luminous skin highlights, subtle atmospheric depth, unfinished artistic edges, dynamic gestural strokes around the hair and clothing, elegant negative space composition, editorial fashion illustration, museum-quality draftsmanship, cinematic realism, minimalist black-and-white palette, clean white background, masterwork, ultra-high detail, 8K. A 9:16.
@@ -1275,7 +1275,7 @@ A beautiful young {argument name="ethnicity" default="East Asian woman"} with a 
 
 ## Candid Night Smartphone Photography
 
-> Fotogerçekçi mimari görsel üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi fotoğraf üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Ultra-realistic candid smartphone photograph, 9:16 vertical.
@@ -1313,7 +1313,7 @@ identity match, face copy, real person replication
 
 ## Elegant woman in glittery navy dress
 
-> Lüks portre üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Lüks kadın figürlü görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 A vertical, over-the-shoulder portrait of a {argument name="subject" default="young woman"} with a {argument name="hairstyle" default="classic black bob haircut"}. She is looking back toward the camera with a serious, captivating expression. She wears an elegant, high-neck, {argument name="dress" default="navy blue shimmery dress"} featuring a texture that catches the light like fine glitter. The background is a moody, dimly lit room with ornate navy blue damask wallpaper, featuring a dark carved wood frame and subtle classical decor pieces on a surface behind her, creating a sophisticated and atmospheric setting.
@@ -1353,7 +1353,7 @@ Please create a 2026-quality digital animation-style color image that faithfully
 
 ## Minimalist Korean Beauty Editorial
 
-> Minimal, stüdyo ışıklı moda çekimi üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Minimal, stüdyo ışıklı fotoğraf üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Masterpiece minimalist {argument name="subject" default="Korean editorial portrait of a young woman"} with fair porcelain skin, a heart-shaped oval face, large almond-shaped dark brown eyes, and soft direct eye contact. She wears subtle Korean clean beauty makeup with a thin lifted winged eyeliner, soft pink blush, and muted rose gradient lips. Her deep black silky hair is styled in a loose low messy bun with delicate face-framing strands and a center part.
@@ -1419,7 +1419,7 @@ Create A 8K Ultra realistic young beautiful woman with {argument name="hair styl
 
 ## Professional Studio Male Portrait
 
-> Fotogerçekçi, minimal logo üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, minimal portre üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 A medium shot of a handsome man with {argument name="hair style" default="styled brown hair"} and a neat beard, looking directly at the camera with a confident expression. He is wearing a {argument name="clothing" default="clean white t-shirt"} featuring a small black swoosh logo on the left chest, a simple silver chain necklace with a small rectangular pendant, and a dark luxury watch on his wrist. The background is a {argument name="background" default="softly blurred office or study room"} with warm indoor lighting, showing hints of a wooden bookshelf and potted plants. Photorealistic, soft depth of field, high detail, studio lighting.
@@ -1435,7 +1435,7 @@ Ultra-realistic candid smartphone photo, vertical 9:16. Close-up portrait of a {
 
 ## Cozy Lifestyle Bean Bag Selfie
 
-> Fotogerçekçi, minimal logo üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, minimal selfie fotoğrafı üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 {
@@ -1492,7 +1492,7 @@ Hyper-realistic macro cinematic photograph featuring the subject, using the uplo
 
 ## Hyper-Realistic Morning Bed Selfie
 
-> Fotogerçekçi, sinematik portre üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, sinematik selfie fotoğrafı üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Ultra-realistic close-up smartphone selfie of a {argument name="subject" default="stunning young woman lying in bed"}, captured from a slightly tilted angle. Her face fills most of the frame, partially wrapped in a soft white duvet that gently covers one side of her face. She has flawless porcelain skin, naturally full glossy pink lips, large expressive deep-brown eyes with long curled eyelashes, and a dreamy, contemplative gaze looking slightly upward. Delicate wisps of {argument name="hair color" default="chestnut-brown hair"} fall across her face, creating an intimate and effortless beauty. Soft wavy brown hair spreads across a cream-colored pillow with subtle floral textures.
@@ -1503,7 +1503,7 @@ low quality, blurry, overprocessed skin, heavy makeup, exaggerated facial featur
 
 ## Vintage Photo Restoration and Enhancement
 
-> Retro portre üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
+> Retro fotoğraf üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Recreate old antique photos with hyper-realism; completely preserve the original face without any changes. Use a modern high-quality digital portrait with updated vibrant colors and smooth, realistic skin textures.
@@ -1511,7 +1511,7 @@ Recreate old antique photos with hyper-realism; completely preserve the original
 
 ## Professional High-Resolution ID Photo
 
-> Minimal görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Minimal fotoğraf üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Create a professionally shot, high-resolution {argument name="ID type" default="ID card"} photo with a clean white background. The subject is centered with ample lighting, natural skin tone, and soft, even makeup. The subject wears neat {argument name="clothing style" default="business"} attire, with a tidy hairstyle and a confident, composed expression. The lighting is even without harsh shadows, ensuring the face is presented clearly and naturally.
@@ -1519,7 +1519,7 @@ Create a professionally shot, high-resolution {argument name="ID type" default="
 
 ## Chiaroscuro Muslim Woman Portrait
 
-> Fotogerçekçi, sinematik moda çekimi üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, sinematik portre üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Create an ultra-realistic cinematic portrait featuring a beautiful {argument name="subject" default="Muslim woman wearing a flowing black abaya and matching black hijab"}, with an {argument name="attire detail" default="elegant dark paisley-patterned shawl"} draped gracefully over her shoulders. She stands calmly, gazing slightly away from the camera with a wise, serene expression. The scene is illuminated with dramatic chiaroscuro lighting, where a soft warm key light highlights her face while the background remains in deep cinematic shadows. Behind her is a {argument name="background" default="luxurious dark textured wall decorated with softly blurred Arabic calligraphy glowing in rich gold and crimson tones"}. Capture photorealistic skin texture, realistic fabric folds, intricate paisley embroidery, soft depth of field, warm cinematic color grading, premium editorial fashion photography, ultra-detailed 8K resolution, HDR, masterpiece composition, museum-quality portrait, elegant Islamic aesthetic, vertical 9:16 full-screen mobile wallpaper.
@@ -1543,7 +1543,7 @@ A dramatic black and white full-body photograph of a {argument name="subject" de
 
 ## Cozy Hoodie Selfie Portrait
 
-> Fotogerçekçi portre üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi selfie fotoğrafı üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Photorealistic close-up selfie of an adorable young woman, face filling most of the frame, head slightly tilted with cheek resting inside a {argument name="hoodie style" default="cozy cream oversized hoodie"} sleeve. Long silky hair with {argument name="hair style" default="soft curtain bangs"} covering one eye, big expressive eyes with winged eyeliner, fluffy lashes, natural glowing skin, dusty pink lips, gentle pout, sweet and cute expression. Hoodie slipping off one shoulder, visible collarbone. Warm indoor lighting, soft beige-gray blurred background, shallow depth of field, ultra-detailed eye focus, realistic hair texture, cozy aesthetic, authentic webcam selfie vibe, muted pastel tones, high realism,portrait.
@@ -1551,7 +1551,7 @@ Photorealistic close-up selfie of an adorable young woman, face filling most of 
 
 ## Realistic Spa Bathroom Selfie
 
-> Fotogerçekçi, minimal portre üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, minimal selfie fotoğrafı üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Using the reference image, create an ultra-realistic vertical smartphone selfie of an {argument name="subject" default="adult woman"} in a {argument name="setting" default="luxury marble bathroom"} after a shower. Preserve the same facial structure, natural expression, wet slicked-back hair, soft bare-faced makeup look, realistic skin texture, water droplets on the face, shoulders, and collarbone, and the {argument name="clothing item" default="red towel"} wrapped securely around the chest. The background should show a high-end glass shower with white marble walls, chrome fixtures, soft bathroom lighting, mirror reflections, and a clean spa-like atmosphere. Keep the composition close-up from chest to head, slightly high selfie angle, natural phone camera perspective, realistic lighting, detailed pores, soft highlights on wet skin, candid luxury lifestyle aesthetic, photorealistic, 9:16 vertical format, high resolution.
@@ -1561,7 +1561,7 @@ nudity, exposed chest, explicit pose, sexualized expression, heavy makeup, plast
 
 ## Mediterranean Summer Lifestyle Portrait
 
-> Sinematik mimari görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Sinematik portre üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 A medium waist-up framing captures a confident adult male in mid-stride, his chest facing the camera while his head turns 45 degrees to gaze sharply off-camera to the right. He has a warm tan, bronzed complexion and a meticulously groomed, full, dense dark beard. His dark brown to black hair features a crisp high skin fade on the sides and back, blending into one and a half to two inches of length on top that is styled upward and slightly forward with a textured, matte-finish product, displaying natural thickness and slight, non-uniform variations in strand direction alongside a sharp temple line-up. His serious, guarded expression is accentuated by a closed neutral mouth and dark charcoal sunglasses that completely obscure his eyes. He wears a light cornflower blue button-down shirt paired with cream linen trousers. His left hand rests casually downward by his side with fingers naturally curled, adorned with a thin gold chain bracelet on the wrist and a gold ring on his pinky. His right hand is raised to shoulder height, where the index finger gently hooks over the collar of a light cream linen jacket slung over his slightly raised right shoulder, the thumb and remaining fingers pinching the fabric securely. He stands positioned slightly to the right of center in an outdoor Mediterranean setting, balanced by the negative space of a weathered, center-left midground stone archway. This traditional Apulian Trullo entrance is constructed from rough-hewn raw cut limestone and tufa blocks, featuring unfinished dry-stone masonry with deep crevices, irregular chipped edges, aged pitting, and a matte off-white and cream finish with subtle beige and gray undertones, framing a deep black void inside. In the background at the top right, a weathered conical stepped stone roof rises, while a few blurred thriving olive green leaves drop down into the top left edge of the foreground. A sun-drenched, warm Mediterranean afternoon bathes the scene in bright, soft natural sunlight with strong environmental bounce from the front-left, illuminating the subject's right side with a warm golden glow. Soft, gradual shadows fall under his right arm, along the left side of his face and neck, and deep within the stone archway, while preserved specular highlights accent his right cheek, nose, the upper chest of his blue shirt, and the sunlit edges of the textured stone. The split-complementary palette creates a sophisticated mood of relaxed, polished masculinity. Captured straight on at eye level using digital photography with a 50mm or 85mm lens at an aperture of f/4.0 to f/5.6, the shot features a medium depth of field that keeps the subject tack sharp while allowing the background architecture to become slightly softer at the extreme edges. Post-processing includes a gentle contrast curve, targeted sharpening on the hair, beard, and masonry, and color grading that enhances the warm golden hour tones to beautifully contrast the cool blue shirt against the warm stone and skin, all seamlessly framed in a 4:5 aspect ratio.
@@ -1613,7 +1613,7 @@ The scene is shot with an 85mm lens at f/1.8, creating a critically sharp focus 
 
 ## Male Beach Club Lifestyle Photography
 
-> Lüks portre üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Lüks sahil sahnesi üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 A {argument name="subject" default="young adult male with short textured hair and a neatly trimmed short beard"} stands facing the camera, dressed in a {argument name="attire" default="black t-shirt and beige striped shorts"}, his eyes entirely concealed by dark sunglasses. He holds a serious, deliberately posed expression with a closed, neutral mouth and relaxed shoulders, leaning back comfortably against a dark wooden structure. His relaxed left hand rests casually on the edge of the wooden bar, displaying a sleek silver watch on his wrist, while his right hand gently grasps a black smartphone resting near his waist against the bar. He interacts seamlessly with the foreground of an {argument name="location" default="outdoor beach club"}, supported by a deeply textured dark espresso brown slatted wooden bar that features a satin finish, patchy color variations, dust, scuffs, and slight weathered edge wear, rooted on a solid dark gray concrete floor. The deep spatial depth transitions into a beautifully blurred midground showcasing a thriving dominant palm tree with vibrant green fronds on the left, accompanied by worn, closed beige canvas patio umbrellas flanking both sides, subtle lounge beds, and DJ equipment boxes, before giving way to a tranquil background horizon where a calm ocean meets the sky. The relaxed dusk atmosphere is bathed in warm, golden twilight lighting softly diffused from multiple sources above, establishing a calm, low-contrast mood. Short, gray-toned shadows with delicately soft, gradual edges pool naturally under his chin and behind him on the bar, while subtle specular highlights catch gracefully on his forehead, skin, and the metallic face of his watch. The complementary color palette anchors the stark black of his primary attire and warm beige accents against a sweeping dusky peach and muted blue-gray background sky, maintaining moderate saturation and medium contrast. Captured with a straight-on perspective as a tack-sharp, realistic digital photograph using a 50mm lens at f/2.8, 1/100s, and ISO 400, the composition embraces a clean lifestyle social media aesthetic with medium depth of field and authentic digital noise grain, finalized with warm shadow tinting, reduced highlight clipping, and a slight contrast boost, all elegantly framed in a 3:4 aspect ratio.
@@ -1643,7 +1643,7 @@ Maintain my real appearance while recreating the same vibe, framing, and aesthet
 
 ## 4K Realistic Photo Restoration
 
-> Görsel üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotoğraf üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Maintain the original aspect ratio and use professional photo restoration techniques to super-resolve and repair this image to {argument name="resolution" default="4K Ultra HD (3840x2160)"}. Remove blur, noise, scratches, stains, creases, and compression artifacts. Restore and enhance skin texture, pores, hair strands, fabric textures, and edge sharpness. Restore natural and realistic colors, accurate lighting, and depth to generate a photo quality similar to that of a {argument name="camera style" default="professional DSLR camera"}. Keep all content, composition, and style of the original image completely unchanged, aiming for extreme realism without artistic stylization, making it a crystal-clear high-definition photo while maintaining 100% original composition and authenticity.
@@ -1661,7 +1661,7 @@ subject: use reference image face,
 
 ## Cyberpunk Identity Preservation Portrait
 
-> Fotogerçekçi, sinematik moda çekimi üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, sinematik portre üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 A {argument name="portrait style" default="cyberpunk"} portrait based on the uploaded reference photo recreated exactly in the same composition and perspective as the reference image] [the person from the uploaded image positioned in a close-up low-angle portrait with head slightly tilted upward, serious confident expression, maintaining the same facial identity and proportions from the uploaded reference photo] [urban neon city environment at night with soft blurred {argument name="neon colors" default="pink, cyan and red"} neon signs creating atmospheric bokeh] [wearing a modern oversized winter jacket in warm {argument name="jacket color" default="mustard orange"} tones with realistic fabric texture and soft inner lining, combined with a dark knitted beanie] [round reflective sunglasses with golden-orange mirrored lenses reflecting futuristic city buildings and neon streets exactly like the reference image] [ultra-realistic cinematic photography style] [strong shallow depth of field keeping extreme focus on face and glasses while background melts into colorful neon blur] [dramatic neon lighting casting pink and cyan highlights across the face, beard and jacket, creating high contrast cinematic mood] [skin texture highly detailed with realistic pores, subtle beard texture and natural facial shadows] [minimal but visually powerful composition inspired by futuristic fashion editorials and blade runner aesthetics] [dominant colors: neon pink, cyan blue, warm orange, deep black and golden reflections] [realistic lens compression, subtle chromatic aberration, cinematic glow around neon lights and soft volumetric atmosphere] [exact same framing and emotional energy as the reference image, maintaining realism and premium editorial quality] [no text, no logo, no watermark, no extra accessories, no visual clutter] [vertical 3:4 composition, ultra sharp focus on face and glasses, 8k cinematic quality, realistic dslr photography] [hyper-detailed textures, realistic reflections inside lenses, cinematic skin rendering, depth of field, volumetric neon lighting, extreme realism
@@ -1669,7 +1669,7 @@ A {argument name="portrait style" default="cyberpunk"} portrait based on the upl
 
 ## Clay Face Mask Bathroom Selfie
 
-> Portre üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Selfie fotoğrafı üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 A young woman with {argument name="hair style" default="long, dark wavy hair"} takes a selfie in a white-tiled bathroom, smiling softly with a {argument name="face mask" default="green clay face mask"} applied to her cheeks, forehead, and chin (lips left bare and glossy). A {argument name="sticker" default="pink hibiscus flower digital sticker"} is placed near her ear/hair. She wears a plain white crew-neck t-shirt, lit by soft natural window light from the left, with subway tile walls and a mirror visible in the background.
@@ -1817,7 +1817,7 @@ Imitating a {argument name="subject" default="model"} from a favorite {argument 
 
 ## Low-Fi Candid Night Snapshot with Cat
 
-> Görsel üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
+> Hayvan görseli üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Use the provided face reference as strict identity guidance. Exact facial resemblance to the reference image, identity locked. Same eye shape, same eyelids, same nose bridge, same nose tip, same lip shape, same jawline, same chin, same facial proportions. No facial modification, no beautification, no face morphing. Facial accuracy is the highest priority. Hair: {argument name="hair color" default="Very long, straight dark chocolate brown hair"}. Naturally falls over both shoulders and chest. Slightly messy with random loose strands across the face. Pose & Expression (ULTRA STRICT — MUST MATCH EXACTLY): Recreate the exact body position from the reference image: Upper body rotated about 30–45 degrees, Left shoulder slightly forward, Head tilted slightly toward the left side, Chin slightly lowered, Eyes looking directly into camera. Expression: Closed lips, slightly pressed/pouty, Corners of lips subtly downturned, Relaxed, calm, slightly shy expression. Arms & Cat Position: One arm wrapped under the cat’s body for support, The other hand gently holding the cat from the side/front, Cat positioned slightly to the right side of frame, Cat slightly blurred due to motion. Lighting: Night indoor setting. Soft frontal light focused on face, Background darker and dim, Soft bloom/glow concentrated on face only. Image Style: Low-resolution, heavily blurred, grainy snapshot. Slight motion blur, Visible noise and compression artifacts. Background: {argument name="indoor location" default="Dark, warm indoor apartment at night"}. Ceiling, AC vent, curtains barely visible and heavily blurred. Clothing: {argument name="clothing" default="White tank top, thin straps"}, texture lost due to blur. Overall Feel: Candid, imperfect, intimate night snapshot. Exact pose replication, soft pout expression, dreamy low-fi aesthetic.
@@ -1972,7 +1972,7 @@ Realistic night photo in rain: a {argument name="age" default="24-year-old"} wom
 
 ## Lifelike Sailor Moon Cosplay
 
-> Minimal illüstrasyon üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Minimal kadın figürlü görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 young woman dressed as {argument name="character" default="Sailor Moon"}, incredibly lifelike thin clinging fabrics, her sandy-blonde hair in Usagi's signature decorated chignons, she is posing casually on a simple concrete bench in a soft breeze, anime-inspired but realistic style ultra-detailed digital photo printed directly on glossy black cardstock, sparkling seaside, deep-saturation {argument name="style" default="vaporwave sunset"} palette
@@ -1988,7 +1988,7 @@ A professional {argument name="style" default="black and white studio portrait"}
 
 ## Auburn Portrait with Camellia Flower
 
-> Sinematik manzara üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Sinematik portre üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 A close-up studio portrait of a beautiful woman with striking {argument name="eye color" default="hazel-green eyes"} and light freckles dusting her nose and cheeks. She has vibrant, wavy {argument name="hair color" default="auburn hair"} neatly styled to one side, with a large, {argument name="flower type" default="vivid magenta-pink camellia flower"} tucked behind her right ear. Her makeup is flawless and bold, featuring an olive-green winged eyeliner that complements her eyes, and a deep matte burgundy lipstick on her well-defined lips. She looks directly into the camera with a confident, serene expression. Her bare shoulders are partially visible, draped in a dark forest green off-the-shoulder fabric. The lighting is soft and cinematic, casting gentle shadows that define her facial features against a dark, moody teal background.
@@ -2005,7 +2005,7 @@ The setting is a {argument name="environment" default="cozy indoor environment w
 
 ## Golden Hour Smartphone Selfie with Headscarf
 
-> Fotogerçekçi, minimal portre üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, minimal selfie fotoğrafı üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 A joyful young woman in her late teens or twenties with a soft rounded oval face, {argument name="skin tone" default="warm light-medium skin tone"}, natural skin texture, subtle redness, and visible imperfections, wearing a simple {argument name="headscarf color" default="black"} headscarf wrapped closely around her face. She is taking an extreme close-up smartphone selfie, her face filling nearly the entire frame. One hand is raised above her forehead to shield her eyes from bright sunlight. She wears a genuine closed-mouth smile, with expressive eyes partially closed from the sun, creating a warm, authentic, and approachable presence.
@@ -2017,7 +2017,7 @@ Shot with a front-facing smartphone camera using a wide-angle selfie perspective
 
 ## Cinematic Male Editorial Collage
 
-> Fotogerçekçi, sinematik moda çekimi üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, sinematik kolaj üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Use my uploaded face image as the primary identity reference. Preserve my exact facial features, face shape, hairstyle, hair texture, skin tone, eye shape, and overall likeness with high fidelity.
@@ -2053,7 +2053,7 @@ A medium full-length shot of a cheerful young {argument name="ethnicity" default
 
 ## Ultra-Realistic Bedroom Selfie
 
-> Fotogerçekçi, minimal afiş üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, minimal selfie fotoğrafı üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Ultra-realistic indoor beauty selfie portrait, stunning young woman, flawless porcelain skin with realistic texture and subtle natural pores, luminous complexion, large expressive dark brown eyes with glossy reflections, long curled eyelashes, softly defined brows, small refined nose, full soft pink lips slightly parted, natural youthful beauty, gentle dreamy expression. Long silky jet-black hair cascading over the shoulders and chest, slightly tousled with loose wispy strands falling across the face, natural bedhead aesthetic, realistic hair strand detail, glossy highlights.
@@ -2071,7 +2071,7 @@ Intense {argument name="lighting type" default="natural morning sunlight"} strea
 
 ## Cute Korean Woman Soft Portrait
 
-> Minimal yemek görseli üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Minimal portre üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 A vertical, close-up color portrait of a {argument name="subject" default="young Korean woman"} with a cute, endearing expression. She has a soft, gentle smile, large expressive brown eyes, and a hint of blush on her cheeks. Her {argument name="hair color" default="dark, reddish-brown wavy hair"} cascades down, with a single thick strand draped across the front of her face, partially obscuring her cheek. Her hand is raised in the lower right foreground, gently pulling and holding that strand of hair. She wears a {argument name="outfit" default="simple black tank top"}, and the background features a softly blurred, warm out-of-focus stone archway surrounded by lush green foliage under bright, natural outdoor lighting.
@@ -2087,7 +2087,7 @@ Use uploaded photo to create AN ULTRA REALISTIC HIGH RESOLUTION CINEMATIC PORTRA
 
 ## Moody studio male portrait
 
-> Stüdyo ışıklı moda çekimi üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Stüdyo ışıklı portre üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 An adult male stands squarely facing the camera with level shoulders and a centered stance, his intense, serious direct gaze piercing through the frame. He has a warm tan complexion, a full dark beard, and heavily textured dark hair featuring a messy fringe brushed forward. He is dressed in a heavy double-breasted deep black wool overcoat worn open to reveal a bright, thin white crewneck t-shirt and a subtle dark metallic chain necklace resting lightly against his chest. His left hand is relaxed and tucked inside his front left pants pocket, exposing a gleaming silver link-bracelet watch on his wrist against the dark trouser fabric. He is situated in a shallow studio environment just in front of a weathered matte plaster wall featuring rough, uneven texturing and mottled dark charcoal patches that create a grungy stone effect, rendered slightly blurred by the shallow depth of field. The scene is enveloped in a cool, desaturated, high-contrast monochromatic palette primarily composed of deep blacks that visually isolate his skin tones and the bright off-white of his shirt. A highly directional, single dominant soft studio light shines from the front and slightly above, casting dramatic, deep black shadows with soft gradual edges under his chin that heavily cloak his dark coat and seamlessly fade into the murky background. Specular highlights are precisely preserved on his forehead, the bridge of his nose, his cheekbones, and the soft draped folds of his white t-shirt, establishing a somber, cinematic, and deeply moody atmosphere. The portrait is captured as a realistic digital photograph using an 85mm lens at f/1.8 to ensure a tack-sharp focus on his piercing eyes and facial hair while melting the background into obscurity, featuring moody editorial fashion influences, intentional film grain, crushed blacks, slightly cooled shadows, and lifted midtones, all perfectly framed in a 4:5 aspect ratio.
@@ -2103,7 +2103,7 @@ Native 4K vertical ultra-realistic half-body portrait, an adult East Asian woman
 
 ## Blue Hour Rooftop Selfie
 
-> Fotogerçekçi, sinematik mimari görsel üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, sinematik selfie fotoğrafı üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Reference Face Preservation: Keep the exact facial identity from the reference image with no facial modifications, no identity blending, and no changes to facial structure, proportions, or natural features. Create an ultra-realistic 8K portrait of a young woman in her 20s wearing a {argument name="clothing" default="fitted ribbed off-the-shoulder top in creamy white"}, exposing her shoulders and collarbones, paired with a delicate {argument name="jewelry" default="gold chain necklace and a chunky green hoop earring"}. Captured as a high-angle selfie on a {argument name="location" default="rooftop or balcony"} during blue hour, with a deep blue sky, soft clouds, silhouettes of tropical trees, and distant urban architecture in the background. She is looking upward and slightly away from the camera with a candid, relaxed expression and slightly parted lips. Long voluminous dark-brown hair falls in soft wavy layers with natural flyaway strands and gentle wind movement. Modern beauty editorial makeup featuring luminous skin, gray contact lenses, long separated lashes, rosy blush across cheeks and nose, and glossy natural lips. Soft evening light, realistic skin texture, visible pores, subtle shadows, DSLR photography, shallow depth of field, cinematic color grading, luxury social-media aesthetic, ultra-sharp focus, photorealistic, masterpiece quality.
@@ -2111,7 +2111,7 @@ Reference Face Preservation: Keep the exact facial identity from the reference i
 
 ## Expressionist Double Exposure Face Painting
 
-> Minimal, elle çizilmiş portre üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
+> Minimal, elle çizilmiş illüstrasyon üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Attached portrait. The facial structure and likeness are 100% true to the reference. Art Style: A stunning {argument name="art style" default="expressionist digital painting"}, combining stylized realism with a raw, artistic touch. It uses bold, purposeful brushstrokes and a thick impasto texture. Lighting & Color: A dramatic double-exposure lighting effect. Strong, warm {argument name="warm light color" default="orange"} light illuminates one side of the face, creating an intense highlight, while contrasting, cool {argument name="cool light color" default="electric blue"} light hits the opposite side. The color palette features deep shadows, vibrant orange, turquoise, light blue, white, and gray. Technique: The composition features messy, loose sketch lines and rough charcoal outlines visible beneath the paint. The edges are fragmented with abstract blocks of color, giving the work a bold, "unfinished" look. The background is abstract and minimalist, allowing the textured brushstrokes to stand out. Somber, modern, and atmospheric.
@@ -2135,7 +2135,7 @@ Use uploaded photo as exact face reference, 100% face match. {argument name="out
 
 ## Walking in the Hall of Mirrors
 
-> Görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Karakter görseli üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 {argument name="subject" default="Me"} walking through the {argument name="location" default="Hall of Mirrors in the Palace of Versailles"}
@@ -2143,7 +2143,7 @@ Use uploaded photo as exact face reference, 100% face match. {argument name="out
 
 ## Moody Male Studio Portrait with Sunglasses
 
-> Sinematik, lüks logo üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Sinematik, lüks portre üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 A dramatic, low-key studio portrait of a {argument name="subject" default="handsome man with styled, wavy dark brown hair"} and short stubble beard, looking directly into the camera. He is wearing {argument name="accessories" default="round, thin-framed sunglasses with tinted blue lenses"}, a {argument name="outfit" default="black t-shirt with a subtle white athletic logo"} on the right chest, a silver chain necklace, and a silver luxury sports watch with a blue dial. He is {argument name="pose" default="posing with his hand resting thoughtfully under his chin"}, showcasing a silver chain bracelet on his wrist. Intense, cinematic key lighting from the side highlights his facial features and arm texture, contrasting sharply against a solid, pitch-black background. High-fashion photography style, sharp focus, 8k resolution, moody atmosphere.
@@ -2159,7 +2159,7 @@ Portrait of a young woman with {argument name="hair style" default="short black 
 
 ## Moody Bar Night Style Transformation
 
-> Mimari görsel üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotoğraf üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Young woman in uploaded image, {argument name="clothing" default="denim overall dress"}, {argument name="hair" default="medium length black hair with bangs"}, hands folded on lap, sitting at indoor bar, {argument name="lighting" default="dark moody interior red accent lighting"}, slightly looking away, candid night out mood, urban casual style.
@@ -2191,7 +2191,7 @@ A vertical, black and white studio portrait of {argument name="subject" default=
 
 ## Black Ink-Splash Graffiti Stylized Portrait
 
-> Sinematik moda çekimi üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
+> Sinematik portre üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Use {argument name="facial reference" default="my uploaded face image"} as the primary identity reference. Preserve my exact facial identity with high fidelity. Create an ultra-stylized portrait in {argument name="art style" default="black ink-splash graffiti style"}, wearing dark sunglasses, detailed neck tattoos, and a {argument name="clothing" default="black hooded jacket"}. High-contrast cinematic lighting, dripping paint effects, monochrome black-and-white aesthetic, modern streetwear vibe, off-white background, ultra-detailed digital artwork.
@@ -2223,7 +2223,7 @@ Cinematic portrait of the female subject from the uploaded reference image, main
 
 ## Serene Bathroom Shower Portrait
 
-> Fotogerçekçi, minimal yemek görseli üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, minimal portre üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 A young woman with {argument name="skin details" default="fair skin covered in light freckles"} stands barefoot in a modern bathroom shower area, her long wavy reddish-brown hair wet and cascading over her shoulders and back as if just after a shower. She has striking light-colored eyes and a gentle expression while looking directly at the viewer. She is wrapped modestly in a {argument name="towel style" default="yellow and white horizontally striped towel"} with fringed edges that covers her from her chest down to mid-thigh, holding the top of the towel securely with both hands near her collarbone. Her skin has visible water droplets, and she stands on a {argument name="bath mat" default="beige bath mat"} with white borders placed on light-colored tiled flooring in front of a glass-enclosed shower stall featuring metal fixtures, a handheld showerhead, and neutral beige tiled walls in the background. The lighting is bright and even, creating a clean, serene atmosphere.
@@ -2231,7 +2231,7 @@ A young woman with {argument name="skin details" default="fair skin covered in l
 
 ## Analog Film Filipina Portrait
 
-> Logo üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Portre üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 A candid, realistic close-up portrait of a {argument name="subject" default="young Filipina woman"}, capturing the raw, natural aesthetic of analog film photography. The image features authentic film grain, slight softness, natural textures, and realistic light quality typical of an analog point-and-shoot camera. The subject stands on a sunlit city street, looking directly into the camera with a casual, natural expression and a slight head tilt. She has natural glass skin with a subtle glow from direct sunlight. Her makeup is fresh and natural, featuring {argument name="makeup style" default="pink blush applied high on her cheeks and across the bridge of her nose (Igari blush style)"}, long neatly curled eyelashes, pink matte lips. Her long dark chestnut-brown hair falls in large natural waves. She wears a {argument name="accessory" default="navy-blue baseball cap"} with a small white logo on the front. She is dressed in a slim-fit white tank top paired with an oversized light-grey jacket worn open and naturally slipping off one shoulder. The background shows a detailed urban sidewalk scene with lush green trees casting dappled shade and strong sunlight highlights. The background remains naturally detailed without heavy bokeh. Direct daylight from above and slightly in front creates strong contrast.
@@ -2263,7 +2263,7 @@ A {argument name="mood" default="moody black-and-white portrait photo"} of a {ar
 
 ## Candid iPhone Bedroom Selfie
 
-> Fotogerçekçi, sinematik portre üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, sinematik selfie fotoğrafı üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Ultra-realistic candid iPhone lifestyle photograph in vertical 9:16 aspect ratio. {argument name="subject" default="Sydney Sweeney"} lying prone naturally on a cozy bed inside a softly lit modern bedroom at night. Long blonde hair slightly messy with loose strands falling naturally across her face and shoulders. Calm intimate expression with direct eye contact toward the camera, relaxed late-night atmosphere.
@@ -2304,7 +2304,7 @@ Photorealistic portrait, extremely beautiful {argument name="subject" default="y
 
 ## Casual Bedroom Selfie Portrait
 
-> Fotogerçekçi, minimal logo üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, minimal selfie fotoğrafı üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 {
@@ -2337,7 +2337,7 @@ Photorealistic portrait, extremely beautiful {argument name="subject" default="y
 
 ## High-Concept Editorial Portrait in Dusty Rose
 
-> Fotogerçekçi, minimal moda çekimi üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, minimal portre üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 {
@@ -2456,7 +2456,7 @@ A {argument name="gender" default="young adult male"} stands in the center-right
 
 ## Architectural Ink Digital Portrait
 
-> Fotogerçekçi, sinematik moda çekimi üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, sinematik mimari görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 A highly refined hybrid portrait illustration style blending {argument name="style A" default="expressive architectural ink sketching"} with {argument name="style B" default="hyper-realistic cinematic digital painting"}. Ultra-detailed black-ink linework is seamlessly integrated with smooth painterly rendering, combining precise contour drafting, geometric facial construction guides, and dynamic cross-hatching with luxurious skin realism and polished studio-quality lighting. The artwork features elegant variations in line weight, layered sketchbook textures, subtle stippling, and handcrafted pen imperfections, while maintaining ultra-smooth skin surfaces, glossy highlights, and sophisticated facial depth. Semi-realistic anatomy is enhanced with slightly stylized facial proportions, creating a perfect balance between technical illustration and contemporary concept art. Flowing organic line structures merge naturally into cinematic color transitions, soft atmospheric gradients, and high-contrast volumetric shadows. Architectural drafting aesthetics, editorial fashion sketch energy, and premium gallery-quality portraiture coexist within a single visual language. Crisp edge definition, refined negative-space composition, ultra-subtle brushwork, and intricate contour mapping create exceptional dimensionality. The color palette combines muted earth tones, warm neutrals, soft cinematic highlights, and restrained monochromatic ink accents. Finished in an ultra-polished 4K concept-art quality, featuring museum-grade craftsmanship, sophisticated visual storytelling, and a modern luxury illustration aesthetic that feels both handcrafted and photorealistically rendered. R {argument name="aspect ratio" default="9:16 vertikal"}.
@@ -2464,7 +2464,7 @@ A highly refined hybrid portrait illustration style blending {argument name="sty
 
 ## Realistic Anime Catgirl Bedroom Portrait
 
-> Fotogerçekçi, sinematik moda çekimi üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, sinematik portre üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Ultra-realistic portrait of a {argument name="subject" default="young catgirl"} with soft, realistic feline ears emerging naturally from her long wavy dark brown hair, soft pale skin, subtle rosy blush, natural pink lips, and delicate facial features. She is seated on a bed in a modern minimalist bedroom, wearing an {argument name="clothing" default="oversized black off-shoulder sweater"} over a thin black camisole strap. Loose romantic hairstyle with soft face-framing strands, small dangling earrings, and expressive cat-like ears that perfectly match the aesthetic. Warm ambient bedside lamp lighting creates a cozy nighttime atmosphere, soft shadows, cinematic mood, shallow depth of field, highly detailed eyes, natural skin texture, elegant expression, looking directly at camera. Neutral beige and white background, luxury hotel aesthetic, editorial beauty photography, 85mm lens, f/1.8, photorealistic, ultra-detailed, soft color grading, premium fashion portrait, high resolution, realistic anime-inspired catgirl theme.
@@ -2472,7 +2472,7 @@ Ultra-realistic portrait of a {argument name="subject" default="young catgirl"} 
 
 ## Blurry Mirror City Lights Portrait
 
-> Fotogerçekçi, sinematik moda çekimi üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, sinematik portre üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Ultra-realistic candid film photography portrait of a {argument name="subject" default="young woman"} leaning over a bathroom sink and looking into a mirror at night, captured through a slightly dirty mirror with natural reflections and subtle imperfections. She has {argument name="hair style" default="long black hair partially covering her face"}, soft glowing skin, and a gentle mysterious smile. Wearing a {argument name="outfit" default="light pink off-shoulder fitted top and loose cream-colored lounge pants"}, she poses casually with both hands resting on the sink.
@@ -2490,7 +2490,7 @@ A contemporary mixed media portrait illustration style that combines expressive,
 
 ## Cinematic Pastel Studio Portrait
 
-> Fotogerçekçi, sinematik moda çekimi üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, sinematik portre üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 A high-resolution, soft cinematic portrait of a young woman standing against a {argument name="background color" default="pastel pink"} wall. She has long, straight, silky {argument name="hair color" default="brown"} hair with warm caramel highlights, parted in the center and flowing over her shoulders. Her expression is calm, confident, and natural, with soft neutral makeup and light green-hazel eyes. She is wearing a {argument name="outfit color" default="light grey"} traditional-style outfit with delicate pink floral patterns, made of soft, flowing fabric. Her hands are gently clasped in front of her, creating an elegant and modest pose. The background is minimal and aesthetic, featuring a subtle wall-mounted vase with dried branches on the right side, adding a cozy and artistic home-studio feel. Soft natural lighting illuminates her face evenly, creating smooth skin tones and a dreamy, pastel-toned atmosphere. Shallow depth of field, professional fashion photography style, ultra-realistic, 4K detail, soft shadows, aesthetic Instagram portrait vibe.
@@ -2506,7 +2506,7 @@ A medium waist-up portrait of a muscular adult male with a tan, olive skin tone,
 
 ## Torn Social Media Profile Art
 
-> Fotogerçekçi, sinematik profil görseli üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, sinematik kadın figürlü görsel üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 A very creative digital work of art, where a {argument name="subject" default="realistic girl"} (whose face 100% repeats the attached first photo) dramatically tears up the {argument name="social media" default="Telegram"} social media profile page. The Telegram profile looks like paper or a digital screen being torn apart, with sharp torn edges and flying fragments creating a dynamic motion effect. The girl is half outside the profile frame, forcefully pushing the page apart with one hand, her expression tense yet confident and powerful. Her face must match exactly the image of the girl from the first photo without any changes or alterations. The background of the Telegram profile must match exactly with the provided profile picture from the second photo. Dynamic cinematic lighting, ultra-realistic skin texture, shallow depth of field, cinematic composition, high contrast details, modern aesthetic style, soft white or subtle gradient background, 4K ultra high resolution, trending digital art style, highly detailed, sharp focus.
@@ -2514,7 +2514,7 @@ A very creative digital work of art, where a {argument name="subject" default="r
 
 ## Elegant Hotel Window Editorial
 
-> Fotogerçekçi, minimal moda çekimi üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, minimal fotoğraf üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Create a hyper realistic luxury fashion portrait inspired by premium Asian magazine editorials. IMPORTANT: Generate ONLY ONE SINGLE VERTICAL IMAGE. STYLE: Clean luxury realism. Bright side-light atmosphere. MAIN CONCEPT: An adult {argument name="subject" default="Asian woman"} standing beside a bright hotel window during early morning. OUTFIT: {argument name="outfit" default="White silk dress"}. Elegant flowing fabric. Minimal luxury accessories. POSE: Natural standing pose. Soft smile. Looking toward the morning light. LIGHTING: Bright natural side light. Soft glow on face and hair. Elegant shadow gradients. BACKGROUND: {argument name="background" default="Luxury hotel suite"}. White curtains. Minimal premium décor. MOOD: Fresh. Elegant. Dreamy editorial energy. QUALITY: Ultra-realistic native 4K HDR realism. Professional fashion photography. Vertical 9:16.
@@ -2522,7 +2522,7 @@ Create a hyper realistic luxury fashion portrait inspired by premium Asian magaz
 
 ## High-Fidelity Identity Portrait Template
 
-> Fotogerçekçi, sinematik logo üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, sinematik portre üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Use the uploaded face image as the primary identity reference. Preserve the exact facial features, face shape, eyes, nose, lips, hairstyle, skin texture, and overall recognizable appearance with extremely high identity fidelity. Maintain realistic proportions and natural facial details. Create an ultra-realistic cinematic portrait in {argument name="scene" default="[SCENE]"}. Luxury photography, dramatic lighting, shallow depth of field, realistic bokeh, HDR, professional color grading, ultra-detailed skin texture, photorealistic, 8K, masterpiece quality.
@@ -2575,7 +2575,7 @@ Ultra-realistic lifestyle portrait of a beautiful young woman relaxing on a {arg
 
 ## Casual Bathroom Selfie Aesthetic
 
-> Portre üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Selfie fotoğrafı üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 {
@@ -2602,7 +2602,7 @@ Ultra-realistic lifestyle portrait of a beautiful young woman relaxing on a {arg
 
 ## Autumn Environmental Portrait
 
-> Fotogerçekçi, sinematik mimari görsel üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, sinematik portre üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Use the exact same face from the reference image and generate a Ultra-realistic environmental portrait of a {argument name="subject" default="young man"} standing casually with his back leaning against a simple aged beige wall. A traditional window is positioned beside him, adding architectural character to the scene. Above, a branch of {argument name="leaves" default="vibrant orange autumn leaves"} extends into the frame, with a few leaves gently drifting through the air. Warm sunlight filters through the foliage, creating natural dappled light patterns and soft shadows across the wall, ground, and subject. The man faces the camera directly, captured from a front-angle perspective in a full-body, wide-distance composition that showcases both the subject and surrounding environment. He has messy, tousled dark hair falling naturally across his forehead, with realistic texture and subtle movement. His expression is calm, confident, and effortlessly stylish. He wears relaxed {argument name="outfit" default="beige wide-leg trousers, an oversized terracotta button-up shirt with sleeves casually rolled to the forearms, and clean modern sports sneakers"}. The color palette is warm, earthy, and harmonious, complementing the autumn atmosphere. Natural sunlight illuminates the scene with realistic highlights, soft contrast, and cinematic depth. Highly detailed skin texture, authentic fabric folds, professional photography, shallow depth of field, ultra-sharp focus, realistic color grading, editorial lifestyle photography, captured on a high-end full portrait.
@@ -2610,7 +2610,7 @@ Use the exact same face from the reference image and generate a Ultra-realistic 
 
 ## Lakeside Portrait Identity Swap
 
-> Fotogerçekçi, sinematik moda çekimi üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, sinematik portre üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Ultra realistic cinematic lakeside portrait photo of {argument name=\"person\" default=\"[REFERENCE PERSON]\"}, preserve the exact facial identity, facial structure, skin texture, hairstyle, eye shape, lips, and overall likeness from the reference image with extremely high identity accuracy. Scene composition identical to the reference scene: a beautiful woman sitting on the edge of a rustic wooden dock beside a calm lake during golden hour sunset, soft warm sunlight, natural reflections in the water, lush green reeds in the background, overhanging tree leaves at the top frame, shallow depth of field, creamy bokeh forest background. Subject pose: seated sideways on the dock with legs extended naturally over the water, looking downward softly toward an {argument name=\"animal\" default=\"orange ginger cat\"} beside her, relaxed elegant posture, candid feminine mood. Outfit: {argument name=\"clothing\" default=\"light pink floral summer dress\"} with thin straps, flowing fabric, delicate details, natural folds, realistic texture. Environment must remain almost identical to the original image: same wooden pier style, same lakeside atmosphere, same lighting direction, same framing, same cinematic composition, same peaceful aesthetic. Photography style: DSLR realism, 85mm portrait lens, f/1.8 aperture, ultra detailed skin, realistic hair strands, natural body proportions, soft shadows, cinematic color grading, photorealistic, high dynamic range, editorial fashion photography. Important: replace ONLY the woman’s identity with the exact reference person while keeping the background, pose, camera angle, lighting, dress style, cat, dock, and overall composition highly consistent with the original image. No stylization, no AI artifacts, no distorted anatomy, no extra fingers, no face asymmetry. Identity fidelity priority: extremely high. Background consistency priority: extremely high.
@@ -2618,7 +2618,7 @@ Ultra realistic cinematic lakeside portrait photo of {argument name=\"person\" d
 
 ## Realistic Redhead Lifestyle Portrait
 
-> Fotogerçekçi, minimal logo üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, minimal portre üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 {
@@ -2673,7 +2673,7 @@ Photorealistic, indistinguishable from a real photograph, DSLR-level detail, no 
 
 ## Diverse Portrait Mood Collage
 
-> Fotogerçekçi, sinematik portre üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, sinematik kolaj üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 A photo collage showcasing diverse portraits of expressive young women with highly detailed, natural features, prominent blushing cheeks, and subtle freckles. The first is a {argument name="mood one" default="joyful blonde girl with a wide, candid laugh"} outdoors in soft sunlight. The second is a {argument name="mood two" default="pensive girl with short, wavy auburn hair"} resting her chin on her hand in front of a warm, blurry bookshelf backdrop. The third shows a {argument name="mood three" default="serene girl with dark, curly hair"} looking slightly away against a background of soft bokeh lights. The fourth features a smiling girl with a messy blonde updo tinged with pink highlights, flashing a peace sign outdoors. The fifth captures a calm woman with long, dark hair and closed eyes, smiling gently while resting her face on her hand in a cozy indoor setting. The final image shows an energetic girl with pigtails mid-jump, arms outstretched, screaming with pure excitement against a sunset sky. The entire collection has a cinematic, warm-toned, and hyper-realistic aesthetic with a soft focus.
@@ -2681,7 +2681,7 @@ A photo collage showcasing diverse portraits of expressive young women with high
 
 ## 3D Anime Girl with Headphones
 
-> Fotogerçekçi, sinematik moda çekimi üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, sinematik 3B sahne üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 A 3D digital illustration of a beautiful young girl with black hair tied up in a messy bun, sitting cross-legged against a solid pitch-black background. She is wearing large over-ear headphones, a stylish off-shoulder black sweatshirt, grey baggy sweatpants, and white sneakers. She is looking down at her smartphone with a soft, peaceful smile. Subtle white glowing music notes, a tiny heart, and abstract sound waves float gently around her. Dreamy anime aesthetic, soft cinematic lighting, ultra-clean details, 8K resolution. A hyper-realistic cinematic photo of a beautiful young girl with messy black hair tied in a high bun, sitting cross-legged. She is wearing a premium off-shoulder black knit sweater, relaxed-fit grey fleece joggers, and clean white leather sneakers. She wears large matte-black headphones, looking down at her phone with a gentle smile. Shot on an 85mm lens with a shallow depth of field against a minimalist dark studio background. Soft volumetric lighting highlighting her features, professional editorial fashion aesthetic, 8K resolution, photorealistic. A high-quality 3D digital illustration of a beautiful young girl with black hair in a messy bun, sitting cross-legged and smiling as she looks down at her smartphone. She is wearing large over-ear headphones, a stylish off-shoulder black sweatshirt, grey baggy sweatpants, and white sneakers. Floating around her head are subtle, glowing white line-art music notes, a small heart symbol, and abstract sound waves, all set against a solid pitch-black background. The art style is a blend of anime aesthetic with realistic lighting and texture, featuring very soft cinematic lighting and ultra-clean details. The resolution is 8K, captured in a square 1:1 aspect ratio.
@@ -2689,7 +2689,7 @@ A 3D digital illustration of a beautiful young girl with black hair tied up in a
 
 ## Vintage Photo Digital Restoration
 
-> Fotogerçekçi, retro portre üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, retro fotoğraf üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Recreate a vintage retro photo in a {argument name="style" default="hyper-realistic"} manner; completely preserve the original face (no changes). Use natural lighting, updated {argument name="colors" default="vibrant colors"}, and smooth, realistic skin textures to convert it into a modern high-quality digital portrait.
@@ -2697,7 +2697,7 @@ Recreate a vintage retro photo in a {argument name="style" default="hyper-realis
 
 ## Professional ID Photo Generator
 
-> Minimal görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Minimal fotoğraf üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Generate a high-resolution professional ID photo with a {argument name="background" default="clean white background"}. The person is centered and well-lit, showing clear and natural skin texture. Soft, evenly distributed makeup subtly highlights facial features without looking unnatural. Dressed in {argument name="attire" default="tidy business wear"} with well-groomed hair and a {argument name="expression" default="calm and confident"} facial expression. The lighting is even without harsh shadows, ensuring a clear and natural appearance of the face.
@@ -2705,7 +2705,7 @@ Generate a high-resolution professional ID photo with a {argument name="backgrou
 
 ## Woman Walking on City Sidewalk
 
-> Fotogerçekçi, minimal mimari görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, minimal şehir ve sokak sahnesi üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Full-body photograph of a smiling, attractive young woman with {argument name="hair style" default="long, straight dark brown hair parted down the middle"}, walking forward on a sun-dappled city sidewalk. She is wearing a {argument name="top" default="light pink sleeveless top with delicate floral and butterfly embroidery"}, tucked into fitted medium-wash blue skinny jeans secured with a thin black leather belt. She coordinates her outfit with white sneakers and carries a small white shoulder bag over her right arm.
@@ -2717,7 +2717,7 @@ Full-body photograph of a smiling, attractive young woman with {argument name="h
 
 ## Elegant Evening Lounge Portrait
 
-> Fotogerçekçi, lüks moda çekimi üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, lüks portre üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Ultra-realistic lifestyle portrait of a {argument name="hair style" default="young woman with long straight copper-red hair and soft bangs"}, standing in an elegant luxury lounge with rich dark walnut wood-paneled walls. She wears a {argument name="outfit" default="form-fitting strapless black evening dress"} and delicate gold jewelry. The subject is leaning slightly forward while blowing a kiss toward the camera with eyes gently closed, creating a playful, flirtatious, and confident expression. Warm ambient hotel lighting combined with direct smartphone flash photography creates crisp shadows, natural skin highlights, and a high-end social media aesthetic. Behind her is a framed artwork featuring lipstick kiss prints and romantic typography. Plush velvet chairs, polished dark furniture, and sophisticated interior décor enhance the upscale atmosphere. Shot at eye level with a 35mm lens, shallow depth of field, sharp focus on the subject, realistic skin texture, natural makeup, glossy hair, editorial fashion photography, luxury lifestyle aesthetic, photorealistic, HDR, ultra-detailed, 8K.
@@ -2725,7 +2725,7 @@ Ultra-realistic lifestyle portrait of a {argument name="hair style" default="you
 
 ## European Coastal Village Cinematic Portrait
 
-> Fotogerçekçi, sinematik mimari görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, sinematik portre üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 A hyper-realistic, cinematic portrait of a {argument name="subject" default="beautiful young woman with long, wavy dark brown hair"}, sitting on a {argument name="setting" default="stone ledge overlooking a scenic European coastal village"}. She is wearing a {argument name="outfit" default="vintage, oversized knit Fair Isle sweater with intricate geometric patterns in shades of slate blue, rust online, cream, and beige, paired with white pants and chunky white sneakers"}. She wears a faded, dark blue-grey denim baseball cap. The setting features a soft-focus background of rustic stone buildings and a calm blue sea under a bright, overcast sky. Shot on a professional DSLR camera, 85mm lens, f/1.4 aperture, natural diffused lighting, highly detailed skin texture, realistic pores, Douyin-style clean realism, 8K resolution, crisp focus on the subject.
@@ -2757,7 +2757,7 @@ A medium close-up portrait photograph captures a {argument name="subject" defaul
 
 ## Alt-Pop Celebrity Portrait Style
 
-> Fütüristik moda çekimi üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Fütüristik portre üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 "subject": "{argument name="subject" default="young woman, dark hair with neon green highlights in messy bun, blue eyes, finger near face, rings and long nails"}", "outfit": "{argument name="clothing" default="oversized green tie-dye graphic sweatshirt, chunky silver chain necklace"}", "setting": "{argument name="background" default="olive green studio background"}", "mood": "edgy, moody, alt-pop aesthetic"
@@ -2765,7 +2765,7 @@ A medium close-up portrait photograph captures a {argument name="subject" defaul
 
 ## Professional Studio Male Portraits
 
-> Fotogerçekçi, minimal yemek görseli üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, minimal portre üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Professional studio portrait of a man in his mid-30s, short dark brown hair swept back, reddish-brown trimmed beard, wearing a navy blue suit with white dress shirt and dark navy tie, neutral serious expression, dark charcoal gradient background, dramatic studio lighting, photorealistic, sharp focus, high-end photography Professional studio portrait of a man in his late 20s to early 30s, short black hair slicked back with fade on sides, clean-shaven with olive/tan skin, wearing a dark charcoal suit with white dress shirt and silver-grey tie, subtle confident expression, dark brown wooden panel background, warm dramatic lighting, photorealistic, sharp focus, high-end editorial photography
@@ -2781,7 +2781,7 @@ Use the exact same face from the reference image and generate a photorealistic c
 
 ## Ultra-Realistic Bedroom Selfie Portrait
 
-> Fotogerçekçi, minimal portre üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, minimal selfie fotoğrafı üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Ultra-realistic indoor selfie portrait of a {argument name="subject" default="breathtakingly beautiful young woman"} sitting casually on a bed in a minimalist modern bedroom, captured with an {argument name="camera style" default="iPhone-style front camera angle"}. Soft direct flash photography creates luminous glowing skin, realistic highlights, and subtle shadows, giving the image a candid late-night selfie atmosphere. Clean neutral-toned background, cozy modern bedroom aesthetic, natural composition, effortless feminine beauty with subtle IG baddie influence.
@@ -2833,7 +2833,7 @@ Ultra-realistic, cinematic portrait, luxury lounge aesthetic, moody atmosphere, 
 
 ## Hyper-Realistic Western Editorial Photography
 
-> Fotogerçekçi, sinematik görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, sinematik fotoğraf üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 A hyper-realistic high-resolution full-frame photograph of {argument name="celebrity" default="Sadie Sink"} with long silky flowing red hair and expressive blue eyes. She has a relaxed confident expression with softly glossy lips slightly parted. She is wearing a {argument name="hat type" default="burnt-orange cowboy hat"} with a brown studded band and silver star accents, a cream collared shirt tied naturally at the waist with a small elegant 'Love' detail near the hem, short frayed light blue denim shorts, and a brown western leather belt with a holster at her hip. She reclines naturally on her side across a bed with {argument name="bedding" default="messy white sheets"}, slightly propped up with one hand resting on the bed while the other rests casually near the holster. Warm direct eye contact toward the camera. The room features light-toned vertical wooden wall panels with soft natural textures. Bright high-key beauty lighting creates an airy cinematic atmosphere with soft shadows and luminous skin tones. Captured using a 50mm f/2.0 lens with ultra-detailed hair strands, realistic fabric textures, sharp focus on the eyes, shallow depth of field, photorealistic editorial western photography, 8k masterpiece.
@@ -2852,7 +2852,7 @@ A striking, front-facing studio portrait of a woman with a sleek blonde bob hair
 
 ## Coastal Full Body Drone Shot
 
-> Portre üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Sahil sahnesi üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Make a photo without editing portrait face, realistic male face, {argument name="skin tone" default="white-pink skin tone"}, height 180+, slim nose, black hair, head block. Arrange your hair a little. Big fold clothing: {argument name="outfit" default="oversized black shirt, open chest, open arms"}. Hand on stainless steel rod, silver watch, small silver necklace, cream casual pants. Soft smile, natural makeup, natural pink lips. Atmosphere: stainless steel rail below with {argument name="background" default="deep blue sea, strong waves, strong wind hitting from front"}. Posture: standing on stainless steel rod, looking at the camera. Full body drone shot, aspect ratio 3:4.
@@ -2868,7 +2868,7 @@ Use the exact same face from the reference image and Ultra realistic close-up st
 
 ## Candid Modern Bedroom Mirror Selfie
 
-> Portre üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Selfie fotoğrafı üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 "subject": "{argument name="subject" default="young woman, dark bob, gold necklace and bracelet, mirror selfie"}",
@@ -2887,7 +2887,7 @@ A cinematic, moody portrait of a young woman with long, dark straight hair sitti
 
 ## Realistic iPhone Selfie in Botanical Garden
 
-> Fotogerçekçi, minimal portre üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, minimal selfie fotoğrafı üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Ultra-realistic iPhone front-camera selfie of the woman in the reference photo, preserving her exact facial features, skin tone, face shape, eyes, lips, and nose. She's seated casually on a {argument name="setting" default="weathered wooden park bench amid dense blooming white flowers and lush greenery in a botanical garden"}. One arm extends toward the camera holding the phone — authentic wide-angle selfie perspective, slight arm distortion, body slightly turned, soft thoughtful expression looking off to the side.Outfit: {argument name="outfit" default="Pastel knit top, flowy cardigan, comfortable trousers"} — light, feminine,  Natural loose hair, delicate jewelry, fresh minimal makeup. Technical: {argument name="lighting" default="Bright summer afternoon light"}, realistic outdoor shadows, shallow depth of field, natural skin texture and pores, subtle iPhone HDR, 24mm selfie lens distortion, candid social media aesthetic, 8K realism, no beauty filter, no airbrushing.Maintain exact identity, facial structure, complexion, and proportions — as if she personally took this selfie. Negative: Overprocessed skin, AI face, doll features, excessive smoothing, unrealistic eyes, exaggerated makeup, studio lighting, extra fingers, distorted hands, CGI, heavy grading, oversaturated colors, fake bokeh, perfect symmetry.
@@ -2895,7 +2895,7 @@ Ultra-realistic iPhone front-camera selfie of the woman in the reference photo, 
 
 ## Vintage Doll Aesthetic Studio Session
 
-> Retro, stüdyo ışıklı görsel üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
+> Retro, stüdyo ışıklı fotoğraf üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 { "photo_type":"retro studio editorial, vintage doll aesthetic",  "subject":{ "type":"young woman", "use_reference_image":true, "face_reference":true, "preserve_identity":true, "instruction":"strictly use the provided reference face, do NOT change facial structure, skin tone, eye color, or hair color", "pose":"sitting on the floor with legs folded, holding a vintage phone to ear, slightly leaning forward", "expression":"curious, soft surprised expression, playful gaze looking slightly sideways" },  "appearance":{ "hair":"same as reference image, long hair styled with soft waves, hair clips included, unchanged color", "eyes":"same as reference image, unchanged", "skin":"smooth soft skin with warm vintage tone", "makeup":"soft glam with blush-heavy cheeks, glossy lips, slightly retro style" },  "outfit":{ "clothing":"{argument name="outfit" default="pink satin nightdress with lace details"}, soft robe over it", "style":"cute, feminine, retro doll-like" },  "accessories":{ "items":[ "vintage telephone", "hair clips", "decorative mirror", "soft toys (teddy bear)", "record player" ] },  "environment":{ "location":"studio", "background":"{argument name="setting" default="full pastel pink setup"}", "elements":[ "vinyl player", "ballet shoes", "vintage decor", "pink props everywhere" ] },  "lighting":{ "type":"soft studio lighting", "setup":[ "warm diffused lighting", "low contrast shadows", "slight vintage tint", "soft glow" ] }, "camera":{ "angle":"eye level slightly above", "framing":"mid to full body", "focus":"sharp subject, soft background feel" },  "color_grading":{ "style":"vintage cinematic", "tones":"soft pink, warm beige, pastel tones", "contrast":"low", "saturation":"slightly muted for retro feel", "grain":"very light film grain" }, "details":{ "must_include":[ "reference face unchanged", "same hair and eye color", "pink aesthetic", "vintage phone", "retro props", "doll-like vibe" ], "avoid":[ "modern elements", "dark tones", "harsh lighting", "over sharpness" ] } }
@@ -2911,7 +2911,7 @@ Ultra-realistic iPhone front-camera selfie of the woman in the reference photo, 
 
 ## Nostalgic 2000s Digital Camera Snapshot
 
-> Retro arayüz tasarımı üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
+> Retro fotoğraf üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 { "reference_usage": { "instruction": "Use the attached reference photo as the identity base. Replicate the same facial structure, proportions, eyes, nose, lips, and overall facial identity exactly as the reference. Do not alter facial geometry.", "identity_consistency": "Face must match the attached reference image" }, "scene": { "concept": "A close up photograph displayed on the screen of a compact Canon style digital camera", "composition": "The physical camera body surrounds the image with visible buttons, textured plastic surface, navigation wheel, DISP button, FUNC/SET wheel, and small camera interface details", "scale_ratio": "4:5 vertical" }, "photo_on_screen": { "subject": { "description": "{argument name="subject" default="young woman matching the facial features of the reference image"}", "expression": "soft slightly open lips expression, relaxed gaze", "hair": "long hair with loose strands partially falling across the face", "pose": "close up portrait framing" }, "environment": { "setting": "dim indoor kitchen environment at night", "background": [ "kitchen shelves", "small appliances", "metallic surfaces", "softly blurred clutter typical of a lived in kitchen" ] }, "lighting": { "type": "direct built in camera flash", "effect": "strong highlights on face and hair with sharp flash contrast against darker background" }, "mood": "candid raw nostalgic early 2000s digital camera snapshot", "color_characteristics": { "tones": "slightly muted colors with cool undertones", "contrast": "strong flash contrast", "grain": "natural digital screen grain and subtle LCD glow" } }, "camera_simulation": { "device": "compact digital camera", "lens_equivalent": "28 to 35mm", "aperture": "f2.8", "iso": 400, "shutter_speed": "1/60 with flash", "white_balance": "auto flash" }, "render_style": { "look": "authentic early 2000s digital camera display", "effects": [ "screen pixel texture", "LCD glow from camera screen", "subtle display grain", "harsh flash highlight bloom" ] }, "restrictions": { "text_inside_photo_preview": "none", "logos_inside_photo_preview": "none" } }
@@ -2938,7 +2938,7 @@ Ratio 4:5
 
 ## Traditional Pakistani Mirror Selfie
 
-> Fotogerçekçi, minimal mimari görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, minimal selfie fotoğrafı üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 A mirror selfie of a {argument name="subject" default="stylish young South Asian woman"} posing in a modern, brightly lit minimalist interior. She has long, voluminous, dark wavy hair cascading down her shoulders. She is wearing chic black-tinted sunglasses with a thin gold frame and a delicate gold script nameplate necklace.
@@ -2966,7 +2966,7 @@ A beautiful young woman with fair skin and long, silky {argument name="hair colo
 
 ## Casual Mirror Selfie Portrait
 
-> Afiş üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Selfie fotoğrafı üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 subject: {argument name="subject" default="young woman, dark wavy hair, mirror selfie, hand in hair"}, outfit: {argument name="outfit" default="white oversized tee, hot pink biker shorts"}, setting: {argument name="setting" default="bathroom, pop art poster on wall, yellow phone case"}, mood: casual, candid, everyday
@@ -2982,7 +2982,7 @@ A cinematic, vertical portrait of a {argument name="subject" default="smiling yo
 
 ## Authentic Morning Bathroom Selfie
 
-> Fotogerçekçi, minimal portre üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, minimal selfie fotoğrafı üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Photorealism. Ultra-photorealistic vertical 9:16 iPhone bathroom mirror selfie of a {argument name="subject" default="man in his early 30s"} just waking up. Raw unposed morning vibe, NOT styled, NOT groomed, just real. FACE: Warm tan complexion. Deep dark brown eyes, slightly puffy and bloodshot from sleep, large expressive. Bold thick dark natural eyebrows, slightly unruly. Strong masculine nose. Full natural lips, neutral tone. Light stubble (2-3 days growth) across jaw, upper lip, and chin, slightly uneven. A few tiny freckles only on bridge of nose. Slightly tired sleepy expression with visible under-eye circles. HAIR: Short to medium dark brown hair, messy bedhead texture, sticking up in places. Natural hairline with minor recession at temples. Completely unstyled, just-woke-up chaos. FACIAL HAIR: 2-3 day stubble, uneven growth pattern. Darker around jawline and upper lip. Natural mustache shadow. Unshaven, scruffy morning look. POSE: Standing in front of a bathroom mirror, holding the phone in his right hand at chest level. His left hand scratching the side of his face/jaw. Looking slightly tired into the camera through the mirror, neutral half-awake expression, mouth slightly closed, slight pillow crease still visible on his left cheek. OUTFIT: {argument name="clothing" default="Oversized plain grey or white cotton t-shirt"} (sleep shirt), slightly worn and wrinkled. Simple thin silver chain necklace visible at the collar. ENVIRONMENT: Modern minimalist bathroom — white tiles, a white ceramic sink, a rounded mirror, a few grooming products on the counter (shaving cream, aftershave, face wash), a small hand towel, a glass of water. Bathroom light is bright but slightly cool overhead. LIGHTING: Bright bathroom overhead lighting, slightly cool fluorescent tones. NOT flattering, NOT cinematic. Just real bathroom lighting that emphasizes the mundane authenticity of the moment. SKIN: Hyper-realistic with very visible pores, facial hair texture, micro-imperfections, slight T-zone oiliness, sleep marks on cheek, slight redness around nose, real human texture. A tiny ingrown hair or razor bump on the neck. Fine lines starting around eyes. NO smoothing, NO beauty filter, NO airbrushing. Maximum authentic morning skin realism. CAMERA: iPhone front camera mirror selfie, 9:16 vertical, slight angle. Sharp focus on his face. Authentic phone grain, slight chromatic noise typical of fluorescent light photography. STYLE: Real candid morning bathroom selfie, mundane and authentic. The kind of photo you take to send a friend, not to post on Instagram. Vulnerable, real, completely human. Zero AI artifacts.
@@ -2990,7 +2990,7 @@ Photorealism. Ultra-photorealistic vertical 9:16 iPhone bathroom mirror selfie o
 
 ## Cinematic Street Photography with Face Reference
 
-> Fotogerçekçi, sinematik 3B sahne üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, sinematik şehir ve sokak sahnesi üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Use my uploaded face as the primary facial identity reference. Preserve the exact facial structure, jawline, skin texture, hairstyle, beard/stubble details, eye shape, eyebrow shape, nose structure, lips, and overall recognizable appearance with very high identity fidelity. Maintain realistic {argument name="ethnicity" default="masculine South Asian"} features and natural skin tones.
@@ -3008,7 +3008,7 @@ Composition: vertical portrait framing, subject positioned slightly left of cent
 
 ## Realistic iPhone Candid Photography
 
-> Fotogerçekçi görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi fotoğraf üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 {
@@ -3094,7 +3094,7 @@ Raw intimate portrait of a stunning young woman with {argument name="detail leve
 
 ## Elegant Monochromatic Mirror Selfie
 
-> Sinematik, minimal mimari görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Sinematik, minimal selfie fotoğrafı üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 A captivating mirror selfie capturing a moment of relaxed elegance within a tranquil, sunlit interior. The subject, framed effortlessly in the reflection, embodies a modern aesthetic, styled in a {argument name="outfit style" default="striking monochromatic ensemble"}. A pristine white halter top accented by a bold, oversized black velvet bow creates a dramatic focal point, paired perfectly with a structured black denim miniskirt. Delicate white stockings with intricate black lace detailing add a touch of classic sophistication to the look. Soft, diffused daylight filters naturally through the room, casting gentle highlights across her {argument name="hair color" default="blonde"} hair and subtly reflecting off her elegant, dark-framed glasses. She rests comfortably on a plush, cloud-like white rug, grounding the composition in a cozy, intimate atmosphere. The background, featuring minimalist wooden furniture and subtle organic decor, elegantly enhances the warm, inviting cinematic mood of this contemporary portrait.
@@ -3102,7 +3102,7 @@ A captivating mirror selfie capturing a moment of relaxed elegance within a tran
 
 ## Photorealistic Hot Tub Portrait
 
-> Fotogerçekçi, sinematik mimari görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, sinematik portre üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 A highly detailed photorealistic portrait of a young woman in her early twenties with {argument name="hair description" default="striking long wavy copper-red hair"} cascading over her shoulders, fair skin with natural freckles across her nose and cheeks, {argument name="eye color" default="bright expressive blue eyes"}, and a gentle subtle smile, positioned in the center of the frame. She is wearing a {argument name="clothing" default="fitted black long-sleeved top"} and leaning forward with her arms resting on the smooth white edge of an outdoor hot tub filled with clear water, her hands visible with small delicate tattoos on the fingers. The setting is a serene natural outdoor environment during daytime with soft natural lighting, featuring a background of tall green pine trees, rocky terrain, stone architectural elements including a large pillar, and a peaceful mountainous landscape. The image captures fine details like water droplets on her skin and clothing, realistic hair texture, and high-resolution cinematic quality.
@@ -3110,7 +3110,7 @@ A highly detailed photorealistic portrait of a young woman in her early twenties
 
 ## Mocha Suit Editorial Portrait
 
-> Sinematik, lüks moda çekimi üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Sinematik, lüks portre üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 A stylish, confident man stands center frame in a perfectly tailored {argument name="suit color" default="mocha brown"} double-breasted suit worn over a sharp black t-shirt, his eyes concealed behind dark geometric sunglasses while his expression remains poised with a closed, neutral mouth. He adopts a relaxed, deliberately posed leaning stance with level shoulders and legs casually crossed at the ankles, ending in polished black leather dress shoes. His left hand is tucked seamlessly into his left jacket pocket, while his relaxed right hand rests flat against the smooth, pristine top rail of a {argument name="architectural element" default="warm beige stone balustrade"}, fingers slightly spread in a natural drape. This balustrade, featuring classic carved repeating columns, traverses horizontally across the midground above a polished black marble baseboard elegantly detailed with white veining. He stands on a warm honey-brown wood parquet floor laid in a classic checkered block pattern. Beyond the foreground, the spatial depth extends deeply into a {argument name="location" default="grand indoor classical hall"}, characterized by matte plaster walls and out-of-focus intricate stone-carved grand archways. In the upper right background, an arched window fitted with stained or frosted glass allows bright daylight to stream in, while a small, pristine hanging spherical glass lamp in the left middle ground emits a soft, warm orange glow. The scene is bathed in a sophisticated mix of soft, diffused natural daylight from the front-left and top, blending seamlessly with warm golden ambient practical fill. This moderately directional light creates beautifully preserved highlights along the left side of his face, his left shoulder, and the edge of the balustrade railing, while casting short, softly graded gray shadows beneath him on the parquet floor and across the right side of his suit and face. The color palette is warmly analogous, harmonizing the dominant mocha browns, rich black accents, warm beiges, and the amber glow of the lighting to evoke an affluent, classically elegant, and highly polished mood. Captured as a tack-sharp, grain-free editorial fashion photograph blending modern menswear with classic architectural portraiture, the image is shot straight on using an 85mm lens at an f/1.8 aperture, 1/200s shutter speed, and ISO 200 to achieve a shallow depth of field with creamy bokeh that smoothly blurs the majestic background. Expert post-processing features warm color grading to emphasize earth tones, a slight contrast bump, and targeted sharpening on the subject, all perfectly framed in a 4:5 aspect ratio.
@@ -3142,7 +3142,7 @@ A vertical, split-medium portrait of a {argument name="subject" default="beautif
 
 ## Instagram Story Train Candid
 
-> Fotogerçekçi, sinematik portre üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, sinematik fotoğraf üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Ultra-photorealistic vertical 9:16 Instagram Story-style candid portrait of a {argument name="subjects" default="stylish young mother and her toddler daughter"} sitting together inside an {argument name="location" default="Istanbul Marmaray train"}.
@@ -3234,7 +3234,7 @@ Add a subtle Instagram Story interface at the top with the username “ozgedoner
 
 ## Alpine Spring Portrait of a Woman
 
-> Fotogerçekçi, minimal manzara üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, minimal portre üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 A young woman in her late 20s with long, wavy dark brown hair sitting cross-legged on a low concrete ledge outdoors. She is wearing a {argument name="shirt color" default="rust/terracotta orange"} short-sleeve crew neck t-shirt, {argument name="trousers style" default="loose beige linen wide-leg trousers"}, and clean white low-top sneakers. She has a relaxed, natural smile and is looking slightly upward and to the left. Small silver stud earrings. Background features a lush green meadow with {argument name="spring flowers" default="colorful spring tulips (pink, yellow, white)"} in bloom, blossoming white cherry tree branches overhead, and traditional Alpine wooden houses with mountains in the soft-focused distance. Natural daylight, spring atmosphere. Shallow depth of field, sharp subject, bokeh background. Medium shot, eye-level angle, photorealistic portrait photography style.
@@ -3242,7 +3242,7 @@ A young woman in her late 20s with long, wavy dark brown hair sitting cross-legg
 
 ## Upscale Cafe Lifestyle Portrait
 
-> Fotogerçekçi, lüks mimari görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, lüks portre üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Photorealistic portrait of a young woman with {argument name="hair color" default="long wavy red"} hair sitting in a modern upscale cafe with warm wood-paneled interior and large glass windows, wearing a {argument name="hat" default="navy baseball cap"}, black over-ear headphones, {argument name="outfit" default="fitted white cropped t-shirt"}, and white lounge pants, seated on a cream leather bench, hands adjusting headphones, soft natural daylight, shallow depth of field, lifestyle photography, ultra-detailed, realistic skin texture
@@ -3250,7 +3250,7 @@ Photorealistic portrait of a young woman with {argument name="hair color" defaul
 
 ## Casual Maritime Waterfront Portrait
 
-> Yemek görseli üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Portre üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 A young man sits squarely in the center of the frame, facing the camera with relaxed shoulders and a serious, composed expression, his mouth closed and eyes completely hidden behind dark reddish square sunglasses. His {argument name="hair style" default="short, messy dark brown"} hair features a natural, textured look with subtle flyaways. He is dressed in a layered casual outfit consisting of a {argument name="overshirt" default="thick beige corduroy overshirt"} left unbuttoned over a black crewneck t-shirt, paired with {argument name="pants" default="blue denim jeans"}. His body weight is evenly distributed as he sits, with his left arm casually draped over the back edge of a white boat seat, his fingers pointing straight down in an organic gesture, while his right hand rests naturally on his right thigh, the fingers loosely curled inward. He is positioned against the foregrounds worn white leather marine seating, which reveals visible seams and slight wear along the edges, while a weathered blue canvas boat canopy supported by metal tubes frames the upper foreground. The deep spatial midground reveals a thick, weathered cylindrical wooden docking bollard tightly wrapped with white rope at its base on the right side, giving way to a wide expanse of choppy, desaturated blue-grey water with small waves reflecting the overcast sky. In the slightly blurred background, a deep urban waterfront displays a matte, patchy-colored mix of traditional brown wooden multi-story houses and modern white concrete apartment blocks with balconies, all resting beneath a sloping terrain blanketed with bare, autumnal leafless trees. The entire scene is bathed in a calm, soft, and diffused frontal outdoor natural light, casting soft-edged, gradual gray shadows under his shirt collar, beneath his legs, and deep inside the boat canopy, while preserved specular highlights gently touch his forehead, the top shoulder of his beige shirt, and the smooth curves of the white leather seat. This lighting enhances the split-complementary palette of beige, black, denim, off-white, and desaturated blues, establishing a relaxed, breezy maritime atmosphere. Rendered in the style of clean, contemporary lifestyle digital photography, the image is shot straight-on with a 35mm lens at an f/4.0 aperture, 1/500s shutter speed, and ISO 200, achieving a tack-sharp subject with zero grain and a medium depth of field, finished with subtle color grading, natural skin tones, slightly lifted shadows, and mild background desaturation, all naturally framed in a 3:4 aspect ratio.
@@ -3258,7 +3258,7 @@ A young man sits squarely in the center of the frame, facing the camera with rel
 
 ## Emotional Overhead Flash Portrait
 
-> Minimal moda çekimi üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Minimal portre üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Generate an image of an adult female fashion portrait in the {argument name="style" default="Overhead Straight Flash Emotional Portrait"} style, with an aspect ratio of 【Aspect Ratio】.
@@ -3295,7 +3295,7 @@ Amateur subtle blurry iPhone shot of a beautiful woman resembling {argument name
 
 ## Luxury Car Interior Selfie
 
-> Minimal, lüks moda çekimi üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Minimal, lüks mimari görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Hyper-detailed stylish {argument name="subject" default="fair beautiful young woman selfie portrait"}, oversized black sunglasses, silky voluminous hair, {argument name="outfit" default="minimal white outfit"}, {argument name="setting" default="luxury car interior"}, soft natural daylight, elegant clean aesthetic, glossy skin texture, premium lifestyle photography, modern fashion vibe, shallow depth of field, ultra-sharp 32K.4:5
@@ -3312,7 +3312,7 @@ A beautifully rendered portrait of {argument name="subject" default="a young wom
 
 ## Realistic Gym Mirror Selfie
 
-> Fotogerçekçi, minimal portre üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, minimal selfie fotoğrafı üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Ultra-realistic gym mirror selfie of a {argument name="subject" default="fit young woman"} seated on a red bench of a strength-training machine, he is taking a mirror selfie with his iphone in his right hand, looking slightly to the side with a a relaxed, rela confident expression, he is wearing a {argument name="outfit" default="white pattern no sleev tshirt and black gym full pent with tie-dye patterns"}. White athletic shoes with subtle detailing and Headphones. 100same face maching. Black and white gym combo dress full please\
@@ -3325,7 +3325,7 @@ Plane white top\
 
 ## Cinematic Lakeside Night Portrait
 
-> Sinematik manzara üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Sinematik portre üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 A medium-scale cinematic portrait captures a {argument name="subject" default="young male adult"} looking thoughtfully away to the right with a candid, serious expression, closed neutral mouth, and relaxed shoulders. He wears a {argument name="clothing" default="black unbuttoned dress shirt"}, his natural, textured dark hair pushed back with slight flyaways. His body is turned at a 45-degree angle, leaning his weight to the right in an organic, casual posture. His left hand rests casually on a stainless steel safety railing, his thumb resting on top while holding a small dark object, as his fingers curl naturally over the edge, mirrored by his right hand which curls loosely over the pristine top metal bar. Beyond the thin horizontal wire cables of the railing stretches a deep spatial midground dominated by calm dark lake water that perfectly reflects long vertical streaks of warm yellow and green lights. The deep background reveals a {argument name="setting" default="luxurious European lakeside setting"} where bright city lights are clustered heavily on the lower left shoreline, trailing upward along the hillside, while a dark silhouette of rolling mountain peaks rests beneath a clear, deep twilight blue night sky featuring two faint stars vertically aligned in the upper center. The atmosphere is dramatic yet serene and contemplative, anchored by a complementary cool temperature palette of deep blues, inky blacks, warm golden oranges, and bright yellows. A strong, highly directional off-camera artificial warm golden light hits him directly from a 45-degree angle on the front-left, acting as hard low-key illumination. This creates harsh, defined deep black shadows cast heavily on the right side of his face, under his chin, and deep within the intricate folds of his shirt, while preserving brilliant warm highlights perfectly placed across his face, exposed chest, and left shoulder. Shot as a realistic digital photograph with a straight-on perspective and a slightly soft sharpness, the image embraces a travel lifestyle aesthetic characterized by moderate high-ISO digital noise authentic to low-light night photography. A deep depth of field keeps both the subject and the distant mountain structures relatively sharp, enhanced by post-processing that crushes the blacks in the mountains and shirt while boosting the warm highlights to make the city reflections pop brilliantly against the desaturated cool sky, all framed in a 4:5 aspect ratio.
@@ -3333,7 +3333,7 @@ A medium-scale cinematic portrait captures a {argument name="subject" default="y
 
 ## Melancholic Indie Bedroom Portrait
 
-> Fotogerçekçi, sinematik afiş üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, sinematik portre üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Ultra-photorealistic portrait of a beautiful young woman in a soft, melancholic indie bedroom atmosphere, inspired by the emotional mood of {argument name="song" default="Let Down by Radiohead"}. The overall feeling is dreamy, intimate, lonely, nostalgic, and quietly vulnerable. She has {argument name="hair style" default="tousled medium-length brown hair"} with soft messy waves and wispy curtain bangs, giving an effortless, slightly undone look. She wears {argument name="accessories" default="oversized vintage-style glasses, delicate silver rings, and a subtle necklace"} for a casual intellectual aesthetic.
@@ -3354,7 +3354,7 @@ Set indoors against a {argument name="background" default="royal vintage backgro
 
 ## Emerald Monochromatic Male Portrait
 
-> Fotogerçekçi, sinematik moda çekimi üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, sinematik portre üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 A hyper-realistic 8K cinematic close-up profile portrait of the {argument name="subject" default="man from the reference image"}, preserving 100% of his real facial identity; featuring {argument name="hair style" default="messy hair styled in a modern mullet"} and {argument name="accessories" default="thick rectangular black sunglasses"}. He is looking slightly downward with a calm, moody, and introspective expression. Accessories include a dangling silver earring, a thick silver chain, and a longer fine chain with a blade pendant. He is wearing a textured black jacket that gradually fades into shadow. The scene is dominated by rich, saturated deep-green monochromatic lighting, with a strong emerald backlight creating a sharp, glowing rim light along his profile, hair, and jewelry. The background is smooth, luminous, and deep green. High-contrast chiaroscuro lighting is used to sculpt the face, partially obscuring areas in shadow while emphasizing realistic skin texture, metallic reflections, and detailed hair strands. Captured in cinematic studio photography style with a high-fashion, music-video aesthetic, ultra-sharp focus, volumetric lighting, deep shadows, realistic color grading, and a powerful atmospheric mood
@@ -3453,7 +3453,7 @@ A waist-up medium shot lifestyle summer portrait of {argument name="name" defaul
 
 ## Candid Smartphone Vacation Selfie
 
-> Fotogerçekçi, sinematik yemek görseli üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, sinematik selfie fotoğrafı üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Amateur close-up slightly soft smartphone selfie of a stunning woman resembling {argument name="person" default="Sadie Sink"} enjoying a {argument name="dessert" default="strawberry and cream cornetto gelato"} while laughing naturally at a lively beach bar during sunset. Looking directly toward the viewer with expressive blue eyes. Long soft red hair flowing naturally with loose strands catching the warm sunset light. Wearing a cream white sleeveless crop tank top with thin straps and a relaxed side detail, featuring a small elegant 'Love' embroidery near the lower hem. {argument name="location" default="Bali beach"} visible in the backdrop with tropical sunset sky, glowing beach lights, palm silhouettes, and softly blurred people. Casual candid vacation aesthetic, photorealistic skin texture with natural freckles, subtle smartphone lens softness, cinematic lifestyle photography, warm golden-hour lighting, 8k
@@ -3519,7 +3519,7 @@ Amateur close-up slightly soft smartphone selfie of a stunning woman resembling 
 
 ## Old Photo Restoration 4K
 
-> Minimal görsel üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
+> Minimal fotoğraf üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Restore this old damaged photo without changing any details, 4K
@@ -3562,7 +3562,7 @@ Use the uploaded reference image as the ONLY face and identity source. Create an
 
 ## 90s Black and White Film
 
-> Minimal, retro görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Minimal, retro erkek figürlü görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 A black and white film photograph from the {argument name="era" default="1990s"} shows a {argument name="subject" default="man leaning against a wall"} in a modern art gallery. He wears loose-fitting clothing, including a gray button-down shirt and dark sunglasses. Natural light enters from a large window behind him, illuminating the minimalist gallery space. The man's pose is relaxed and contemplative, reflecting the cool aesthetic of the era
@@ -3570,7 +3570,7 @@ A black and white film photograph from the {argument name="era" default="1990s"}
 
 ## Fine Art Black and White Portrait
 
-> Fotogerçekçi, sinematik moda çekimi üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, sinematik portre üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Ultra-realistic black-and-white fine art studio portrait of a handsome young {argument name="ethnicity" default="South Asian"} man, medium-length thick black hair swept across the forehead with soft volume and natural texture, well-groomed short beard and mustache, defined jawline, smooth skin, expressive eyes gazing thoughtfully to the side, elegant and confident demeanor. Wearing a {argument name="outfit" default="tailored black tuxedo jacket"} over a slightly unbuttoned crisp white dress shirt with an open collar, luxury wristwatch visible on the wrist, subtle ring on finger.
@@ -3584,7 +3584,7 @@ Fine art portrait photography, Leica SL3, 85mm f/1.4 portrait lens, shallow dept
 
 ## Casual Male Portrait Alpine Lake
 
-> Manzara üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Portre üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 A young adult male sits centered on a weathered wooden fence, exuding an approachable, candid charm with a subtle closed smile, relaxed eyebrows, and a direct gaze. His swept-back brown hair features natural textural imperfections, complementing his light facial stubble. He is dressed casually in a {argument name="shirt" default="dark navy short-sleeve henley shirt"} and {argument name="pants" default="light beige linen trousers"}. His relaxed shoulders perfectly balance his centered weight, with his left hand resting naturally on his left thigh, fingers curving gently downward to reveal a silver metal watch. His right hand casually crosses over his left wrist, loosely holding a pair of folded black sunglasses, his wrist adorned with a silver chain bracelet and a black cord bracelet. He is seated on a rough-hewn timber split-rail fence in the foreground, characterized by rounded horizontal rails and natural wood grain, with tall vibrant green grass and wildflowers protruding nearby. Behind him unfolds a {argument name="landscape" default="majestic, deep-set alpine landscape"}, leading the eye directly to a dominant, pristine midground lake. The water features a vivid turquoise and emerald gradient with a highly reflective surface and clear shallows revealing the bottom near the edges. A thriving, dense forest of green pine and spruce trees of varying heights sharply lines the water's edge. In the far background, towering, jagged gray and tan rocky mountain peaks reminiscent of the Dolomites rise steeply, their weathered ridges partially veiled by scattered white clouds in a light blue sky. The scene is bathed in bright, soft, natural daylight, diffused evenly from above, creating a calm, crisp, and serene outdoor atmosphere with neutral color temperatures. This soft lighting casts faint, short shadows with gradual edges, appearing minimally under his chin and arms, alongside a slight shadow cast on his trousers by his resting hands. Delicate, preserved specular highlights grace his forehead, the bridge of his nose, and the shimmering surface of the lake water. The color palette is highly saturated, dominated by striking turquoise and forest green against the contrasting dark navy and beige of his attire, balanced perfectly by the light grays of the distant peaks. Captured as a hyper-detailed, tack-sharp realistic digital photograph with a clean travel-influencer aesthetic, the image utilizes a straight-on perspective and a medium depth of field characteristic of a 35mm or 50mm lens at f/4.0 to soften the background while keeping it highly legible. The vibrant greens and cyans are post-processed to pop brilliantly, with gently lifted shadows ensuring perfect exposure on the subject's face and dark clothing, entirely devoid of film grain, and perfectly framed in a 3:4 aspect ratio.
@@ -3592,7 +3592,7 @@ A young adult male sits centered on a weathered wooden fence, exuding an approac
 
 ## 90s Disposable Camera Style Selfie
 
-> Retro portre üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
+> Retro selfie fotoğrafı üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Selfie of two people, smartphone removed, crouching, zoom on face and chest, {argument name="pose" default="cute pose"}, snuggling, {argument name="feature" default="one wearing glasses"}
@@ -3612,7 +3612,7 @@ Shot with a 35mm lens at f/2.8 to maintain sharp focus on her eyes and clothing 
 
 ## Candid Late Night Lounging
 
-> Lüks mimari görsel üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
+> Lüks fotoğraf üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 {
@@ -3644,7 +3644,7 @@ A vertical {argument name="style" default="black and white candid portrait"} of 
 
 ## Luxury Car Selfie Collage
 
-> Fotogerçekçi, lüks mimari görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, lüks selfie fotoğrafı üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Ultra-photorealistic vertical 3x5 selfie collage, 15 panels, same beautiful young woman with a fully consistent identity in every frame. Pinterest-core it-girl luxury car selfie aesthetic, playful, flirty, feminine, social-media-ready, modern iPhone-style realism.
@@ -3773,7 +3773,7 @@ A close-up portrait of a young woman with {argument name="hair style" default="w
 
 ## Minimalist Indoor Portrait Photography
 
-> Minimal mimari görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Minimal portre üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 A high-resolution portrait photograph of {argument name="person" default="Sadie Sink"} indoors, looking directly at the camera with a neutral expression. She has long, wet-look wavy red hair cascading down her shoulders and visible freckles on her face and arms. She is wearing a bright {argument name="clothing color" default="orange"} ribbed strapless tube top and a delicate silver tennis necklace. The background is a bright, modern, minimalist room with concrete flooring, a large glass window, a white couch, and art frames, all softly blurred to create depth.
@@ -3835,7 +3835,7 @@ Like Voldemort
 
 ## Female Football Fan Portrait
 
-> Fotogerçekçi, sinematik yemek görseli üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, sinematik portre üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 A highly detailed photorealistic portrait of a beautiful young woman with fair skin, {argument name="hair style" default="long voluminous wavy reddish-orange hair flowing over her shoulders and back"}, bright expressive eyes, and a warm friendly smile showing her teeth, seated on a glossy tiled floor indoors. She is wearing a {argument name="jersey style" default="bright yellow short-sleeved cropped sports jersey top"} with blue trim along the V-neckline, sleeves, and shoulders, featuring a circular blue and gold club crest with a crown emblem on the chest. She pairs it with a {argument name="skirt style" default="matching yellow mini skirt"} with blue side stripes and the same circular crest on the thigh area. A delicate gold chain with small beads rests around her waist, complemented by a thin gold necklace with a small pendant, and black-and-gold bangles on both wrists. Her posture is elegant as she sits with legs tucked beneath her, one hand resting on the floor for support and the other lightly placed beside her, in a clean modern room with white walls, a wooden door visible on the left, and soft indoor lighting creating a polished, vibrant atmosphere. High resolution, sharp details, natural skin texture, cinematic composition.
@@ -3843,7 +3843,7 @@ A highly detailed photorealistic portrait of a beautiful young woman with fair s
 
 ## Stylish Minimalist Anime Portrait
 
-> Minimal, fütüristik moda çekimi üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
+> Minimal, fütüristik portre üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Minimalist and simple thick-lined stylish anime-style illustration. Airy and fashionable.
@@ -3860,7 +3860,7 @@ Minimalist and simple thick-lined stylish anime-style illustration. Airy and fas
 
 ## Seoul Street Sunset Selfie
 
-> Fotogerçekçi, sinematik logo üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, sinematik selfie fotoğrafı üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 {
@@ -3916,7 +3916,7 @@ A young male stands facing the camera in a deliberately posed, serious stance, h
 
 ## Urban Night Portrait with Soft Bokeh
 
-> Fotogerçekçi, sinematik logo üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, sinematik portre üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Ultra realistic cinematic night portrait 9:16 use uploaded face exactly, no face change. Stylish character standing beside street lamp under full moon, relaxed side-look pose. Outfit: {argument name="top" default="loose maroon graphic t-shirt"} with subtle “PromptPixelRI” logo, {argument name="pants" default="ripped black pants"}, chunky sneakers, smartwatch. Background: dreamy moonlight, soft urban night bokeh, cinematic atmosphere. Soft lighting, HDR, realistic skin texture, DSLR quality, ultra detailed aesthetic.
@@ -3940,7 +3940,7 @@ A confident {argument name="subject" default="adult male"} stands in profile, hi
 
 ## Korean Girl Japanese Bus Travel
 
-> Fotogerçekçi, sinematik moda çekimi üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, sinematik kadın figürlü görsel üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Ultra-realistic portrait of the same {argument name="subject" default="beautiful Korean girl"} from the previous images, maintaining the exact same facial appearance, soft Korean beauty aesthetic, glossy eyes, natural blush makeup, silky long black hair, youthful features, and realistic skin texture consistency.
@@ -3951,7 +3951,7 @@ Modern Japanese slice-of-life atmosphere, cozy public transport aesthetic, calm 
 
 ## Korean Girl on Japanese Bus
 
-> Fotogerçekçi, sinematik moda çekimi üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, sinematik kadın figürlü görsel üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 use image1 exactly as the main identity anchor
@@ -3972,7 +3972,7 @@ Using the uploaded image and without changing the face, create a hyper-detailed 
 
 ## Mediterranean Vacation Portrait
 
-> Mimari görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Portre üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 A handsome {argument name="subject" default="young adult male"} stands center-right, angled with his back to the camera, his upper torso and head turned precisely 135 degrees over his left shoulder to look back with a subtle, closed-mouth confident smile. He has a neatly groomed dark beard and short dark hair styled with a faded undercut, while dark round sunglasses rest on his face. He is dressed in a {argument name="outfit" default="crisp, all-white casual summer outfit"} featuring a bright white short-sleeve polo shirt and white linen trousers. His relaxed right hand rests naturally near his right hip, revealing a metal watch on his wrist, while his left hand holds a black smartphone casually near his waist, his fingers slightly curled in an organic grip. His shoulders are relaxed, with the right shoulder dropped slightly. He stands on a smooth, light gray poured concrete garden path that leads backward into a landscaped tropical garden, bordered on both the bottom left and bottom right by pristine, perfectly smooth bright white river rocks. To his left, a thriving Mediterranean Fan Palm dominates the midground with dense, overlapping spiky green fronds, accompanied by bright green lawn grass, an agave plant, and a black landscape uplight fixture. On his right, broad, paddle-shaped Bird of Paradise leaves stretch upward. In the top right background, a pristine modern building exterior features perfectly smooth matte white plaster walls topped with a dark brown wooden slatted roof overhang containing a black recessed cylindrical light fixture. An energetic, warm golden hour atmosphere envelops the scene beneath a clear sky blue backdrop. Highly directional, hard natural sunlight strikes from the front-right relative to his face, casting a harsh, precise geometric shadow diagonally across the crisp white building wall from the slatted roof. The intense illumination creates bright specular highlights preserved on his right cheek, the top folds of his white polo shirt, and the shiny, waxy surfaces of the broad tropical leaves. High-contrast, dramatic shadows stretch across the back of his shirt in medium gray folds and drop off into deep blacks within the dense layers of the foliage. The color palette emphasizes highly saturated, analogous greens and blues contrasting sharply against the crisp white clothing and architecture. Captured as a realistic digital photograph shot straight on at eye level with a {argument name="lens" default="35mm lens"}, the image is tack sharp on the subject and immediate midground foliage, gradually softening toward the distant architectural elements. Post-processing introduces enhanced vibrance in the organic greens and blues, balances the whites to remain crisp without clipping, and applies a warming tone to the highlights to emphasize the affluent Mediterranean vacation aesthetic, completely framed in a 3:4 aspect ratio.
@@ -3980,7 +3980,7 @@ A handsome {argument name="subject" default="young adult male"} stands center-ri
 
 ## Redhead in Black Jumpsuit Portrait
 
-> Minimal, lüks yemek görseli üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Minimal, lüks portre üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 A highly detailed portrait of a young woman with fair skin, striking blue eyes, and long straight reddish-orange hair styled in a sleek high ponytail with some strands framing her face, standing confidently in a modern indoor setting with dark minimalist walls. She has a poised expression looking directly at the viewer, wearing elegant gold jewelry including large hoop earrings, a thick ornate gold chain necklace, and a prominent gold ring on her right hand. Her outfit is a form-fitting black long-sleeved high-neck jumpsuit made of smooth stretch fabric, with the top featuring subtle seam details and the pants showing a seamless fitted silhouette. Her right hand is raised gracefully touching her ponytail, while her left arm rests naturally by her side. Professional studio lighting with soft highlights accentuating her features and the outfit's texture, captured in a realistic high-resolution photographic style.
@@ -3988,7 +3988,7 @@ A highly detailed portrait of a young woman with fair skin, striking blue eyes, 
 
 ## Nordic Cinematic Mountain Portrait
 
-> Fotogerçekçi, sinematik moda çekimi üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, sinematik manzara üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Ultra realistic cinematic portrait of {argument name="subject" default="me"} sitting alone on a {argument name="setting" default="grassy hill in the mountains"}, thoughtful and calm expression, wind softly moving my hair, wearing a {argument name="clothing" default="dark oversized wool coat"} with layered winter fashion, moody cold atmosphere, foggy mountain background, shallow depth of field, captured with 85mm lens, f/1.8, diffused cloudy daylight, Kodak Portra 400 film look, muted earthy tones, analog matte texture, natural skin details, soft cinematic shadows, medium portrait framing, emotional storytelling aesthetic, ultra detailed, photorealistic, realistic hair movement, luxury editorial photography, 8k UHD, masterpiece composition, inspired by Nordic cinematic visuals, subtle melancholy vibe, realistic color grading, background blur, raw photography style –ar 2:3 –v 7 –style raw –stylize 200 For best results, upload your own face as image reference and add: “use attached face as exact facial reference, keep facial structure and identity accurate”
@@ -4004,7 +4004,7 @@ A chic, blonde woman with a warm smile poses elegantly in a brightly lit, modern
 
 ## Cinematic Noir Crime Boss Portrait
 
-> Fotogerçekçi, sinematik logo üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, sinematik portre üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Use the uploaded reference image as the exact identity reference. Preserve the same face shape, eyes, nose, lips, beard, haircut, age, skin texture, facial proportions, and overall masculine identity. Do not redesign the face. Create an ultra-realistic cinematic noir portrait of {argument name="subject" default="the same man"} sitting alone inside a {argument name="setting" default="luxurious private club"} at night. He wears a {argument name="outfit" default="perfectly tailored black velvet suit"}, open-collar black shirt, expensive watch, and dark sunglasses lowered slightly on his nose. He holds an unbranded cigar between two fingers near his mouth, thin smoke curling upward across his face. His expression is calm, dangerous, intelligent, and completely confident, looking directly into the camera like a silent crime boss. Background: dark mahogany walls, warm amber table lamps, blurred bottles, leather chairs, soft golden reflections, heavy cinematic shadows. Lighting: dramatic low-key lighting, warm rim light on jawline, soft smoke diffusion, high contrast, 35mm film look, shallow depth of field. Composition: vertical 4:5 Instagram cover, upper body portrait, strong negative space at the bottom for future text overlay. No text, no logo, no watermark.
@@ -4012,7 +4012,7 @@ Use the uploaded reference image as the exact identity reference. Preserve the s
 
 ## Cinematic Golden Elevator Portrait
 
-> Fotogerçekçi, sinematik logo üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, sinematik portre üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Use the uploaded reference image as the exact identity reference. Preserve the same face shape, eyes, nose, lips, beard, haircut, age, skin texture, facial proportions, and overall masculine identity. Do not redesign the face. Create an ultra-realistic cinematic portrait of the same man standing inside a luxurious hotel elevator with mirrored golden walls. He wears a {argument name="outfit color" default="black"} double-breasted suit, black shirt, dark sunglasses, and leather gloves. He slightly adjusts his tie while looking at his own reflection, but his eyes are still visible toward the camera through the mirror. His expression is calm, arrogant, elegant, and mysterious. Background: gold elevator interior, mirror reflections, soft luxury lighting, subtle cinematic distortion from reflections. Lighting: warm golden overhead lights, sharp suit texture, high-end fashion editorial mood. Composition: vertical 4:5, symmetrical framing, multiple reflections but only one main face should remain clear. No text, no logo, no watermark.
@@ -4020,7 +4020,7 @@ Use the uploaded reference image as the exact identity reference. Preserve the s
 
 ## Tropical Beach Mango Selfie Portrait
 
-> Fotogerçekçi, minimal portre üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, minimal selfie fotoğrafı üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Ultra-realistic beach selfie portrait of a {argument name="hair color" default="blonde"} woman standing in crystal-clear tropical ocean water, holding a ripe {argument name="fruit" default="mango"} against her cheek, palm trees and white sand beach in the background, bright natural sunlight, wet tousled hair, soft freckles, minimal natural makeup, {argument name="swimsuit color" default="teal"} halter swimsuit, casual luxury travel aesthetic, photorealistic skin texture, high-detail tropical paradise atmosphere, smartphone selfie composition, shallow depth of field, vibrant natural colors
@@ -4028,7 +4028,7 @@ Ultra-realistic beach selfie portrait of a {argument name="hair color" default="
 
 ## Tropical Beach Mango Selfie
 
-> Fotogerçekçi, minimal portre üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, minimal selfie fotoğrafı üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 {"prompt": "Ultra-realistic beach selfie portrait of a blonde woman standing in crystal-clear tropical ocean water, holding a ripe mango against her cheek, palm trees and white sand beach in the background, bright natural sunlight, wet tousled blonde hair, soft freckles, minimal natural makeup, teal halter swimsuit, casual luxury travel aesthetic, photorealistic skin texture, high-detail tropical paradise atmosphere, smartphone selfie composition, shallow depth of field, vibrant natural colors", "negative_prompt": "low resolution, blurry face, distorted anatomy, extra fingers, unrealistic skin texture, cartoon, anime, oversaturated colors, duplicate features, bad hands, artificial background", "style": "photorealistic", "aspect_ratio": "2:3", "camera": {"type": "smartphone selfie", "lighting": "bright natural sunlight", "depth_of_field": "shallow"}, "mood": "tropical, fresh, effortless, vacation luxury", "quality": "high"}
@@ -4036,7 +4036,7 @@ Ultra-realistic beach selfie portrait of a {argument name="hair color" default="
 
 ## Golden Hour Car Driver Portrait
 
-> Mimari görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Portre üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 A young male sits centered in the driver's seat of a car, facing the camera with level shoulders in a deliberately posed, confident posture. His short, blonde to light-brown brushed-back hair exhibits natural texture and subtle flyaways. He wears an olive green puffy jacket with a silver zipper layered over a black ribbed zip-up sweater, with a pristine black woven seatbelt crossing his chest. His expression features a subtle, confident closed smile and a direct gaze with a relaxed squint, while his arms extend out of frame, implying he is holding the camera. Surrounding him is the deep spatial interior of the vehicle, constructed of smooth glass and slightly textured matte charcoal black leather and plastic trim. To his right in the midground rests a pristine black leather seat headrest with visible stitching. Overhead, a dominant panoramic sunroof enclosed in a black frame displays perfectly clear glass, while the distant background through the rear side window reveals weathered bare trees, suggesting late autumn or winter. The calm yet energetic mood is driven by highly directional, hard 45-degree golden natural window light that illuminates the right side of his face, placing distinct highlights on his right cheekbone, nose bridge, jawline, and jacket collar. This creates high contrast with deep black, harshly defined shadows falling under his jaw, inside the collar, across the unlit left side of his face, and deep into the car's interior. A split-complementary palette dominates, contrasting his warm skin and the olive green jacket against the charcoal blacks and a bright sky blue expanse filled with white cumulus clouds visible through the sunroof. The tack sharp, realistic digital photograph is captured from a slightly low angle using a smartphone equivalent 24mm lens at f/1.8 to f/2.2, a 1/1000s shutter speed, and ISO 100, featuring a deep depth of field with focus firmly locked on his eyes. Post-processing enhances the golden hour lifestyle aesthetic by deepening the interior blacks, slightly boosting the saturation of the sky and jacket, and applying digital noise grain and sharpening to his facial features and hair, beautifully framed in a 3:4 aspect ratio.
@@ -4044,7 +4044,7 @@ A young male sits centered in the driver's seat of a car, facing the camera with
 
 ## Realistic iPhone Photo Rainy Taxi Night
 
-> Fotogerçekçi, fütüristik mimari görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, fütüristik fotoğraf üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 {
@@ -4091,7 +4091,7 @@ A young male sits centered in the driver's seat of a car, facing the camera with
 
 ## Ultra-Realistic Wet Bathroom Selfie
 
-> Fotogerçekçi, sinematik 3B sahne üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, sinematik selfie fotoğrafı üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 {
@@ -4153,7 +4153,7 @@ A young male sits centered in the driver's seat of a car, facing the camera with
 
 ## Cinematic Identity-Consistent Portrait Collage
 
-> Fotogerçekçi, sinematik portre üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, sinematik kolaj üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Use the uploaded reference image as the exact facial identity reference for the character. Maintain the same facial structure, curly hairstyle, beard shape, skin tone, jawline, eye shape, and overall appearance consistency exactly as the reference.
@@ -4168,7 +4168,7 @@ Aspect ratio 4:5, ultra detailed, photorealistic, shallow depth of field, cinema
 
 ## Split Face Photo and Ink Illustration
 
-> Fotogerçekçi, minimal portre üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, minimal illüstrasyon üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 A split-face dual-style portrait using the uploaded photo. The left half shows a soft, ultra-realistic studio photograph with natural skin tones, smooth lighting, shallow depth of field, and warm bokeh lights in the background. The right half transforms the same face into a dramatic {argument name="illustration style" default="black-and-white hand-drawn ink illustration"}, featuring expressive brush strokes, bold line work, fine cross-hatching, flowing hair rendered with dynamic ink splashes, and a raw artistic sketch aesthetic. Perfect facial alignment between both halves, clean vertical split down the center, strong contrast between realism and illustration, editorial fine-art style, ultra-high resolution, sharp details, gallery-quality finish, 1:1 aspect ratio.
@@ -4186,7 +4186,7 @@ Create a 1 row x 4 columns grid of standing photo booth photos of the {argument 
 
 ## Asian Girl Photo Booth Grid
 
-> Moda çekimi üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
+> Kadın figürlü görsel üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Outfit: {argument name="outfit style" default="Oversized white button-up shirt with pointed collar and long sleeves"}, worn untucked with sleeves slightly pushed up, layered under a cropped chunky-knit cable cardigan vest in white with button-front closure, paired with a white pleated mini skirt featuring a tiered ruffle hem, accessorized with a {argument name="jewelry" default="chunky silver floral statement necklace"} and dangling silver earrings, styled with thick fuzzy white slouchy leg warmers bunched at the ankles, finished with {argument name="footwear color" default="glossy red leather"} Mary Jane shoes with rounded toes and single strap, all-white monochromatic layered outfit with contrasting red footwear
@@ -4196,7 +4196,7 @@ Create a 2x2 grid of Polaroids of standing photo booth photos of the young asian
 
 ## Ginger Woman with Teddy Bear
 
-> Fotogerçekçi, sinematik portre üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, sinematik hayvan görseli üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 photorealistic portrait of a beautiful young woman in her early 20s with long straight ginger-red hair cascading down her back, pale freckled skin with visible freckles on her face, shoulders and arms, bright blue eyes, full red lips, wearing a white fluffy pom-pom scrunchie in her hair on the left side. She is kneeling on a modern gray fabric sofa in a bright, naturally lit room with a large window behind her, turning her upper body and head over her left shoulder to look directly at the camera with a soft, neutral expression. She is hugging a large Rilakkuma-style beige plush teddy bear with pink inner ears, black button eyes, black stitched nose and mouth, and a small red button on its chest, holding it close to her torso with both hands. She wears a tight white ribbed short-sleeve crop top, light blue boxer-style shorts covered in a repeating pattern of green avocados (some whole, some halved showing the pit), and sheer white thigh-high stockings. Red manicured fingernails. Soft natural daylight coming from the right side window, creating gentle highlights and realistic skin texture. High detail, sharp focus, realistic photography, 8k resolution, cinematic lighting, natural color grading
@@ -4252,7 +4252,7 @@ Photorealistic portrait of a {argument name="subject" default="young woman"} ind
 
 ## 3D Miniature Instagram Diorama
 
-> Sinematik, lüks arayüz tasarımı üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
+> Sinematik, lüks 3B sahne üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Create a cute ultra-detailed 3D miniature diorama of me stepping out of my Instagram profile page. Keep my real profile screenshot as the background UI. Add a mini realistic version of me from my reference photo — {argument name="hair and accessories" default="long wavy hair, sunglasses"}, {argument name="outfit" default="floral black dress"}, elegant pose — styled like a premium collectible doll. Surround with {argument name="decorations" default="flowers, candles, coffee mug, books, camera, laptop, sticky notes, and cozy aesthetic decor"}. Warm beige + blush pink tones, magical stars/hearts, cinematic lighting, luxury handcrafted miniature world, 9:16.
@@ -4260,7 +4260,7 @@ Create a cute ultra-detailed 3D miniature diorama of me stepping out of my Insta
 
 ## Freckled Woman Bathroom Mirror Selfie
 
-> Fotogerçekçi, sinematik portre üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, sinematik selfie fotoğrafı üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Photorealistic mirror selfie of a {argument name="subject" default="young woman in her early 20s with shoulder-length wavy auburn-red hair"}, fair skin covered in {argument name="features" default="natural freckles across her face, shoulders and arms"}, striking blue eyes, neutral expression with slightly parted lips, looking directly at the camera. She is wrapped in a thick white terrycloth towel around her chest, holding the towel securely with her left hand while her right hand holds up a black iPhone in a floral-patterned case with pink and white flowers. The setting is a {argument name="setting" default="luxurious modern bathroom with white marble walls and floors featuring subtle gray veining"}, a large glass-enclosed walk-in shower with a rain shower head and warm golden LED strip lighting along the ceiling and shelves, dark wood vanity with white countertop, modern chrome faucet, folded gray towels, and luxury toiletries on the counter. Soft warm ambient lighting creates a cozy and elegant atmosphere, high detail, sharp focus, natural skin texture, realistic water droplets on skin and hair, 8K resolution, cinematic composition, shot on iPhone, natural color grading
@@ -4276,7 +4276,7 @@ A photorealistic, professional cosplay portrait featuring {argument name="subjec
 
 ## Tropical Luxury Yacht Portrait
 
-> Minimal, lüks moda çekimi üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
+> Minimal, lüks portre üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 {\
@@ -4420,7 +4420,7 @@ A photorealistic, professional cosplay portrait featuring {argument name="subjec
 
 ## Luxury Hotel Elevator Portrait
 
-> Fotogerçekçi, sinematik logo üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, sinematik portre üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Use the {argument name="identity" default="uploaded reference image"} as the exact identity reference. Preserve the same face shape, eyes, nose, lips, beard, haircut, age, skin texture, facial proportions, and overall masculine identity. Do not redesign the face.\
@@ -4466,7 +4466,7 @@ Background: gold elevator interior, mirror reflections, soft luxury lighting, su
 
 ## Hyper-Realistic Cozy Café Scene
 
-> Fotogerçekçi, minimal logo üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, minimal sahne üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 A candid, hyper-realistic indoor café scene featuring a {argument name="subject" default="young woman sitting at a dark wooden table"}, facing forward behind an open silver laptop (Apple MacBook with glowing logo). She has fair skin, soft facial features, and light brown hair tied loosely in a messy bun with a few strands falling naturally around her face. She is wearing a {argument name="outfit" default="simple oversized dark gray sweatshirt"}, giving a relaxed and casual look.\
@@ -4503,7 +4503,7 @@ Style & quality:\
 
 ## Indian bridal look cinematic collage
 
-> Fotogerçekçi, sinematik portre üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, sinematik kolaj üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 ultra-realistic cinematic portrait of a young {argument name="ethnicity" default="Indian"} woman in warm golden hour sunlight, soft window light casting shadow patterns on face and background, {argument name="attire" default="traditional saree with black and gold border"}, oxidized jhumka earrings, detailed mehndi (henna) on hands, elegant bridal look, glowing dewy skin, soft natural makeup, glossy lips, loose hair strands with braided hairstyle, expressive eyes, gentle smile 3-panel vertical collage layout: top panel: side angle portrait, adjusting earring, soft sunlight on face middle panel: front portrait, looking at camera, hair slightly blowing across face bottom panel: close-up of hand with intricate mehndi and bangles photography style: DSLR, 85mm lens, f/1.8, shallow depth of field, soft focus, high dynamic range, warm tones, cinematic lighting, natural skin texture, ultra detailed, 4k, film grain, soft shadows, aesthetic Instagram style --ar 9:16 --style raw --q 2 --v 6.0
@@ -4511,7 +4511,7 @@ ultra-realistic cinematic portrait of a young {argument name="ethnicity" default
 
 ## Modern Bathroom Mirror Selfie
 
-> Fotogerçekçi, sinematik portre üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, sinematik selfie fotoğrafı üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Photorealistic mirror selfie of a {argument name="subject" default="young woman in her early 20s with shoulder-length wavy auburn-red hair"}, fair skin covered in natural freckles across her face, shoulders and arms, striking blue eyes, neutral expression with slightly parted lips, looking directly at the camera. She is {argument name="outfit" default="wrapped in a thick white terrycloth towel around her chest"}, holding the towel securely with her left hand while her right hand holds up a {argument name="phone case" default="black iPhone in a floral-patterned case with pink and white flowers"}. The setting is a luxurious modern bathroom with white marble walls and floors featuring subtle gray veining, a large glass-enclosed walk-in shower with a rain shower head and warm golden LED strip lighting along the ceiling and shelves, dark wood vanity with white countertop, modern chrome faucet, folded gray towels, and luxury toiletries on the counter. Soft warm ambient lighting creates a cozy and elegant atmosphere, high detail, sharp focus, natural skin texture, realistic water droplets on skin and hair, 8K resolution, cinematic composition, shot on iPhone, natural color grading
@@ -4528,7 +4528,7 @@ Ratio 3:4
 
 ## Gamer Girl Mirror Selfie
 
-> Minimal, fütüristik portre üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
+> Minimal, fütüristik selfie fotoğrafı üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 {
@@ -4589,7 +4589,7 @@ Ratio 3:4
 
 ## Neon Room Celebrity Selfie
 
-> Fotogerçekçi, fütüristik portre üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, fütüristik selfie fotoğrafı üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 {
@@ -4699,7 +4699,7 @@ Ratio 3:4
 
 ## Luxury Bedroom Selfie Portrait
 
-> Fotogerçekçi, sinematik portre üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, sinematik selfie fotoğrafı üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Ultra-realistic selfie portrait of a {argument name="subject" default="young woman"} standing sideways in a {argument name="location" default="modern luxury bedroom"}, Their faces must be a 100% exact match to the uploaded image. {argument name="hair style" default="long straight silky black hair"}, fair smooth skin, wearing a big figure fitted white t-shirt with subtle graphic print, playful wink expression with duck lips, soft confident attitude, arm extended holding phone for selfie, cinematic warm ambient lighting, LED strip lights behind bed, cozy hotel room aesthetic, blurred background, shallow depth of field, high detail skin texture, natural makeup, sharp facial features, soft shadows, symmetrical composition, realistic photography, DSLR quality, 85mm lens, f/1.8, vertical portrait, 4K ultra HD.
@@ -4707,7 +4707,7 @@ Ultra-realistic selfie portrait of a {argument name="subject" default="young wom
 
 ## Elevator Mirror Selfie with Book
 
-> Fotogerçekçi, minimal portre üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, minimal selfie fotoğrafı üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Ultra-realistic iPhone elevator mirror selfie, identity preserved exactly from reference image.
@@ -4743,7 +4743,7 @@ CREATE STYLISH YOUNG SLIMFIT WOMAN (FACE LIKE 100% UPLOAD IMAGE) WITH {argument 
 
 ## Frozen Lake Winter Selfie
 
-> Fotogerçekçi, lüks manzara üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, lüks selfie fotoğrafı üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 A young woman wearing a {argument name="clothing" default="black winter puffer jacket and a gray hoodie"} is taking a selfie on a frozen lake. Her hair must be exactly the same style as the original male reference — curly, dark brown, medium length, with the same texture and volume (not long). The face from the initially provided female reference photo must be preserved exactly without any distortion. Her face is partially hidden by the raised collar of her jacket, which she is holding with her left hand, and by dark sunglasses. On the left side of the frame, in the background, there is a {argument name="car model" default="black Mercedes-Benz CLS 63 AMG (W219)"} parked on the snow. The car is naturally covered with snow and frost. No license plate. The car is positioned facing away from the camera, and tire tracks are visible on the ice. The background shows a wide snowy lake landscape stretching to the horizon. The sky is fully covered with {argument name="weather" default="dense gray clouds"}; it's starting to get dark (post-sunset twilight). Photorealistic, cold tones, and natural lighting.
@@ -4775,7 +4775,7 @@ A young adult male sits confidently facing the camera, his weight comfortably sh
 
 ## Red Hair Denim Shorts Lifestyle Portrait
 
-> Fotogerçekçi, sinematik moda çekimi üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, sinematik portre üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 photorealistic portrait of a beautiful young woman in her early 20s with long, voluminous, wavy vibrant red hair cascading down her back and over her shoulders, fair smooth skin with subtle natural glow, bright blue eyes, soft friendly smile with closed lips, standing casually on a concrete sidewalk. She is posing confidently with her right arm raised and hand gently touching her hair, left arm relaxed by her side with fingers slightly curled. She wears a tight white strapless tube crop top that exposes her toned midriff and navel, paired with high-waisted light-wash blue denim shorts featuring distressed rips and frayed raw hems, showing her long smooth legs. She has a delicate silver ball-chain necklace with large bold capital letters spelling 'SADIE' centered on her chest, and multiple stacked pearl and gold beaded bracelets on her right wrist. Background shows a modern commercial building with large reflective glass windows, green ivy climbing the dark wall, lush green bushes in the foreground, a yellow fire hydrant to the right, and a parking lot with cars visible in the distance. Natural daylight, soft golden hour lighting with gentle shadows, highly detailed realistic skin texture, sharp focus, professional fashion photography style, 8k resolution, cinematic composition, vibrant colors, no text or watermarks
@@ -4783,7 +4783,7 @@ photorealistic portrait of a beautiful young woman in her early 20s with long, v
 
 ## Cinematic Late Night City Selfie
 
-> Sinematik portre üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Sinematik selfie fotoğrafı üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 A cinematic, high-detail mirror selfie of a young woman with {argument name="hair style" default="long, platinum blonde hair"}. She is wearing a {argument name="outfit" default="grey zip-up hoodie over a white t-shirt"}, posing with one hand near her chin while holding a black smartphone. The lighting is warm and dramatic, highlighting her sharp facial features and subtle makeup against a dark, nighttime background with soft bokeh city lights. The image has a moody, editorial aesthetic with a slight film grain texture.
@@ -4799,7 +4799,7 @@ A lifestyle photography prompt featuring a subject in a floral dress, utilizing 
 
 ## Florence Street Style Male Portrait
 
-> Retro, lüks mimari görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Retro, lüks portre üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 A male in his mid-30s stands center-left in a confident, medium waist-up pose, his body angled 45 degrees away from the camera to face the right. He features medium-length wavy hair meticulously styled into a pushed-back quiff with a subtle fade, complemented by a sharply groomed beard, while dark tortoiseshell sunglasses with amber-tinted lenses conceal his eyes as he looks off-camera. His posed expression is serious and composed, characterized by a closed mouth and neutral eyebrows. He is elegantly dressed in a heavy, dark espresso brown double-breasted overcoat worn over a true black ribbed turtleneck and black trousers, his shoulders kept perfectly level and structured by the thick wool. With his weight shifted slightly back, his right hand rests casually inside his front right trouser pocket. Anchoring the left foreground is a weathered, warm gray-tan stone parapet exhibiting a raw, matte finish heavily textured with natural pitting, scuffs, and a curved top edge. Beyond the subject, the midground opens up to the smooth, slate blue waters of the Arno River, reflecting the sky before receding into a deep, softly blurred background. Dominating this distant plane is a historic arched stone bridge lined with vintage yellow and ochre residential buildings, their small windows and classical architecture evoking the timeless essence of Florence. The scene is bathed in the golden, highly directional natural sunlight of late afternoon, emanating from a 45-degree front-left angle to strike with hard, bright intensity and slightly diffused edges. This single light source creates a dramatic, high-contrast atmosphere, carving deep black shadows into the intricate fabric folds of his coat, under his chin, and heavily across the right side of his face and torso. Perfectly placed specular highlights gleam across his left cheek, the bridge of his nose, the textured crown of his hair, the curvature of his sunglasses, and his left shoulder. The sophisticated, travel-inspired European mood is unified by a warm split-complementary palette of espresso, true black, amber, and slate blue. Rendered as a realistic digital photograph inspired by Pitti Uomo street style, the image is shot straight-on at eye level with a full-frame camera and an 85mm lens set to f/2.8, utilizing a fast 1/500s shutter speed at ISO 100 to ensure the subject is tack sharp against the smooth bokeh. Precise post-processing deepens the blacks, sharpens the facial and garment textures, and applies a subtle split tone that warms the highlights and cools the shadows, all beautifully framed in a 4:5 aspect ratio.
@@ -4807,7 +4807,7 @@ A male in his mid-30s stands center-left in a confident, medium waist-up pose, h
 
 ## Portrait with Fluffy Tabby Cat
 
-> Fotogerçekçi, sinematik manzara üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, sinematik portre üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 highly detailed photorealistic photograph of a beautiful young woman with {argument name="hair style" default="long straight dark brown hair"}, fair skin, subtle eye makeup and a soft genuine smile, sitting outdoors on a sunny patio and affectionately cradling a {argument name="cat description" default="large fluffy long-haired brown tabby cat"} in her arms. The cat has classic black and brown striped tabby pattern with lighter golden-beige fur on its belly and chest, striking green eyes, long white whiskers, and its pink tongue is slightly sticking out as if licking its lips. One of the cat's front paws rests on the woman's chest and shoulder. The woman wears a fitted low-cut gray tank top with bold black graphic text and design reading 'NOW', layered over a blue long-sleeved shirt, and dark pants. The scene is set on a modern patio with bright green artificial turf, a small wooden folding table to the left, white wall railing, and a stunning background of arid rocky desert mountains under a clear vivid blue sky. Bright natural daylight, sharp focus, intricate realistic textures on cat fur, hair, skin and clothing, professional photography style, 8k resolution, cinematic composition
@@ -4815,7 +4815,7 @@ highly detailed photorealistic photograph of a beautiful young woman with {argum
 
 ## Cosy Gamer Girl Room Aesthetic
 
-> Fütüristik görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Fütüristik kadın figürlü görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 A detailed prompt for a spontaneous lifestyle photo of a woman in an oversized plush pajama set within a cluttered, neon-lit streaming setup.
@@ -4831,7 +4831,7 @@ A professional portrait prompt for a businesswoman in an elegant suit within a p
 
 ## Glamour Selfie with Goya Backdrop
 
-> Fotogerçekçi, lüks portre üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, lüks selfie fotoğrafı üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 {"image_description": "A highly detailed, photorealistic close-up selfie of a beautiful young woman with fair skin, long wavy dark brown hair, and striking facial features with glossy pink lips and subtle makeup. She is wearing a white textured peasant-style top with a deep V-neckline, ruched fabric, and side lace-up ties. The photo is taken indoors in warm, dim lighting with soft shadows on her face and body. She looks directly at the camera with a confident expression and slightly parted lips.", "composition": "Close-up portrait selfie style, focusing on her face and upper body. Warm ambient indoor lighting with gentle highlights on skin and fabric.", "details": {"woman": "Attractive woman in her early 20s, long dark brown hair, fair skin, expressive eyes, glossy lips, natural glamorous makeup.", "clothing": "White ruched peasant blouse with deep V-neck and side lace-up ties, delicate thin necklace.", "environment": "Dimly lit indoor setting with neutral walls and warm lighting.", "props": "None prominent."}, "modifications": {"additions": ["Add a small, elegant embroidered sign reading 'Keor' in delicate cursive script on the visible border or edge of the white top (near the hem or lace-up side). Use fine white or metallic thread that blends naturally as a subtle custom detail.", "Transform the background into a luxurious, dimly lit room featuring a huge, dramatic Francisco Goya painting (in the style of his dark romantic works like 'Saturn Devouring His Son' or 'The Third of May 1808') as the dominant backdrop element. The large ornate-framed painting should cover most of the wall behind her, adding a moody, artistic, and slightly gothic atmosphere."]}, "style": "Photorealistic, high-resolution glamour selfie photography, warm intimate lighting, sharp focus on the woman with soft background depth, realistic skin texture and fabric details, cinematic mood.", "technical": {"resolution": "8K", "aspect_ratio": "portrait", "quality": "Extremely detailed hair strands, skin pores and glow, fabric texture on the white top, realistic lace-up ties, and high-fidelity reproduction of the Goya painting in the background."}, "full_prompt": "Photorealistic close-up selfie of a beautiful young woman with long dark brown hair wearing a white deep V-neck peasant blouse with lace-up sides, confident expression, warm dim indoor lighting, huge dramatic Francisco Goya painting as the main backdrop on the wall behind her, add subtle embroidered 'Keor' on the border of the white top --ar 2:3 --v 6 --q 2 --stylize 300"}
@@ -4839,7 +4839,7 @@ A professional portrait prompt for a businesswoman in an elegant suit within a p
 
 ## Hyper-Photorealistic Bedroom Flash Selfie
 
-> Fotogerçekçi, sinematik portre üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, sinematik selfie fotoğrafı üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 A hyper-photorealistic late-night bedroom flash selfie of the {argument name="subject" default="same subject in the attached reference image"}, preserving exact facial features, natural asymmetry, authentic proportions, and original facial identity without beautification or facial reinterpretation. SCENE: Subject sitting close to the phone camera in a {argument name="environment" default="dim bedroom at night"}, resting one cheek into her hand while looking directly into the lens with a relaxed soft gaze and naturally parted glossy lips. The moment should feel quiet, tired, and casually self-captured, like she paused while scrolling before sleep rather than posing for a beauty shot. CAMERA / SMARTPHONE LOGIC: Shot on an iPhone 15 Pro front camera using direct flash. Ultra-sharp smartphone rendering with subtle computational artifacts. No DSLR blur. No cinematic grading. Visible smartphone characteristics: direct flash flattening facial shadows and brightening nearby skin, minor edge sharpening around cap embroidery, lashes, hair strands, lips, and fingers, slight front-camera facial widening from close distance, tiny JPEG softness in dark curtain folds, slight highlight clipping on nose bridge, cheek, lips, and fingertips, noise reduction smoothing in shadow-heavy background areas, natural handheld framing with imperfect close crop. CANDID MOVEMENT: Subject should feel naturally paused mid-rest: cheek softly place at the palm, fingers slightly uneven against the face, lips naturally parted, cap sitting low and imperfect, hair strands falling randomly across cheeks and shoulders. Keep face sharp while allowing subtle softness on loose hair tips and curtain background. LIGHTING: Harsh compact phone flash mixed with dim bedroom ambient light. Foreground face and hand appear bright while curtains and bedding fall into dark muted shadows. SKIN / TEXTURE: Natural pale skin with visible pores, soft cheek warmth, realistic under-eye depth, glossy lip texture, and mild flash-induced smoothing on brightest areas. Preserve tactile realism instead of porcelain AI skin. HAIR / MAKEUP: Long dark slightly messy hair with wispy bangs and flyaways. Soft Korean-inspired makeup with glossy pink lips, subtle blush, thin eyeliner, defined lashes, natural brows, and faint aegyo-sal catching flash. OUTFIT / STYLING: {argument name="clothing" default="Black baseball cap with white embroidered logo, simple beige tank top straps"}, minimal jewelry. Styling should feel casual, private, and late-night rather than fashion-editorial. ENVIRONMENT: Dim bedroom with dark curtains, soft bedding, and shadow-heavy background. Space should feel quiet, personal, and lived-in without luxury studio polish. COMPOSITION: Close-up selfie framing with subject centered slightly low. Cap brim creates curved shadow geometry over forehead. Hand and forearm dominate lower center from close camera distance. Hair frames both sides of the face. Slightly imperfect spontaneous crop typical of private nighttime phone selfies.
@@ -4904,7 +4904,7 @@ A hyper-realistic, high-resolution portrait of a beautiful young woman with {arg
 
 ## Aesthetic Cafe Mirror Selfie Portrait
 
-> Fotogerçekçi, minimal portre üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, minimal selfie fotoğrafı üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 {
@@ -4954,7 +4954,7 @@ A hyper-realistic, high-resolution portrait of a beautiful young woman with {arg
 
 ## Girl in Yucatan Yukata
 
-> Görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Kadın figürlü görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 {argument name="character name" default="Yuka-tan"} in the {argument name="location" default="Yucatán"} Yukata kimono
@@ -4962,7 +4962,7 @@ A hyper-realistic, high-resolution portrait of a beautiful young woman with {arg
 
 ## Ultra Realistic 4K Square Portrait
 
-> Fotogerçekçi, sinematik moda çekimi üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, sinematik portre üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Ultra-realistic 4K square portrait, 1:1 aspect ratio. A striking {argument name="subject" default="young woman"} standing naturally and looking directly into the camera, confident yet relaxed expression. Highly detailed realistic skin texture with visible pores, subtle natural imperfections, soft peach-fuzz, lifelike eyes with sharp reflections, defined eyelashes, naturally shaped brows, soft glossy lips. Elegant {argument name="hair color" default="dark"} flowing hair with individual strands visible, gently moving as if caught by a light breeze. Cinematic soft natural lighting with realistic shadows and depth, premium editorial fashion photography style. Shot with a high-end full-frame camera, {argument name="lens" default="85mm"} portrait lens, shallow depth of field, crisp focus on eyes, creamy realistic background bokeh. Neutral refined outfit with modern minimal styling. Photorealistic color grading, ultra-detailed facial anatomy, realistic proportions, luxury magazine quality, no plastic skin, no artificial CGI look, no distortion, no extra fingers, no exaggerated beauty filter.
@@ -5042,7 +5042,7 @@ Style: ultra-realistic, high detail, natural skin texture, candid aesthetic, lif
 
 ## Cinematic Smoke Calligraphy Portrait
 
-> Fotogerçekçi, sinematik yemek görseli üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, sinematik portre üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Use my reference image as the primary identity lock and preserve my real facial identity, face shape, skin tone, hairstyle direction, and overall masculine appearance. Do not reinterpret the identity into an East Asian look or any other unintended ethnicity. Keep the character natural, realistic, and faithful to the reference. Create a cinematic ultra-realistic portrait of a young man shown in side profile, looking slightly upward, gently exhaling smoke from his lips. His appearance should feel natural, masculine, stylish, and realistic, with expressive brown eyes, subtle skin texture, and refined facial details. Keep the hairstyle short, slightly wavy, and naturally styled, with soft movement but without exaggerated fashion-editorial styling. The smoke should artistically form the words "{argument name="text" default="ErtanLabs ❤️"}" in elegant flowing calligraphy, with soft glowing edges and subtle delicate ornamental details blended into the smoke. The smoke text must be clearly readable, graceful, and visually integrated into the scene. Outfit: {argument name="clothing" default="a stylish modern satin shirt"} with elegant premium texture, layered in a subtle and masculine way. The clothing should feel fashionable, luxurious, and refined, without looking feminine or overly stylized. Lighting: {argument name="lighting style" default="warm cinematic lighting with reddish-pink tones"}, soft highlights on the face, gentle moody shadows, and a dreamy but realistic atmosphere. Background: a smooth minimal gradient in warm peach, rose, and deep red tones, clean and aesthetic, with no distracting elements. Add small glowing particles and a few softly floating petals around the subject for a magical and artistic effect, while keeping the overall composition tasteful and premium. Style: ultra-realistic, highly detailed, 4K, aesthetic Instagram vibe, soft glow, shallow depth of field, professional photography look, cinematic portrait, visually stunning, clean composition.
@@ -5058,7 +5058,7 @@ Use my reference image as the primary identity lock and preserve my real facial 
 
 ## Rugged Side-Profile Portrait with Vintage Eyewear
 
-> Sinematik, minimal mimari görsel üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
+> Sinematik, minimal portre üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 A high-resolution, cinematic side-profile portrait of a {argument name="subject" default="man"} in the uploaded image with a rugged, sophisticated aesthetic. He has thick, voluminous, messy dark hair with visible texture. His beard is dense and well-groomed. He is wearing distinctive {argument name="eyewear" default="vintage-inspired eyewear: translucent amber-colored acetate frames featuring a gold-metal flip-up mechanism with dark, circular sunglass lenses"}. He is dressed in a {argument name="clothing" default="heavy, navy blue ribbed-knit wool cardigan with a thick collar that frames his neck"}.
@@ -5067,7 +5067,7 @@ The lighting is soft and directional, likely from a studio softbox, creating gen
 
 ## Golden Hour SUV Selfie
 
-> Fotogerçekçi, sinematik logo üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, sinematik selfie fotoğrafı üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 {
@@ -5127,7 +5127,7 @@ A striking digital art portrait of a smiling woman seamlessly integrated into a 
 
 ## Cozy Indoor Sofa Portrait
 
-> Fotogerçekçi, sinematik moda çekimi üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, sinematik portre üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 {"image_prompt": {"subject": {"description": "Young woman with messy, wavy red hair, pale skin with light freckles, natural bare-faced look, bare shoulders.", "pose": "Sitting cross-legged on a textured gray sofa, tightly hugging a large, white, chevron-patterned textured pillow to her chest.", "expression": "Subtle, slightly melancholic or contemplative gaze looking directly at the camera."}, "environment": {"setting": "Cozy indoor living room.", "background_elements": "Window on the left with a small potted green plant on a wooden sill. A softly blurred bookshelf with books and dark blue accent pillows on the couch."}, "lighting": {"type": "Soft, diffused natural window light.", "direction": "Side lighting coming from the left window.", "mood": "Intimate, moody, and natural."}, "technical_specifications": {"camera": "Shot on 85mm lens, f/1.8 aperture.", "focus": "Shallow depth of field with sharp focus on the subject's eyes and the texture of the white pillow.", "aesthetic": "High-fashion editorial candid, photorealistic, highly detailed fabric and skin textures, cinematic color grading, 8k resolution."}, "combined_prompt": "Photorealistic editorial portrait of a young woman with messy wavy red hair and lightly freckled pale skin, natural look, bare shoulders. She is sitting cross-legged on a gray textured sofa, embracing a thick white chevron-patterned pillow. Cozy living room environment with soft, natural window daylight from the left, a potted plant on the windowsill, and a softly blurred bookshelf in the background. Shot on 85mm lens, f/1.8, shallow depth of field, highly detailed fabric and skin textures, moody and intimate cinematic lighting, 8k resolution."}}
@@ -5135,7 +5135,7 @@ A striking digital art portrait of a smiling woman seamlessly integrated into a 
 
 ## Surreal Monster Character Transformation
 
-> Görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Fantastik yaratık üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 {argument name="model" default="Viking Nishimura-san"} transformed into a {argument name="style" default="Caucasoid milky-white mass monster"}
@@ -5143,7 +5143,7 @@ A striking digital art portrait of a smiling woman seamlessly integrated into a 
 
 ## Realistic Outdoor Low Angle Sky Selfie
 
-> Portre üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Selfie fotoğrafı üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 A realistic outdoor low-angle smartphone selfie. The subject is a {argument name="subject" default="young adult Korean woman"} standing beneath a clear blue sky filled with large white clouds. The camera is positioned below her waist and angled upward, creating a strong wide-angle perspective. She looks down at the lens with a calm, detached, and relaxed expression, her lips slightly parted in a natural way, without an intentional smile. She has striking, refined beauty that effortlessly draws attention. Her hair is long and {argument name="hair color" default="light blonde"}, with thick bangs covering her forehead. A few loose strands are blown by the wind, catching subtle highlights in the sunlight. She has large double eyelids, a well-defined nose bridge, and slightly glossy lips. She is wearing a {argument name="outfit" default="light gray ribbed knit long-sleeve top"}, with one hand lifting the hem upward. The fabric forms realistic diagonal folds and layered bunching across the chest. The visual focus is on the close-up view of her abdomen, waistline, and the skin below the ribcage, while the lower edge of the chest is partially obscured by the clothing and camera angle. Her skin has a light warm tone, with peach-pink and golden highlights under strong natural sunlight. Visible details include realistic pores, a slight sheen of sweat, subtle navel detail, and soft natural skin texture, giving the impression of sun-warmed skin with a faintly moist surface. The edge of the clothing and the white earphone cable cast thin, hard-edged shadows across her abdomen. White wired earphones hang down from her ears, forming a large curved line in the foreground, with part of the cable passing across the abdominal area. Small silver earrings are also visible. The background contains only a bright blue sky, white clouds, thin cloud streaks, and a few distant dark specks, creating the feeling of a casual snapshot taken outdoors on a summer afternoon. The photography style is raw smartphone photography, a low-angle sky selfie, in a vertical 3:4 composition, shot with a smartphone wide-angle lens and a relatively deep depth of field, keeping the subject, hand, cable, and sky all mostly in clear focus.
@@ -5151,7 +5151,7 @@ A realistic outdoor low-angle smartphone selfie. The subject is a {argument name
 
 ## Soft Girl Selfie Portrait
 
-> Minimal afiş üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
+> Minimal selfie fotoğrafı üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 {
@@ -5357,7 +5357,7 @@ Charcoal-style portrait of a woman with {argument name="hair style" default="lon
 
 ## Urban Night Gas Station Portrait
 
-> Fotogerçekçi, sinematik moda çekimi üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, sinematik portre üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Ultra realistic photo of a young woman in the uploaded image at a gas station at night, holding the camera with one hand (arm visible in frame), slightly high angle selfie perspective, relaxed confident expression looking directly at the camera, natural unposed moment,
@@ -5378,7 +5378,7 @@ dirty lens, water droplets on lens, fingerprint smudge, slight blur, imperfect f
 
 ## Lavender Outfit Fine-Art Portrait
 
-> Fotogerçekçi, sinematik moda çekimi üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, sinematik portre üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 A stunning young woman with radiant skin and wide sparkling eyes, long flowing hair catching soft light. Delicate features with a faint innocent smile. Wearing a {argument name="outfit color" default="sheer lavender"} outfit. {argument name="background" default="Misty pastel background with diffused glow"}, dreamy cinematic lighting, ultra-realistic, fine-art fashion portrait, high detail.
@@ -5386,7 +5386,7 @@ A stunning young woman with radiant skin and wide sparkling eyes, long flowing h
 
 ## Kawaii Café Pigtails Portrait
 
-> Minimal mimari görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Minimal portre üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 High-quality cute portrait photo of a {argument name="subject" default="young girl"} sitting in a cozy café, captured in a bright soft-flash lighting style. Main subject (girl): • Cute youthful face, fair flawless skin • Soft glam natural makeup with pink blush • One eye winking playfully, small smile • Two neat black braided pigtails • Wearing an oversized {argument name="hat" default="blue plush mouse hat"} with huge round ears, pink ear lining, and a tiny pink nose • Holding both sides of the hat with her hands lifted up Outfit:• {argument name="outfit" default="pastel striped knit zip-up cardigan"} • Colors: baby blue, soft yellow, pale pink, white stripes • Light blue collar visible under the cardigan • Cozy, soft texture, slightly oversized sleeves Pose: • Sitting front-facing • Playful expression, slight head tilt • Both hands pulling the long sides of the mouse hat outward Café background: • Minimalist bright café interior • Glass display case with pastries • Menu board on the wall (blurred) • Plants adding cozy vibes• Warm ambient lighting with clean white tones • Slight depth-of-field blur Table elements: • Blue tray in front of her • Small slice of layered pastel cake (pink + white + blue) with strawberry on top • Glass of drink with whipped topping and a cherry inside • Fork and spoon next to the plate Lighting & Camera: • Soft flash photography with bright highlights • Slight overexposed glow on skin for cute aesthetic • 3:4 vertical composition • Clean, crisp texture with pastel tones dominant• No harsh shadows • Kawaii café snapshot vibe Aesthetic: Cute pastel, cozy café girl, playful expression, soft flash, colorful and happy atmosphere.
@@ -5510,7 +5510,7 @@ Background softly blurred with warm amber tones, shallow depth of field, dramati
 
 ## Y2K Rooftop Party Candid Photo
 
-> Fotogerçekçi, minimal görsel üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, minimal fotoğraf üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 use the {argument name="reference" default="uploaded image"} as a strict reference for the woman's face, body, and overall identity. preserve her exact facial features, proportions, figure, natural skin tone, used reference image hair color, and overall presence with no alterations. she must look like the same woman from the reference image.
@@ -5520,7 +5520,7 @@ ultra realistic, photorealistic, raw iphone photo, candid {argument name="settin
 
 ## Realistic Mirror Selfie in Pink Crop Top
 
-> Fotogerçekçi, minimal portre üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, minimal selfie fotoğrafı üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 {
@@ -5692,7 +5692,7 @@ A hyper-realistic charcoal and graphite portrait of a handsome man with {argumen
 
 ## Modern Office Hijab Selfie
 
-> Fotogerçekçi, retro logo üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Fotogerçekçi, retro selfie fotoğrafı üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 A high-angle selfie of a {argument name="subject" default="young woman wearing a black hijab"}, posing casually inside a {argument name="setting" default="modern office environment"}. She is wearing round sunglasses with thin frames. Her facial expression shows a playful duck face (pout lips), giving a cute, slightly flirty and soft vibe.
