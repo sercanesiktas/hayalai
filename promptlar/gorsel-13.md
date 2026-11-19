@@ -1822,7 +1822,7 @@ Ultra-realistic portrait of a {argument name="subject" default="young woman with
 
 ## Assorted Ice Cream Flavors Grid
 
-> Illüstrasyon üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> İllüstrasyon üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 {
@@ -2476,7 +2476,7 @@ Quality: hyper-realistic, photorealistic skin texture, visible beard
 
 > Sinematik, minimal moda çekimi üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
-```
+````
 A captivating sunlit portrait capturing the essence of a serene summer afternoon. The subject exudes quiet confidence, adorned in a striking animal-print halter piece that contrasts beautifully against the soft, cool tones of a light blue outdoor lounge. Delicate ink rests gently on the skin, adding a layer of personal narrative to the visual composition. Sunlight cascades naturally, highlighting face-framing strands and casting subtle, dimensional shadows. The atmosphere blends casual elegance with a vibrant, sunkissed warmth, inviting viewers into a moment of perfect tranquility.
 ```json
 {
@@ -2500,7 +2500,7 @@ A captivating sunlit portrait capturing the essence of a serene summer afternoon
     "lens_feel": "Medium-wide focal length providing a natural perspective with a beautifully smooth, optically pleasing shallow depth of field for subject isolation."
   }
 }
-```
+````
 
 ## Chic Fashion Magazine Collage
 
@@ -3188,7 +3188,7 @@ A photorealistic portrait of a beautiful, young woman with long, wavy dark hair,
 
 > Retro, lüks moda çekimi üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
-```
+````
 A striking figure radiates summer elegance, lounging on a {argument name="location" default="pristine white sand beach"} under a brilliant blue sky. She is wearing a {argument name="outfit" default="vibrant, ribbed crimson one-piece swimsuit"} with a deep v-neckline, beautifully contrasting against the bright coastal backdrop. Golden accessories, including delicate layered charm necklaces, classic hoop earrings, and a dainty star-studded anklet, catch the intense midday sun. Her sleek platinum blonde hair is parted down the middle, framing a compelling, sun-kissed expression. Seated confidently on a white mesh lounge chair, she holds a vintage orange camera, adding a playful retro touch to the scene. The background opens up to a turquoise ocean horizon and large white beach umbrellas that softly diffuse the tropical light. The composition features sharp contrasts and saturated primary tones, evoking a premium lifestyle aesthetic filled with sun, sand, and high-fashion leisure.
 
 ```json
@@ -3213,7 +3213,7 @@ A striking figure radiates summer elegance, lounging on a {argument name="locati
     "lens_feel": "Sharp telephoto perspective offering a compressed background with realistic, gentle depth isolation"
   }
 }
-```
+````
 
 ## Minimalist Profile Line Art
 

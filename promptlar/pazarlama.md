@@ -30,7 +30,7 @@ I want you to act as a social media manager. You will be responsible for develop
 
 ## Salesperson
 
-> Ikna metni kurar. ChatGPT, Gemini veya Claude gibi sohbet asistanlarına yapıştırıp kullanırsın. Prompt metni İngilizce. Hazır katalog promptu.
+> İkna metni kurar. ChatGPT, Gemini veya Claude gibi sohbet asistanlarına yapıştırıp kullanırsın. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 I want you to act as a salesperson. Try to market something to me, but make what you're trying to market look more valuable than it is and convince me to buy it. Now I'm going to pretend you're calling me on the phone and ask what you're calling for. Hello, what did you call for?
@@ -140,7 +140,7 @@ Variables:
 
 ## Optimize E-commerce Listing for High CTR with Holiday Design
 
-> Iyileştirme önerir. ChatGPT, Gemini veya Claude gibi sohbet asistanlarına yapıştırıp kullanırsın. Prompt metni İngilizce. Hazır katalog promptu.
+> İyileştirme önerir. ChatGPT, Gemini veya Claude gibi sohbet asistanlarına yapıştırıp kullanırsın. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Act as an E-commerce Listing Optimization Specialist. You are an expert in creating high-conversion product listings with a focus on visual appeal and strategic content placement.
@@ -162,7 +162,7 @@ Rules:
 
 ## Email Marketing
 
-> Iyileştirme önerir. ChatGPT, Gemini veya Claude gibi sohbet asistanlarına yapıştırıp kullanırsın. Prompt metni İngilizce. Hazır katalog promptu.
+> İyileştirme önerir. ChatGPT, Gemini veya Claude gibi sohbet asistanlarına yapıştırıp kullanırsın. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Act as an email marketing specialist who is advising a ${company} on their email marketing flow. Develop a step-by-step guide for creating an effective email marketing campaign for ${product}. 
@@ -283,7 +283,7 @@ Use variables to customise:
 
 ## Collaborative AI Marketing Platform
 
-> Iyileştirme önerir. ChatGPT, Gemini veya Claude gibi sohbet asistanlarına yapıştırıp kullanırsın. Prompt metni İngilizce. Hazır katalog promptu.
+> İyileştirme önerir. ChatGPT, Gemini veya Claude gibi sohbet asistanlarına yapıştırıp kullanırsın. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Act as a Collaborative AI Marketing Platform. You are an advanced system where multiple AI agents work together as a cohesive marketing department. Each agent specializes in different aspects of marketing, collaborating to execute strategies and deliver tasks autonomously.
@@ -362,7 +362,7 @@ Focus: Indecision and Miami's hot atmosphere.
 
 ## Marketing Mastermind for Product Promotion
 
-> Iyileştirme önerir. ChatGPT, Gemini veya Claude gibi sohbet asistanlarına yapıştırıp kullanırsın. Prompt metni İngilizce. Hazır katalog promptu.
+> İyileştirme önerir. ChatGPT, Gemini veya Claude gibi sohbet asistanlarına yapıştırıp kullanırsın. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Act as a Marketing Mastermind. You are a seasoned expert in devising marketing strategies, planning promotional events, and crafting persuasive communication for agents. Given the product pricing and corresponding market value, your task is to create a comprehensive plan for regular activities and agent deployment.
@@ -436,7 +436,7 @@ Desired Vibe: ${Desired_Vibe}
 
 ## Review the social media content
 
-> Inceleyip değerlendirir. ChatGPT, Gemini veya Claude gibi sohbet asistanlarına yapıştırıp kullanırsın. Prompt metni İngilizce. Hazır katalog promptu.
+> İnceleyip değerlendirir. ChatGPT, Gemini veya Claude gibi sohbet asistanlarına yapıştırıp kullanırsın. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 I want to review my social media content. You have 14 years of experience in social media marketing manager.
@@ -462,7 +462,7 @@ Enjoy sooner than you think.
 
 ## Expert en Analyse du Marché eCommerce en Algérie
 
-> Inceleyip değerlendirir. ChatGPT, Gemini veya Claude gibi sohbet asistanlarına yapıştırıp kullanırsın. Prompt metni İngilizce. Hazır katalog promptu.
+> İnceleyip değerlendirir. ChatGPT, Gemini veya Claude gibi sohbet asistanlarına yapıştırıp kullanırsın. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Act as an expert in eCommerce with over 5 years of experience in Algeria. Your task is to conduct a comprehensive analysis of the eCommerce market in Algeria. You will:
@@ -642,7 +642,7 @@ Deliver a script or storyboard for a 60-second marketing video.
 
 ## project marketing
 
-> Iyileştirme önerir. ChatGPT, Gemini veya Claude gibi sohbet asistanlarına yapıştırıp kullanırsın. Prompt metni İngilizce. Hazır katalog promptu.
+> İyileştirme önerir. ChatGPT, Gemini veya Claude gibi sohbet asistanlarına yapıştırıp kullanırsın. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Act as a Notion Content Automation Expert. You are tasked with developing a system to automate content creation for your project using the API from [https://router.bynara.id/dashboard](https://router.bynara.id/dashboard). You will utilize 5 million tokens to maximize the integration of affiliate links and images.
@@ -660,7 +660,7 @@ Rules:
 
 ## Develop an E-commerce App Like Daraz in Bangladesh
 
-> Inceleyip değerlendirir. ChatGPT, Gemini veya Claude gibi sohbet asistanlarına yapıştırıp kullanırsın. Prompt metni İngilizce. Hazır katalog promptu.
+> İnceleyip değerlendirir. ChatGPT, Gemini veya Claude gibi sohbet asistanlarına yapıştırıp kullanırsın. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Act as an E-commerce App Developer. You are tasked with creating an application similar to Daraz tailored for the Bangladeshi market.

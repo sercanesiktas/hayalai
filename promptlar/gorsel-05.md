@@ -963,7 +963,7 @@ FAMG-002 Belthiera
 
 ## Breaking Bad Collectible Figurine Prompt with Reference Image
 
-> Illüstrasyon üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
+> İllüstrasyon üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Create a 1/7 scale commercialized figurine of the person in the picture, in a realistic style, in a cozy artisan workshop environment. The figurine is placed on a wooden workbench. The figurine has a round transparent acrylic base, with no text on the base. The content on the computer screen is the Zbrush modeling process of this figurine. Next to it is a BANDAI-style toy packaging box printed with the original artwork. The packaging features two-dimensional flat illustrations.
@@ -1127,7 +1127,7 @@ Aspect Ratio: ar 16:9
 
 ## Cartoon Character Design Sheet with Personality
 
-> Illüstrasyon üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
+> İllüstrasyon üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 create a cartoon character design sheet from this image
@@ -1257,7 +1257,7 @@ A cartoonish ({argument name="animal name" default="Animal Name"}) in pixelated 
 
 ## Ghibli-Inspired Character Turnaround
 
-> Illüstrasyon üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
+> İllüstrasyon üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 use the character turnaround format from [img1] to create {argument name="character description" default="[character name / image]"} in the same style
@@ -1297,7 +1297,7 @@ A cinematic, full-body shot of a battle-worn knight in detailed steel plate armo
 
 ## Stylized Grid of Whimsical Cat Faces
 
-> Illüstrasyon üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> İllüstrasyon üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 A grid of twelve stylized cat faces, arranged in four rows and three columns, fills the frame. Each cat face is distinct, featuring a unique color palette and decorative elements. The cats have large, round eyes, small noses, and prominent whiskers. Some wear floral accessories, bows, or other playful adornments on their heads. The overall style is whimsical and childlike, with bold outlines and flat colors, reminiscent of children's book illustrations or stickers. The background is a plain white, making the colorful cat faces stand out.
@@ -1500,7 +1500,7 @@ Fantastical style
 
 ## Looney Tunes Character Transformation
 
-> Illüstrasyon üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
+> İllüstrasyon üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Create a stylized 2D cartoon illustration inspired by classic Looney Tunes animation. Preserve exact facial likeness and clothing while adapting the character with oversized expressive eyes, bold outlines, and playful squash-and-stretch proportions.
@@ -1794,7 +1794,7 @@ an adorable kawaii cartoon great white shark with big sparkling eyes holding a s
 
 ## Cartoon Tiki Statue Prompt for Nano Banana 2
 
-> Illüstrasyon üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> İllüstrasyon üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 A wooden tiki statue with a carved, smiling face and intricate details is depicted against a tropical background. The tiki is wearing a vibrant orange and pink Hawaiian shirt adorned with white hibiscus flowers. In its right hand, it holds a red cocktail garnished with a slice of orange, a cherry, and a small umbrella. The tiki's left hand is raised in a thumbs-up gesture. The overall style is illustrative and cartoonish, with a textured appearance suggesting wood grain.
@@ -2153,7 +2153,7 @@ Negative Prompt: humans, people, overcrowded scene, dense environment, too many 
 
 ## Chibi Anime Girl Sticker Sheet
 
-> Illüstrasyon üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> İllüstrasyon üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 A sticker sheet of a cute anime chibi girl with long brown hair and a white sweater, multiple poses and facial expressions (happy, angry, crying, sleeping), white border around each character, flat 2D vector style, high resolution, white background
@@ -2753,7 +2753,7 @@ VS Griever
 
 ## Generating Pokémon Zukan (Illustrated Guide) Style Art
 
-> Illüstrasyon üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
+> İllüstrasyon üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Referencing this character, generate a Pokémon Zukan-style illustration. The Zukan No. is {argument name="Zukan Number" default="[Enter Zukan No.]"}. The background is white. The Zukan description text is {argument name="Description Text" default="[Enter description text]"}. Reproduce the Zukan layout and design.
@@ -3267,7 +3267,7 @@ A young woman wearing a sleek, form-fitting yellow and black crystal-clear spide
 
 ## Reimagine Photo in Minecraft Cave
 
-> Illüstrasyon üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
+> İllüstrasyon üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Reimagine me inside a glowing Minecraft cave, standing with one arm raised while a cubical bat hangs upside down above my hand
@@ -4646,7 +4646,7 @@ Negative: [organic gore, realism, asymmetry]::-1
 
 ## Inflatable Character Creation Prompt
 
-> Illüstrasyon üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> İllüstrasyon üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Create inflatable characters using this prompt
@@ -4656,9 +4656,9 @@ Create inflatable characters using this prompt
 
 > Görsel üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
 
-```
+````
 ``python def disintegrate(Subject): Direction = "{argument name="disintegration direction" default="Left to Right"}" Wind_Speed = "{argument name="wind speed" default="100 km/h"}" Particle_Type = "{argument name="particle type" default="Black Volcanic Ash and Embers"}" >Execution Left_Side_of_Subject = "Solid, Intact" Center_of_Subject = "Cracking, glowing cracks" Right_Side_of_Subject = "Fully dispersed into particle cloud" return Render(Motion_Blur=True, Glow=True) ```  Instruction:  Preserve the exact pose of [UPLOADED_IMAGE], but apply the `disintegrate()` function described above.
-```
+````
 
 ## Vast Open-World Game Environment Generator
 
@@ -5873,7 +5873,7 @@ A high-quality 3D render of a cute young boy riding an orange electric scooter n
 
 ## Anime Character to 3DCG Figure Prompt
 
-> Illüstrasyon üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
+> İllüstrasyon üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Take the character image from the anime's official website and give it to Nano Banana Pro.
@@ -6909,7 +6909,7 @@ Design a highly realistic, miniature full-body isometric figurine of this person
 
 ## Character Expression Sheet Generation (Anime Style)
 
-> Illüstrasyon üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
+> İllüstrasyon üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Create an expression variation sheet as a single image based on the character in the attached reference image.
@@ -7058,7 +7058,7 @@ The background is moderately blurred with depth of field, and the composition hi
 
 ## Anatomy Visualization Prompt Template (Great White Shark Example)
 
-> Illüstrasyon üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> İllüstrasyon üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 A digital illustration of a {argument name="subject" default="great white shark"} in {argument name="action/state" default="mid-hunting approach"}, portrayed with a network of glowing {argument name="primary color" default="cold bioluminescent blue"} lines mapping its {argument name="system type" default="sensory and predatory anatomy"}. The cartilaginous skeleton is rendered as flexible geometric framework, the lateral line system as a full-body motion detector array. The image is set against abyssal ocean black, depth pressure readings floating at the margins. The {argument name="area of interest" default="ampullae of Lorenzini, hundreds of electroreceptor pores clustered on the snout"}, are emphasized with a pulsing {argument name="accent color" default="red-orange"} glow, indicating {argument name="condition" default="active electromagnetic detection: the prey's heartbeat rendered as intercepted signal waves feeding into the shark's targeting consciousness"}. The teeth are visualized as serrated replacement queues. The style merges marine biology research documentation with military targeting system aesthetics, designed to resemble a naval analysis of nature's most refined predator, clinically respectful of four hundred million years of evolution.
@@ -7066,7 +7066,7 @@ A digital illustration of a {argument name="subject" default="great white shark"
 
 ## Generating Siblings Based on a Reference Character
 
-> Illüstrasyon üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
+> İllüstrasyon üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 This is a Nano Banana Pro prompt for generating siblings of a character based on a reference illustration.
@@ -7358,7 +7358,7 @@ Output: Photorealistic 3D Render, 8k, Highly Detailed Textures (Carbon Fiber, Br
 
 ## Precure Transformation Design System Prompt
 
-> Illüstrasyon üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
+> İllüstrasyon üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 # Your Role

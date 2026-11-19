@@ -102,7 +102,7 @@ Output: ONE image, high-fidelity transformation.
 
 ## Anime Coloring Study: Flat Anime Style with Directional Light
 
-> Illüstrasyon üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> İllüstrasyon üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 * Color
@@ -140,7 +140,7 @@ Output: ONE image, high-fidelity transformation.
 
 ## Nanobanana Pro Deformed Character Generation
 
-> Illüstrasyon üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
+> İllüstrasyon üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Change the character in the reference image to a deformed character illustration. Have the character take various poses within a single image. The background is white.
@@ -472,7 +472,7 @@ Participation screen prompt
 
 ## Devilman Anime Keyframe in 3DCG Style
 
-> Illüstrasyon üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
+> İllüstrasyon üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Create the anime character in the image in a realistic 3DCG style.
@@ -590,7 +590,7 @@ A 360 turnaround view of the subject in (@)img1 , straight in 4 different angles
 
 ## Fortnite Fusion Engine Prompt for Gamers
 
-> Illüstrasyon üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> İllüstrasyon üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 “With Fortnite Fusion Engine, you can merge low-poly survival style, cel-shaded anime skins, and hyper-real battle characters instantly. Here, a low-poly soldier, an anime ninja, and a realistic mercenary all team up on one floating island.”
@@ -1239,7 +1239,7 @@ Create a sprite sheet for a 2D NES platforming game, including enemies and NPCs.
 
 ## Yu-Gi-Oh magic card from text theme
 
-> Illüstrasyon üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> İllüstrasyon üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Design a Yu‑Gi‑Oh! magic card. Draw the illustration in the style of official Yu‑Gi‑Oh! artwork, making it appealing. The theme of the card is "{argument name="card_theme_en" default="Bitcoin crash"}." Write the description in Japanese, and do not use furigana or ruby text. The outer background of the card should be white.
@@ -1550,7 +1550,7 @@ hard-coded Southern Hemisphere, fixed breakfasts, fixed foods, fixed countries, 
 
 ## Whimsical Coloring Page Illustration
 
-> Illüstrasyon üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> İllüstrasyon üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 A black and white line drawing features the text "{argument name="quote" default="DOING MY BEST RESULTS MAY VARY"}" in large, bold, bubble-style lettering. The text is surrounded by various cute and whimsical elements, including smiling stars, a cat face, clouds, daisies, hearts, cupcakes, a boba tea, and sparkly starbursts. The overall composition is dense and playful, designed as a coloring page.
@@ -1599,7 +1599,7 @@ A close-up, eye-level shot captures a {argument name="animal type" default="Euro
 
 ## Realistic Dodo Bird Illustration
 
-> Illüstrasyon üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> İllüstrasyon üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 a {argument name="bird species" default="dodo bird"}. Its body is plump and rounded, covered in {argument name="feather colors" default="dark gray and brown feathers"} with lighter, intricate patterns. The bird's legs and feet are visible, with scaly skin and sharp claws. The head is a lighter gray, with a prominent, curved beak that has a {argument name="beak texture" default="cracked texture"}.
@@ -2504,7 +2504,7 @@ Mood: Audubon illustration meets Caravaggio meets the most beautiful science pho
 
 ## Template for generating a fictional textbook page
 
-> Illüstrasyon üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> İllüstrasyon üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Create a page from a textbook on "{argument name="subject" default="Biology"}" used in a school in a "{argument name="worldview" default="Fantasy World"}".
@@ -3698,7 +3698,7 @@ Generate a high quality infographic explaining beer making in a Trappist Abbey w
 
 ## Generating a Butterfly Image with Selective Iridescence
 
-> Illüstrasyon üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> İllüstrasyon üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Comparison of the front and back of a mounted specimen of a male {argument name="butterfly species" default="Atrophaneura alcinous"} spring form. The information in this illustration shows that the structural color on the left and the {argument name="color" default="matte brown"} on the right are the same butterfly. When you write 'iridescent' to the AI, everything shines. The job of the prompt is to specify 'this part shines, this part does not shine'.
@@ -3706,7 +3706,7 @@ Comparison of the front and back of a mounted specimen of a male {argument name=
 
 ## Precise Natural History Illustration Prompt: Chinese Peacock Butterfly
 
-> Illüstrasyon üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> İllüstrasyon üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 {argument name="subject" default="Male Chinese Peacock Butterfly (spring form)"} × {argument name="flower" default="Rhododendron"} — structural color gradient of the wings, yellow lateral stripe of the abdomen, nectar spot pattern of the petals
@@ -4803,7 +4803,7 @@ No watermark
 
 > Minimal bilgi grafiği üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
-```
+````
 Illustrate this article
 ```
 ({argument name="article text" default="Paste the article text you want to illustrate"})
@@ -4817,7 +4817,7 @@ There is no messiness; the "chaos" comes from the sheer overwhelming volume of o
 
 Style: Technical diagram, neat handwriting, information visualization, minimalist background.
 Quality: High definition, distinct Japanese text.
-```
+````
 
 ## Technical Infographic Overlay on a Photorealistic Object
 
@@ -5117,7 +5117,7 @@ Just enter the information and press the 'Slide Document' button, and a slide li
 
 ## Scientific field researcher's documentation board prompt
 
-> Illüstrasyon üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> İllüstrasyon üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 A field researcher's documentation board for {argument name="animal or plant" default="[ANIMAL / PLANT / ORGANISM]"} — {argument name="scientific name" default="[SCIENTIFIC NAME / HABITAT]"}. Left section: scientific illustration showing anatomical details, life-cycle stages, or seasonal variation, with measurement scales and taxonomic classification. Center section: ecological context map showing range, habitat preferences, predator-prey relationships, and conservation status indicators. Right section: the subject in its natural habitat, captured in a decisive moment, behavior visible, environment authentic, the data made alive. Visual style transitions from specimen-drawer clinical through cartographic neutrals to National Geographic field photography. Title block reading "{argument name="common name" default="[COMMON NAME]"} — [SCIENTIFIC NAME], [CONSERVATION STATUS], FIELD STUDY [YEAR]".

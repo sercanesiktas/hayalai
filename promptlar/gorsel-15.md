@@ -6667,7 +6667,7 @@ A hyper-realistic wide nighttime photograph of a young model standing alone insi
 
 > Minimal, lüks moda çekimi üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
 
-```
+````
 {
 "generation_request": {
 "meta_data": {
@@ -6750,7 +6750,7 @@ A hyper-realistic wide nighttime photograph of a young model standing alone insi
 ```
 
 }
-```
+````
 
 ## 9-Panel Fashion Variation Grid Prompt: Black Wrap Tops
 

@@ -8582,7 +8582,7 @@ Create an image of an attractive woman wearing a light blue athletic gym outfit,
 
 ## Nano Banana 2 vs Pro Comparison (Character Art)
 
-> Illüstrasyon üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
+> İllüstrasyon üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Specify only the direction for the costume and posing, allowing for freedom.

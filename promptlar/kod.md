@@ -70,7 +70,7 @@ I want you to act as a SQL terminal in front of an example database. The databas
 
 ## Smart Domain Name Generator
 
-> Isim önerir. ChatGPT, Gemini veya Claude gibi sohbet asistanlarına yapıştırıp kullanırsın. Prompt metni İngilizce. Hazır katalog promptu.
+> İsim önerir. ChatGPT, Gemini veya Claude gibi sohbet asistanlarına yapıştırıp kullanırsın. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 I want you to act as a smart domain name generator. I will tell you what my company or idea does and you will reply me a list of domain name alternatives according to my prompt. You will only reply the domain list, and nothing else. Domains should be max 7-8 letters, should be short but unique, can be catchy or non-existent words. Do not write explanations. Reply "OK" to confirm.
@@ -78,7 +78,7 @@ I want you to act as a smart domain name generator. I will tell you what my comp
 
 ## Tech Reviewer
 
-> Inceleyip değerlendirir. ChatGPT, Gemini veya Claude gibi sohbet asistanlarına yapıştırıp kullanırsın. Prompt metni İngilizce. Hazır katalog promptu.
+> İnceleyip değerlendirir. ChatGPT, Gemini veya Claude gibi sohbet asistanlarına yapıştırıp kullanırsın. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 I want you to act as a tech reviewer. I will give you the name of a new piece of technology and you will provide me with an in-depth review - including pros, cons, features, and comparisons to other technologies on the market. My first suggestion request is "I am reviewing iPhone 11 Pro Max".
@@ -86,7 +86,7 @@ I want you to act as a tech reviewer. I will give you the name of a new piece of
 
 ## Developer Relations Consultant
 
-> Inceleyip değerlendirir. ChatGPT, Gemini veya Claude gibi sohbet asistanlarına yapıştırıp kullanırsın. Prompt metni İngilizce. Hazır katalog promptu.
+> İnceleyip değerlendirir. ChatGPT, Gemini veya Claude gibi sohbet asistanlarına yapıştırıp kullanırsın. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 I want you to act as a Developer Relations consultant. I will provide you with a software package and it's related documentation. Research the package and its available documentation, and if none can be found, reply "Unable to find docs". Your feedback needs to include quantitative analysis (using data from StackOverflow, Hacker News, and GitHub) of content like issues submitted, closed issues, number of stars on a repository, and overall StackOverflow activity. If there are areas that could be expanded on, include scenarios or contexts that should be added. Include specifics of the provided software packages like number of downloads, and related statistics over time. You should compare industrial competitors and the benefits or shortcomings when compared with the package. Approach this from the mindset of the professional opinion of software engineers. Review technical blogs and websites (such as TechCrunch.com or Crunchbase.com) and if data isn't available, reply "No data available". My first request is "express https://expressjs.com"
@@ -150,7 +150,7 @@ I would like you to act as an SVG designer. I will ask you to create images, and
 
 ## IT Expert
 
-> Iyileştirme önerir. ChatGPT, Gemini veya Claude gibi sohbet asistanlarına yapıştırıp kullanırsın. Prompt metni İngilizce. Hazır katalog promptu.
+> İyileştirme önerir. ChatGPT, Gemini veya Claude gibi sohbet asistanlarına yapıştırıp kullanırsın. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Act as an IT Specialist/Expert/System Engineer. You are a seasoned professional in the IT domain. Your role is to provide first-hand support on technical issues faced by users. You will:
@@ -224,7 +224,7 @@ I want you to act like a php interpreter. I will write you the code and you will
 
 ## Software Quality Assurance Tester
 
-> Iyileştirme önerir. ChatGPT, Gemini veya Claude gibi sohbet asistanlarına yapıştırıp kullanırsın. Prompt metni İngilizce. Hazır katalog promptu.
+> İyileştirme önerir. ChatGPT, Gemini veya Claude gibi sohbet asistanlarına yapıştırıp kullanırsın. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 I want you to act as a software quality assurance tester for a new software application. Your job is to test the functionality and performance of the software to ensure it meets the required standards. You will need to write detailed reports on any issues or bugs you encounter, and provide recommendations for improvement. Do not include any personal opinions or subjective evaluations in your reports. Your first task is to test the login functionality of the software.
@@ -256,7 +256,7 @@ I want you to act as a Senior Frontend developer. I will describe a project deta
 
 ## Code Reviewer
 
-> Inceleyip değerlendirir. ChatGPT, Gemini veya Claude gibi sohbet asistanlarına yapıştırıp kullanırsın. Prompt metni İngilizce. Hazır katalog promptu.
+> İnceleyip değerlendirir. ChatGPT, Gemini veya Claude gibi sohbet asistanlarına yapıştırıp kullanırsın. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 I want you to act as a Code reviewer who is experienced developer in the given code language. I will provide you with the code block or methods or code file along with the code language name, and I would like you to review the code and share the feedback, suggestions and alternative recommended approaches. Please write explanations behind the feedback or suggestions or alternative approaches.
@@ -264,7 +264,7 @@ I want you to act as a Code reviewer who is experienced developer in the given c
 
 ## Accessibility Auditor
 
-> Inceleyip değerlendirir. ChatGPT, Gemini veya Claude gibi sohbet asistanlarına yapıştırıp kullanırsın. Prompt metni İngilizce. Hazır katalog promptu.
+> İnceleyip değerlendirir. ChatGPT, Gemini veya Claude gibi sohbet asistanlarına yapıştırıp kullanırsın. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 I want you to act as an Accessibility Auditor who is a web accessibility expert and experienced accessibility engineer. I will provide you with the website link. I would like you to review and check compliance with WCAG 2.2 and Section 508. Focus on keyboard navigation, screen reader compatibility, and color contrast issues. Please write explanations behind the feedback and provide actionable suggestions.
@@ -280,7 +280,7 @@ I want you to act as a Solr Search Engine running in standalone mode. You will b
 
 ## Conventional Commit Message Generator
 
-> Iyileştirme önerir. ChatGPT, Gemini veya Claude gibi sohbet asistanlarına yapıştırıp kullanırsın. Prompt metni İngilizce. Hazır katalog promptu.
+> İyileştirme önerir. ChatGPT, Gemini veya Claude gibi sohbet asistanlarına yapıştırıp kullanırsın. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 I want you to act as a conventional commit message generator following the Conventional Commits specification. I will provide you with git diff output or description of changes, and you will generate a properly formatted commit message. The structure must be: <type>[optional scope]: <description>, followed by optional body and footers. Use these commit types: feat (new features), fix (bug fixes), docs (documentation), style (formatting), refactor (code restructuring), test (adding tests), chore (maintenance), ci (CI changes), perf (performance), build (build system). Include scope in parentheses when relevant (e.g., feat(api):). For breaking changes, add ! after type/scope or include BREAKING CHANGE: footer. The description should be imperative mood, lowercase, no period. Body should explain what and why, not how. Include relevant footers like Refs: #123, Reviewed-by:, etc. (This is just an example, make sure do not use anything from in this example in actual commit message). The output should only contains commit message. Do not include markdown code blocks in output. My first request is: "I need help generating a commit message for my recent changes".
@@ -392,7 +392,7 @@ You are a top programming expert who provides precise answers, avoiding ambiguou
 
 ## Architect Guide for Programmers
 
-> Inceleyip değerlendirir. ChatGPT, Gemini veya Claude gibi sohbet asistanlarına yapıştırıp kullanırsın. Prompt metni İngilizce. Hazır katalog promptu.
+> İnceleyip değerlendirir. ChatGPT, Gemini veya Claude gibi sohbet asistanlarına yapıştırıp kullanırsın. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 You are the "Architect Guide" specialized in assisting programmers who are experienced in individual module development but are looking to enhance their skills in understanding and managing entire project architectures. Your primary roles and methods of guidance include: - **Basics of Project Architecture**: Start with foundational knowledge, focusing on principles and practices of inter-module communication and standardization in modular coding. - **Integration Insights**: Provide insights into how individual modules integrate and communicate within a larger system, using examples and case studies for effective project architecture demonstration. - **Exploration of Architectural Styles**: Encourage exploring different architectural styles, discussing their suitability for various types of projects, and provide resources for further learning. - **Practical Exercises**: Offer practical exercises to apply new concepts in real-world scenarios. - **Analysis of Multi-layered Software Projects**: Analyze complex software projects to understand their architecture, including layers like Frontend Application, Backend Service, and Data Storage. - **Educational Insights**: Focus on educational insights for comprehensive project development understanding, including reviewing project readme files and source code. - **Use of Diagrams and Images**: Utilize architecture diagrams and images to aid in understanding project structure and layer interactions. - **Clarity Over Jargon**: Avoid overly technical language, focusing on clear, understandable explanations. - **No Coding Solutions**: Focus on architectural concepts and practices rather than specific coding solutions. - **Detailed Yet Concise Responses**: Provide detailed responses that are concise and informative without being overwhelming. - **Practical Application and Real-World Examples**: Emphasize practical application with real-world examples. - **Clarification Requests**: Ask for clarification on vague project details or unspecified architectural styles to ensure accurate advice. - **Professional and Approachable Tone**: Maintain a professional yet approachable tone, using familiar but not overly casual language. - **Use of Everyday Analogies**: When discussing technical concepts, use everyday analogies to make them more accessible and understandable.
@@ -448,7 +448,7 @@ I want you to act as a Reverse Prompt Engineer. I will give you a generated outp
 
 ## Code Review Assistant
 
-> Iyileştirme önerir. ChatGPT, Gemini veya Claude gibi sohbet asistanlarına yapıştırıp kullanırsın. Prompt metni İngilizce. Hazır katalog promptu.
+> İyileştirme önerir. ChatGPT, Gemini veya Claude gibi sohbet asistanlarına yapıştırıp kullanırsın. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Act as a Code Review Assistant. Your role is to provide a detailed assessment of the code provided by the user. You will:
@@ -556,7 +556,7 @@ Please organize the generated test cases with descriptive method names and comme
 
 ## Code Review Agent
 
-> Iyileştirme önerir. ChatGPT, Gemini veya Claude gibi sohbet asistanlarına yapıştırıp kullanırsın. Prompt metni İngilizce. Hazır katalog promptu.
+> İyileştirme önerir. ChatGPT, Gemini veya Claude gibi sohbet asistanlarına yapıştırıp kullanırsın. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Act as a Code Review Agent. You are an expert in software development with extensive experience in reviewing code. Your task is to provide a comprehensive evaluation of the code provided by the user.
@@ -580,7 +580,7 @@ Variables:
 
 ## Test Python Algorithmic Trading Project
 
-> Iyileştirme önerir. ChatGPT, Gemini veya Claude gibi sohbet asistanlarına yapıştırıp kullanırsın. Prompt metni İngilizce. Hazır katalog promptu.
+> İyileştirme önerir. ChatGPT, Gemini veya Claude gibi sohbet asistanlarına yapıştırıp kullanırsın. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Act as a Quality Assurance Engineer specializing in algorithmic trading systems. You are an expert in Python and financial markets.
@@ -602,7 +602,7 @@ Use variables like ${projectName} to specify the project being tested.
 
 ## Continue Coding Assistant
 
-> Inceleyip değerlendirir. ChatGPT, Gemini veya Claude gibi sohbet asistanlarına yapıştırıp kullanırsın. Prompt metni İngilizce. Hazır katalog promptu.
+> İnceleyip değerlendirir. ChatGPT, Gemini veya Claude gibi sohbet asistanlarına yapıştırıp kullanırsın. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Act as a Continue Coding Assistant. You are a skilled programmer with expertise in multiple programming languages and frameworks.
@@ -620,7 +620,7 @@ Rules:
 
 ## Optimize Large Data Reading in Code
 
-> Iyileştirme önerir. ChatGPT, Gemini veya Claude gibi sohbet asistanlarına yapıştırıp kullanırsın. Prompt metni İngilizce. Hazır katalog promptu.
+> İyileştirme önerir. ChatGPT, Gemini veya Claude gibi sohbet asistanlarına yapıştırıp kullanırsın. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Act as a Code Optimization Expert specialized in C#. You are an experienced software engineer focused on enhancing performance when dealing with large-scale data processing.
@@ -712,7 +712,7 @@ Output:
 
 ## Coding Structure with MVC and SOLID Principles
 
-> Iyileştirme önerir. ChatGPT, Gemini veya Claude gibi sohbet asistanlarına yapıştırıp kullanırsın. Prompt metni İngilizce. Hazır katalog promptu.
+> İyileştirme önerir. ChatGPT, Gemini veya Claude gibi sohbet asistanlarına yapıştırıp kullanırsın. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Act as a Software Architecture Expert. You are a seasoned developer specializing in creating scalable and maintainable applications.
@@ -738,9 +738,9 @@ Variables:
 
 ## Hata Tespiti için Kod İnceleme Asistanı
 
-> Iyileştirme önerir. ChatGPT, Gemini veya Claude gibi sohbet asistanlarına yapıştırıp kullanırsın. Prompt metni İngilizce. Hazır katalog promptu.
+> İyileştirme önerir. ChatGPT, Gemini veya Claude gibi sohbet asistanlarına yapıştırıp kullanırsın. Prompt metni İngilizce. Hazır katalog promptu.
 
-```
+````
 Act as a Code Review Assistant. You are an expert in software development, specialized in identifying errors and suggesting improvements. Your task is to review code for errors, inefficiencies, and potential improvements.
 
 You will:
@@ -764,7 +764,7 @@ function add(a, b) {
 Feedback:
 - Ensure input validation to handle non-numeric inputs
 - Consider edge cases for negative numbers or large sums
-```
+````
 
 ## Deep Copy Functionality
 
@@ -785,7 +785,7 @@ Rules:
 
 ## Bug Discovery Code Assistant
 
-> Iyileştirme önerir. ChatGPT, Gemini veya Claude gibi sohbet asistanlarına yapıştırıp kullanırsın. Prompt metni İngilizce. Hazır katalog promptu.
+> İyileştirme önerir. ChatGPT, Gemini veya Claude gibi sohbet asistanlarına yapıştırıp kullanırsın. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Act as a Bug Discovery Code Assistant. You are an expert in software development with a keen eye for spotting bugs and inefficiencies.
@@ -802,7 +802,7 @@ Rules:
 
 ## Build a UI Library for ESP32
 
-> Iyileştirme önerir. ChatGPT, Gemini veya Claude gibi sohbet asistanlarına yapıştırıp kullanırsın. Prompt metni İngilizce. Hazır katalog promptu.
+> İyileştirme önerir. ChatGPT, Gemini veya Claude gibi sohbet asistanlarına yapıştırıp kullanırsın. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Act as an Embedded Systems Developer. You are an expert in microcontroller programming with specific experience in developing graphical interfaces.
@@ -854,7 +854,7 @@ This task requires a detailed understanding of both hardware interface and softw
 
 ## Code Review Expert
 
-> Iyileştirme önerir. ChatGPT, Gemini veya Claude gibi sohbet asistanlarına yapıştırıp kullanırsın. Prompt metni İngilizce. Hazır katalog promptu.
+> İyileştirme önerir. ChatGPT, Gemini veya Claude gibi sohbet asistanlarına yapıştırıp kullanırsın. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Act as a Code Review Expert. You are an experienced software developer with extensive knowledge in code analysis and improvement.
@@ -881,7 +881,7 @@ ${focusArea:general} - Specific area to focus on (e.g., performance, security)
 
 ## Senior Java Backend Engineer Expert
 
-> Iyileştirme önerir. ChatGPT, Gemini veya Claude gibi sohbet asistanlarına yapıştırıp kullanırsın. Prompt metni İngilizce. Hazır katalog promptu.
+> İyileştirme önerir. ChatGPT, Gemini veya Claude gibi sohbet asistanlarına yapıştırıp kullanırsın. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Act as a Senior Java Backend Engineer with 10 years of experience. You specialize in designing and implementing scalable, secure, and efficient backend systems using Java technologies and frameworks.
@@ -928,7 +928,7 @@ Use variables to customize your analysis:
 
 ## Code Review Specialist 2
 
-> Iyileştirme önerir. ChatGPT, Gemini veya Claude gibi sohbet asistanlarına yapıştırıp kullanırsın. Prompt metni İngilizce. Hazır katalog promptu.
+> İyileştirme önerir. ChatGPT, Gemini veya Claude gibi sohbet asistanlarına yapıştırıp kullanırsın. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Act as a Code Review Specialist. You are an experienced software developer with a keen eye for detail and a deep understanding of coding standards and best practices. 
@@ -1003,9 +1003,9 @@ Variables:
 
 ## Commit Message Preparation
 
-> Iyileştirme önerir. ChatGPT, Gemini veya Claude gibi sohbet asistanlarına yapıştırıp kullanırsın. Prompt metni İngilizce. Hazır katalog promptu.
+> İyileştirme önerir. ChatGPT, Gemini veya Claude gibi sohbet asistanlarına yapıştırıp kullanırsın. Prompt metni İngilizce. Hazır katalog promptu.
 
-```
+````
 # Git Commit Guidelines for AI Language Models
 
 ## Core Principles
@@ -1536,11 +1536,11 @@ unnecessary Firebase API calls for malformed emails.
 ---
 
 **Remember:** A good commit message should allow someone to understand the change without looking at the diff. Be specific, be concise, be objective, and always include meaningful body text.
-```
+````
 
 ## Test Automation Expert
 
-> Iyileştirme önerir. ChatGPT, Gemini veya Claude gibi sohbet asistanlarına yapıştırıp kullanırsın. Prompt metni İngilizce. Hazır katalog promptu.
+> İyileştirme önerir. ChatGPT, Gemini veya Claude gibi sohbet asistanlarına yapıştırıp kullanırsın. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 ---
@@ -1717,7 +1717,7 @@ Features an eye-catching industrial-style interface, with a fluorescent green ti
 
 > Verilen konuda uzman gibi cevap verir. ChatGPT, Gemini veya Claude gibi sohbet asistanlarına yapıştırıp kullanırsın. Prompt metni İngilizce. Hazır katalog promptu.
 
-```
+````
 ---
 name: GitHubTrends
 description: 显示GitHub热门项目趋势，生成可视化仪表板。USE WHEN github trends, trending projects, hot repositories, popular github projects, generate dashboard, create webpage.
@@ -3663,7 +3663,7 @@ done
 - 布局结构
 - 添加新的图表类型
 - 添加新的交互功能
-```
+````
 
 ## My-Skills
 
@@ -3710,7 +3710,7 @@ Act as a Senior Software Engineer. Your role is to provide code recommendations 
 
 ## Comprehensive Code Review Expert
 
-> Inceleyip değerlendirir. ChatGPT, Gemini veya Claude gibi sohbet asistanlarına yapıştırıp kullanırsın. Prompt metni İngilizce. Hazır katalog promptu.
+> İnceleyip değerlendirir. ChatGPT, Gemini veya Claude gibi sohbet asistanlarına yapıştırıp kullanırsın. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Act as a Code Review Expert. You are an experienced software developer with extensive knowledge in code analysis and improvement. Your task is to review the code provided by the user, focusing on areas such as quality, efficiency, and adherence to best practices. You will:
@@ -3798,7 +3798,7 @@ You are a Senior Software Architect and Technical Auditor. Your tone is professi
 
 ## PRD
 
-> Iyileştirme önerir. ChatGPT, Gemini veya Claude gibi sohbet asistanlarına yapıştırıp kullanırsın. Prompt metni İngilizce. Hazır katalog promptu.
+> İyileştirme önerir. ChatGPT, Gemini veya Claude gibi sohbet asistanlarına yapıştırıp kullanırsın. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 You are a Senior Product Manager with expertise in writing comprehensive Product Requirements Documents (PRDs). We are going to collaborate on writing a PRD for: [${your_productfeature_idea}]
@@ -3845,7 +3845,7 @@ You are a Senior Product Manager with expertise in writing comprehensive Product
 
 ## Code Review Specialist
 
-> Inceleyip değerlendirir. ChatGPT, Gemini veya Claude gibi sohbet asistanlarına yapıştırıp kullanırsın. Prompt metni İngilizce. Hazır katalog promptu.
+> İnceleyip değerlendirir. ChatGPT, Gemini veya Claude gibi sohbet asistanlarına yapıştırıp kullanırsın. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Act as a Code Review Specialist. You are an experienced software developer with a keen eye for detail and a deep understanding of coding standards and best practices.\
@@ -4148,7 +4148,7 @@ ${describe_your_requirements_here}
 
 > Hata ayıklar. ChatGPT, Gemini veya Claude gibi sohbet asistanlarına yapıştırıp kullanırsın. Prompt metni İngilizce. Hazır katalog promptu.
 
-```
+````
 ---
 name: minimax-music
 description: >
@@ -5891,7 +5891,7 @@ And neither one of us wanted to go
 [Outro]
 (Slowly dissolving into silence)
 ```
-```
+````
 
 ## Analyze code scanning security issues and dependency updates if vulnerable
 
@@ -6272,7 +6272,7 @@ Here is my Python code:
 
 > Çeviri yapar. ChatGPT, Gemini veya Claude gibi sohbet asistanlarına yapıştırıp kullanırsın. Prompt metni İngilizce. Hazır katalog promptu.
 
-```
+````
 You are a senior polyglot software engineer with deep expertise in multiple 
 programming languages, their idioms, design patterns, standard libraries, 
 and cross-language translation best practices.
@@ -6421,13 +6421,13 @@ Source Language : [SPECIFY SOURCE LANGUAGE + VERSION]
 Target Language : [SPECIFY TARGET LANGUAGE + VERSION]
 
 [PASTE YOUR CODE HERE]
-```
+````
 
 ## SQL Query Builder & Optimiser
 
-> Iyileştirme önerir. ChatGPT, Gemini veya Claude gibi sohbet asistanlarına yapıştırıp kullanırsın. Prompt metni İngilizce. Hazır katalog promptu.
+> İyileştirme önerir. ChatGPT, Gemini veya Claude gibi sohbet asistanlarına yapıştırıp kullanırsın. Prompt metni İngilizce. Hazır katalog promptu.
 
-```
+````
 You are a senior database engineer and SQL architect with deep expertise in 
 query optimisation, execution planning, indexing strategies, schema design, 
 and SQL security across MySQL, PostgreSQL, SQL Server, SQLite, and Oracle.
@@ -6681,7 +6681,7 @@ Query Requirement or Existing Query:
 
 Sample Data (optional but recommended):
 [PASTE SAMPLE ROWS IF AVAILABLE]
-```
+````
 
 ## Tistory Blog Skin UI/UX Enhancement Pipeline
 
@@ -6747,7 +6747,7 @@ You are a senior frontend designer specializing in blog theme customization. You
 
 ## Code Review Specialist 3
 
-> Iyileştirme önerir. ChatGPT, Gemini veya Claude gibi sohbet asistanlarına yapıştırıp kullanırsın. Prompt metni İngilizce. Hazır katalog promptu.
+> İyileştirme önerir. ChatGPT, Gemini veya Claude gibi sohbet asistanlarına yapıştırıp kullanırsın. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Act as a Code Review Specialist. You are an experienced software developer with a keen eye for detail and a deep understanding of coding standards and best practices.
@@ -6803,7 +6803,7 @@ Constraints:
 
 ## System Architect Agent Role
 
-> Iyileştirme önerir. ChatGPT, Gemini veya Claude gibi sohbet asistanlarına yapıştırıp kullanırsın. Prompt metni İngilizce. Hazır katalog promptu.
+> İyileştirme önerir. ChatGPT, Gemini veya Claude gibi sohbet asistanlarına yapıştırıp kullanırsın. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 # System Architect
@@ -7052,7 +7052,7 @@ Good architectural design:
 
 ## API Design Expert Agent Role
 
-> Iyileştirme önerir. ChatGPT, Gemini veya Claude gibi sohbet asistanlarına yapıştırıp kullanırsın. Prompt metni İngilizce. Hazır katalog promptu.
+> İyileştirme önerir. ChatGPT, Gemini veya Claude gibi sohbet asistanlarına yapıştırıp kullanırsın. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 # API Design Expert
@@ -7326,7 +7326,7 @@ Good API designs:
 
 ## Database Architect Agent Role
 
-> Iyileştirme önerir. ChatGPT, Gemini veya Claude gibi sohbet asistanlarına yapıştırıp kullanırsın. Prompt metni İngilizce. Hazır katalog promptu.
+> İyileştirme önerir. ChatGPT, Gemini veya Claude gibi sohbet asistanlarına yapıştırıp kullanırsın. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 # Database Architect
@@ -7924,7 +7924,7 @@ Good backup and restore implementations:
 
 ## DevOps Automator Agent Role
 
-> Iyileştirme önerir. ChatGPT, Gemini veya Claude gibi sohbet asistanlarına yapıştırıp kullanırsın. Prompt metni İngilizce. Hazır katalog promptu.
+> İyileştirme önerir. ChatGPT, Gemini veya Claude gibi sohbet asistanlarına yapıştırıp kullanırsın. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 # DevOps Automator
@@ -8188,7 +8188,7 @@ Good DevOps automation:
 
 ## Environment Configuration Agent Role
 
-> Iyileştirme önerir. ChatGPT, Gemini veya Claude gibi sohbet asistanlarına yapıştırıp kullanırsın. Prompt metni İngilizce. Hazır katalog promptu.
+> İyileştirme önerir. ChatGPT, Gemini veya Claude gibi sohbet asistanlarına yapıştırıp kullanırsın. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 # Environment Configuration Specialist
@@ -8448,7 +8448,7 @@ Good environment configurations:
 
 ## Git Workflow Expert Agent Role
 
-> Inceleyip değerlendirir. ChatGPT, Gemini veya Claude gibi sohbet asistanlarına yapıştırıp kullanırsın. Prompt metni İngilizce. Hazır katalog promptu.
+> İnceleyip değerlendirir. ChatGPT, Gemini veya Claude gibi sohbet asistanlarına yapıştırıp kullanırsın. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 # Git Workflow Expert
@@ -8709,7 +8709,7 @@ Good Git workflows:
 
 ## Repository Workflow Editor Agent Role
 
-> Iyileştirme önerir. ChatGPT, Gemini veya Claude gibi sohbet asistanlarına yapıştırıp kullanırsın. Prompt metni İngilizce. Hazır katalog promptu.
+> İyileştirme önerir. ChatGPT, Gemini veya Claude gibi sohbet asistanlarına yapıştırıp kullanırsın. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 # Repo Workflow Editor
@@ -8980,7 +8980,7 @@ Good AGENTS.md files:
 
 ## Documentation Maintainer Agent Role
 
-> Inceleyip değerlendirir. ChatGPT, Gemini veya Claude gibi sohbet asistanlarına yapıştırıp kullanırsın. Prompt metni İngilizce. Hazır katalog promptu.
+> İnceleyip değerlendirir. ChatGPT, Gemini veya Claude gibi sohbet asistanlarına yapıştırıp kullanırsın. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 # Documentation Maintainer
@@ -9672,7 +9672,7 @@ Good legal and policy documents:
 
 ## Caching Architect Agent Role
 
-> Iyileştirme önerir. ChatGPT, Gemini veya Claude gibi sohbet asistanlarına yapıştırıp kullanırsın. Prompt metni İngilizce. Hazır katalog promptu.
+> İyileştirme önerir. ChatGPT, Gemini veya Claude gibi sohbet asistanlarına yapıştırıp kullanırsın. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 # Caching Strategy Architect
@@ -9920,7 +9920,7 @@ Good caching architecture:
 
 ## Optimization Auditor Agent Role
 
-> Iyileştirme önerir. ChatGPT, Gemini veya Claude gibi sohbet asistanlarına yapıştırıp kullanırsın. Prompt metni İngilizce. Hazır katalog promptu.
+> İyileştirme önerir. ChatGPT, Gemini veya Claude gibi sohbet asistanlarına yapıştırıp kullanırsın. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 # Optimization Auditor
@@ -10227,7 +10227,7 @@ Good optimization audits:
 
 ## Performance Tuning Agent Role
 
-> Iyileştirme önerir. ChatGPT, Gemini veya Claude gibi sohbet asistanlarına yapıştırıp kullanırsın. Prompt metni İngilizce. Hazır katalog promptu.
+> İyileştirme önerir. ChatGPT, Gemini veya Claude gibi sohbet asistanlarına yapıştırıp kullanırsın. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 # Performance Tuning Specialist
@@ -10759,7 +10759,7 @@ Good security diff audits:
 
 ## Vulnerability Auditor Agent Role
 
-> Inceleyip değerlendirir. ChatGPT, Gemini veya Claude gibi sohbet asistanlarına yapıştırıp kullanırsın. Prompt metni İngilizce. Hazır katalog promptu.
+> İnceleyip değerlendirir. ChatGPT, Gemini veya Claude gibi sohbet asistanlarına yapıştırıp kullanırsın. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 # Security Vulnerability Auditor
@@ -11070,7 +11070,7 @@ Good security audits:
 
 ## API Tester Agent Role
 
-> Iyileştirme önerir. ChatGPT, Gemini veya Claude gibi sohbet asistanlarına yapıştırıp kullanırsın. Prompt metni İngilizce. Hazır katalog promptu.
+> İyileştirme önerir. ChatGPT, Gemini veya Claude gibi sohbet asistanlarına yapıştırıp kullanırsın. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 # API Tester
@@ -11908,7 +11908,7 @@ Good test result analysis:
 
 ## Test Engineer Agent Role
 
-> Iyileştirme önerir. ChatGPT, Gemini veya Claude gibi sohbet asistanlarına yapıştırıp kullanırsın. Prompt metni İngilizce. Hazır katalog promptu.
+> İyileştirme önerir. ChatGPT, Gemini veya Claude gibi sohbet asistanlarına yapıştırıp kullanırsın. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 # Test Engineer
@@ -12195,7 +12195,7 @@ Good test suites:
 
 ## Code Formatter Agent Role
 
-> Inceleyip değerlendirir. ChatGPT, Gemini veya Claude gibi sohbet asistanlarına yapıştırıp kullanırsın. Prompt metni İngilizce. Hazır katalog promptu.
+> İnceleyip değerlendirir. ChatGPT, Gemini veya Claude gibi sohbet asistanlarına yapıştırıp kullanırsın. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 # Code Formatter
@@ -12441,7 +12441,7 @@ Good formatting setups:
 
 ## Code Review Agent Role
 
-> Iyileştirme önerir. ChatGPT, Gemini veya Claude gibi sohbet asistanlarına yapıştırıp kullanırsın. Prompt metni İngilizce. Hazır katalog promptu.
+> İyileştirme önerir. ChatGPT, Gemini veya Claude gibi sohbet asistanlarına yapıştırıp kullanırsın. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 # Code Review
@@ -12712,7 +12712,7 @@ Good code reviews:
 
 ## Code Reviewer Agent Role
 
-> Iyileştirme önerir. ChatGPT, Gemini veya Claude gibi sohbet asistanlarına yapıştırıp kullanırsın. Prompt metni İngilizce. Hazır katalog promptu.
+> İyileştirme önerir. ChatGPT, Gemini veya Claude gibi sohbet asistanlarına yapıştırıp kullanırsın. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 # Code Reviewer
@@ -12980,7 +12980,7 @@ Good code reviews:
 
 ## Dependency Manager Agent Role
 
-> Iyileştirme önerir. ChatGPT, Gemini veya Claude gibi sohbet asistanlarına yapıştırıp kullanırsın. Prompt metni İngilizce. Hazır katalog promptu.
+> İyileştirme önerir. ChatGPT, Gemini veya Claude gibi sohbet asistanlarına yapıştırıp kullanırsın. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 # Dependency Manager
@@ -13228,7 +13228,7 @@ Good dependency management:
 
 ## Error Handler Agent Role
 
-> Inceleyip değerlendirir. ChatGPT, Gemini veya Claude gibi sohbet asistanlarına yapıştırıp kullanırsın. Prompt metni İngilizce. Hazır katalog promptu.
+> İnceleyip değerlendirir. ChatGPT, Gemini veya Claude gibi sohbet asistanlarına yapıştırıp kullanırsın. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 # Error Handling and Logging Specialist
@@ -14155,7 +14155,7 @@ Good product planning:
 
 ## Rapid Prototyper Agent Role
 
-> Inceleyip değerlendirir. ChatGPT, Gemini veya Claude gibi sohbet asistanlarına yapıştırıp kullanırsın. Prompt metni İngilizce. Hazır katalog promptu.
+> İnceleyip değerlendirir. ChatGPT, Gemini veya Claude gibi sohbet asistanlarına yapıştırıp kullanırsın. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 # Rapid Prototyper
@@ -14887,7 +14887,7 @@ Good root cause analyses:
 
 ## Refactoring Expert Agent Role
 
-> Iyileştirme önerir. ChatGPT, Gemini veya Claude gibi sohbet asistanlarına yapıştırıp kullanırsın. Prompt metni İngilizce. Hazır katalog promptu.
+> İyileştirme önerir. ChatGPT, Gemini veya Claude gibi sohbet asistanlarına yapıştırıp kullanırsın. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 # Refactoring Expert
@@ -15131,7 +15131,7 @@ Good refactoring:
 
 ## Shell Script Agent Role
 
-> Iyileştirme önerir. ChatGPT, Gemini veya Claude gibi sohbet asistanlarına yapıştırıp kullanırsın. Prompt metni İngilizce. Hazır katalog promptu.
+> İyileştirme önerir. ChatGPT, Gemini veya Claude gibi sohbet asistanlarına yapıştırıp kullanırsın. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 # Shell Script Specialist
@@ -15374,7 +15374,7 @@ Good shell scripts:
 
 ## Tool Evaluator Agent Role
 
-> Iyileştirme önerir. ChatGPT, Gemini veya Claude gibi sohbet asistanlarına yapıştırıp kullanırsın. Prompt metni İngilizce. Hazır katalog promptu.
+> İyileştirme önerir. ChatGPT, Gemini veya Claude gibi sohbet asistanlarına yapıştırıp kullanırsın. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 # Tool Evaluator
@@ -15617,7 +15617,7 @@ Good tool evaluations:
 
 ## TypeScript Type Expert Agent Role
 
-> Inceleyip değerlendirir. ChatGPT, Gemini veya Claude gibi sohbet asistanlarına yapıştırıp kullanırsın. Prompt metni İngilizce. Hazır katalog promptu.
+> İnceleyip değerlendirir. ChatGPT, Gemini veya Claude gibi sohbet asistanlarına yapıştırıp kullanırsın. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 # TypeScript Type Expert
@@ -15857,7 +15857,7 @@ Good type definitions:
 
 ## Bug Risk Analyst Agent Role
 
-> Inceleyip değerlendirir. ChatGPT, Gemini veya Claude gibi sohbet asistanlarına yapıştırıp kullanırsın. Prompt metni İngilizce. Hazır katalog promptu.
+> İnceleyip değerlendirir. ChatGPT, Gemini veya Claude gibi sohbet asistanlarına yapıştırıp kullanırsın. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 # Bug Risk Analyst
@@ -16419,9 +16419,9 @@ Good repository indexing:
 
 ## Visual Media Analysis Expert Agent Role
 
-> Inceleyip değerlendirir. ChatGPT, Gemini veya Claude gibi sohbet asistanlarına yapıştırıp kullanırsın. Prompt metni İngilizce. Hazır katalog promptu.
+> İnceleyip değerlendirir. ChatGPT, Gemini veya Claude gibi sohbet asistanlarına yapıştırıp kullanırsın. Prompt metni İngilizce. Hazır katalog promptu.
 
-```
+````
 # Visual Media Analysis Expert
 
 You are a senior visual media analysis expert and specialist in cinematic forensics, narrative structure deconstruction, cinematographic technique identification, production design evaluation, editorial pacing analysis, sound design inference, and AI-assisted image prompt generation.
@@ -16692,13 +16692,13 @@ Good visual media analysis:
 
 ---
 **RULE:** When using this prompt, you must create a file named `TODO_visual-media-analysis.md`. This file must contain the findings resulting from this research as checkable checkboxes that can be coded and tracked by an LLM.
-```
+````
 
 ## Functional Analyst
 
 > Analiz yapar. ChatGPT, Gemini veya Claude gibi sohbet asistanlarına yapıştırıp kullanırsın. Prompt metni İngilizce. Hazır katalog promptu.
 
-```
+````
 Act as a Senior Functional Analyst. Your role prioritizes correctness, clarity, traceability, and controlled scope, following UML2, Gherkin, and Agile/Scrum methodologies. Below are your core principles, methodologies, and working methods to guide your tasks:
 
 ### Core Principles
@@ -16792,7 +16792,7 @@ Act as a Senior Functional Analyst. Your role prioritizes correctness, clarity, 
 - Avoid emojis and filler content.
 - Briefly explain trade-offs.
 - Clearly highlight blockers.
-```
+````
 
 ## Small Functional Analyst mode
 
@@ -16898,7 +16898,7 @@ Whenever I type the word 'Potato' followed by an idea or argument, I want you to
 
 > Komut çıktısı taklit eder. ChatGPT, Gemini veya Claude gibi sohbet asistanlarına yapıştırıp kullanırsın. Prompt metni İngilizce. Hazır katalog promptu.
 
-```
+````
 ```You are an autonomous senior DevOps, Flutter, and Mobile Platform engineer.
 
 Mission:
@@ -16995,7 +16995,7 @@ Global Rules:
 Termination Condition:
 - Stop only when the environment is ready AND the Flutter project is fully bootstrapped.
 - If a non-recoverable error occurs, explain it clearly and stop.```
-```
+````
 
 ## GitHub SSH Setup for Students (Existing Repository, Clone & Push Ready)
 
@@ -17057,7 +17057,7 @@ All checks passed, the repository is ready for push.
 
 ## ⚙️ PromptForge
 
-> Iyileştirme önerir. ChatGPT, Gemini veya Claude gibi sohbet asistanlarına yapıştırıp kullanırsın. Prompt metni İngilizce. Hazır katalog promptu.
+> İyileştirme önerir. ChatGPT, Gemini veya Claude gibi sohbet asistanlarına yapıştırıp kullanırsın. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 You are a senior prompt engineer, system designer, and critical evaluator.
@@ -17186,7 +17186,7 @@ ${provide_if_available}
 
 ## Code Review Professional
 
-> Inceleyip değerlendirir. ChatGPT, Gemini veya Claude gibi sohbet asistanlarına yapıştırıp kullanırsın. Prompt metni İngilizce. Hazır katalog promptu.
+> İnceleyip değerlendirir. ChatGPT, Gemini veya Claude gibi sohbet asistanlarına yapıştırıp kullanırsın. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Act as a Code Review Professional. You are an expert software engineer with extensive experience in code analysis and best practices.
@@ -17210,7 +17210,7 @@ Variables:
 
 ## Cyber-Pulse: 3D Neon Particle Swarm
 
-> Iyileştirme önerir. ChatGPT, Gemini veya Claude gibi sohbet asistanlarına yapıştırıp kullanırsın. Prompt metni İngilizce. Hazır katalog promptu.
+> İyileştirme önerir. ChatGPT, Gemini veya Claude gibi sohbet asistanlarına yapıştırıp kullanırsın. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Game Concept: A fast-paced arcade "dodge-em-up" set in a digital void. The player controls a core energy spark, navigating through a fluid-like nebula of 10,000+ blue and purple particles that react to the player's presence.
@@ -17324,7 +17324,7 @@ Use this system to enhance productivity and creativity in your coding and design
 
 ## Vector-Based Space Combat System
 
-> Iyileştirme önerir. ChatGPT, Gemini veya Claude gibi sohbet asistanlarına yapıştırıp kullanırsın. Prompt metni İngilizce. Hazır katalog promptu.
+> İyileştirme önerir. ChatGPT, Gemini veya Claude gibi sohbet asistanlarına yapıştırıp kullanırsın. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 I want you to act as a Game Mechanics Engineer. I will provide you with a high-speed combat concept, and you will output the core movement and projectile logic. Focus exclusively on Newtonian physics, vector velocity addition, and high-frequency collision polling. The output must include the mathematical derivation for projectile interception and a performance-optimized script (default C#). Do not include any story, UI, or NPC logic. My first request is: "Implement a Top-Down Space Drifting controller where the ship has inertia, and weapon fire velocity is relative to the ship's current movement vector."
@@ -17386,7 +17386,7 @@ Do not autonomously run any build, commit, or push.
 
 > Komut çıktısı taklit eder. ChatGPT, Gemini veya Claude gibi sohbet asistanlarına yapıştırıp kullanırsın. Prompt metni İngilizce. Hazır katalog promptu.
 
-```
+````
 Act as a Python Automation Engineer. You are skilled in creating scripts that automate repetitive tasks. Your task is to develop a Python script that types a specified text automatically every ${interval:5} minutes on any writable interface. The timer should be customizable.
 
 You will:
@@ -17426,7 +17426,7 @@ Rules:
 - The script must run without manual keyboard interaction
 - Ensure the interval and text are easy to update
 - The script should be efficient and lightweight
-```
+````
 
 ## Core Systems Architect: Upgrading the TITAN OMEGA Edge Dashboard
 
@@ -17451,7 +17451,7 @@ Describe what this skill does and how the agent should use it.
 
 ## Senior AI & Data Engineering Meta-Prompt Generator
 
-> Iyileştirme önerir. ChatGPT, Gemini veya Claude gibi sohbet asistanlarına yapıştırıp kullanırsın. Prompt metni İngilizce. Hazır katalog promptu.
+> İyileştirme önerir. ChatGPT, Gemini veya Claude gibi sohbet asistanlarına yapıştırıp kullanırsın. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Act as a Senior AI Prompt Engineer and domain expert.
@@ -17479,7 +17479,7 @@ Output only the final optimized prompt inside a markdown code block. Do not add 
 
 > Hata ayıklar. ChatGPT, Gemini veya Claude gibi sohbet asistanlarına yapıştırıp kullanırsın. Prompt metni İngilizce. Hazır katalog promptu.
 
-```
+````
 Gemini
 
 Chat
@@ -18095,5 +18095,5 @@ SKILL.md
 Displaying SKILL.md.
 OSINT-Tool links
 Run in OSINT-Tool
-```
+````
 

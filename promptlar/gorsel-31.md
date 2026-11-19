@@ -10901,7 +10901,7 @@ The background shows a cozy bedroom setting slightly out of focus—soft bedding
 
 ## Neo-Skeuomorphism Crowd Scene Prompt
 
-> Illüstrasyon üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> İllüstrasyon üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 A close-up, overhead shot shows a crowd of abstract, cartoonish figures with large, expressive eyes. The figures are rendered in a variety of bold colors, including a bright blue starfish-like creature, a fuzzy black blob with a triangular nose, a vibrant orange star-shaped being, and a lime green amorphous shape. These characters are packed tightly together, creating a sense of a dense, bustling community. The background is a dark, textured black, which makes the colorful figures pop. The overall style is whimsical and slightly unsettling, with a textured, crayon-like aesthetic.
@@ -11438,7 +11438,7 @@ A cinematic night-time portrait of a young woman standing outdoors, softly lit b
 
 ## Ink and Wash Illustration Generator
 
-> Illüstrasyon üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> İllüstrasyon üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 An expressive ink-and-wash illustration of {argument name="subject" default="a majestic crane"}, combining loose brush strokes with fine ink lines. Limited {argument name="color" default="sepia"} palette, organic paper texture, dynamic composition, traditional art meets modern illustration.

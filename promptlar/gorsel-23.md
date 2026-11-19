@@ -6761,7 +6761,7 @@ A photorealistic medium shot of a beautiful young Korean woman sitting on a whit
 
 ## Die-Cut Sticker Illustration Prompt with Japanese Text
 
-> Illüstrasyon üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
+> İllüstrasyon üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 A die-cut sticker illustration based on the uploaded image. The subject is transformed into a chibi deformed illustration style, featuring thick bold black outlines, flat vibrant colors, and a cartoon pose. Large vertical Japanese text "{argument name="right side comment" default="right side comment"}" on the right side, vertical Japanese text "{argument name="left side comment" default="left side comment"}" on the left side, and text "{argument name="bottom comment" default="bottom comment"}" at the bottom edge. **Crucially, a single, large, continuous white die-cut border must encompass all elements entirely—surrounding the illustration and all text blocks together—to create one unified, easy-to-cut sticker shape against a plain white background.**
@@ -8171,7 +8171,7 @@ A close-up cinematic portrait of a young woman with natural beauty, hazel eyes, 
 
 ## Cute Floating Glossy Space Tabby Cat
 
-> Illüstrasyon üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> İllüstrasyon üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 An adorable tabby cat floats in the center of a black space background, its body outline glowing with a warm amber halo. Large, glossy black eyes, a tiny curved smile, and soft pink round cheeks create a kawaii expression, while translucent edges and subtle internal gradients suggest glowing gel or polished resin with gentle scattering below the surface. Dozens of tiny golden particles surround the figure at varying depths, including sharp four-point starbursts and soft defocused sparks that define atmospheric depth. A bright front key light creates smooth highlights on the upper points and lower edges, with a concentrated glow radiating outward into the surrounding darkness. * Style: Disney style, polished CGI * Key Elements: Venus personality, glossy eyes, pink cheeks, glittering particles, dark space background * Lighting: Warm golden front glow, radial backlighting, approx 3000 K * Camera: Center close-up, normal lens, straight angle

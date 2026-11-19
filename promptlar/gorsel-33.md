@@ -4898,7 +4898,7 @@ Based on the composition and layout of the reference image, create a new city ni
 
 ## AI Illustration of a Girl at an Inn
 
-> Illüstrasyon üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> İllüstrasyon üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 A scene at an inn (Ryokan) where a {argument name="character" default="dark-skinned girl"} is relaxing. She is holding a {argument name="item" default="beer mug"} and laughing heartily. The background is a traditional Japanese room with soft light filtering through the shoji screens. Anime style.
@@ -7319,7 +7319,7 @@ The pedestrian mark on the crosswalk is entirely my own silhouette
 
 ## Complex Illustration Prompt: Cycling on the Moon
 
-> Illüstrasyon üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> İllüstrasyon üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 A person wearing a hermetic suit and carrying an oxygen tank, riding a road bike on the moon's surface, in the style of Irasutoya

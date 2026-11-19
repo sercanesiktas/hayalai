@@ -871,7 +871,7 @@ A blue-haired girl sitting by the window in a dimly lit room. She is wearing a w
 
 ## AI Illustration of a Wizard Making Valentine's Day Chocolate
 
-> Illüstrasyon üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> İllüstrasyon üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 If a wizard made chocolate for Valentine's Day~
@@ -1687,7 +1687,7 @@ pastel tones --ar {argument name="aspect ratio" default="4:5"} --raw
 
 ## NanoBananaPro Image Generation Prompt: Two High School Girls in Shibuya
 
-> Illüstrasyon üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> İllüstrasyon üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Theme: {argument name="theme" default="Two people's friendship"}. Style instructions (Character: {argument name="character style" default="Japanese anime"}, Background: photo-quality anime), Characters: Two Japanese high school girls, Background: {argument name="background" default="Shibuya crossing"}, Weather: Sunny, Time: 3 PM, Light breeze, Aspect ratio: 2:1, Photography: AI-equipped high-performance camera system.
@@ -1703,7 +1703,7 @@ A cinematic fantasy scene inside a cozy artist’s studio. A young female painte
 
 ## Anime Illustration Prompt for China Dress Swimsuit
 
-> Illüstrasyon üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> İllüstrasyon üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 SFW anime-style illustration. No nudity, no suggestive intent.
@@ -9048,7 +9048,7 @@ High resolution, masterpiece, best quality with perfect and detailed lighting, d
 
 ## Painted Chibi Snail Macro View
 
-> Illüstrasyon üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> İllüstrasyon üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 An adorable snail with large eyes, featured in a low-angle macro view. The background is filled with huge flowers, creating a vibrant and colorful setting. The snail has a sweet expression on its face, surrounded by bright, happy colors.
@@ -10112,7 +10112,7 @@ Natural midday daylight, bright and slightly harsh with soft shadows, casual sum
 
 ## Stylized Screen Print Illustration of Woman in Sea
 
-> Illüstrasyon üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> İllüstrasyon üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 A stylized illustration depicts a person with closed eyes and curly black hair, wearing an {argument name="dress color and pattern" default="orange polka-dot dress"}, standing in a {argument name="sea color" default="blue"}, wavy sea. Several white, shell-like shapes are scattered in the water, and a spiral symbol is visible in the upper left corner. The foreground features a grassy area with rocks and pebbles. The overall style is textured and reminiscent of a screen print.

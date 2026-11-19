@@ -317,7 +317,7 @@ a {argument name="subject" default="pumpkin carriage"} in the style of an {argum
 
 ## Orange Cat Picture Book Illustration
 
-> Illüstrasyon üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> İllüstrasyon üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 the advent of {argument name="subject" default="orange cat"} in the style of a {argument name="style" default="picture book"}
@@ -1863,7 +1863,7 @@ A stunning confident young woman with a powerful attitude, standing tall with ar
 
 ## Manyoshu Style Poetry Art
 
-> Illüstrasyon üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> İllüstrasyon üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 {argument name="subject" default="Hyakunin Isshu poem 7"} in {argument name="style" default="Manyoshu style, handle automatically"}
@@ -1871,7 +1871,7 @@ A stunning confident young woman with a powerful attitude, standing tall with ar
 
 ## Fantasy Illustration of Classical Japanese Poem
 
-> Illüstrasyon üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> İllüstrasyon üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Create an illustration for Hyakunin Isshu {argument name="poem number" default="number 7"} in a {argument name="style" default="fantasy series"}!
@@ -2127,7 +2127,7 @@ Create a freeform fashion-editorial collage of me in {argument name="number of l
 
 ## Aquarius Meteor Shower Illustration
 
-> Illüstrasyon üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> İllüstrasyon üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 {argument name="theme" default="Aquarius meteor shower"}
@@ -2178,7 +2178,7 @@ A beautiful Indian woman with {argument name="hair" default="long black hair"} a
 
 ## Golden Rain Character Transformation
 
-> Illüstrasyon üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
+> İllüstrasyon üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 {argument name="theme" default="Golden Rain"}
@@ -6089,7 +6089,7 @@ Dark hair is slightly messy, with natural strands moving in the wind. The head i
 
 ## Chibi Bunny Mascot Illustration
 
-> Illüstrasyon üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> İllüstrasyon üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 A chibi bunny is laying on the green lawn charming mascot illustration style with imperfect black contour lines, flat vivid hues, isolated in the center of a fresh white background, simplified anatomy, bold and joyful character design.
@@ -6318,7 +6318,7 @@ Create a unique idea for April Fool's fake news. A capture of a Japanese TV news
 
 ## Line Art Correction Prompt for Nano Banana Pro
 
-> Illüstrasyon üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
+> İllüstrasyon üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Maintain all elements constituting the art style, visual appearance, quality, image quality, character, color, and illustration of the reference image, and only correct the line art of the person. Please repair and correct the line art by adjusting the shape of the girl's facial parts and the line art of her hair, and add corrections. However, if additions are necessary, do not make extreme additions, and refer to the thinness and softness of the line art.
@@ -7249,7 +7249,7 @@ Using the uploaded photo as a starting point, A photorealistic 4-panel collage p
 
 ## Macro Photography of Chibi Anime Figurine Prompt
 
-> Illüstrasyon üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> İllüstrasyon üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 A macro photography shot of a tiny, palm-sized chibi anime figurine sitting in a person's open hand. The figure has messy deep {argument name="hair color" default="purple"} hair, purple eyes with an annoyed "grumpy" expression, and a small pouty mouth. A finger is gently pressing into the figure's soft, squishy cheek, causing a realistic indentation. The figure wears a small black collar with a golden bell. Soft natural lighting, bokeh background, high detail on the skin texture of the hand and the matte finish of the figurine.

@@ -12555,7 +12555,7 @@ A stylish handwritten signature Willy is elegantly and small letters placed at t
 
 ## Japanese TV Parody Image Generation Prompt
 
-> Illüstrasyon üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
+> İllüstrasyon üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 An anime-style screenshot of a Japanese TV variety show "芸能人格付けチェック" parody, based on the style of image_0.png but **without the top-left wipe window**. The scene is a lavish studio with ornate red curtains and gold decorations.
@@ -14608,7 +14608,7 @@ Theme: {argument name="theme" default="Geometric Pop & Speech Bubbles"}
 
 ## New Year's Greeting Illustration Prompt with Name
 
-> Illüstrasyon üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> İllüstrasyon üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 New Year's greeting illustration including {argument name="girl's name" default="[Name]"}

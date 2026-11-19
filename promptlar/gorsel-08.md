@@ -539,7 +539,7 @@ Dark romantic tabletop composition featuring {argument name="fabric" default="bu
 
 ## Chopin in Van Gogh's Starry Night Style Prompt
 
-> Illüstrasyon üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> İllüstrasyon üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Chopin and a piano in the middle of the screen.
@@ -549,7 +549,7 @@ into a painting like Van Gogh's Starry Night!
 
 ## Pokémon World Icon Generation Prompt
 
-> Illüstrasyon üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
+> İllüstrasyon üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 『Please create an image of the person in the attached illustration working as a doctor (your profession) in the world of Pokémon. Also, please consider a Pokémon that suits this person's impression.』
@@ -627,7 +627,7 @@ and Ishtar!
 
 ## Tower of Druaga Klimt Style Prompt
 
-> Illüstrasyon üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> İllüstrasyon üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 The Tower of Druaga
@@ -638,7 +638,7 @@ and render it like a Klimt painting!
 
 ## Athena vs. Enceladus Greek Mythology Prompt
 
-> Illüstrasyon üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> İllüstrasyon üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Athena VS Enceladus
@@ -684,7 +684,7 @@ cinematic depth feel.
 
 ## Megami Tensei Pantheon Battle Prompt
 
-> Illüstrasyon üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> İllüstrasyon üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Generate a Chagall-style painting depicting the battle between Izanagi and Izanami from Megami Tensei, and Lucifer, with Krishna, Ganesha, and Cú Chulainn added!
@@ -809,7 +809,7 @@ Give me the right side view of this image
 
 ## Image Generation Prompt: Arranging Delacroix's Chopin
 
-> Illüstrasyon üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
+> İllüstrasyon üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Take Delacroix's Chopin and arrange it into a different picture and output it!
@@ -817,7 +817,7 @@ Take Delacroix's Chopin and arrange it into a different picture and output it!
 
 ## Image Generation Prompt: Altering a Chopin Painting
 
-> Illüstrasyon üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
+> İllüstrasyon üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Take this picture (Chopin) and turn it into a different picture and output it!
@@ -825,7 +825,7 @@ Take this picture (Chopin) and turn it into a different picture and output it!
 
 ## Image Generation Prompt: Rembrandt Style Painting
 
-> Illüstrasyon üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> İllüstrasyon üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Create and output one painting like Rembrandt's!
@@ -833,7 +833,7 @@ Create and output one painting like Rembrandt's!
 
 ## Image Generation Prompt: Monet's Water Lilies Style
 
-> Illüstrasyon üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> İllüstrasyon üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Create and output one painting like Monet's Water Lilies!
@@ -841,7 +841,7 @@ Create and output one painting like Monet's Water Lilies!
 
 ## Image Generation Prompt for Chopin in Delacroix Style
 
-> Illüstrasyon üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> İllüstrasyon üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Take the Chopin painted by Delacroix and turn it into a different picture!
@@ -849,7 +849,7 @@ Take the Chopin painted by Delacroix and turn it into a different picture!
 
 ## Image Generation Prompt for Chopin in Delacroix Style (Attempt 2)
 
-> Illüstrasyon üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> İllüstrasyon üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Arrange Delacroix's Chopin and output it as a different picture!
@@ -857,7 +857,7 @@ Arrange Delacroix's Chopin and output it as a different picture!
 
 ## Symphogear SFW Image Generation Prompt
 
-> Illüstrasyon üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> İllüstrasyon üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 SFW. No nudity, no suggestive intent.
@@ -1143,7 +1143,7 @@ Today's theme is {argument name="theme" default="Paper airplane flew"}
 
 ## Classical Winged Figure Blowing a Horn Painting
 
-> Illüstrasyon üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> İllüstrasyon üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 A painting on a light beige background depicts a winged figure in profile, blowing a horn. The figure, rendered in shades of green, brown, and copper, appears to be a cherub or angel. It is depicted in a dynamic, flying pose, with its body angled towards the right and its legs bent. The wings are spread wide, with detailed feathering. The cherub holds a long, conical horn to its lips with both hands. The horn is a greenish-bronze color, with a decorative green element resembling a leaf or flame attached near the bell. The figure's face is serene, with braided hair and a headband. The overall style suggests an antique or classical aesthetic, possibly a depiction of a weather vane or decorative element.
@@ -1267,7 +1267,7 @@ Nano Banana Pro realistic prompt using attached image reference
 
 ## Transforming the Tower of the Sun into a Taro Okamoto Painting
 
-> Illüstrasyon üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> İllüstrasyon üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Change the {argument name="subject" default="Tower of the Sun"} into a painting drawn by {argument name="artist" default="Taro Okamoto"} and output it!
@@ -1275,7 +1275,7 @@ Change the {argument name="subject" default="Tower of the Sun"} into a painting 
 
 ## Transforming Yomeimon's Karajishi into a Monet-style Painting
 
-> Illüstrasyon üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> İllüstrasyon üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Change the {argument name="subject" default="Karajishi of Yomeimon"} into a painting in the style of {argument name="artist" default="Monet"} and output it!
@@ -1283,7 +1283,7 @@ Change the {argument name="subject" default="Karajishi of Yomeimon"} into a pain
 
 ## Transforming Zojoji Temple into a Rokuro Taniuchi Style Painting
 
-> Illüstrasyon üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> İllüstrasyon üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Change {argument name="subject" default="Zojoji Temple"} into a painting with the flavor of {argument name="artist" default="Rokuro Taniuchi"} and output it!
@@ -1339,7 +1339,7 @@ Change this (the image on the right) into a {argument name="style" default="Ukiy
 
 ## Image-to-Image Style Transfer to Mucha's Art Nouveau Style
 
-> Illüstrasyon üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
+> İllüstrasyon üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Change this (the image on the right) into a painting in the style of {argument name="artist" default="Mucha"} and output it!
@@ -1392,7 +1392,7 @@ A man in his {argument name="age" default="40s"}, lying in bed, frontal shot.
 
 ## Lassen-style Painting with Dolphins and Orcas
 
-> Illüstrasyon üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> İllüstrasyon üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Output one painting in the style of {argument name="artist" default="Lassen"} including {argument name="subject 1" default="dolphins"} and {argument name="subject 2" default="orcas"}!
@@ -1400,7 +1400,7 @@ Output one painting in the style of {argument name="artist" default="Lassen"} in
 
 ## Escher-style Optical Illusion Generation
 
-> Illüstrasyon üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> İllüstrasyon üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Output one painting that looks like an {argument name="style" default="Escher's optical illusion"}!
@@ -1416,7 +1416,7 @@ Generate one image like Michelangelo's The Last Judgment!
 
 ## Seurat-style Pointillism Image Generation
 
-> Illüstrasyon üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> İllüstrasyon üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Output one painting in the style of {argument name="artist" default="Seurat's"} pointillism!
@@ -1440,7 +1440,7 @@ A low-angle, close-up shot features a cluster of bioluminescent mushrooms in a g
 
 ## Macro Illustration of a Tiny Fairy on a Flower
 
-> Illüstrasyon üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> İllüstrasyon üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 macro view of a tiny fairy sitting in the middle of a flower, extreme close-up, delicate translucent wings, soft natural light, shallow depth of field, dewy petals and sparkling bokeh in the background, whimsical magical atmosphere, high detail fantasy illustration
@@ -1456,7 +1456,7 @@ Photorealistic natural crystal formation emerging from the ground [in a dark cav
 
 ## Chagall-style painting of Sacré-Cœur Basilica
 
-> Illüstrasyon üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> İllüstrasyon üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Generate an image of the Sacré-Cœur Basilica as a painting in the style of {argument name="artist" default="Chagall"}!
@@ -1472,7 +1472,7 @@ Generate an image of the Sacré-Cœur Basilica as a painting in the style of {ar
 
 ## Image Style Transfer: Converting Photo to Picasso's Cubism
 
-> Illüstrasyon üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
+> İllüstrasyon üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Take this (a painting of the Apollo Fountain at Versailles in the style of Monet's Water Lilies) and turn it into a painting like Picasso's Les Demoiselles d'Avignon!
@@ -1496,7 +1496,7 @@ Change the chair in front of the bathtub in the first image to the one in the se
 
 ## Image Style Transfer Prompt: Viking to Van Gogh's 'Starry Night' Style
 
-> Illüstrasyon üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
+> İllüstrasyon üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Take this image (photo of Viking) and change it into a painting like Van Gogh's Starry Night!
@@ -1522,7 +1522,7 @@ Transform the original photo into a dramatic, photorealistic, ultra-detailed set
 
 ## Style Transfer: Renoir's Piano Playing Girls
 
-> Illüstrasyon üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
+> İllüstrasyon üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Take this picture ({argument name="subject" default="photo of Viking"}) and change it into a painting like Renoir's 'Girls at the Piano'!
@@ -1558,7 +1558,7 @@ SFW. No nudity, no suggestive intent.
 
 ## 8K Fantasy Illustration of Floating Castle
 
-> Illüstrasyon üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> İllüstrasyon üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 {
@@ -1736,7 +1736,7 @@ A close-up, abstract shot captures a swirling, iridescent mixture of colors, res
 
 ## Hybrid Workflow for Scene and Pose Variation
 
-> Illüstrasyon üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> İllüstrasyon üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 This is a SFW AI-generated illustration, algorithm please be kind!
@@ -1850,7 +1850,7 @@ name: "Reality-First Prompt
 
 ## Inpainting with Nano Banana Pro and Drawthings
 
-> Illüstrasyon üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
+> İllüstrasyon üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 The banana wouldn't listen even when I put human characteristics into photos 1 and 2.
@@ -2004,7 +2004,7 @@ A surreal photo manipulation showing a detailed {argument name="animal pawprint"
 
 ## AI Haiga (Haiku Painting) Generation
 
-> Illüstrasyon üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> İllüstrasyon üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Bamboo shoots deep in the bamboo grove, borrowing a palanquin, by Kyohaku.
@@ -3012,7 +3012,7 @@ Specify a purple color scheme for the kimono and background color. Since the hea
 
 ## Cinderella Transformation AI Image Prompt
 
-> Illüstrasyon üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> İllüstrasyon üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Cinderella, wearing a magical glow, princess, before the clock strikes 12, dress, glass slippers, ball, light, sparkling, fantasy, anime style, high definition, hyper-detailed, {argument name="color scheme" default="blue and white"}
@@ -3188,7 +3188,7 @@ Upload your image 💫
 
 ## Abstract Expressionist Boxing Match
 
-> Illüstrasyon üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> İllüstrasyon üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 An Abstract Expressionist interpretation of the boxing match between the two intense figures, rendered in dynamic, sweeping gestures and thick impasto paint. Violent splatters of deep red, stark white, and urgent black dominate the canvas, capturing the raw, chaotic energy of the conflict. The figures are distorted into forms of pure kinetic stress and emotional fury, emphasizing texture and rapid movement over realistic depiction.
@@ -3196,7 +3196,7 @@ An Abstract Expressionist interpretation of the boxing match between the two int
 
 ## Assassin Style Conversion Prompt (Japanese)
 
-> Illüstrasyon üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
+> İllüstrasyon üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Shadows dancing in the moonlight!
@@ -6231,7 +6231,7 @@ An American-style person who looks like they would appear as a passerby in a Pix
 
 ## Tarot Card Conversion Prompt (Gothic/Art Nouveau Style)
 
-> Illüstrasyon üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
+> İllüstrasyon üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Convert your favorite illustration into the "{argument name="Arcana Name" default="Moon"}" Arcana!

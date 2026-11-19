@@ -9948,7 +9948,7 @@ Cinematic cool-tone lighting, overall cool-tone atmosphere, but accompanied by d
 
 ## LINE Sticker Sheet Generation Prompt
 
-> Illüstrasyon üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
+> İllüstrasyon üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Using the cat character in this attached image, please create a list image depicting {argument name="Number of Stickers" default="12 types"} of LINE stickers. Please create {argument name="Number of Stickers" default="12 types"} of sticker illustrations, each set with text.

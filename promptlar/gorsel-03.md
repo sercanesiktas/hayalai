@@ -43,7 +43,7 @@ I'm testing if I can create IT education manga. The subject is the concept of Mi
 
 ## Style Change Prompt for Damaged Areas: Lost Love Girls
 
-> Illüstrasyon üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> İllüstrasyon üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Lost Love Girls
@@ -136,7 +136,7 @@ Panel arrangement should not be uniform but irregular or free-form, while mainta
 
 ## Multi-Step Comic Generation with MJ and Nano Banana Pro
 
-> Illüstrasyon üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
+> İllüstrasyon üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Step 1: Generate a satisfactory base image:
@@ -1842,7 +1842,7 @@ A lone gunslinger on horseback rides through a dusty frontier town at golden hou
 
 ## Amusement Park Prompt Template for Character Placement
 
-> Illüstrasyon üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
+> İllüstrasyon üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 ~ Is "{argument name="your character" default="your character"}" at a theme park!? ~
@@ -2750,7 +2750,7 @@ Only overlay manga-style sound effect text.
 
 ## Visual story cartoon for a Moroccan Arabic joke
 
-> Illüstrasyon üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> İllüstrasyon üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 I want you to create a visual story cartoon for this joke:
@@ -6103,7 +6103,7 @@ Turn just the subject into a gold enamel pin. It's a minimal photo of the pin on
 
 ## Comparing ChatGPT 5.2 and Nano Banana 2 for Devilman modeling
 
-> Illüstrasyon üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
+> İllüstrasyon üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Please create a front-diagonal angle of the figure in the image. Respect and accurately reproduce the figure's details and color scheme based on the original design. The background should be white, the aspect ratio should be 1:1 square, and the size should be adjusted so that the entire figure fits comfortably within the frame.

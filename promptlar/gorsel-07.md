@@ -940,7 +940,7 @@ Please create a graphic record (grareco) about the art songs of the French compo
 
 ## Rainbow Illustration Description
 
-> Illüstrasyon üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> İllüstrasyon üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Memory of a rainbow
@@ -1289,7 +1289,7 @@ Please help me understand this paper. Mark important content (figures or formula
 
 ## Anime-style Graphic Recording from Web Search Results
 
-> Illüstrasyon üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> İllüstrasyon üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Search the internet for information about {argument name="company name" default="Mizukoshi Co., Ltd."} and create an anime-style graphic recording (grareco) where a {argument name="character" default="cat"} cheerfully explains the findings.
@@ -2260,7 +2260,7 @@ Make it feel like my thoughts are being organized.
 
 ## Squatty Potty whiteboard instructions
 
-> Illüstrasyon üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> İllüstrasyon üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 A detailed whiteboard illustration and instructions on how to properly use the Squatty Potty.
@@ -2378,7 +2378,7 @@ Create an image that summarizes the concept of basic income.
 
 ## Water Margin top 30 characters grid in gongbi style
 
-> Illüstrasyon üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> İllüstrasyon üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Generate an image of the top 30 characters from "Water Margin" in a grid format, in the style of Chinese gongbi painting, with each character’s name written in the lower‑right corner of their cell.
@@ -2464,7 +2464,7 @@ Each era should feel natural and together form a side-by-side time comparison im
 
 ## Textbook-style illustration for the poem “Linjiangxian”
 
-> Illüstrasyon üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> İllüstrasyon üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Generate a textbook-style teaching illustration for {argument name="poem_title_en" default="Yang Shen’s ‘Linjiangxian · The Rolling Yangtze River Flows East’"}.
@@ -2577,7 +2577,7 @@ Create a photo of all the ingredients of this dish, labeled with their names and
 
 ## Illustration explaining Kurzweil’s six epochs in Japanese
 
-> Illüstrasyon üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> İllüstrasyon üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Please create an image that explains Ray Kurzweil’s theory of the “six epochs” in Japanese.
@@ -2610,7 +2610,7 @@ Please create a banner for a disaster-preparedness drill.
 
 ## Crusader propaganda fresco (variant)
 
-> Illüstrasyon üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> İllüstrasyon üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Crusader propaganda art - fresco painting style.
@@ -2618,7 +2618,7 @@ Crusader propaganda art - fresco painting style.
 
 ## Bear safety instruction illustration in Japanese
 
-> Illüstrasyon üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> İllüstrasyon üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Please create illustrations that show the procedures for protecting yourself from bears. The people appearing in the illustrations should be Japanese. Please provide the explanations in Japanese.
@@ -2825,7 +2825,7 @@ Create an extraordinarily detailed, photorealistic cinematic image of a {argumen
 
 ## Object Replacement Inpainting Prompt
 
-> Illüstrasyon üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
+> İllüstrasyon üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Replace the magenta region with an object matching the size/shape/lighting of nearby {argument name="subject" default="subject"}, but in {argument name="color" default="color"}. Keep everything else unchanged.
@@ -2923,7 +2923,7 @@ The red dress should trail behind her in multiple layers, with different section
 
 ## Klimt Style Woman Summer Garden
 
-> Illüstrasyon üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> İllüstrasyon üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 painting in the style of {argument name="artist" default="Klimt"} of a {argument name="subject" default="woman wearing a large hat"} in a {argument name="setting" default="summer garden"}
@@ -3025,7 +3025,7 @@ image of a {argument name="subject" default="bowl of algae-flavored candies"} at
 
 ## Urban Anime Garden Illustration
 
-> Illüstrasyon üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> İllüstrasyon üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 {argument name="subject" default="Urban strawberry garden"}, anime illustration
@@ -3152,7 +3152,7 @@ A beautiful watercolor painting of a young woman with long, wavy dark hair, smil
 
 ## Song-to-Image Visualization
 
-> Illüstrasyon üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> İllüstrasyon üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 {argument name="song title" default="Welcome To The Jungle"} ({argument name="artist" default="Guns N' Roses"})
@@ -3641,7 +3641,7 @@ And dolphins and killer whales appeared?
 
 ## F-14D in the Style of a Western Religious Painting
 
-> Illüstrasyon üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> İllüstrasyon üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 an F-14D in the style of a Western religious painting
@@ -4815,7 +4815,7 @@ Restore this old photo into portrait of DLSR - quality colour and detail, using 
 
 ## Psychedelic Impasto Sunflower Abstract
 
-> Illüstrasyon üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> İllüstrasyon üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 A close-up, abstract depiction of a sunflower against a dark background. The sunflower's center is a swirling vortex of deep blues and greens, surrounded by a textured, dark brown ring. Its petals are a vibrant, metallic gold, radiating outwards. Splashes and drips of bright yellow, cyan, and pink paint surround the sunflower, creating a dynamic and energetic effect. Small, dark blue, berry-like shapes are scattered amongst the lower petals and paint splashes. The overall style is reminiscent of impasto painting with a psychedelic twist.
@@ -5655,7 +5655,7 @@ Fantasy hand-drawn watercolor illustration style. Traditional watercolor renderi
 
 ## Google Maps to Anime Panorama Conversion
 
-> Illüstrasyon üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
+> İllüstrasyon üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Make me a panorama of this location in an anime style
@@ -5663,7 +5663,7 @@ Make me a panorama of this location in an anime style
 
 ## Map to Anime Panorama Conversion
 
-> Illüstrasyon üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
+> İllüstrasyon üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Make me a panorama of this location in anime style.
@@ -5671,7 +5671,7 @@ Make me a panorama of this location in anime style.
 
 ## Debussy's 'En Bateau' in Monet Style Prompt
 
-> Illüstrasyon üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> İllüstrasyon üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Debussy
@@ -5700,7 +5700,7 @@ Transform it into a high-quality digital portrait featuring vibrant, updated col
 
 ## Image generation prompt for Nano Banana Pro: Monet's 'Boating' in an ethereal style
 
-> Illüstrasyon üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> İllüstrasyon üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Monet {argument name="theme" default="Boating"}
@@ -5757,7 +5757,7 @@ No hand.
 
 ## Caravaggio-style Moral Painting of Cheating at Mahjong
 
-> Illüstrasyon üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> İllüstrasyon üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Cheating theme

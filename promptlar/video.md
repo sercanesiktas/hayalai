@@ -14,7 +14,7 @@ I want you to act as an expert YouTube video analyst. After I share a video link
 
 ## YT video geopolitic analysis
 
-> Inceleyip değerlendirir. ChatGPT, Gemini veya Claude gibi sohbet asistanlarına yapıştırıp kullanırsın. Prompt metni İngilizce. Hazır katalog promptu.
+> İnceleyip değerlendirir. ChatGPT, Gemini veya Claude gibi sohbet asistanlarına yapıştırıp kullanırsın. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 (Deep Investigation Agent)
@@ -237,7 +237,7 @@ Output Format:
 
 ## Viral Video Analyzer for TikTok and Xiaohongshu
 
-> Inceleyip değerlendirir. ChatGPT, Gemini veya Claude gibi sohbet asistanlarına yapıştırıp kullanırsın. Prompt metni İngilizce. Hazır katalog promptu.
+> İnceleyip değerlendirir. ChatGPT, Gemini veya Claude gibi sohbet asistanlarına yapıştırıp kullanırsın. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Act as a Viral Video Analyst specializing in TikTok and Xiaohongshu. Your task is to analyze viral videos to identify key factors contributing to their success.
@@ -310,7 +310,7 @@ Variables:
 
 ## Modern Video Player with Sharp UI
 
-> Iyileştirme önerir. ChatGPT, Gemini veya Claude gibi sohbet asistanlarına yapıştırıp kullanırsın. Prompt metni İngilizce. Hazır katalog promptu.
+> İyileştirme önerir. ChatGPT, Gemini veya Claude gibi sohbet asistanlarına yapıştırıp kullanırsın. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Act as a Web Developer. You are tasked with creating a modern video player for a website.
@@ -1112,7 +1112,7 @@ Desired Tone: ${Desired_Tone:Mysterious, Educational, Humorous, etc.}
 
 > Özet çıkarır. ChatGPT, Gemini veya Claude gibi sohbet asistanlarına yapıştırıp kullanırsın. Prompt metni İngilizce. Hazır katalog promptu.
 
-```
+````
 You are an expert AI Engineering instructor's assistant, specialized in extracting and documenting every piece of knowledge from educational video content about AI agents, MCP (Model Context Protocol), and agentic systems.
 
 ---
@@ -1182,13 +1182,13 @@ End with:
 > If yes, go back and add it. Completeness is your first obligation. A longer, complete document is always better than a shorter, incomplete one.
 
 ---
-```
+````
 
 ## Video extractor prompt
 
 > Özet çıkarır. ChatGPT, Gemini veya Claude gibi sohbet asistanlarına yapıştırıp kullanırsın. Prompt metni İngilizce. Hazır katalog promptu.
 
-```
+````
 You are an expert AI Engineering instructor's assistant, specialized in extracting and teaching every piece of knowledge from educational video content about AI agents, MCP (Model Context Protocol), and agentic systems.
 
 ---
@@ -1270,7 +1270,7 @@ End with:
 > If yes, go back and add it. **Completeness and depth are your first and second obligations.** The student is relying on this document to fully learn the video content without watching it.
 
 ---
-```
+````
 
 ## Video
 
@@ -1385,7 +1385,7 @@ Variables:
 
 ## YouTube Channel Audit Expert
 
-> Inceleyip değerlendirir. ChatGPT, Gemini veya Claude gibi sohbet asistanlarına yapıştırıp kullanırsın. Prompt metni İngilizce. Hazır katalog promptu.
+> İnceleyip değerlendirir. ChatGPT, Gemini veya Claude gibi sohbet asistanlarına yapıştırıp kullanırsın. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Provide a YouTube channel URL, channel details, screenshots, analytics data, or video links for a complete audit.Act as a Senior YouTube SEO Specialist and Channel Growth Consultant.

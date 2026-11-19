@@ -692,7 +692,7 @@ Turn me into a {argument name="subject_en" default="Lego"} character.
 
 ## Kimetsu no Yaiba-style anime transformation with brush calligraphy
 
-> Illüstrasyon üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
+> İllüstrasyon üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Transform the user-uploaded image (photo or illustration) into a dramatic Japanese-inspired anime artwork. Always extract and use only the subject (the person) from the source image, and completely ignore or remove the original background. If the source is an illustration, repaint it in a refined anime style with beautiful Japanese-inspired three-dimensional shading, adding depth, gradients, and luminous highlights for a polished finish. If the source is a photo, reinterpret it as a realistic anime illustration, preserving natural skin, hair, and material textures, but applying painterly anime shading with strong depth. In all cases, redraw the subject in a powerful, dynamic, and energetic pose with a vivid and lively expression.
@@ -1500,7 +1500,7 @@ Daylight with a moody, shadowed quality.
 
 ## Stylized Donkey Face Painting
 
-> Illüstrasyon üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> İllüstrasyon üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 A close-up, stylized painting of a donkey's face. The donkey is {argument name="donkey color" default="gray"} with large, expressive ears and dark, round eyes. Its snout is prominent and painted in shades of white and gray, with black nostrils. A single, stylized {argument name="flower color" default="white"} flower with a dark red center is held delicately in the donkey's mouth, its stem extending to the lower right. The overall style is whimsical and painterly, with visible brushstrokes.
@@ -1524,7 +1524,7 @@ A {argument name="subject" default="young woman with fair skin and naturally sof
 
 ## Whimsical Ferret Ball Pit Illustration
 
-> Illüstrasyon üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> İllüstrasyon üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 a {argument name="animal" default="curious ferret"} joyfully playing in a {argument name="object" default="colorful plastic ballpit"}, dozens of bright red, blue, yellow, and green balls surrounding it, low angle view, soft even lighting, sharp focus on the ferret’s face, vibrant playful atmosphere, high detail, {argument name="style" default="whimsical illustration style"}
@@ -2775,7 +2775,7 @@ A {argument name="character" default="Taisho-era romantic girl"} presenting the 
 
 ## Taisho Era Girl Remote Work Presentation
 
-> Illüstrasyon üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> İllüstrasyon üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 A {argument name="character" default="Taisho-era romantic girl"} presenting the benefits of remote work in a remote meeting
@@ -2783,7 +2783,7 @@ A {argument name="character" default="Taisho-era romantic girl"} presenting the 
 
 ## Cartoon Skull with Gold Teeth
 
-> Illüstrasyon üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> İllüstrasyon üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 A cartoonish skull with {argument name="tooth detail" default="gold teeth"} and a cracked forehead is positioned in the foreground, tilted to the left. Behind it, a rainbow arches upwards, with a black star centered within its arc. The background is a solid {argument name="background color" default="pastel pink"}, and a wavy green line runs along the bottom edge of the image.
@@ -3440,7 +3440,7 @@ Photorealism. Ultra-photorealistic vertical 9:16 candid iPhone street selfie of 
 
 ## Girl Cycling City Illustration
 
-> Illüstrasyon üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> İllüstrasyon üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Girl cycling through a sunny city street, illustration style
@@ -4033,7 +4033,7 @@ a {argument name="location" default="Japanese suburb"} in the the {argument name
 
 > Fotogerçekçi, sinematik mimari görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
-```
+````
 Bathed in the soft, diffused luminance of an overcast afternoon, this cinematic portrait captures a moment of serene contemplation. The subject, adorned with flowing golden blonde waves, gazes thoughtfully out of an expansive glass window, her delicate features gently illuminated by the cool, natural light filtering through the glass. She is dressed in a minimalist, classic white scoop-neck tee that subtly catches the ambient moisture of the atmosphere, adding a layer of tactile realism to the composition. The interplay of light and shadow across her skin creates a sublime, velvety texture, reminiscent of high-end editorial photography. The background gracefully falls away into a beautiful, creamy bokeh, hinting at a cozy cafe interior while maintaining absolute focus on her expressive eyes and relaxed posture. Every detail, from the gentle resting of her hand against her chin to the subtle glints of light in her eyes, contributes to an evocative narrative of quiet solitude. It is a visual symphony of understated elegance and atmospheric depth, perfectly blending everyday realism with a refined, artistic sensibility that commands the viewer's attention.
 ```json
 {
@@ -4057,7 +4057,7 @@ Bathed in the soft, diffused luminance of an overcast afternoon, this cinematic 
     "lens_feel": "Smooth optical rendering characterized by a dreamlike bokeh dissolving background elements into atmospheric abstraction."
   }
 }
-```
+````
 
 ## 2000s Handheld Flash Snapshot
 

@@ -8457,7 +8457,7 @@ A chunky foam logo of {argument name="brand name" default="Brand Name"} in bold 
 
 ## Masterpiece Painting Reimagined as a Charcuterie Platter
 
-> Illüstrasyon üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> İllüstrasyon üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Act as a world class food expert and artist. 

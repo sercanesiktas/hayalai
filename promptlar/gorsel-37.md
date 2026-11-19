@@ -8178,7 +8178,7 @@ Classic "Olan Mills" studio aesthetic applied uniformly to all 9 panels. All bac
 
 ## Traditional Christmas Card Design
 
-> Illüstrasyon üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> İllüstrasyon üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 a faithfully illustrated Christmas card design featuring the couple in Christmas hats, and the text "{argument name="text" default="Happy Christmas 2025"}", it is friendly and traditional, with a classical design, in a winter wonderland
@@ -11311,7 +11311,7 @@ text:
 
 ## Realistic Hollywood Studio Set Behind-the-Scenes
 
-> Illüstrasyon üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> İllüstrasyon üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 A realistic behind-the-scenes photo of a typical Hollywood studio set. The scene features a cameraman and a boom microphone operator filming, while a costume designer and makeup artist adjust the astronauts' suits. In the background, a crew member operates a fog machine to create atmospheric haze. The astronauts are standing on a physical set piece featuring grass and mushrooms, which blends into a matte painting backdrop with a green screen visible in the far distance.
@@ -13428,7 +13428,7 @@ Make it naturally blend into everyday life, like riding a limousine, at the lati
 
 ## DomoAI Image Generation Prompt Comparison
 
-> Illüstrasyon üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> İllüstrasyon üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 A young man in his early twenties with short black hair and a gentle atmosphere. Standing on a winter night road, wearing a dark blue coat and a gray scarf. An anime-style illustration where he is looking at a small letter or bag with a soft expression. Snow is falling quietly, and the background is the blurred light of a winter city. A gentle atmosphere, delicate lines, and a feeling of Christmas warmth.

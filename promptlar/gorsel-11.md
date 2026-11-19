@@ -1117,7 +1117,7 @@ A soaring futuristic skyscraper tower dominating an urban skyline, its facade co
 
 ## Classic Anime Nerd Otaku in the Style of Currency
 
-> Illüstrasyon üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> İllüstrasyon üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 the classic Anime nerd Otaku in the style of a bill currency
@@ -1269,7 +1269,7 @@ Perfect alignment, balanced spacing
 
 ## Leprechaun Illustration with Custom Style
 
-> Illüstrasyon üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> İllüstrasyon üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 An illustration of a funny little {argument name="creature" default="leprechaun"} holding a mug of frothy beer, standing next to a pot of gold at the end of a rainbow. With text that reads, '{argument name="text overlay" default="I BRING BOTH THE MALARKEY AND THE SHENANIGANS"}'.
@@ -2509,7 +2509,7 @@ Skin Texture:
 
 ## Panoramic Cityscape in Qingming Festival Scroll Style (8:1 Aspect Ratio)
 
-> Illüstrasyon üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> İllüstrasyon üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 In the style of 'Along the River During the Qingming Festival,' draw a genre painting of a modern [{argument name="city" default="city"}], 8:1 aspect ratio, 2K.
@@ -2517,7 +2517,7 @@ In the style of 'Along the River During the Qingming Festival,' draw a genre pai
 
 ## Detailed Illustration Prompt for Street Scene
 
-> Illüstrasyon üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
+> İllüstrasyon üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 You are a professional illustrator.
@@ -3830,7 +3830,7 @@ A hyper-detailed folded-paper blueprint of SpiderMan where the character is cons
 
 ## Image Manipulation Prompt for Advertising Placement
 
-> Illüstrasyon üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
+> İllüstrasyon üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Maintain the texture without changing the art style. Crop and apply the {argument name="element to insert" default="○○○"} from the second image to the blue advertising space of the first image. Display "{argument name="text to display" default="□□□"}" above the illustration using a {argument name="font style" default="△△△"} font.

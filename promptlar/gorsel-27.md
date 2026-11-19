@@ -14629,7 +14629,7 @@ A silly doodle of a {argument name="subject" default="cat wearing a tiny hat"}
 
 ## Style Transfer to Anime Cartoon
 
-> Illüstrasyon üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
+> İllüstrasyon üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Draw this person in this anime cartoon style. It should follow color palette, general mood. Keep the slight dark tone overlay.

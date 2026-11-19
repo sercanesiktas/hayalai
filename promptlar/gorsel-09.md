@@ -358,7 +358,7 @@ Output {argument name="number of patterns" default="4"} patterns based on the at
 
 ## Cute Character Walking Illustration
 
-> Illüstrasyon üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> İllüstrasyon üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Kopokopo☺️ Kopokopo☺️ Rukutan is good at walking (っ ◜ω◝ c) is good at walking (っ ◜ω◝ c)✨
@@ -1185,7 +1185,7 @@ A striking portrait of the subject in the uploaded image rendered in the style o
 
 ## Prompt to disable NanoBananaPro's image generation suggestion
 
-> Illüstrasyon üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> İllüstrasyon üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 I am a text-based AI. Shall I provide you with code to create illustrations using Midjourney or DALL_3?
@@ -2817,7 +2817,7 @@ Put in flowers or decorate with flowers
 
 ## Anime Style AI Image Generation Prompt for Deep Sea Fantasy
 
-> Illüstrasyon üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> İllüstrasyon üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Deep sea, starry sky, horoscope, galaxy, wetsuit, floating, fantasy
@@ -4204,7 +4204,7 @@ Create an image that corresponds to the following moment: {argument name="coordi
 
 ## Cartoon version of an existing image
 
-> Illüstrasyon üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
+> İllüstrasyon üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Generate a cartoon version of this image. Maintain the consistency and coherence of the image
@@ -4212,7 +4212,7 @@ Generate a cartoon version of this image. Maintain the consistency and coherence
 
 ## Childlike crayon-style family camping drawing
 
-> Illüstrasyon üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
+> İllüstrasyon üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Keep all other elements in the image exactly as they are, and change only the drawing on the sheet of paper to a different style.
@@ -4224,7 +4224,7 @@ Change the drawing into a style like an elementary school student’s crayon dra
 
 ## Naive doodle-style subject illustration
 
-> Illüstrasyon üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> İllüstrasyon üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 A doodle‑style illustration of {argument name="subject_en" default="[subject]"}, with naive lines and humorous exaggeration of shapes.
@@ -4375,7 +4375,7 @@ A pixelated video game character is trying to climb out of the TV screen into th
 
 ## Cute chibi cat-eared girl illustration
 
-> Illüstrasyon üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> İllüstrasyon üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Generate an illustration of a cute cat-eared girl. Make her in a chibi style, wearing frilly clothes, with long {argument name="hair_color_en" default="pink"} hair.
@@ -4400,7 +4400,7 @@ Take the clothing from the reference and change my clothing to match it
 
 ## Dream diary with Kirby blowing bubbles
 
-> Illüstrasyon üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> İllüstrasyon üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Dream diary. A pink Kirby lying asleep on a star, blowing rainbow-colored bubbles from its mouth. Soft macaron color palette, cloud and candy stickers, glittery crayon-like details, dreamy and sweet.
@@ -4694,7 +4694,7 @@ Create a high-quality, editorial-style photoshoot of the same man as in the refe
 
 ## Ink painting style Abé-chan with a sword
 
-> Illüstrasyon üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> İllüstrasyon üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Abe-chan in ink-painting style, holding a sword in a ready stance seen from the side.
@@ -4702,7 +4702,7 @@ Abe-chan in ink-painting style, holding a sword in a ready stance seen from the 
 
 ## Chalk drawing of an illustration on a classroom blackboard
 
-> Illüstrasyon üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
+> İllüstrasyon üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Draw the illustration on a blackboard with chalk, using colored chalk. The blackboard is photographed from a diagonal angle, in the setting of a Japanese classroom. The blackboard is fixed to the wall with a teacher’s desk in front of it. Next to the illustration, also in chalk, write “{argument name="blackboard_text_en" default="Tora has arrived!"}”.
@@ -4818,7 +4818,7 @@ Remove the women from the photos and put {argument name="celebrity_1" default="L
 
 ## Opposite camera view of anime girl by the river
 
-> Illüstrasyon üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
+> İllüstrasyon üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 change the camera view to behind, keep her looking at the river, opposite camera view
@@ -5006,7 +5006,7 @@ Please infer one page of a monochrome manga from this illustration. It's a Japan
 
 ## Formula graph on whiteboard
 
-> Illüstrasyon üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
+> İllüstrasyon üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Draw the formula on the whiteboard, with its graph shown underneath the formula.
@@ -5014,7 +5014,7 @@ Draw the formula on the whiteboard, with its graph shown underneath the formula.
 
 ## Hieronymus Bosch-style AI future painting
 
-> Illüstrasyon üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> İllüstrasyon üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 generate a Hieronymus Bosch–style painting of the state of AI in 2025
@@ -5079,7 +5079,7 @@ Build a Space Fly game with this person as the main character. They steer the sh
 
 ## Tang Xuanzang journey route in Rick and Morty style
 
-> Illüstrasyon üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> İllüstrasyon üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Generate an image to illustrate the route of Tang Xuanzang traveling from Chang'an to the Western Regions to obtain scriptures, using Chinese text. The image should be vertical and in the style of Rick and Morty.
@@ -5244,7 +5244,7 @@ In multiple panels, create {argument name="pathways_en" default="IL-2, IL-4, IL-
 
 ## Cartoon-to-realistic transformation
 
-> Illüstrasyon üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> İllüstrasyon üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Create a cartoon of something and then ask for the realistic version of it.
@@ -5367,7 +5367,7 @@ Decrease the bounce rate of {argument name="page_url_en" default="https://t.co/C
 
 ## GARP biology for Tregs illustration
 
-> Illüstrasyon üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> İllüstrasyon üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Draw an illustration of {argument name="topic_en" default="GARP biology for Tregs"}.
@@ -5503,7 +5503,7 @@ Replace the blonde with {argument name="person_1_en" default="Sydney Sweeney"} a
 
 ## Where’s Waldo Star Wars scene
 
-> Illüstrasyon üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> İllüstrasyon üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 A Where’s Waldo-style image showing all Star Wars characters on Tatooine

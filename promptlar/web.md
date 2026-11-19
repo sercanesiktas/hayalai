@@ -75,7 +75,7 @@ Variables:
 
 ## Xiaomi Company Self-Service Management System Frontend Development
 
-> Iyileştirme önerir. ChatGPT, Gemini veya Claude gibi sohbet asistanlarına yapıştırıp kullanırsın. Prompt metni İngilizce. Hazır katalog promptu.
+> İyileştirme önerir. ChatGPT, Gemini veya Claude gibi sohbet asistanlarına yapıştırıp kullanırsın. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Act as a Frontend Developer. You are tasked with creating the front-end for Xiaomi's self-service management system. Your responsibilities include:
@@ -110,7 +110,7 @@ Please create a single fully functional HTML monitoring HTML, for a linux ubuntu
 
 ## Linux Monitoring Dashboard with React
 
-> Iyileştirme önerir. ChatGPT, Gemini veya Claude gibi sohbet asistanlarına yapıştırıp kullanırsın. Prompt metni İngilizce. Hazır katalog promptu.
+> İyileştirme önerir. ChatGPT, Gemini veya Claude gibi sohbet asistanlarına yapıştırıp kullanırsın. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Act as a Frontend Developer. You are tasked with creating a real-time monitoring dashboard for a Linux Ubuntu server running on a MacBook using React. Your dashboard should:
@@ -129,7 +129,7 @@ Rules:
 
 ## Website Security Vulnerability Checker
 
-> Inceleyip değerlendirir. ChatGPT, Gemini veya Claude gibi sohbet asistanlarına yapıştırıp kullanırsın. Prompt metni İngilizce. Hazır katalog promptu.
+> İnceleyip değerlendirir. ChatGPT, Gemini veya Claude gibi sohbet asistanlarına yapıştırıp kullanırsın. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Act as a Website Security Auditor. You are an expert in cybersecurity with extensive experience in identifying and mitigating security vulnerabilities.
@@ -228,7 +228,7 @@ Variables:
 
 ## Frontend Developer Skill
 
-> Iyileştirme önerir. ChatGPT, Gemini veya Claude gibi sohbet asistanlarına yapıştırıp kullanırsın. Prompt metni İngilizce. Hazır katalog promptu.
+> İyileştirme önerir. ChatGPT, Gemini veya Claude gibi sohbet asistanlarına yapıştırıp kullanırsın. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 # Frontend Developer
@@ -320,7 +320,7 @@ Your goal is to create frontend experiences that are blazing fast, accessible to
 
 ## Next.js React Comprehensive Clash of Clans Tool
 
-> Iyileştirme önerir. ChatGPT, Gemini veya Claude gibi sohbet asistanlarına yapıştırıp kullanırsın. Prompt metni İngilizce. Hazır katalog promptu.
+> İyileştirme önerir. ChatGPT, Gemini veya Claude gibi sohbet asistanlarına yapıştırıp kullanırsın. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Act as a Next.js and React Developer. You are tasked with building a comprehensive tool for Clash of Clans enthusiasts. This tool should integrate features for formation copying, strategy teaching, and community discussion.
@@ -422,7 +422,7 @@ Variables:
 
 ## SEO Strategy for Container Tracking Keywords
 
-> Iyileştirme önerir. ChatGPT, Gemini veya Claude gibi sohbet asistanlarına yapıştırıp kullanırsın. Prompt metni İngilizce. Hazır katalog promptu.
+> İyileştirme önerir. ChatGPT, Gemini veya Claude gibi sohbet asistanlarına yapıştırıp kullanırsın. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Act as an SEO Content Strategist. Your task is to optimize content for the keyword 'container tracking' to achieve a top 3 ranking on search engines.
@@ -469,7 +469,7 @@ Variables:
 
 ## Networking Engineer Portfolio Website
 
-> Iyileştirme önerir. ChatGPT, Gemini veya Claude gibi sohbet asistanlarına yapıştırıp kullanırsın. Prompt metni İngilizce. Hazır katalog promptu.
+> İyileştirme önerir. ChatGPT, Gemini veya Claude gibi sohbet asistanlarına yapıştırıp kullanırsın. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Act as a Web Developer specializing in creating portfolio websites for professionals in the networking engineering field. You are tasked with designing and building a comprehensive and visually appealing portfolio website for a networking engineer.
@@ -501,7 +501,7 @@ Variables to consider:
 
 ## Develop a Modern Website for Sporsmaç Using React Native
 
-> Iyileştirme önerir. ChatGPT, Gemini veya Claude gibi sohbet asistanlarına yapıştırıp kullanırsın. Prompt metni İngilizce. Hazır katalog promptu.
+> İyileştirme önerir. ChatGPT, Gemini veya Claude gibi sohbet asistanlarına yapıştırıp kullanırsın. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Act as a React Native Developer. You are tasked with developing a modern, professional, and technologically advanced website for Sporsmaç, a sports startup specializing in basketball infrastructure leagues. This website should be responsive and integrate seamlessly with their existing mobile application.
@@ -522,9 +522,9 @@ Consider using additional libraries and tools specific to React Native to enhanc
 
 ## seo-fundamentals
 
-> Iyileştirme önerir. ChatGPT, Gemini veya Claude gibi sohbet asistanlarına yapıştırıp kullanırsın. Prompt metni İngilizce. Hazır katalog promptu.
+> İyileştirme önerir. ChatGPT, Gemini veya Claude gibi sohbet asistanlarına yapıştırıp kullanırsın. Prompt metni İngilizce. Hazır katalog promptu.
 
-```
+````
 ---
 name: seo-fundamentals
 description: SEO fundamentals, E-E-A-T, Core Web Vitals, and 2025 Google algorithm updates
@@ -674,7 +674,7 @@ Elements:
 ---
 
 **Last Updated:** 2025-12-30
-```
+````
 
 ## Custom Logo Design for Website
 
@@ -701,7 +701,7 @@ Variables:
 
 ## Act as an Electron Frontend Developer
 
-> Iyileştirme önerir. ChatGPT, Gemini veya Claude gibi sohbet asistanlarına yapıştırıp kullanırsın. Prompt metni İngilizce. Hazır katalog promptu.
+> İyileştirme önerir. ChatGPT, Gemini veya Claude gibi sohbet asistanlarına yapıştırıp kullanırsın. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Act as an Electron Frontend Developer. You are an expert in building desktop applications using Electron, focusing on frontend development.
@@ -721,7 +721,7 @@ Use variables such as ${projectName}, ${framework:React}, and ${feature} to cust
 
 ## Web App for Task Management and Scheduling
 
-> Iyileştirme önerir. ChatGPT, Gemini veya Claude gibi sohbet asistanlarına yapıştırıp kullanırsın. Prompt metni İngilizce. Hazır katalog promptu.
+> İyileştirme önerir. ChatGPT, Gemini veya Claude gibi sohbet asistanlarına yapıştırıp kullanırsın. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Act as a Web Developer specializing in task management applications. You are tasked with creating a web app that enables users to manage tasks through a weekly calendar and board view.
@@ -767,7 +767,7 @@ Rules:
 
 ## Frontend Developer
 
-> Iyileştirme önerir. ChatGPT, Gemini veya Claude gibi sohbet asistanlarına yapıştırıp kullanırsın. Prompt metni İngilizce. Hazır katalog promptu.
+> İyileştirme önerir. ChatGPT, Gemini veya Claude gibi sohbet asistanlarına yapıştırıp kullanırsın. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 ---
@@ -1065,7 +1065,7 @@ Output format:
 
 ## Develop a Live Video Streaming Website
 
-> Iyileştirme önerir. ChatGPT, Gemini veya Claude gibi sohbet asistanlarına yapıştırıp kullanırsın. Prompt metni İngilizce. Hazır katalog promptu.
+> İyileştirme önerir. ChatGPT, Gemini veya Claude gibi sohbet asistanlarına yapıştırıp kullanırsın. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Act as a website development expert. You are tasked with creating a fully functional live video streaming website similar to Flingster or MyFreeCams. Your task is to design, develop, and deploy a platform that provides:
@@ -1089,7 +1089,7 @@ Variables:
 
 ## The Elite SEO Blog Architect & Ghostwriter
 
-> Iyileştirme önerir. ChatGPT, Gemini veya Claude gibi sohbet asistanlarına yapıştırıp kullanırsın. Prompt metni İngilizce. Hazır katalog promptu.
+> İyileştirme önerir. ChatGPT, Gemini veya Claude gibi sohbet asistanlarına yapıştırıp kullanırsın. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 I want you to act as an Elite SEO Content Strategist and Expert Ghostwriter. I will provide you with a core topic, a primary keyword, and the target audience. Your goal is to write a comprehensive, highly engaging, and structurally perfect blog post.
@@ -1113,7 +1113,7 @@ Target Audience: ${Target_Audience}
 
 > Sınıflandırma yapar. ChatGPT, Gemini veya Claude gibi sohbet asistanlarına yapıştırıp kullanırsın. Prompt metni İngilizce. Hazır katalog promptu.
 
-```
+````
 Act as a Full-Stack Developer specialized in sales funnels. Your task is to build a production-ready sales funnel application using React Flow. Your application will:
 
 - Initialize using Vite with a React template and integrate @xyflow/react for creating interactive, node-based visualizations.
@@ -1173,11 +1173,11 @@ export default function App() {
   );
 }
 ```
-```
+````
 
 ## Landing Page Copy Architect – Conversion Framework Prompt
 
-> Inceleyip değerlendirir. ChatGPT, Gemini veya Claude gibi sohbet asistanlarına yapıştırıp kullanırsın. Prompt metni İngilizce. Hazır katalog promptu.
+> İnceleyip değerlendirir. ChatGPT, Gemini veya Claude gibi sohbet asistanlarına yapıştırıp kullanırsın. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Landing Page Copy Architect – Conversion Framework Prompt
@@ -1345,7 +1345,7 @@ End with this line, customized:
 
 ## Internal Linking SEO Assistant
 
-> Iyileştirme önerir. ChatGPT, Gemini veya Claude gibi sohbet asistanlarına yapıştırıp kullanırsın. Prompt metni İngilizce. Hazır katalog promptu.
+> İyileştirme önerir. ChatGPT, Gemini veya Claude gibi sohbet asistanlarına yapıştırıp kullanırsın. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Act as an AI-powered SEO assistant specialized in internal linking strategy, semantic relevance analysis, and contextual content generation.
@@ -1665,7 +1665,7 @@ knowledge_anchors:
 
 ## Frontend Developer Agent Role
 
-> Iyileştirme önerir. ChatGPT, Gemini veya Claude gibi sohbet asistanlarına yapıştırıp kullanırsın. Prompt metni İngilizce. Hazır katalog promptu.
+> İyileştirme önerir. ChatGPT, Gemini veya Claude gibi sohbet asistanlarına yapıştırıp kullanırsın. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 # Frontend Developer
@@ -1939,7 +1939,7 @@ Good frontend implementations:
 
 ## SEO Auditor Agent Role
 
-> Iyileştirme önerir. ChatGPT, Gemini veya Claude gibi sohbet asistanlarına yapıştırıp kullanırsın. Prompt metni İngilizce. Hazır katalog promptu.
+> İyileştirme önerir. ChatGPT, Gemini veya Claude gibi sohbet asistanlarına yapıştırıp kullanırsın. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 # SEO Optimization Request
@@ -2654,7 +2654,7 @@ Good SEO optimization deliverables:
 
 > Analiz yapar. ChatGPT, Gemini veya Claude gibi sohbet asistanlarına yapıştırıp kullanırsın. Prompt metni İngilizce. Hazır katalog promptu.
 
-```
+````
 ---
 name: website-design-recreator-skill
 description: This skill enables AI agents to recreate website designs based on user-uploaded image inspirations, ensuring a blend of original style and personal touches.
@@ -2704,11 +2704,11 @@ This skill enables the agent to recreate website designs based on user-uploaded 
 - Use interactive elements to enhance user engagement.
 - Keep the design coherent with the original inspiration.
 - Enhance the original image based on the inspiration without copying fully.
-```
+````
 
 ## Claude Opus as SEO Auditor
 
-> Inceleyip değerlendirir. ChatGPT, Gemini veya Claude gibi sohbet asistanlarına yapıştırıp kullanırsın. Prompt metni İngilizce. Hazır katalog promptu.
+> İnceleyip değerlendirir. ChatGPT, Gemini veya Claude gibi sohbet asistanlarına yapıştırıp kullanırsın. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 You are a senior Technical SEO Auditor, UX QA Lead, CRO Consultant, Front-End QA Specialist, and Content Quality Reviewer.
@@ -3005,7 +3005,7 @@ Implement a "Light Scattering" effect where each ember acts as a tiny light sour
 
 ## Modern Web Development Assistant
 
-> Iyileştirme önerir. ChatGPT, Gemini veya Claude gibi sohbet asistanlarına yapıştırıp kullanırsın. Prompt metni İngilizce. Hazır katalog promptu.
+> İyileştirme önerir. ChatGPT, Gemini veya Claude gibi sohbet asistanlarına yapıştırıp kullanırsın. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Act as an expert full-stack web developer and UI/UX designer. Help me build modern, responsive, and professional websites using HTML, CSS, JavaScript, React, Node.js, and databases when needed. Generate clean, optimized, and well-structured code with proper comments and best practices.
@@ -3013,7 +3013,7 @@ Act as an expert full-stack web developer and UI/UX designer. Help me build mode
 
 ## Dota 2 Hero Stats and Builds Website Design
 
-> Iyileştirme önerir. ChatGPT, Gemini veya Claude gibi sohbet asistanlarına yapıştırıp kullanırsın. Prompt metni İngilizce. Hazır katalog promptu.
+> İyileştirme önerir. ChatGPT, Gemini veya Claude gibi sohbet asistanlarına yapıştırıp kullanırsın. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Act as a Web Designer and Developer specializing in game-related content. Your task is to design and develop a website for Dota 2 that includes: 
@@ -3493,9 +3493,9 @@ I want to learn about various ai and websites which are free to use and knownly 
 
 ## Universal Instructions for React / Next.js Projects
 
-> Inceleyip değerlendirir. ChatGPT, Gemini veya Claude gibi sohbet asistanlarına yapıştırıp kullanırsın. Prompt metni İngilizce. Hazır katalog promptu.
+> İnceleyip değerlendirir. ChatGPT, Gemini veya Claude gibi sohbet asistanlarına yapıştırıp kullanırsın. Prompt metni İngilizce. Hazır katalog promptu.
 
-```
+````
 # Universal Instructions for React / Next.js Projects
 
 > Purpose: General rules for developing various projects with React + TypeScript, Next.js + TypeScript, and Tailwind CSS.
@@ -4326,7 +4326,7 @@ In the final response, state:
 - which risks remain.
 
 Keep the report concise and honest.
-```
+````
 
 ## High-Ranking SEO Content Creator
 
@@ -4524,7 +4524,7 @@ I can also create a **complete working e-commerce website from this prompt** and
 
 > Belge hazırlar. ChatGPT, Gemini veya Claude gibi sohbet asistanlarına yapıştırıp kullanırsın. Prompt metni İngilizce. Hazır katalog promptu.
 
-```
+````
 Act as a Web Developer. You are tasked with creating a simple and visually appealing HTML page for a partner. Your task is to create an interactive page that displays a beautiful message when clicked.
 
 You will:
@@ -4567,5 +4567,5 @@ Example:
 </body>
 </html>
 ```
-```
+````
 

@@ -214,7 +214,7 @@ A Renaissance-style oil painting portrait of an {argument name="subject" default
 
 ## Anime Graphic Novel Man Illustration
 
-> Illüstrasyon üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> İllüstrasyon üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Anime graphic novel @ image illustration, hyper-detailed linework, cel-shading. High-angle bird's-eye view, looking down at a {argument name="subject" default="confident man looking up"}. Wearing {argument name="clothing" default="round yellow-tinted glasses, open dark navy oversized jacket, loose white shirt, tan wide-leg trousers, brown boots, diagonal bag strap"}. Wind-blown hair. {argument name="background" default="Vivid electric yellow background with energy burst, floating shattered teal stone fragments, jagged yellow lightning fractures"}. Flat overhead lighting, bold ink outlines, dynamic complementary color palette.
@@ -664,7 +664,7 @@ A stylized anime-inspired cinematic character sheet set in a {argument name="env
 
 ## Anime Boy and Piplup Adventure Sheet
 
-> Illüstrasyon üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> İllüstrasyon üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 A heartwarming, slice-of-life anime-style illustration sheet depicting the daily adventures and close bond between a {argument name="character" default="young man"} and his Pokémon partner, {argument name="pokemon" default="Piplup"}. The {argument name="character" default="young man"} has messy, dark black hair and an athletic build, appearing in various casual outfits like hoodies, t-shirts, and a workout tank top. Piplup is depicted with highly expressive, cute, and sometimes comical expressions.
@@ -751,7 +751,7 @@ Ultra realistic cinematic anime-style nighttime portrait in a rainy dark courtya
 
 ## Horse Racing Winner Illustration
 
-> Illüstrasyon üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> İllüstrasyon üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 {argument name="race" default="Oaks"} {argument name="number" default="No. 16"} {argument name="horse" default="Juryoku Pierrot"} wins first place
@@ -823,7 +823,7 @@ A minimalist character portrait sketch sheet in a clean, "{argument name="style"
 
 ## Fluorescent Comic Book Monster Encounter
 
-> Illüstrasyon üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> İllüstrasyon üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 A {argument name="character" default="young girl"} with {argument name="hair color" default="blue"} hair and a distressed expression stands in front of a giant, {argument name="monster color" default="fluorescent pink"} stitched monster with fluorescent yellow eyes and a wide, toothy grin. The monster's mouth is fluorescent green, revealing large, blocky teeth. The girl wears a brightly colored, polka dot-patterned t-shirt in fluorescent pink, green, and yellow and has fluorescent pink and green pigtails. The overall style is reminiscent of a comic book or graphic novel, with bold outlines and vibrant, contrasting fluorescent pink, green, and yellow colors dominating the scene. The background is a solid fluorescent yellow-green color.
@@ -845,7 +845,7 @@ By {argument name="author" default="Napoleon"}
 
 ## Boho-Chic Positive Vibes Sticker Sheet
 
-> Illüstrasyon üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> İllüstrasyon üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 A vibrant sticker sheet illustration featuring a beautiful, smiling {argument name="subject" default="young woman with long, braided brown hair adorned with flowers"}. She is wearing a {argument name="clothing" default="colorful, tiered bohemian dress with teal, pink, and yellow patterns"}. Surrounding her are smaller chibi-style versions of herself in various poses, each paired with a whimsical text banner: blowing a kiss ("your aura is a rainbow"), holding a rainbow umbrella ("dare to shine brighter"), holding a basket of fruit ("harvest happiness"), writing in a journal ("tell your own story"), meditating ("mindful moments"), and playing an acoustic guitar ("strum a new tune"). The overall aesthetic is {argument name="style" default="cheerful, artistic, and bohemian"}, with a warm, floral background.
@@ -1043,7 +1043,7 @@ the {argument name="character" default="princess Rapunzel"} performs her {argume
 
 ## Whimsical Pineapple House Illustration
 
-> Illüstrasyon üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> İllüstrasyon üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 a whimsical {argument name="subject" default="pineapple house"} with carved windows and a tiny wooden door, a tiny {argument name="character" default="gnome in a pointed red hat"} stands at the doorstep, lush garden with oversized flowers and mushrooms around, stylized storybook illustration, soft warm lighting, pastel color palette, centered composition on a plain light background
@@ -1083,7 +1083,7 @@ hyper realistic elegant older vampire detective walking through crowded cyberpun
 
 ## Picture Book Style Raccoon Characters
 
-> Illüstrasyon üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> İllüstrasyon üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 {argument name="subject" default="two raccoon characters"} in the style of a {argument name="art style" default="picture book"}
@@ -1207,7 +1207,7 @@ Vibrant, chaotic, fast-paced, cinematic, humorous
 
 ## Whimsical Purple Hippo Illustration
 
-> Illüstrasyon üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> İllüstrasyon üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 A whimsical illustration features a {argument name="subject" default="large, purple hippopotamus"} partially submerged in {argument name="water color" default="turquoise water"}. The hippo's head and snout are prominent, with large, expressive eyes and a wide, pink mouth. A small, {argument name="bird" default="blue bird"} perches on top of the hippo's head. A school of small, pink fish swims around the hippo. The overall style is flat and graphic, with a textured, painterly quality.
@@ -1522,7 +1522,7 @@ A photorealistic macro photograph of a {argument name="subject" default="miniatu
 
 ## Anime Crossover Warriors Illustration
 
-> Illüstrasyon üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> İllüstrasyon üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 A full-body, high-impact anime illustration featuring three powerful warriors on a shattered rock platform, combining the intense, detailed style of Dragon Ball Z/Super with the kinetic energy and modern tech-aesthetic of My Hero Academia. Centered is a {argument name="center character" default="Super Saiyan Blue warrior"} with spiky blue hair and glowing red eyes, in a shredded blue gi, enveloped by an intricate, glowing magical blue sigil and electric lightning. To his left, stands the explosive hero {argument name="left character" default="Katsuki Bakugo"} in his orange, black, and green hero suit, holding his classic crouching pose, surrounded by explosive orange effects and splash-art graphics. To his right stands an Ascended Warrior with massive silver hair, a purple gi, and red belt, contained within a large, vibrant green alchemical circle and toxic green aura. The scene is a maelstrom of cosmic and explosive energy, floating debris, and particle effects, set against a dark, power-charged sky.
@@ -2030,7 +2030,7 @@ Please create an image based on {argument name="content" default="how I have tre
 
 ## Magical fantasy world illustration
 
-> Illüstrasyon üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> İllüstrasyon üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 {argument name="theme" default="Magical Fantasy World (Land of Witches)"}
@@ -2232,7 +2232,7 @@ Style: {argument name="art style" default="Marvel comics meets The Great British
 
 ## Anime Couple Vector Illustration
 
-> Illüstrasyon üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> İllüstrasyon üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 A detailed character illustration prompt for a cute anime couple in matching dark blue outfits, suitable for vector-style art.
@@ -3076,7 +3076,7 @@ A cinematic portrait of a serious man use image for face reference looking at hi
 
 ## Static Image Generation from Anime Prompt
 
-> Illüstrasyon üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> İllüstrasyon üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Anime prompt for "{argument name="title" default="Sharon, the Out-of-Control Girl!"}" (『ハチャメチャ暴走娘シャロン！』)
@@ -3314,7 +3314,7 @@ god-level details: steampunk-inspired macro photography angle, warm tungsten lig
 
 ## Operation Epic Furry Illustration Prompt
 
-> Illüstrasyon üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> İllüstrasyon üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Draw an illustration that captures the essence of the war between Iran and the United States & Israel as if the name of the operation was 'Operation Epic Furry.'
@@ -3322,7 +3322,7 @@ Draw an illustration that captures the essence of the war between Iran and the U
 
 ## Lego Racer on Exploding Volcano Slope
 
-> Illüstrasyon üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> İllüstrasyon üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Lego racer minifigure driving at full speed down a jungle volcano slope, lava explosion behind lighting the kart in orange glow, hot rocks raining down, cartoonish panic face and comic urgency, stylized as action blockbuster LEGO scene.
@@ -3673,7 +3673,7 @@ A hand-drawn treasure map on aged parchment, with the adventure erupting into th
 
 ## Monster Hunter Alatreon Battle Scene
 
-> Illüstrasyon üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> İllüstrasyon üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Background: Scorching heat
@@ -5249,7 +5249,7 @@ Create a brand visual storyboard for presenting your product with Nano Banana Pr
 
 ## 2000s OVA Style High School Girl Monster Hunt
 
-> Illüstrasyon üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> İllüstrasyon üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Output image is 2x2 four-panel split
@@ -6023,7 +6023,7 @@ Man should be fully visible
 
 > Logo üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
 
-```
+````
 You are a "professional manga writer" and "AI Art Director". Based on the [Character Image] and [Theme] I provide, please create a **10-page manga generation prompt sequence that can be used directly with NanoBananaPro (high-performance image generation AI)**.
 
 ## Production Requirements (NanoBananaPro Hybrid Optimized)
@@ -6096,7 +6096,7 @@ Small clear text "X" in the bottom-right corner.
 ## Panel 1 (Top-Right):
 - Visual: [English description of the scene and action]
 - Text: "[Japanese Dialogue]"
-```
+````
 
 ## Nostalgic Memory Narrative Grid Prompt
 
@@ -6407,7 +6407,7 @@ I want to know the flow of GE's financial business from entry to withdrawal” �
 
 > Elle çizilmiş logo üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
 
-```
+````
 You are a "Professional Manga Writer" and "AI Art Director."
 Based on the [Character Image] and [Theme] I provide, please create **10 pages of manga generation prompts that can be used directly with NanoBananaPro (high-performance image generation AI)**.
 
@@ -6496,7 +6496,7 @@ Draw the number "X" in a small, clear font in the bottom right corner of the ima
 Upon receiving an image (or instructions for an image) from the user, first reply with **"I have confirmed the character image."**
 Next, determine if the image is [Live-Action] or [Illustration] and present a **"Draft Art Style Definition Prompt"** based on that determination.
 2. Story idea proposals (5 total)
-```
+````
 
 ## High-Concept 3D Diorama Prompt for Movies and Games
 

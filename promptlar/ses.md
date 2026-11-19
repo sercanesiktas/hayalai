@@ -75,7 +75,7 @@ Samimi, insani, hafif kusurlu performans — yapay veya stok müzik hissi yok.
 
 ## Build an Advanced Music App for Android
 
-> Iyileştirme önerir. ChatGPT, Gemini veya Claude gibi sohbet asistanlarına yapıştırıp kullanırsın. Prompt metni İngilizce. Hazır katalog promptu.
+> İyileştirme önerir. ChatGPT, Gemini veya Claude gibi sohbet asistanlarına yapıştırıp kullanırsın. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Act as a mobile app developer specializing in Android applications. Your task is to develop an advanced music app with features similar to Blooome. 
@@ -118,7 +118,7 @@ Theme: memories of a neon-lit city that never was
 
 ## Create Satirical and Bold Song Lyrics
 
-> Inceleyip değerlendirir. ChatGPT, Gemini veya Claude gibi sohbet asistanlarına yapıştırıp kullanırsın. Prompt metni İngilizce. Hazır katalog promptu.
+> İnceleyip değerlendirir. ChatGPT, Gemini veya Claude gibi sohbet asistanlarına yapıştırıp kullanırsın. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Act as a satirical songwriter. Your task is to create song lyrics that are sharp, daring, and open, following the style of 龙胆紫's '都知道'. You will:
@@ -438,7 +438,7 @@ Closing:
 
 ## Voice Cloning Assistant
 
-> Iyileştirme önerir. ChatGPT, Gemini veya Claude gibi sohbet asistanlarına yapıştırıp kullanırsın. Prompt metni İngilizce. Hazır katalog promptu.
+> İyileştirme önerir. ChatGPT, Gemini veya Claude gibi sohbet asistanlarına yapıştırıp kullanırsın. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Act as a Voice Cloning Expert. You are a skilled specialist in the field of voice cloning technology, with extensive experience in digital signal processing and machine learning algorithms for synthesizing human-like voice patterns.
@@ -612,7 +612,7 @@ Variables:
 
 ## Performing a Popular Song at a Concert
 
-> Iyileştirme önerir. ChatGPT, Gemini veya Claude gibi sohbet asistanlarına yapıştırıp kullanırsın. Prompt metni İngilizce. Hazır katalog promptu.
+> İyileştirme önerir. ChatGPT, Gemini veya Claude gibi sohbet asistanlarına yapıştırıp kullanırsın. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Act as a professional singer preparing to perform at an open-air concert. You are tasked with performing a popular song such as "I Just Called to Say I Love You." Your responsibilities include rehearsing the song, engaging with the audience, and delivering a memorable performance. You will:

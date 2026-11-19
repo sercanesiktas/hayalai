@@ -275,7 +275,7 @@ Based on the image, add stunning microscopic city artwork.
 
 ## Christmas Tree Disaster Action Freeze (Tom and Jerry Style)
 
-> Illüstrasyon üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
+> İllüstrasyon üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Transform this photo into a holiday living room scene. Keep the subject's face and body exactly as they are, reaching up to place a star on top of a Christmas tree.
@@ -2223,7 +2223,7 @@ Trompe l'oeil illusion of {argument name="subject_en" default="a subject"} in {a
 
 ## LINE sticker set from an attached illustration
 
-> Illüstrasyon üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
+> İllüstrasyon üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Turn the illustration in the attached image into a character. Create LINE stickers with {argument name="sticker_count_en" default="16"} variations, differing in expressions, poses, and including phrases.
@@ -2257,7 +2257,7 @@ A physicist on a hammock, with a glass and an S.P.A. Only their legs without sho
 
 ## Chalkboard king rabbit illustration at sunset
 
-> Illüstrasyon üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> İllüstrasyon üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 On the classroom blackboard, draw a chalk illustration of a rabbit king and also write the text "うさ王様参上！" (The Rabbit King has arrived!). Show a real classroom scene with sunset light streaming in through the window from a diagonal angle.

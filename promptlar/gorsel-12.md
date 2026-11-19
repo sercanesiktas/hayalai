@@ -109,7 +109,7 @@ Layout Prompt Multilingual Version]
 
 ## New Year's Card Illustration with Seven Lucky Gods Costume Swap
 
-> Illüstrasyon üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
+> İllüstrasyon üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Please set the image size to "{argument name="image size" default="Horizontal postcard size (aspect ratio 3:2)"}".
@@ -1079,7 +1079,7 @@ Hyperrealistic fantasy portrait of a powerful dark sorcerer casting a red energy
 
 ## Realistic Character Snow Sculpture Generation
 
-> Illüstrasyon üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
+> İllüstrasyon üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 [Settings]
@@ -1202,7 +1202,7 @@ Romantic Starry Night style. Asking it to create a scientist-themed poster achie
 
 ## Image-to-Snow Sculpture Conversion Prompt for Nano Banana Pro
 
-> Illüstrasyon üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
+> İllüstrasyon üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 【Settings】
@@ -2177,7 +2177,7 @@ Based on the reference image, render the scene as a 3D pointillism sculpture mad
 
 ## Handwritten Graffiti Message for Favorite Idol
 
-> Illüstrasyon üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
+> İllüstrasyon üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Create an image with a texture simulating a printout, overlaid with extensive, handwritten Japanese 'brain messages' (graffiti) directed at a favorite idol. Multiple pen colors may be used freely. The content of the writing should be supportive, grateful, exciting, and encouraging messages to the idol; they should be bright, positive, long messages with detailed illustrations. Do not graffiti on the idol's face.
@@ -3532,7 +3532,7 @@ interior_style:
 
 ## Medieval winter scene in old book set in Pereira, Colombia
 
-> Illüstrasyon üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> İllüstrasyon üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Country: {argument name="country" default="Colombia"}
@@ -3574,7 +3574,7 @@ An image of a woodblock print, in the style of the Edo period, showing a charact
 
 ## Where’s Waldo-style LOTR in the Shire
 
-> Illüstrasyon üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> İllüstrasyon üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 A Where’s Waldo-style image showing all {argument name="franchise_en" default="Lord of the Rings"} characters in the {argument name="location_en" default="Shire"}.
@@ -3606,7 +3606,7 @@ A majestic, translucent blue whale, made of seawater with visible fish schools i
 
 ## Bookstore POP display with acrylic marker illustration
 
-> Illüstrasyon üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> İllüstrasyon üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Draw the illustration with acrylic markers, using various colors of acrylic markers. Since it is a POP display, photograph it so it is visible from the front, in a bookstore scene. The POP is displayed in front of the new books and stands out more than the other books, and in the lower right of the illustration, write “{argument name="signature_en" default="neko no shippo"}”.

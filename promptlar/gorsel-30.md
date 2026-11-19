@@ -8575,7 +8575,7 @@ Shot on Canon EOS R5 with 50mm f/1.4, full-body ultra-realistic, hyper-detailed 
 
 ## Voluptuous Tattooed Woman on Beach Prompt
 
-> Illüstrasyon üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> İllüstrasyon üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 {
@@ -10736,7 +10736,7 @@ description": "A young woman with red hair and freckles is crouching on illumina
 
 ## Nano Banana Pro Prompt for 'Scramble Spring' Fan Art
 
-> Illüstrasyon üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> İllüstrasyon üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Scramble Spring

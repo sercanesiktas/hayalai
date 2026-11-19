@@ -158,7 +158,7 @@ Generate an image in the style of a modern anime movie, but only change the girl
 
 ## Cat drinking cola illustration
 
-> Illüstrasyon üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> İllüstrasyon üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Generate an image of a cat drinking Coca-Cola
@@ -258,7 +258,7 @@ Generate a 9-image “photo dump” grid of this person’s weekend: a mirror se
 
 ## Classical Chinese poem illustration with text (duplicate)
 
-> Illüstrasyon üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> İllüstrasyon üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Create an illustration based on the following classical Chinese poem, and include the original text in the image.
@@ -299,7 +299,7 @@ Put this whole text, verbatim, into a photo of a glossy magazine article on a de
 
 ## Classical Chinese poem illustration with text
 
-> Illüstrasyon üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> İllüstrasyon üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Create an illustration based on the following classical Chinese poem, and include the original text in the image.
@@ -326,7 +326,7 @@ The emperor of Han prized beauty and longed for a peerless consort, ruling the r
 
 ## Illustration based on the poem “Song of Everlasting Regret”
 
-> Illüstrasyon üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> İllüstrasyon üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Based on the following classical poem, draw an illustration and include the original text.
@@ -401,7 +401,7 @@ Draw a hero image for {argument name="product_name_en" default="Nano Banana Pro"
 
 ## Futurama-style spaceship and warning signs
 
-> Illüstrasyon üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> İllüstrasyon üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Create an image of a cartoon still from a Futurama-like show about the future where a spaceship floats in front of about {argument name="number_of_signs_en" default="29"} signs telling it to go away
@@ -577,7 +577,7 @@ Draw a hero/header image for Nano Banana Pro that matches Google Nano Banana’s
 
 ## Illustration based on “Song of Everlasting Regret”
 
-> Illüstrasyon üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> İllüstrasyon üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Illustrate the following classical poem and include the full original text in the image.
@@ -799,7 +799,7 @@ Design a main ecommerce detail page image for a lemon-flavored sparkling water c
 
 ## Chinese poetic and crossover character prompts
 
-> Illüstrasyon üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> İllüstrasyon üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 给这句古诗词配图“落霞与孤鹜齐飞，秋水共长天一色”。
@@ -856,7 +856,7 @@ The impossible image: "Create a clock with the hand showing 12:30."
 
 ## Edo-period Ukiyo-e reinterpretation of a modern scene
 
-> Illüstrasyon üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> İllüstrasyon üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 A Japanese Edo-period Ukiyo-e woodblock print. The overall feeling is a surreal collaboration between masters like Hokusai and Hiroshige, reimagining modern technology through an ancient lens.
@@ -2182,7 +2182,7 @@ A cinematic, high-fidelity {argument name="scene" default="portrait of a young w
 
 ## Sa'idi Egyptian Woman Vector Illustration
 
-> Illüstrasyon üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> İllüstrasyon üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 {argument name="style" default="Flat vector illustration"}, side profile of a {argument name="subject" default="Sa'idi Egyptian woman"}, featureless face, wearing a long black tarha (headscarf) decorated with flat silver Tally embroidery patterns, geometric triangles and stars rendered as flat metallic dots.
@@ -3303,7 +3303,7 @@ A high-fashion editorial collage of a stylish East Asian woman at a {argument na
 
 ## Light Novel Style Comic Cover
 
-> Illüstrasyon üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> İllüstrasyon üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 {argument name="title" default="Using Experience"}, {argument name="style" default="Light novel cover style"}
@@ -4977,7 +4977,7 @@ Edit this photo without changing face, turning it an artistic portrait. The male
 
 ## Pop Art Silhouette Splatter
 
-> Illüstrasyon üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> İllüstrasyon üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 This image features a highly stylized silhouette profile of a young man with {argument name="hair style" default="tousled, dark hair"} and round glasses, set against a {argument name="background color" default="vibrant, saturated red"} background. The aesthetic leans heavily into a modern pop-art and street-art fusion, characterized by explosive, dynamic paint splatters in {argument name="splatter colors" default="electric purple and bright yellow"} that appear to trail off the subject’s head and shoulders, suggesting movement or a creative "burst" of thought.

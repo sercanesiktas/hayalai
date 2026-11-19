@@ -1345,7 +1345,7 @@ A close-up portrait of a {argument name="subject" default="young male sitting ce
 
 ## High-Quality Anime Style Colorization
 
-> Illüstrasyon üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
+> İllüstrasyon üretmek için hazır prompt. Kendi fotoğrafını yükleyerek kullanılır: bu prompt bir REFERANS GÖRSEL ister. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 Please create a 2026-quality digital animation-style color image that faithfully reproduces the line art and composition of the illustration. Reproduce the character's color scheme with {argument name="character color scheme" default="blonde hair, fair skin, blue eyes, and clothing consisting of a white jacket and a black button-down shirt"}. The background should be {argument name="background" default="black"}, and the lighting should be {argument name="lighting" default="a light source from diagonally above with dim light"}, along with added highlights. Please reproduce with a 1:1 aspect ratio and adjust the color tone to create a tense mood.
@@ -4204,7 +4204,7 @@ photorealistic portrait of a beautiful young woman in her early 20s with long st
 
 ## Japanese Hoodlum Anime Fairy
 
-> Illüstrasyon üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> İllüstrasyon üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 a {argument name="style" default="Japanese-style hoodlum"} {argument name="subject" default="Anime fairy"}
@@ -5404,7 +5404,7 @@ Background softly blurred with warm amber tones, shallow depth of field, dramati
 
 ## Aquarius Camus Style Meteor Shower
 
-> Illüstrasyon üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> İllüstrasyon üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
 {argument name="theme" default="Aquarius meteor shower"}
