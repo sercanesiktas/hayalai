@@ -137,8 +137,8 @@ siteden çıkmadan çalıştırıp çıktısını görebilirsin.
 | [**ISTATISTIK.md**](ISTATISTIK.md) | Veri setinin sayıları: tür, kategori, araç dağılımı, prompt uzunluğu, difüzyonun beceremediği %20 |
 | [**SAGLAYICI-NOTLARI.md**](SAGLAYICI-NOTLARI.md) | Saha notları: hangi model yüzü koruyor, ücretsiz katmanlar gerçekte ne veriyor, görsel başına maliyet, saatlere mal olan tuzaklar |
 | [**uretim/**](uretim/) | Veri setini üreten betikler: kategori seçimi, araç ataması, Türkçe açıklama çıkarımı, CSV ve markdown üretimi |
-| [**karakter-testi/**](karakter-testi/) | Görsel modeller Türkçe harfleri (ş, ğ, ı, İ…) doğru yazabiliyor mu: test seti ve OCR puanlayıcı |
-| [**mcp/**](mcp/) | Claude, Cursor gibi araçlardan kütüphanede arama yapan MCP sunucusu |
+| [**karakter-testi**](https://github.com/sercanesiktas/karakter-testi) | Görsel modellerin Türkçe harfleri (ş, ğ, ı, İ) doğru yazıp yazmadığını ölçen test seti |
+| [**hayalai-mcp**](https://github.com/sercanesiktas/hayalai-mcp) | Kütüphanede Claude, Cursor gibi araçlardan arama yapan MCP sunucusu |
 | [**LISANS-KAYNAKLAR.md**](LISANS-KAYNAKLAR.md) | Promptların geldiği kataloglar ve lisans metinleri |
 | [**CONTRIBUTING.md**](CONTRIBUTING.md) | Prompt eklemek, hata bildirmek, koda katkı |
 
