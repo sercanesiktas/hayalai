@@ -1,0 +1,122 @@
+[
+  {
+    "id": "harf-01",
+    "grup": "tek-harf",
+    "metin": "ığüşöç İĞÜŞÖÇ",
+    "prompt": "A plain wooden shop sign with the exact text \"ığüşöç İĞÜŞÖÇ\" written in clear bold sans-serif letters, white background, centered, high contrast, flat front view, no other text."
+  },
+  {
+    "id": "harf-02",
+    "grup": "tek-harf",
+    "metin": "çğıöşü",
+    "prompt": "A plain wooden shop sign with the exact text \"çğıöşü\" written in clear bold sans-serif letters, white background, centered, high contrast, flat front view, no other text."
+  },
+  {
+    "id": "harf-03",
+    "grup": "tek-harf",
+    "metin": "İĞÜŞÖÇ",
+    "prompt": "A plain wooden shop sign with the exact text \"İĞÜŞÖÇ\" written in clear bold sans-serif letters, white background, centered, high contrast, flat front view, no other text."
+  },
+  {
+    "id": "kelime-01",
+    "grup": "kelime",
+    "metin": "ışık",
+    "prompt": "A plain wooden shop sign with the exact text \"ışık\" written in clear bold sans-serif letters, white background, centered, high contrast, flat front view, no other text."
+  },
+  {
+    "id": "kelime-02",
+    "grup": "kelime",
+    "metin": "ağaç",
+    "prompt": "A plain wooden shop sign with the exact text \"ağaç\" written in clear bold sans-serif letters, white background, centered, high contrast, flat front view, no other text."
+  },
+  {
+    "id": "kelime-03",
+    "grup": "kelime",
+    "metin": "çiçek",
+    "prompt": "A plain wooden shop sign with the exact text \"çiçek\" written in clear bold sans-serif letters, white background, centered, high contrast, flat front view, no other text."
+  },
+  {
+    "id": "kelime-04",
+    "grup": "kelime",
+    "metin": "göçmen",
+    "prompt": "A plain wooden shop sign with the exact text \"göçmen\" written in clear bold sans-serif letters, white background, centered, high contrast, flat front view, no other text."
+  },
+  {
+    "id": "kelime-05",
+    "grup": "kelime",
+    "metin": "Şişli",
+    "prompt": "A plain wooden shop sign with the exact text \"Şişli\" written in clear bold sans-serif letters, white background, centered, high contrast, flat front view, no other text."
+  },
+  {
+    "id": "kelime-06",
+    "grup": "kelime",
+    "metin": "KÜÇÜKÇEKMECE",
+    "prompt": "A plain wooden shop sign with the exact text \"KÜÇÜKÇEKMECE\" written in clear bold sans-serif letters, white background, centered, high contrast, flat front view, no other text."
+  },
+  {
+    "id": "kelime-07",
+    "grup": "kelime",
+    "metin": "ÇIĞLIK",
+    "prompt": "A plain wooden shop sign with the exact text \"ÇIĞLIK\" written in clear bold sans-serif letters, white background, centered, high contrast, flat front view, no other text."
+  },
+  {
+    "id": "kelime-08",
+    "grup": "kelime",
+    "metin": "İSTANBUL",
+    "prompt": "A plain wooden shop sign with the exact text \"İSTANBUL\" written in clear bold sans-serif letters, white background, centered, high contrast, flat front view, no other text."
+  },
+  {
+    "id": "kelime-09",
+    "grup": "kelime",
+    "metin": "ÖĞRETMEN",
+    "prompt": "A plain wooden shop sign with the exact text \"ÖĞRETMEN\" written in clear bold sans-serif letters, white background, centered, high contrast, flat front view, no other text."
+  },
+  {
+    "id": "kelime-10",
+    "grup": "kelime",
+    "metin": "kuşburnu",
+    "prompt": "A plain wooden shop sign with the exact text \"kuşburnu\" written in clear bold sans-serif letters, white background, centered, high contrast, flat front view, no other text."
+  },
+  {
+    "id": "cift-01",
+    "grup": "i-ı çifti",
+    "metin": "Işık ile İnci",
+    "prompt": "A plain wooden shop sign with the exact text \"Işık ile İnci\" written in clear bold sans-serif letters, white background, centered, high contrast, flat front view, no other text."
+  },
+  {
+    "id": "cift-02",
+    "grup": "i-ı çifti",
+    "metin": "ılık süt",
+    "prompt": "A plain wooden shop sign with the exact text \"ılık süt\" written in clear bold sans-serif letters, white background, centered, high contrast, flat front view, no other text."
+  },
+  {
+    "id": "cift-03",
+    "grup": "i-ı çifti",
+    "metin": "İzmir Isparta",
+    "prompt": "A plain wooden shop sign with the exact text \"İzmir Isparta\" written in clear bold sans-serif letters, white background, centered, high contrast, flat front view, no other text."
+  },
+  {
+    "id": "cumle-01",
+    "grup": "cümle",
+    "metin": "Günaydın, bugün hava çok güzel",
+    "prompt": "A plain wooden shop sign with the exact text \"Günaydın, bugün hava çok güzel\" written in clear bold sans-serif letters, white background, centered, high contrast, flat front view, no other text."
+  },
+  {
+    "id": "cumle-02",
+    "grup": "cümle",
+    "metin": "Çocuklar parkta oynuyor",
+    "prompt": "A plain wooden shop sign with the exact text \"Çocuklar parkta oynuyor\" written in clear bold sans-serif letters, white background, centered, high contrast, flat front view, no other text."
+  },
+  {
+    "id": "cumle-03",
+    "grup": "cümle",
+    "metin": "Şehir merkezine yürüyerek gidebilirsiniz",
+    "prompt": "A plain wooden shop sign with the exact text \"Şehir merkezine yürüyerek gidebilirsiniz\" written in clear bold sans-serif letters, white background, centered, high contrast, flat front view, no other text."
+  },
+  {
+    "id": "cumle-04",
+    "grup": "cümle",
+    "metin": "Öğle yemeği saat on ikide",
+    "prompt": "A plain wooden shop sign with the exact text \"Öğle yemeği saat on ikide\" written in clear bold sans-serif letters, white background, centered, high contrast, flat front view, no other text."
+  }
+]
