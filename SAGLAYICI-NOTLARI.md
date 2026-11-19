@@ -216,11 +216,6 @@ Tutulmaya değer kurallar:
 
 ---
 
-
----
-
----
-
 <p align="center">
   <a href="https://hayalai.app"><b>hayalai.app</b></a> yapılırken tutuldu
 </p>

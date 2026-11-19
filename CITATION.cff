@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "Bu veri setini kullanırsan aşağıdaki gibi anabilirsin."
+title: "HayalAI: Türkçe açıklamalı prompt veri seti"
+type: dataset
+authors:
+  - family-names: "Eşiktaş"
+    given-names: "Sercan"
+repository-code: "https://github.com/sercanesiktas/hayalai"
+url: "https://hayalai.app"
+license: MIT
+date-released: 2026-11-19
+keywords:
+  - prompt
+  - türkçe
+  - yapay zeka
+  - görsel üretim
+  - chatgpt

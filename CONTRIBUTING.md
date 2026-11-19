@@ -6,24 +6,10 @@ En kolay yol **[hayalai.app](https://hayalai.app)** — üye ol, promptunu
 yayınla. Örnek çıktısıyla birlikte vitrinde görünür, istersen satışa da
 çıkarırsın.
 
-Doğrudan veri setine eklemek istersen:
-
-1. Promptun hangi kategoriye girdiğine bak (`README.md` → Kategoriler)
-2. `promptlar/<kategori>.md` dosyasına aşağıdaki biçimde ekle
-3. Pull request aç
-
-```markdown
-## Promptun adı
-
-> Ne yaptığını anlatan tek cümle. Türkçe.
-
-​```
-Promptun tam metni.
-​```
-```
-
-`prompts.csv` dosyasına elle dokunma — o, markdown dosyalarından üretiliyor
-(bkz. `uretim/`).
+Veri setine doğrudan eklemek istersen **issue aç** ([prompt önerisi](https://github.com/sercanesiktas/hayalai/issues/new?template=prompt-onerisi.md)
+şablonu var). `prompts.csv` ve `promptlar/` dosyaları betiklerle üretiliyor (bkz.
+`uretim/`), elle yapılan değişiklik bir sonraki üretimde silinir. Önerini kontrol
+edip ekliyorum.
 
 ### Prompt neye benzemeli
 

@@ -20,6 +20,7 @@
 
 <p align="center">
   <a href="#-kategoriler">📚 Promptlara göz at</a> •
+  <a href="https://sercanesiktas.github.io/hayalai/">🔎 Ara</a> •
   <a href="prompts.csv">📄 Tüm veri (CSV)</a> •
   <a href="https://hayalai.app">✨ Örnek çıktılarıyla gör</a> •
   <a href="SAGLAYICI-NOTLARI.md">🔧 Saha notları</a> •
@@ -42,7 +43,8 @@ anlamak için önce İngilizce metni okumana gerek yok.
 | Göz at | Veri olarak al |
 |---|---|
 | [Kategori kategori](#-kategoriler) | [`prompts.csv`](prompts.csv) — 17.086 satır |
-| [hayalai.app](https://hayalai.app) — örnek çıktılarıyla | `title, category, type, tool, description_tr, prompt` |
+| [Arama sayfası](https://sercanesiktas.github.io/hayalai/) — başlık ve açıklamada arar | `title, category, type, tool, description_tr, prompt` |
+| [hayalai.app](https://hayalai.app) — örnek çıktılarıyla | |
 
 Promptların ne ürettiğini **görmek** istiyorsan
 [hayalai.app](https://hayalai.app): her görsel promptun örneği gerçekten o
@@ -50,11 +52,32 @@ promptla üretildi — internetten bulunmuş süs görseli değil.
 
 ---
 
+## Günün promptu
+
+<!-- gunun-promptu:basla -->
+**19 Kasım 2026:** Write an Email
+
+> Metin yazar. ChatGPT, Gemini veya Claude gibi sohbet asistanlarına yapıştırıp kullanırsın. Prompt metni İngilizce. Hazır katalog promptu.
+
+```
+Write a ${tone:professional|friendly} email to ${recipient} about ${topic}.
+
+The email should:
+- Be approximately ${length:200} words
+- Include a clear call to action
+- Use ${language:English} language
+```
+
+<sub>Önceki günler: [gunun-promptu/](gunun-promptu/)</sub>
+<!-- gunun-promptu:bitis -->
+
+---
+
 ## 📚 Kategoriler
 
 | Kategori | Prompt | Dosyalar |
 |---|---:|---|
-| 🎨 **Görsel** | 14,947 | [1](promptlar/gorsel-01.md) · [2](promptlar/gorsel-02.md) · [3](promptlar/gorsel-03.md) · [4](promptlar/gorsel-04.md) · [5](promptlar/gorsel-05.md) · [6](promptlar/gorsel-06.md) · [7](promptlar/gorsel-07.md) · [8](promptlar/gorsel-08.md) … [38] |
+| 🎨 **Görsel** | 14,947 | [1](promptlar/gorsel-01.md) · [2](promptlar/gorsel-02.md) · [3](promptlar/gorsel-03.md) · [4](promptlar/gorsel-04.md) · [5](promptlar/gorsel-05.md) · [6](promptlar/gorsel-06.md) · [7](promptlar/gorsel-07.md) · [8](promptlar/gorsel-08.md) · [9](promptlar/gorsel-09.md) · [10](promptlar/gorsel-10.md) … [38](promptlar/gorsel-38.md) |
 | ✍️ **Metin** | 1,813 | [1](promptlar/metin-01.md) · [2](promptlar/metin-02.md) · [3](promptlar/metin-03.md) · [4](promptlar/metin-04.md) · [5](promptlar/metin-05.md) |
 | 💻 **Kod** | 159 | [aç](promptlar/kod.md) |
 | 🌐 **Web** | 57 | [aç](promptlar/web.md) |
@@ -66,6 +89,11 @@ promptla üretildi — internetten bulunmuş süs görseli değil.
 
 > Görsel kategorisi 38 dosyaya bölündü: GitHub 1 MB üstündeki markdown'ı
 > kırpıyor, tek dosya olsa yarısı görünmezdi.
+
+Tablodaki sayılar kategoriye göre. `prompts.csv` içindeki `type` alanına göre
+ise 14.947 `image` ve 2.139 `text` var: kod, web, video, pazarlama, ses,
+tasarım ve mobil promptları metin türünde, yani sohbet asistanına
+yapıştırılıyor (1.813 + 159 + 57 + 33 + 31 + 21 + 15 + 10 = 2.139).
 
 ---
 
@@ -108,15 +136,20 @@ siteden çıkmadan çalıştırıp çıktısını görebilirsin.
 |---|---|
 | [**ISTATISTIK.md**](ISTATISTIK.md) | Veri setinin sayıları: tür, kategori, araç dağılımı, prompt uzunluğu, difüzyonun beceremediği %20 |
 | [**SAGLAYICI-NOTLARI.md**](SAGLAYICI-NOTLARI.md) | Saha notları: hangi model yüzü koruyor, ücretsiz katmanlar gerçekte ne veriyor, görsel başına maliyet, saatlere mal olan tuzaklar |
-| [**uretim/**](uretim/) | Veri setini üreten betikler — kategori seçimi, araç ataması, Türkçe açıklama çıkarımı |
+| [**uretim/**](uretim/) | Veri setini üreten betikler: kategori seçimi, araç ataması, Türkçe açıklama çıkarımı, CSV ve markdown üretimi |
+| [**LISANS-KAYNAKLAR.md**](LISANS-KAYNAKLAR.md) | Promptların geldiği kataloglar ve lisans metinleri |
 | [**CONTRIBUTING.md**](CONTRIBUTING.md) | Prompt eklemek, hata bildirmek, koda katkı |
 
 ---
 
 ## Lisans
 
-MIT. Prompt metinlerinin kaynağı CC0 ve MIT lisanslı açık kataloglar;
-Türkçe açıklamalar HayalAI tarafından yazıldı.
+Depodaki betikler ve Türkçe açıklamalar MIT. Metin promptları
+[prompts.chat](https://github.com/f/awesome-chatgpt-prompts) kataloğundan
+(CC0), görsel promptlar
+[YouMind-OpenLab/ai-image-prompts-skill](https://github.com/YouMind-OpenLab/ai-image-prompts-skill)
+kataloğundan (MIT) geliyor. Lisans metinleri
+[LISANS-KAYNAKLAR.md](LISANS-KAYNAKLAR.md) dosyasında.
 
 <p align="center">
   <a href="https://hayalai.app"><b>hayalai.app</b></a><br>

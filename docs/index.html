@@ -1,0 +1,203 @@
+<!doctype html>
+<html lang="tr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>HayalAI prompt arama</title>
+<meta name="description" content="17 bin Türkçe açıklamalı promptta arama: görsel, metin, kod, web, video ve daha fazlası.">
+<style>
+  :root {
+    --bg: #ffffff;
+    --yazi: #1d1b2e;
+    --soluk: #6b6880;
+    --cizgi: #e4e1f0;
+    --kart: #f7f6fc;
+    --vurgu: #6b58e8;
+    color-scheme: light dark;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --bg: #14121f;
+      --yazi: #ece9fb;
+      --soluk: #9a97b3;
+      --cizgi: #2b2840;
+      --kart: #1b1830;
+      --vurgu: #9c8cff;
+    }
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    background: var(--bg);
+    color: var(--yazi);
+    font: 16px/1.5 system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+  }
+  main { max-width: 760px; margin: 0 auto; padding: 32px 16px 64px; }
+  h1 { font-size: 1.6rem; margin: 0 0 4px; }
+  .alt { color: var(--soluk); margin: 0 0 20px; }
+  .alt a { color: var(--vurgu); }
+  form { display: grid; gap: 8px; grid-template-columns: 1fr 1fr; margin-bottom: 16px; }
+  input, select {
+    font: inherit;
+    color: inherit;
+    background: var(--kart);
+    border: 1px solid var(--cizgi);
+    border-radius: 8px;
+    padding: 10px 12px;
+    width: 100%;
+  }
+  input[type=search] { grid-column: 1 / -1; font-size: 1.05rem; }
+  input:focus, select:focus { outline: 2px solid var(--vurgu); outline-offset: 1px; }
+  #sayi { color: var(--soluk); font-size: .9rem; margin: 0 0 12px; }
+  ul { list-style: none; margin: 0; padding: 0; display: grid; gap: 10px; }
+  li { border: 1px solid var(--cizgi); border-radius: 10px; padding: 12px 14px; background: var(--kart); }
+  li a { color: inherit; font-weight: 600; text-decoration: none; }
+  li a:hover { color: var(--vurgu); text-decoration: underline; }
+  li p { margin: 4px 0 8px; color: var(--soluk); font-size: .92rem; }
+  .etiket {
+    display: inline-block;
+    font-size: .75rem;
+    border: 1px solid var(--cizgi);
+    border-radius: 999px;
+    padding: 1px 9px;
+    margin-right: 6px;
+    color: var(--soluk);
+  }
+  button {
+    display: block;
+    margin: 18px auto 0;
+    font: inherit;
+    color: var(--bg);
+    background: var(--vurgu);
+    border: 0;
+    border-radius: 8px;
+    padding: 10px 20px;
+    cursor: pointer;
+  }
+  button[hidden] { display: none; }
+  @media (max-width: 480px) { form { grid-template-columns: 1fr; } }
+</style>
+</head>
+<body>
+<main>
+  <h1>HayalAI prompt arama</h1>
+  <p class="alt">
+    <span id="toplam">…</span> prompt. Başlıkta ve Türkçe açıklamada arar.
+    <a href="https://github.com/sercanesiktas/hayalai">GitHub</a> ·
+    <a href="https://hayalai.app">hayalai.app</a>
+  </p>
+
+  <form onsubmit="return false">
+    <input id="q" type="search" placeholder="Ara: portre, logo, SEO, midjourney…" autofocus>
+    <select id="kategori" aria-label="Kategori"><option value="">Tüm kategoriler</option></select>
+    <select id="arac" aria-label="Araç"><option value="">Tüm araçlar</option></select>
+  </form>
+
+  <p id="sayi" aria-live="polite"></p>
+  <ul id="liste"></ul>
+  <button id="daha" hidden>Daha fazla göster</button>
+</main>
+
+<script>
+const TABAN = 'https://github.com/sercanesiktas/hayalai/blob/main/promptlar/';
+const SAYFA = 40;
+
+const KATEGORI = {
+  gorsel: 'Görsel', metin: 'Metin', kod: 'Kod', web: 'Web', video: 'Video',
+  pazarlama: 'Pazarlama', ses: 'Ses', tasarim: 'Tasarım', mobil: 'Mobil'
+};
+const ARAC = {
+  'chatgpt-gorsel': 'ChatGPT (görsel)', 'gemini-gorsel': 'Gemini (görsel)', chatgpt: 'ChatGPT',
+  midjourney: 'Midjourney', firefly: 'Firefly', 'stable-diffusion': 'Stable Diffusion',
+  ideogram: 'Ideogram', leonardo: 'Leonardo'
+};
+
+const q = document.getElementById('q');
+const kategori = document.getElementById('kategori');
+const arac = document.getElementById('arac');
+const liste = document.getElementById('liste');
+const sayi = document.getElementById('sayi');
+const daha = document.getElementById('daha');
+
+let veri = [];
+let eslesen = [];
+let gosterilen = 0;
+
+// Türkçe harfleri sadeleştir ki "isim" yazınca "İsim" de bulunsun.
+function duzle(s) {
+  return s
+    .replace(/İ/g, 'i').replace(/I/g, 'ı')
+    .toLowerCase()
+    .replace(/ı/g, 'i').replace(/ş/g, 's').replace(/ğ/g, 'g')
+    .replace(/ü/g, 'u').replace(/ö/g, 'o').replace(/ç/g, 'c');
+}
+
+function secenekDoldur(secici, sozluk, kullanilan) {
+  Object.keys(sozluk).filter(k => kullanilan.has(k)).forEach(k => {
+    const o = document.createElement('option');
+    o.value = k;
+    o.textContent = sozluk[k];
+    secici.appendChild(o);
+  });
+}
+
+function ara() {
+  const kelimeler = duzle(q.value.trim()).split(/\s+/).filter(Boolean);
+  eslesen = veri.filter(r =>
+    (!kategori.value || r.k === kategori.value) &&
+    (!arac.value || r.a === arac.value) &&
+    kelimeler.every(w => r.ara.includes(w))
+  );
+  gosterilen = 0;
+  liste.textContent = '';
+  sayi.textContent = eslesen.length.toLocaleString('tr-TR') + ' sonuç';
+  daha.hidden = true;
+  fazlaGoster();
+}
+
+function fazlaGoster() {
+  const parca = eslesen.slice(gosterilen, gosterilen + SAYFA);
+  parca.forEach(r => {
+    const li = document.createElement('li');
+
+    const a = document.createElement('a');
+    a.href = TABAN + r.f + (r.s ? '#' + encodeURIComponent(r.s) : '');
+    a.textContent = r.b;
+    a.target = '_blank';
+    a.rel = 'noopener';
+
+    const p = document.createElement('p');
+    p.textContent = r.d;
+
+    const k = document.createElement('span');
+    k.className = 'etiket';
+    k.textContent = KATEGORI[r.k] || r.k;
+    const t = document.createElement('span');
+    t.className = 'etiket';
+    t.textContent = ARAC[r.a] || r.a;
+
+    li.append(a, p, k, t);
+    liste.appendChild(li);
+  });
+  gosterilen += parca.length;
+  daha.hidden = gosterilen >= eslesen.length;
+}
+
+fetch('arama.json')
+  .then(r => r.json())
+  .then(j => {
+    veri = j.satirlar.map(([b, k, a, d, f, s]) => ({ b, k, a, d, f, s, ara: duzle(b + ' ' + d) }));
+    document.getElementById('toplam').textContent = veri.length.toLocaleString('tr-TR');
+    secenekDoldur(kategori, KATEGORI, new Set(veri.map(r => r.k)));
+    secenekDoldur(arac, ARAC, new Set(veri.map(r => r.a)));
+    ara();
+  })
+  .catch(() => { sayi.textContent = 'Dizin yüklenemedi, sayfayı yenileyin.'; });
+
+q.addEventListener('input', ara);
+kategori.addEventListener('change', ara);
+arac.addEventListener('change', ara);
+daha.addEventListener('click', fazlaGoster);
+</script>
+</body>
+</html>
