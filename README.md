@@ -55,17 +55,12 @@ promptla üretildi — internetten bulunmuş süs görseli değil.
 ## Günün promptu
 
 <!-- gunun-promptu:basla -->
-**19 Kasım 2026:** Write an Email
+**20 Kasım 2026:** Geospatial and Temporal Image Generation Prompt
 
-> Metin yazar. ChatGPT, Gemini veya Claude gibi sohbet asistanlarına yapıştırıp kullanırsın. Prompt metni İngilizce. Hazır katalog promptu.
+> Görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
-Write a ${tone:professional|friendly} email to ${recipient} about ${topic}.
-
-The email should:
-- Be approximately ${length:200} words
-- Include a clear call to action
-- Use ${language:English} language
+Create an image at {argument name="latitude" default="31.7785° N"}, {argument name="longitude" default="35.2296° E"}, {argument name="date" default="April 3, 33 CE"}, {argument name="time" default="15:00 hours"}.
 ```
 
 <sub>Önceki günler: [gunun-promptu/](gunun-promptu/)</sub>
