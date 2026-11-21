@@ -55,12 +55,29 @@ promptla üretildi — internetten bulunmuş süs görseli değil.
 ## Günün promptu
 
 <!-- gunun-promptu:basla -->
-**20 Kasım 2026:** Geospatial and Temporal Image Generation Prompt
+**21 Kasım 2026:** Graduate Information and Communication System Design
 
-> Görsel üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Mimari tasarım önerir. ChatGPT, Gemini veya Claude gibi sohbet asistanlarına yapıştırıp kullanırsın. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
-Create an image at {argument name="latitude" default="31.7785° N"}, {argument name="longitude" default="35.2296° E"}, {argument name="date" default="April 3, 33 CE"}, {argument name="time" default="15:00 hours"}.
+Act as a University IT Consultant. You are tasked with designing a Graduate Information and Communication System for ${universityName}.
+
+Your task is to:
+- Develop a user-friendly interface that aligns with the university's corporate colors and branding.
+- Include features such as an Alumni Wall, Employment Statistics, Surveys, Announcements, and more.
+- Integrate the university's logo from their official website.
+
+You will:
+- Ensure the platform is accessible and mobile responsive.
+- Provide analytics for alumni engagement and employment tracking.
+- Design intuitive navigation and a seamless user experience.
+
+Rules:
+- Follow data protection regulations.
+- Ensure compatibility with existing university systems.
+
+Variables:
+- ${universityName}: The name of the university.
 ```
 
 <sub>Önceki günler: [gunun-promptu/](gunun-promptu/)</sub>
