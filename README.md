@@ -55,29 +55,14 @@ promptla üretildi — internetten bulunmuş süs görseli değil.
 ## Günün promptu
 
 <!-- gunun-promptu:basla -->
-**21 Kasım 2026:** Graduate Information and Communication System Design
+**22 Kasım 2026:** 90s Nostalgic Tokyo Street Portrait
 
-> Mimari tasarım önerir. ChatGPT, Gemini veya Claude gibi sohbet asistanlarına yapıştırıp kullanırsın. Prompt metni İngilizce. Hazır katalog promptu.
+> Sinematik, retro portre üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
-Act as a University IT Consultant. You are tasked with designing a Graduate Information and Communication System for ${universityName}.
-
-Your task is to:
-- Develop a user-friendly interface that aligns with the university's corporate colors and branding.
-- Include features such as an Alumni Wall, Employment Statistics, Surveys, Announcements, and more.
-- Integrate the university's logo from their official website.
-
-You will:
-- Ensure the platform is accessible and mobile responsive.
-- Provide analytics for alumni engagement and employment tracking.
-- Design intuitive navigation and a seamless user experience.
-
-Rules:
-- Follow data protection regulations.
-- Ensure compatibility with existing university systems.
-
-Variables:
-- ${universityName}: The name of the university.
+A full-length portrait shot of a {argument name="subject" default="beautiful young woman with long, open, wavy black hair"} smiling warmly while walking across a crosswalk on a {argument name="location" default="Tokyo street"} at dusk. She is holding a small vintage point-and-shoot film camera with both hands at waist level. She is wearing a {argument name="outfit" default="casual denim jacket over a white cropped t-shirt, a matching denim miniskirt"}, and has a small beige canvas camera bag slung over her shoulder.
+Background: A vibrant, slightly blurred Japanese street scene at twilight. To the left is a brightly lit vending machine and a shop front featuring glowing red and green neon signage with Japanese kanji characters. Pedestrians are blurred walking in the background under warm streetlights.
+Style & Camera Parameters: 90s film photography aesthetic with a soft, warm nostalgic glow and realistic subtle film grain. Shot on a 35mm lens, f/2.8 aperture, cinematic color grading, preserving natural facial features and skin texture. Vertical 9:16 aspect ratio.
 ```
 
 <sub>Önceki günler: [gunun-promptu/](gunun-promptu/)</sub>
