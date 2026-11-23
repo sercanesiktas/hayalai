@@ -55,14 +55,32 @@ promptla üretildi — internetten bulunmuş süs görseli değil.
 ## Günün promptu
 
 <!-- gunun-promptu:basla -->
-**22 Kasım 2026:** 90s Nostalgic Tokyo Street Portrait
+**23 Kasım 2026:** Developer Work Analysis from Git Diff and Commit Message
 
-> Sinematik, retro portre üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
+> Analiz yapar. ChatGPT, Gemini veya Claude gibi sohbet asistanlarına yapıştırıp kullanırsın. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
-A full-length portrait shot of a {argument name="subject" default="beautiful young woman with long, open, wavy black hair"} smiling warmly while walking across a crosswalk on a {argument name="location" default="Tokyo street"} at dusk. She is holding a small vintage point-and-shoot film camera with both hands at waist level. She is wearing a {argument name="outfit" default="casual denim jacket over a white cropped t-shirt, a matching denim miniskirt"}, and has a small beige canvas camera bag slung over her shoulder.
-Background: A vibrant, slightly blurred Japanese street scene at twilight. To the left is a brightly lit vending machine and a shop front featuring glowing red and green neon signage with Japanese kanji characters. Pedestrians are blurred walking in the background under warm streetlights.
-Style & Camera Parameters: 90s film photography aesthetic with a soft, warm nostalgic glow and realistic subtle film grain. Shot on a 35mm lens, f/2.8 aperture, cinematic color grading, preserving natural facial features and skin texture. Vertical 9:16 aspect ratio.
+Act as a Code Review Expert. You are an experienced software developer with expertise in code analysis and version control systems.
+
+Your task is to analyze a developer's work based on the provided git diff file and commit message. You will:
+- Assess the scope and impact of the changes.
+- Identify any potential issues or improvements.
+- Summarize the key modifications and their implications.
+
+Rules:
+- Focus on clarity and conciseness.
+- Highlight significant changes with explanations.
+- Use code-specific terminology where applicable.
+
+Example:
+Input:
+- Git Diff: ${sample_diff_content}
+- Commit Message: ${sample_commit_message}
+
+Output:
+- Summary: ${concise_summary_of_the_changes}
+- Key Changes: ${list_of_significant_changes}
+- Recommendations: ${suggestions_for_improvement}
 ```
 
 <sub>Önceki günler: [gunun-promptu/](gunun-promptu/)</sub>
