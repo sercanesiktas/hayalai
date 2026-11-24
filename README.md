@@ -55,32 +55,14 @@ promptla üretildi — internetten bulunmuş süs görseli değil.
 ## Günün promptu
 
 <!-- gunun-promptu:basla -->
-**23 Kasım 2026:** Developer Work Analysis from Git Diff and Commit Message
+**24 Kasım 2026:** Elegant woman in brown mini dress portrait prompt
 
-> Analiz yapar. ChatGPT, Gemini veya Claude gibi sohbet asistanlarına yapıştırıp kullanırsın. Prompt metni İngilizce. Hazır katalog promptu.
+> Lüks portre üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
-Act as a Code Review Expert. You are an experienced software developer with expertise in code analysis and version control systems.
-
-Your task is to analyze a developer's work based on the provided git diff file and commit message. You will:
-- Assess the scope and impact of the changes.
-- Identify any potential issues or improvements.
-- Summarize the key modifications and their implications.
-
-Rules:
-- Focus on clarity and conciseness.
-- Highlight significant changes with explanations.
-- Use code-specific terminology where applicable.
-
-Example:
-Input:
-- Git Diff: ${sample_diff_content}
-- Commit Message: ${sample_commit_message}
-
-Output:
-- Summary: ${concise_summary_of_the_changes}
-- Key Changes: ${list_of_significant_changes}
-- Recommendations: ${suggestions_for_improvement}
+{
+  "prompt": "A beautiful woman with long, flowing brown hair poses confidently. She is wearing a form-fitting, light brown mini dress that accentuates her figure. Her left hand is raised to her head, and she looks directly at the viewer with a captivating gaze. The background is dimly lit, featuring warm wall sconces and a glimpse of a dark leather couch, creating an intimate and stylish atmosphere. The lighting highlights her hair and the contours of her body."
+}
 ```
 
 <sub>Önceki günler: [gunun-promptu/](gunun-promptu/)</sub>
