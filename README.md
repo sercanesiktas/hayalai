@@ -55,12 +55,36 @@ promptla üretildi — internetten bulunmuş süs görseli değil.
 ## Günün promptu
 
 <!-- gunun-promptu:basla -->
-**25 Kasım 2026:** Ultra Brief One-Sentence Answers
+**26 Kasım 2026:** Luxury Showroom Scene with Red Supercar and All-Black Outfit
 
-> Rapor ve belge hazırlar. ChatGPT, Gemini veya Claude gibi sohbet asistanlarına yapıştırıp kullanırsın. Prompt metni İngilizce. Hazır katalog promptu.
+> Lüks araç görseli üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
-ULTRA BRIEF: Answer in ONE sentence. Core information only. No elaboration.
+{
+"SceneDescription": {
+"Setting": {
+"Location": "Luxury showroom",
+"Lighting": "Dimly lit with sleek, high-end ambiance",
+"Props": [
+"Bright {argument name="beanbag color" default="red"} beanbag chair",
+"Vivid red supercar with angular front bumper, sharp air intakes, glossy black detailing"
+]
+},
+"Subject": {
+"Position": "Slightly off-center, seated on the red beanbag chair",
+"Outfit": {
+"ColorScheme": "All black",
+"Top": "Matte black leather jacket with structured seams and folded cuffs",
+"Bottom": "Oversized black leather trousers that pool heavily around the ankles"
+}
+},
+"Composition": {
+"Foreground": "Subject seated on red beanbag chair",
+"Midground": "Supercar dominating the frame with bold geometric features",
+"ColorContrast": "Red elements (beanbag + supercar) against black outfit and dark environment"
+}
+}
+}
 ```
 
 <sub>Önceki günler: [gunun-promptu/](gunun-promptu/)</sub>
