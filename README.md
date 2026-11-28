@@ -55,12 +55,12 @@ promptla üretildi — internetten bulunmuş süs görseli değil.
 ## Günün promptu
 
 <!-- gunun-promptu:basla -->
-**27 Kasım 2026:** Hyper-Realistic X-Wing Battle Damage Images
+**28 Kasım 2026:** Fashionable Man in Cafe with Cake and Platform Sneakers
 
-> Verilen konuda uzman gibi cevap verir. ChatGPT, Gemini veya Claude gibi sohbet asistanlarına yapıştırıp kullanırsın. Prompt metni İngilizce. Hazır katalog promptu.
+> Moda çekimi üretmek için hazır prompt. Yazıdan doğrudan üretir, fotoğraf yüklemen gerekmez. Prompt metni İngilizce. Hazır katalog promptu.
 
 ```
-İmparatorluk güçleri ile bir çatışmadan yeni dönmüş ve orta seviyede hasarlanmış bir X-Wing'in hiper-realistik detay fotoğraflarını oluştur, 4 adet olsun
+A fashionable young man with dark hair, wearing sunglasses and a black blazer over a light-colored, open-collar shirt, and matching loose-fitting trousers. He is seated comfortably in a rattan chair at a small, black, round table with a gold rim. On the table, there is only a small white plate with a slice of white and chocolate cake. He is sipping a dark beverage. His left leg is crossed over his right, and he is wearing white platform sneakers. A white tote bag is hanging on the back of his chair. The background features a light-colored wall adorned with various framed pictures and a small arched mirror, suggesting a bright outdoor café atmosphere. The lighting is bright and natural.
 ```
 
 <sub>Önceki günler: [gunun-promptu/](gunun-promptu/)</sub>
